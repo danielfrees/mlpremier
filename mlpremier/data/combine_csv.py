@@ -24,11 +24,11 @@ def combine_csv_position(position, window):
             columns=drop_columns)
         if len(dataset) >= window:
             temp_df = pd.DataFrame(columns=columns_csv)
-            for col in columns_csv[:-window]:
+            for col in columns_csv[:-3]:
                 rl_col = dataset[col].rolling(
                     window, min_periods=window).mean()
                 temp_df[col] = rl_col
-            for col in columns_csv[-window:]:
+            for col in columns_csv[-3:]:
                 tail_col = dataset[col].tail(-window)
                 temp_df[col] = tail_col
             temp_df = temp_df.dropna()
