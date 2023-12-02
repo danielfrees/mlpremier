@@ -11,7 +11,7 @@ columns_csv = ['xP', 'assists', 'bonus', 'bps', 'clean_sheets', 'creativity',
 
 
 def combine_csv_position(position, window):
-    """Combine the CSVs for a paticular position by averaging the last window games for metrics"""
+    """Combine the CSVs for a particular position by averaging the last window games for metrics"""
     player_path = os.path.join(position)
     frames = []
     for filename in os.listdir(player_path):
