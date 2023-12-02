@@ -39,13 +39,14 @@ def combine_csv_position(position, window):
 
 
 def main():
+    save_dir = "windowed_data"
     windows = [3, 6, 9]
     for w in windows:
         pos = [f for f in os.listdir() if os.path.isdir(f)]
         for p in pos:
             if p != "raw":
                 df = combine_csv_position(p, w)
-                df.to_csv("{}_{}.csv".format(p, w))
+                df.to_csv(os.path.join(save_dir,"{}_{}.csv".format(p, w)))
 
 
 if __name__ == '__main__':
