@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Calum Chambers,DEF,Arsenal,Brighton,80,0,0,2,0,14,0,0,0,0,0,0,4.2,13.2,16.8,12.0,False,1
+Calum Chambers,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Man City,90,0,0,5,0,13,0,0,0,0,0,0,3.3,32.2,0.4,0.0,False,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,0.0,4.0,True,1
+Calum Chambers,DEF,Arsenal,Newcastle,90,0,0,1,0,11,0,0,0,0,0,0,1.9,18.0,1.0,0.0,False,2
+Calum Chambers,DEF,Arsenal,West Brom,90,0,0,1,0,14,0,0,0,0,0,0,2.7,23.0,1.7,2.0,True,2
+Calum Chambers,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Southampton,90,0,0,0,1,23,0,0,0,0,0,0,2.2,18.8,3.5,0.0,True,6
+Calum Chambers,DEF,Arsenal,Leeds,90,1,0,0,1,36,0,0,0,0,0,0,6.4,45.0,0.0,19.0,False,14
+Calum Chambers,DEF,Arsenal,West Ham,90,0,0,2,0,12,0,0,0,0,0,0,3.0,9.8,0.2,20.0,False,1
+Calum Chambers,DEF,Arsenal,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,90,0,0,0,1,23,1,0,0,0,0,0,1.7,16.8,0.0,0.0,True,5
+Calum Chambers,DEF,Arsenal,Chelsea,68,0,0,0,1,17,0,0,0,0,0,0,0.9,7.8,1.6,0.0,False,6
+Calum Chambers,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Calum Chambers,DEF,Arsenal,Everton,40,0,0,1,0,4,0,0,0,0,0,0,0.6,5.8,0.3,0.0,True,1
+Calum Chambers,DEF,Arsenal,Chelsea,90,0,0,1,0,15,0,0,0,0,0,0,5.2,20.6,27.3,4.0,True,2
+Calum Chambers,DEF,Arsenal,Man City,90,0,0,3,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1

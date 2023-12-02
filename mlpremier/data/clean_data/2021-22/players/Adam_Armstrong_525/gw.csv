@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Adam Armstrong,FWD,Southampton,Fulham,90,1,0,3,0,24,0,0,0,0,0,0,7.4,33.2,1.0,40.0,False,6
+Adam Armstrong,FWD,Southampton,Man Utd,90,0,0,1,0,0,0,0,0,0,0,0,4.3,5.4,11.5,26.0,True,2
+Adam Armstrong,FWD,Southampton,Newcastle,90,0,1,2,0,14,0,0,0,0,0,0,7.7,2.2,25.0,50.0,False,5
+Adam Armstrong,FWD,Southampton,West Ham,73,0,0,0,1,6,0,0,0,0,0,0,3.5,2.6,11.3,21.0,True,2
+Adam Armstrong,FWD,Southampton,Man City,90,0,0,0,1,6,0,0,0,0,0,0,8.8,15.6,0.9,71.0,False,2
+Adam Armstrong,FWD,Southampton,Wolves,90,0,0,1,0,5,0,0,0,0,0,0,5.9,6.2,32.9,20.0,True,2
+Adam Armstrong,FWD,Southampton,Crystal Palace,90,0,0,3,0,6,0,0,0,0,0,0,2.5,5.4,0.9,19.0,False,2
+Adam Armstrong,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.5,0.0,True,1
+Adam Armstrong,FWD,Southampton,West Brom,90,0,1,0,1,10,0,0,0,0,0,0,7.5,10.2,21.5,43.0,False,5
+Adam Armstrong,FWD,Southampton,Aston Villa,80,1,0,0,1,31,0,0,0,0,0,0,6.2,39.8,1.2,21.0,True,9
+Adam Armstrong,FWD,Southampton,Sheffield Utd,90,0,1,2,0,15,0,0,0,0,0,0,11.6,26.4,22.9,67.0,False,5
+Adam Armstrong,FWD,Southampton,Liverpool,90,0,0,4,0,-1,0,0,0,0,0,0,10.2,10.4,1.2,90.0,False,2
+Adam Armstrong,FWD,Southampton,Leicester,73,0,0,2,0,10,0,0,0,0,0,0,5.5,12.6,31.5,11.0,True,2
+Adam Armstrong,FWD,Southampton,Burnley,9,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Adam Armstrong,FWD,Southampton,Arsenal,42,0,0,2,0,3,0,0,0,0,0,0,3.1,2.0,0.3,29.0,False,1
+Adam Armstrong,FWD,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Spurs,82,0,0,1,0,-1,1,0,0,0,0,0,0.5,0.0,1.8,8.0,True,1
+Adam Armstrong,FWD,Southampton,Brighton,12,0,0,0,0,4,0,0,0,0,0,0,2.5,6.4,1.1,17.0,True,1
+Adam Armstrong,FWD,Southampton,Wolves,12,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.8,0.0,False,1
+Adam Armstrong,FWD,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Adam Armstrong,FWD,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Newcastle,17,0,0,0,0,0,0,0,0,0,0,0,0.6,0.0,1.8,6.0,True,1
+Adam Armstrong,FWD,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Crystal Palace,45,0,0,4,0,1,0,0,0,0,0,0,1.5,0.6,4.4,10.0,True,1
+Adam Armstrong,FWD,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Armstrong,FWD,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Brighton,90,0,0,3,0,3,0,0,0,0,0,0,1.8,0.0,1.4,18.0,False,2
+Adam Armstrong,FWD,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Armstrong,FWD,Southampton,Leicester,62,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2

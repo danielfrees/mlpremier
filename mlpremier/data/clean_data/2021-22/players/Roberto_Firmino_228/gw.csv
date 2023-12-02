@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Roberto Firmino,FWD,Liverpool,Sheffield Utd,29,1,0,0,0,30,0,0,0,0,0,0,7.3,37.6,14.2,21.0,False,7
+Roberto Firmino,FWD,Liverpool,Chelsea,9,0,0,0,0,3,0,0,0,0,0,0,2.5,5.2,10.7,9.0,True,1
+Roberto Firmino,FWD,Liverpool,Crystal Palace,42,0,0,1,0,5,0,0,0,0,0,0,0.7,4.6,2.6,0.0,True,1
+Roberto Firmino,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Brighton,22,0,0,1,0,1,0,0,0,0,0,0,1.5,0.6,4.1,10.0,False,1
+Roberto Firmino,FWD,Liverpool,Man City,22,0,0,2,0,3,0,0,0,0,0,0,0.4,2.0,0.3,2.0,True,1
+Roberto Firmino,FWD,Liverpool,West Brom,90,3,1,0,1,99,0,0,0,0,0,0,27.7,125.4,40.6,111.0,False,20
+Roberto Firmino,FWD,Liverpool,Man Utd,76,0,0,0,1,11,0,0,0,0,0,0,5.4,7.2,14.4,32.0,False,2
+Roberto Firmino,FWD,Liverpool,Burnley,77,0,0,2,0,3,0,0,0,0,0,0,6.1,4.2,23.3,33.0,True,2
+Roberto Firmino,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Newcastle,16,0,1,0,0,11,0,0,0,0,0,0,3.6,17.6,12.6,6.0,True,4
+Roberto Firmino,FWD,Liverpool,Spurs,30,0,0,1,0,2,0,0,0,0,0,0,0.2,0.6,0.9,0.0,False,1
+Roberto Firmino,FWD,Liverpool,Leicester,20,0,0,0,0,3,0,0,0,0,0,0,1.4,2.4,12.0,0.0,False,1
+Roberto Firmino,FWD,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Brighton,77,0,1,0,1,21,0,0,0,0,0,0,7.7,22.4,28.8,26.0,True,5
+Roberto Firmino,FWD,Liverpool,Everton,89,0,0,1,0,4,1,0,0,0,0,0,1.8,4.0,5.5,8.0,False,1
+Roberto Firmino,FWD,Liverpool,Leicester,59,0,0,0,0,-1,1,0,0,0,0,0,7.2,8.0,2.1,62.0,True,0
+Roberto Firmino,FWD,Liverpool,Chelsea,90,0,0,0,1,8,0,0,0,0,0,0,1.9,7.6,5.3,6.0,False,2
+Roberto Firmino,FWD,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Arsenal,34,1,0,0,0,22,1,0,0,0,0,0,7.0,34.0,1.4,35.0,False,4
+Roberto Firmino,FWD,Liverpool,West Brom,90,0,0,0,1,15,0,0,0,0,0,0,6.3,11.6,5.5,46.0,True,2
+Roberto Firmino,FWD,Liverpool,Man City,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Roberto Firmino,FWD,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Roberto Firmino,FWD,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Roberto Firmino,FWD,Liverpool,Southampton,82,0,0,1,0,11,0,0,0,0,0,0,12.3,17.6,41.8,64.0,False,2
+Roberto Firmino,FWD,Liverpool,Wolves,20,0,1,0,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,4

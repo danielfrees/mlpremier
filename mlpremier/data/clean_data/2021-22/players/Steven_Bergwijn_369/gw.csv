@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Steven Bergwijn,MID,Spurs,Man City,76,0,1,0,1,13,0,0,0,0,0,0,6.8,22.8,21.9,23.0,True,6
+Steven Bergwijn,MID,Spurs,Wolves,90,0,0,0,1,5,0,0,0,0,0,0,6.9,12.0,23.2,34.0,False,3
+Steven Bergwijn,MID,Spurs,West Brom,67,0,1,0,1,18,0,0,0,0,0,0,4.8,3.8,4.1,40.0,True,6
+Steven Bergwijn,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Steven Bergwijn,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Steven Bergwijn,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Steven Bergwijn,MID,Spurs,Man Utd,36,0,0,2,0,2,0,0,0,0,0,0,0.2,0.0,2.1,0.0,True,1
+Steven Bergwijn,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Steven Bergwijn,MID,Spurs,Brighton,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1
+Steven Bergwijn,MID,Spurs,Sheffield Utd,10,0,0,0,0,2,0,0,0,0,0,0,0.2,1.4,0.3,0.0,True,1
+Steven Bergwijn,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Steven Bergwijn,MID,Spurs,Everton,26,0,0,0,0,2,0,0,0,0,0,0,4.8,5.0,15.6,27.0,True,1
+Steven Bergwijn,MID,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Leicester,11,2,0,0,0,38,1,0,0,0,0,0,12.4,67.6,14.1,42.0,False,13
+Steven Bergwijn,MID,Spurs,Crystal Palace,90,0,0,2,0,4,0,0,0,0,0,0,2.7,5.0,2.3,20.0,False,2
+Steven Bergwijn,MID,Spurs,Southampton,7,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1
+Steven Bergwijn,MID,Spurs,Wolves,19,0,0,0,0,4,0,0,0,0,0,0,0.8,1.2,0.7,6.0,True,1
+Steven Bergwijn,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Chelsea,11,0,0,0,0,2,0,0,0,0,0,0,2.2,2.2,0.3,19.0,False,1
+Steven Bergwijn,MID,Spurs,Leeds,12,0,0,0,0,2,0,0,0,0,0,0,0.3,1.8,1.1,0.0,False,1
+Steven Bergwijn,MID,Spurs,Fulham,23,0,0,0,0,0,0,0,0,0,0,0,2.9,4.0,1.5,23.0,True,1
+Steven Bergwijn,MID,Spurs,Man Utd,3,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1
+Steven Bergwijn,MID,Spurs,Burnley,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Steven Bergwijn,MID,Spurs,West Ham,1,0,0,0,0,4,0,0,0,0,0,0,1.4,2.0,10.3,2.0,True,1
+Steven Bergwijn,MID,Spurs,Newcastle,9,1,0,0,0,21,0,0,0,0,0,0,5.4,33.0,0.0,21.0,True,6
+Steven Bergwijn,MID,Spurs,Aston Villa,6,0,0,0,0,3,0,0,0,0,0,0,0.4,0.4,1.7,2.0,False,1
+Steven Bergwijn,MID,Spurs,Burnley,2,0,0,1,0,-1,0,0,0,0,0,0,0.2,0.0,0.3,4.0,True,1
+Steven Bergwijn,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Steven Bergwijn,MID,Spurs,Leicester,8,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.3,2.0,True,1
+Steven Bergwijn,MID,Spurs,Liverpool,1,0,0,0,0,4,0,0,0,0,0,0,0.3,1.0,0.3,2.0,False,1
+Steven Bergwijn,MID,Spurs,Arsenal,18,0,0,0,0,1,0,0,0,0,0,0,0.7,0.2,0.5,6.0,True,1
+Steven Bergwijn,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Steven Bergwijn,MID,Spurs,Sheffield Utd,17,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1

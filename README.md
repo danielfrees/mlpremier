@@ -1,2 +1,4 @@
 # mlpremier
-CS 229 and Stats 209 Project: Modeling Fantasy Premier League Point Performance for Players using traditional ML methods, customized LSTM, and more. Causal Interpretation of Model Predictions.
+CS 229 Final Project: Modeling Player Performance in the EPL via time-series 
+prediction of Fantasy Premier League Points using traditional ML methods, GPT
+transfer learning, and 1D CNN.

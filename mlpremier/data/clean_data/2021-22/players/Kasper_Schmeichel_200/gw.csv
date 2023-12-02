@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Kasper Schmeichel,GK,Leicester,Wolves,90,0,0,0,1,31,0,0,0,3,0,0,2.6,26.0,0.0,0.0,True,9
+Kasper Schmeichel,GK,Leicester,West Ham,90,0,0,4,0,15,0,0,0,3,0,0,2.0,20.0,0.0,0.0,False,1
+Kasper Schmeichel,GK,Leicester,Sheffield Utd,90,0,0,1,0,14,0,0,0,3,0,0,2.0,19.6,0.0,0.0,False,3
+Kasper Schmeichel,GK,Leicester,Man City,90,0,0,1,0,24,0,0,0,7,0,0,5.8,58.0,0.0,0.0,True,4
+Kasper Schmeichel,GK,Leicester,Burnley,90,0,0,2,0,13,0,0,0,3,0,0,2.3,22.6,0.0,0.0,False,2
+Kasper Schmeichel,GK,Leicester,Chelsea,90,0,0,2,0,14,0,0,0,2,0,0,1.7,16.8,0.0,0.0,True,1
+Kasper Schmeichel,GK,Leicester,Everton,90,0,0,2,0,12,0,0,0,2,0,0,2.0,19.8,0.0,0.0,False,1
+Kasper Schmeichel,GK,Leicester,Man Utd,90,0,0,2,0,20,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,2
+Kasper Schmeichel,GK,Leicester,Brighton,90,0,0,1,0,17,0,0,0,4,0,0,3.2,32.0,0.0,0.0,False,3
+Kasper Schmeichel,GK,Leicester,Arsenal,90,0,0,2,0,21,0,0,0,4,0,0,2.6,26.2,0.0,0.0,True,2
+Kasper Schmeichel,GK,Leicester,Leeds,90,0,0,1,0,19,0,0,0,4,0,0,3.1,30.6,0.0,0.0,False,3
+Kasper Schmeichel,GK,Leicester,Crystal Palace,90,0,0,3,0,15,1,0,0,4,0,0,3.2,32.2,0.0,0.0,True,1
+Kasper Schmeichel,GK,Leicester,West Brom,90,0,0,2,0,15,0,0,0,3,0,0,2.4,24.0,0.0,0.0,True,2
+Kasper Schmeichel,GK,Leicester,Southampton,90,0,0,2,0,19,0,0,0,5,0,0,3.9,38.6,0.0,0.0,False,2
+Kasper Schmeichel,GK,Leicester,Aston Villa,90,0,0,2,0,13,0,0,0,2,0,0,1.8,18.2,0.1,0.0,False,1
+Kasper Schmeichel,GK,Leicester,Newcastle,90,0,0,0,1,26,0,0,0,3,0,0,2.1,21.2,0.0,0.0,True,7
+Kasper Schmeichel,GK,Leicester,Man City,90,0,0,6,0,8,0,0,0,2,0,0,1.1,11.0,0.0,0.0,False,-1
+Kasper Schmeichel,GK,Leicester,Liverpool,90,0,0,0,1,44,0,0,0,4,0,1,5.2,51.8,0.0,0.0,True,15
+Kasper Schmeichel,GK,Leicester,Spurs,90,0,0,3,0,18,0,0,0,5,0,0,2.9,29.4,0.0,0.0,True,2
+Kasper Schmeichel,GK,Leicester,Burnley,90,0,0,1,0,15,0,0,0,3,0,0,2.8,27.8,0.0,0.0,True,3
+Kasper Schmeichel,GK,Leicester,Liverpool,90,0,0,2,0,27,0,0,0,9,0,0,6.9,69.0,0.0,0.0,False,4
+Kasper Schmeichel,GK,Leicester,West Ham,90,0,0,2,0,9,0,0,0,1,0,0,1.3,11.6,1.0,0.0,True,1
+Kasper Schmeichel,GK,Leicester,Wolves,90,0,0,2,0,9,0,0,0,1,0,0,1.2,11.6,0.1,0.0,False,1
+Kasper Schmeichel,GK,Leicester,Chelsea,90,0,0,0,1,23,0,0,0,2,0,0,1.9,19.0,0.0,0.0,False,6
+Kasper Schmeichel,GK,Leicester,Leeds,90,0,0,0,1,33,0,0,0,4,0,0,4.9,39.2,10.0,0.0,True,10
+Kasper Schmeichel,GK,Leicester,Arsenal,90,0,0,2,0,18,0,0,0,5,0,0,4.0,40.2,0.0,0.0,False,2
+Kasper Schmeichel,GK,Leicester,Brighton,90,0,0,1,0,20,0,0,0,5,0,0,4.1,40.6,0.0,0.0,True,3
+Kasper Schmeichel,GK,Leicester,Man Utd,90,0,0,1,0,17,0,0,0,4,0,0,3.5,34.8,0.0,0.0,False,3
+Kasper Schmeichel,GK,Leicester,Everton,90,0,0,1,0,27,0,0,0,2,0,1,3.9,39.0,0.0,0.0,True,9
+Kasper Schmeichel,GK,Leicester,Newcastle,90,0,0,2,0,20,0,0,0,5,0,0,3.8,37.8,0.0,0.0,False,3
+Kasper Schmeichel,GK,Leicester,Fulham,90,0,0,1,0,13,0,0,0,2,0,0,1.7,16.6,0.0,0.0,False,2
+Kasper Schmeichel,GK,Leicester,Aston Villa,90,0,0,0,1,25,0,0,0,3,0,0,1.9,18.6,0.0,0.0,True,8
+Kasper Schmeichel,GK,Leicester,Spurs,90,0,0,3,0,17,0,0,0,4,0,0,3.4,34.2,0.0,0.0,False,2
+Kasper Schmeichel,GK,Leicester,Fulham,90,0,0,2,0,12,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,1
+Kasper Schmeichel,GK,Leicester,Sheffield Utd,90,0,0,0,1,29,0,0,0,5,0,0,4.0,40.4,0.0,0.0,True,7
+Kasper Schmeichel,GK,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kasper Schmeichel,GK,Leicester,Crystal Palace,90,0,0,1,0,23,0,0,0,6,0,0,4.0,40.0,0.0,0.0,False,4
+Kasper Schmeichel,GK,Leicester,Southampton,90,0,0,1,0,11,0,0,0,1,0,0,0.0,0.0,0.0,0.0,True,2
