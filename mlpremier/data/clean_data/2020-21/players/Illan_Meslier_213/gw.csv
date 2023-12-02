@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Illan Meslier,GK,Leeds,Liverpool,90,0,0,4,0,20,0,0,0,3,0,0,1.8,17.8,0.0,0.0,False,1
+Illan Meslier,GK,Leeds,Fulham,90,0,0,3,0,19,0,0,0,3,0,0,3.2,22.2,10.0,0.0,True,2
+Illan Meslier,GK,Leeds,Sheffield Utd,90,0,0,0,1,36,0,0,0,4,0,0,3.2,31.6,0.0,0.0,False,10
+Illan Meslier,GK,Leeds,Man City,90,0,0,1,0,11,0,0,0,1,0,0,0.3,3.0,0.0,0.0,True,2
+Illan Meslier,GK,Leeds,Wolves,90,0,0,1,0,12,0,0,0,2,0,0,1.6,16.4,0.0,0.0,True,2
+Illan Meslier,GK,Leeds,Aston Villa,90,0,0,0,1,27,0,0,0,3,0,0,2.4,23.6,0.0,0.0,False,7
+Illan Meslier,GK,Leeds,Leicester,90,0,0,4,0,16,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,1
+Illan Meslier,GK,Leeds,Crystal Palace,90,0,0,4,0,12,0,0,0,3,0,0,1.9,18.8,0.0,0.0,False,1
+Illan Meslier,GK,Leeds,Arsenal,90,0,0,0,1,23,0,0,0,2,0,0,2.0,20.2,0.0,0.0,True,6
+Illan Meslier,GK,Leeds,Everton,90,0,0,0,1,38,0,0,0,8,0,0,5.2,51.6,0.0,0.0,False,11
+Illan Meslier,GK,Leeds,Chelsea,90,0,0,3,0,21,0,0,0,7,0,0,5.4,54.2,0.0,0.0,False,3
+Illan Meslier,GK,Leeds,West Ham,90,0,0,2,0,25,0,0,0,6,0,0,4.9,49.0,0.0,0.0,True,3
+Illan Meslier,GK,Leeds,Newcastle,90,0,0,2,0,12,0,0,0,2,0,0,2.1,20.6,0.0,0.0,True,1
+Illan Meslier,GK,Leeds,Man Utd,90,0,0,6,0,23,0,0,0,8,0,0,6.0,60.2,0.0,0.0,False,1
+Illan Meslier,GK,Leeds,Burnley,90,0,0,0,1,38,0,0,0,6,0,0,4.5,45.0,0.0,0.0,True,11
+Illan Meslier,GK,Leeds,West Brom,90,0,0,0,1,25,0,0,0,1,0,0,1.0,9.8,0.0,0.0,False,6
+Illan Meslier,GK,Leeds,Spurs,90,0,0,3,0,21,0,0,0,4,0,0,3.8,37.6,0.0,0.0,False,2
+Illan Meslier,GK,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Illan Meslier,GK,Leeds,Newcastle,90,0,0,1,0,17,0,0,0,4,0,0,2.4,23.8,0.0,0.0,False,3
+Illan Meslier,GK,Leeds,Leicester,90,0,0,1,0,24,0,0,0,7,0,0,3.9,39.0,0.0,0.0,False,4
+Illan Meslier,GK,Leeds,Everton,90,0,0,2,0,16,0,0,0,4,0,0,3.2,31.8,0.0,0.0,True,2
+Illan Meslier,GK,Leeds,Crystal Palace,90,0,0,0,1,34,0,0,0,3,0,0,2.3,23.4,0.0,0.0,True,10
+Illan Meslier,GK,Leeds,Arsenal,90,0,0,4,0,6,0,0,0,1,0,0,0.0,0.0,0.0,0.0,False,0
+Illan Meslier,GK,Leeds,Wolves,90,0,0,1,0,13,0,0,1,5,0,0,2.6,26.2,0.0,0.0,False,1
+Illan Meslier,GK,Leeds,Southampton,90,0,0,0,1,34,0,0,0,5,0,0,4.2,42.0,0.0,0.0,True,9
+Illan Meslier,GK,Leeds,Aston Villa,90,0,0,1,0,13,0,0,0,3,0,0,2.0,19.6,0.0,0.0,True,3
+Illan Meslier,GK,Leeds,West Ham,90,0,0,2,0,36,0,0,0,3,0,1,4.1,41.0,0.0,0.0,False,9
+Illan Meslier,GK,Leeds,Chelsea,90,0,0,0,1,39,0,0,0,8,0,0,6.0,60.4,0.0,0.0,True,11
+Illan Meslier,GK,Leeds,Fulham,90,0,0,1,0,21,0,0,0,5,0,0,3.3,33.2,0.0,0.0,False,3
+Illan Meslier,GK,Leeds,Sheffield Utd,90,0,0,1,0,8,0,0,0,0,0,0,0.4,3.6,0.0,0.0,True,2
+Illan Meslier,GK,Leeds,Man City,90,0,0,1,0,23,0,0,0,6,0,0,3.7,37.0,0.0,0.0,False,4
+Illan Meslier,GK,Leeds,Liverpool,90,0,0,1,0,24,0,0,0,6,0,0,4.2,42.4,0.0,0.0,True,5
+Illan Meslier,GK,Leeds,Man Utd,90,0,0,0,1,28,0,0,0,4,0,0,2.2,22.4,0.0,0.0,True,7
+Illan Meslier,GK,Leeds,Brighton,90,0,0,2,0,16,0,0,0,3,0,0,2.3,23.0,0.0,0.0,False,2
+Illan Meslier,GK,Leeds,Spurs,90,0,0,1,0,12,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,2
+Illan Meslier,GK,Leeds,Burnley,90,0,0,0,1,31,0,0,0,4,0,0,3.0,29.6,0.0,0.0,False,7
+Illan Meslier,GK,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Illan Meslier,GK,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

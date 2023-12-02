@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Olivier Giroud,FWD,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,West Brom,17,0,0,0,0,3,0,0,0,0,0,0,0.8,0.0,1.8,6.0,False,1
+Olivier Giroud,FWD,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Burnley,13,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,1.8,0.0,False,1
+Olivier Giroud,FWD,Chelsea,Sheffield Utd,3,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,True,1
+Olivier Giroud,FWD,Chelsea,Newcastle,3,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,1
+Olivier Giroud,FWD,Chelsea,Spurs,11,0,0,0,0,2,0,0,0,0,0,0,1.9,2.0,0.1,17.0,True,1
+Olivier Giroud,FWD,Chelsea,Leeds,78,1,0,1,0,23,0,0,0,0,0,0,13.9,33.8,37.9,67.0,True,6
+Olivier Giroud,FWD,Chelsea,Everton,90,0,0,1,0,5,0,0,0,0,0,0,3.4,4.0,8.4,22.0,False,2
+Olivier Giroud,FWD,Chelsea,Wolves,70,1,0,1,0,22,0,0,0,0,0,0,7.9,29.4,11.3,38.0,False,6
+Olivier Giroud,FWD,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Aston Villa,71,1,0,1,0,28,1,0,0,0,0,0,7.7,38.2,2.1,37.0,True,8
+Olivier Giroud,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Fulham,74,0,0,0,1,5,0,0,0,0,0,0,9.6,6.0,23.6,66.0,False,2
+Olivier Giroud,FWD,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Wolves,76,0,0,0,1,5,0,0,0,0,0,0,7.7,7.2,11.3,58.0,True,2
+Olivier Giroud,FWD,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Sheffield Utd,61,0,0,1,0,5,0,0,0,0,0,0,0.7,1.8,3.0,2.0,False,2
+Olivier Giroud,FWD,Chelsea,Newcastle,70,1,0,0,1,32,0,0,0,0,0,0,7.4,33.0,5.8,35.0,True,9
+Olivier Giroud,FWD,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Man Utd,64,0,0,0,1,0,0,0,0,0,0,0,1.3,0.0,3.2,12.0,True,2
+Olivier Giroud,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Brighton,13,0,0,0,0,2,0,0,0,0,0,0,2.4,3.0,0.3,21.0,True,1
+Olivier Giroud,FWD,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Olivier Giroud,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Olivier Giroud,FWD,Chelsea,Arsenal,25,0,0,0,0,-2,0,0,0,0,0,0,2.0,0.0,1.0,22.0,True,1
+Olivier Giroud,FWD,Chelsea,Leicester,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1
+Olivier Giroud,FWD,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

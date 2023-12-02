@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+John McGinn,MID,Aston Villa,Sheffield Utd,90,0,0,0,1,6,1,0,0,0,0,0,6.0,4.8,36.4,19.0,True,2
+John McGinn,MID,Aston Villa,Fulham,90,0,2,0,1,35,1,0,0,0,0,0,13.1,45.0,55.4,31.0,False,10
+John McGinn,MID,Aston Villa,Liverpool,90,1,1,2,0,46,0,0,0,0,0,0,9.3,67.2,14.3,11.0,True,10
+John McGinn,MID,Aston Villa,Leicester,90,0,1,0,1,14,1,0,0,0,0,0,6.1,21.4,36.6,3.0,False,5
+John McGinn,MID,Aston Villa,Leeds,90,0,0,3,0,6,0,0,0,0,0,0,1.1,2.2,0.9,8.0,True,2
+John McGinn,MID,Aston Villa,Southampton,90,0,0,4,0,5,0,0,0,0,0,0,2.4,7.4,12.7,4.0,True,2
+John McGinn,MID,Aston Villa,Arsenal,90,0,0,0,1,17,0,0,0,0,0,0,5.5,12.4,36.5,6.0,False,3
+John McGinn,MID,Aston Villa,Brighton,90,0,0,2,0,14,0,0,0,0,0,0,2.8,7.8,17.4,3.0,True,2
+John McGinn,MID,Aston Villa,West Ham,90,0,0,2,0,9,0,0,0,0,0,0,3.3,8.4,6.6,18.0,False,2
+John McGinn,MID,Aston Villa,Wolves,90,0,1,0,1,13,1,0,0,0,0,0,2.9,2.8,14.3,12.0,False,5
+John McGinn,MID,Aston Villa,Burnley,90,0,0,0,1,11,0,0,0,0,0,0,2.6,10.6,13.7,2.0,True,3
+John McGinn,MID,Aston Villa,West Brom,90,0,0,0,1,11,0,0,0,0,0,0,2.8,8.0,4.1,16.0,False,3
+John McGinn,MID,Aston Villa,Crystal Palace,90,0,0,0,1,5,0,0,0,0,0,0,1.2,9.6,2.2,0.0,True,3
+John McGinn,MID,Aston Villa,Chelsea,90,0,0,1,0,12,0,0,0,0,0,0,4.3,20.2,21.6,1.0,False,2
+John McGinn,MID,Aston Villa,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,3.6,13.0,6.3,17.0,False,2
+John McGinn,MID,Aston Villa,Man City,90,0,0,2,0,4,1,0,0,0,0,0,0.8,1.8,0.3,6.0,False,1
+John McGinn,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+John McGinn,MID,Aston Villa,Burnley,90,0,0,3,0,15,0,0,0,0,0,0,5.0,15.0,26.0,9.0,False,2
+John McGinn,MID,Aston Villa,Southampton,90,0,0,0,1,9,0,0,0,0,0,0,2.7,23.2,3.4,0.0,False,3
+John McGinn,MID,Aston Villa,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,1.7,7.2,5.7,4.0,True,2
+John McGinn,MID,Aston Villa,Arsenal,90,0,0,0,1,13,0,0,0,0,0,0,2.8,17.2,2.1,9.0,True,3
+John McGinn,MID,Aston Villa,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,3.4,20.4,13.7,0.0,False,3
+John McGinn,MID,Aston Villa,Leicester,90,0,1,2,0,14,0,0,0,0,0,0,3.2,4.2,7.5,20.0,True,5
+John McGinn,MID,Aston Villa,Leeds,90,0,0,0,1,10,0,0,0,0,0,0,1.0,7.4,0.8,2.0,False,3
+John McGinn,MID,Aston Villa,Sheffield Utd,90,0,0,1,0,15,0,0,0,0,0,0,7.6,16.2,18.7,41.0,False,2
+John McGinn,MID,Aston Villa,Wolves,90,0,0,0,1,16,0,0,0,0,0,0,3.9,14.0,23.1,2.0,True,3
+John McGinn,MID,Aston Villa,Newcastle,90,0,0,1,0,7,1,0,0,0,0,0,3.7,11.8,13.6,12.0,False,1
+John McGinn,MID,Aston Villa,Spurs,90,0,0,2,0,3,1,0,0,0,0,0,4.5,12.4,25.6,7.0,True,1
+John McGinn,MID,Aston Villa,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,4.7,9.8,13.9,23.0,True,2
+John McGinn,MID,Aston Villa,Liverpool,90,0,1,2,0,18,0,0,0,0,0,0,4.9,27.0,21.6,0.0,False,5
+John McGinn,MID,Aston Villa,Man City,90,1,0,2,0,27,0,0,0,0,0,0,7.2,39.8,15.0,17.0,True,7
+John McGinn,MID,Aston Villa,West Brom,90,0,0,2,0,14,0,0,0,0,0,0,6.1,16.6,34.0,10.0,True,2
+John McGinn,MID,Aston Villa,Everton,90,0,0,1,0,13,0,0,0,0,0,0,4.3,11.8,22.4,9.0,False,2
+John McGinn,MID,Aston Villa,Man Utd,90,0,0,3,0,8,1,0,0,0,0,0,3.0,7.0,23.0,0.0,True,1
+John McGinn,MID,Aston Villa,Everton,90,0,0,0,1,11,1,0,0,0,0,0,4.4,10.2,15.4,18.0,True,2
+John McGinn,MID,Aston Villa,Crystal Palace,90,1,0,3,0,19,1,0,0,0,0,0,7.0,50.0,2.3,18.0,False,6
+John McGinn,MID,Aston Villa,Spurs,90,0,0,1,0,8,1,0,0,0,0,0,3.4,8.8,22.8,2.0,False,1
+John McGinn,MID,Aston Villa,Chelsea,90,0,0,1,0,6,1,0,0,0,0,0,1.8,6.4,10.6,1.0,True,1

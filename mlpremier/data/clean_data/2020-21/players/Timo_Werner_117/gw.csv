@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Timo Werner,FWD,Chelsea,Brighton,90,0,1,1,0,10,0,0,0,0,0,0,9.6,4.8,11.7,79.0,False,5
+Timo Werner,FWD,Chelsea,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,3.5,12.0,12.4,11.0,True,2
+Timo Werner,FWD,Chelsea,West Brom,90,0,0,3,0,5,0,0,0,0,0,0,7.8,8.4,11.3,58.0,False,2
+Timo Werner,FWD,Chelsea,Crystal Palace,90,0,0,0,1,11,0,0,0,0,0,0,3.5,9.6,6.2,19.0,True,2
+Timo Werner,FWD,Chelsea,Southampton,89,2,1,2,0,63,0,0,0,0,0,0,16.0,81.0,15.4,64.0,True,16
+Timo Werner,FWD,Chelsea,Man Utd,70,0,0,0,1,5,0,0,0,0,0,0,2.5,1.6,3.3,20.0,False,2
+Timo Werner,FWD,Chelsea,Burnley,90,1,0,0,1,34,0,0,0,0,0,0,11.4,42.2,25.8,46.0,False,7
+Timo Werner,FWD,Chelsea,Sheffield Utd,86,1,0,1,0,31,0,0,0,0,0,0,7.4,32.6,11.2,30.0,True,7
+Timo Werner,FWD,Chelsea,Newcastle,75,0,1,0,1,16,0,0,0,0,0,0,6.4,20.0,17.1,27.0,False,5
+Timo Werner,FWD,Chelsea,Spurs,73,0,0,0,1,4,0,0,0,0,0,0,4.2,3.0,16.6,22.0,True,2
+Timo Werner,FWD,Chelsea,Leeds,90,0,1,1,0,9,0,0,0,0,0,0,19.0,42.8,33.2,114.0,True,5
+Timo Werner,FWD,Chelsea,Everton,90,0,0,1,0,8,0,0,0,0,0,0,3.2,6.8,17.1,8.0,False,2
+Timo Werner,FWD,Chelsea,Wolves,90,0,0,2,0,6,0,0,0,0,0,0,6.7,2.0,15.2,50.0,False,2
+Timo Werner,FWD,Chelsea,West Ham,90,0,1,0,1,7,0,0,0,0,0,0,9.7,23.6,13.3,60.0,True,5
+Timo Werner,FWD,Chelsea,Arsenal,45,0,0,2,0,2,0,0,0,0,0,0,3.6,2.6,12.5,21.0,False,1
+Timo Werner,FWD,Chelsea,Aston Villa,18,0,0,0,0,2,0,0,0,0,0,0,0.4,0.0,2.0,4.0,True,1
+Timo Werner,FWD,Chelsea,Man City,90,0,0,3,0,7,0,0,0,0,0,0,3.9,2.4,4.3,32.0,True,2
+Timo Werner,FWD,Chelsea,Fulham,15,0,0,0,0,0,0,0,0,0,0,0,1.9,0.0,10.5,8.0,False,1
+Timo Werner,FWD,Chelsea,Leicester,22,0,0,0,0,1,0,0,0,0,0,0,0.1,0.6,0.3,0.0,False,1
+Timo Werner,FWD,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Timo Werner,FWD,Chelsea,Burnley,90,0,0,0,1,4,0,0,0,0,0,0,8.8,17.0,23.7,47.0,True,2
+Timo Werner,FWD,Chelsea,Spurs,90,0,1,0,1,17,0,0,0,0,0,0,10.4,8.2,23.8,72.0,False,5
+Timo Werner,FWD,Chelsea,Sheffield Utd,74,0,2,1,0,26,0,0,0,0,0,0,6.7,21.2,19.3,26.0,False,10
+Timo Werner,FWD,Chelsea,Newcastle,90,1,0,0,1,20,0,0,0,0,0,0,12.1,32.6,29.7,59.0,True,6
+Timo Werner,FWD,Chelsea,Southampton,90,0,0,1,0,3,0,0,0,0,0,0,1.9,1.4,5.2,12.0,False,2
+Timo Werner,FWD,Chelsea,Man Utd,12,0,0,0,0,3,0,0,0,0,0,0,2.2,3.0,0.0,19.0,True,1
+Timo Werner,FWD,Chelsea,Liverpool,90,0,0,0,1,-3,0,0,0,0,0,0,6.4,8.8,11.8,43.0,False,2
+Timo Werner,FWD,Chelsea,Everton,89,0,0,0,1,-1,0,0,0,0,0,0,7.7,10.4,25.8,41.0,True,2
+Timo Werner,FWD,Chelsea,Leeds,21,0,0,0,0,1,0,0,0,0,0,0,2.1,0.2,0.4,20.0,False,1
+Timo Werner,FWD,Chelsea,West Brom,90,0,1,5,0,29,0,0,0,0,0,0,6.5,23.0,23.6,18.0,True,5
+Timo Werner,FWD,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Timo Werner,FWD,Chelsea,Brighton,23,0,0,0,0,2,0,0,0,0,0,0,0.8,6.4,1.5,0.0,True,1
+Timo Werner,FWD,Chelsea,West Ham,86,1,0,0,1,20,1,0,0,0,0,0,12.6,31.6,25.3,69.0,False,5
+Timo Werner,FWD,Chelsea,Fulham,90,0,1,0,1,19,0,0,0,0,0,0,13.3,29.0,25.9,78.0,True,5
+Timo Werner,FWD,Chelsea,Man City,90,0,1,1,0,4,0,0,0,0,0,0,4.9,16.2,22.8,10.0,False,5
+Timo Werner,FWD,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Timo Werner,FWD,Chelsea,Leicester,90,0,1,1,0,11,0,0,0,0,0,0,7.3,1.6,12.0,59.0,True,5
+Timo Werner,FWD,Chelsea,Aston Villa,90,0,0,2,0,8,1,0,0,0,0,0,8.0,8.2,42.2,30.0,False,1

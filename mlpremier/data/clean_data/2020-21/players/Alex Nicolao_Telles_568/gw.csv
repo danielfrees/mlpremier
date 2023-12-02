@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Alex Nicolao Telles,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,West Brom,90,0,0,0,1,22,0,0,0,0,0,0,2.0,9.4,5.5,5.0,True,6
+Alex Nicolao Telles,DEF,Man Utd,Southampton,83,0,0,2,0,17,0,0,0,0,0,0,6.4,30.0,34.3,0.0,False,1
+Alex Nicolao Telles,DEF,Man Utd,West Ham,90,0,1,1,0,25,0,0,0,0,0,0,5.7,26.0,31.3,0.0,False,5
+Alex Nicolao Telles,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Sheffield Utd,90,0,0,2,0,14,0,0,0,0,0,0,4.6,19.0,27.3,0.0,False,1
+Alex Nicolao Telles,DEF,Man Utd,Leeds,30,0,0,1,0,5,0,0,0,0,0,0,5.7,11.6,28.3,17.0,True,1
+Alex Nicolao Telles,DEF,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Wolves,45,0,0,0,0,9,0,0,0,0,0,0,0.9,1.6,7.1,0.0,True,1
+Alex Nicolao Telles,DEF,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Sheffield Utd,81,0,1,2,0,26,0,0,0,0,0,0,6.6,24.4,34.0,8.0,True,7
+Alex Nicolao Telles,DEF,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Alex Nicolao Telles,DEF,Man Utd,Leicester,90,0,0,2,0,17,0,0,0,0,0,0,5.0,31.2,17.1,2.0,True,1
+Alex Nicolao Telles,DEF,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Alex Nicolao Telles,DEF,Man Utd,Wolves,90,0,0,1,0,14,0,0,0,0,0,0,3.2,15.4,15.8,1.0,False,2

@@ -1,0 +1,5 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Daniel Jebbison,FWD,Sheffield Utd,Crystal Palace,25,0,0,1,0,-2,0,0,0,0,0,0,0.1,0.0,0.0,4.0,True,1
+Daniel Jebbison,FWD,Sheffield Utd,Everton,90,1,0,0,1,29,0,0,0,0,0,0,11.5,44.2,10.8,60.0,False,7
+Daniel Jebbison,FWD,Sheffield Utd,Newcastle,90,0,0,1,0,3,0,0,0,0,0,0,1.0,7.0,2.6,0.0,False,2
+Daniel Jebbison,FWD,Sheffield Utd,Burnley,78,0,0,0,1,8,0,0,0,0,0,0,0.5,1.2,1.7,2.0,True,2

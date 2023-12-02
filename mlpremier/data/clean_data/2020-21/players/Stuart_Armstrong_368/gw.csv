@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Stuart Armstrong,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Stuart Armstrong,MID,Southampton,Spurs,67,0,0,3,0,11,0,0,0,0,0,0,2.3,4.0,13.4,6.0,True,2
+Stuart Armstrong,MID,Southampton,Burnley,90,0,0,0,1,7,0,0,0,0,0,0,2.8,9.4,4.1,14.0,False,3
+Stuart Armstrong,MID,Southampton,West Brom,90,0,1,0,1,16,0,0,0,0,0,0,6.2,23.8,31.3,7.0,True,6
+Stuart Armstrong,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Stuart Armstrong,MID,Southampton,Everton,85,0,0,0,1,11,0,0,0,0,0,0,5.9,13.8,26.9,18.0,True,3
+Stuart Armstrong,MID,Southampton,Aston Villa,90,0,1,3,0,12,0,0,0,0,0,0,3.5,18.8,11.8,4.0,False,5
+Stuart Armstrong,MID,Southampton,Newcastle,90,1,0,0,1,31,0,0,0,0,0,0,8.4,47.8,12.6,24.0,True,10
+Stuart Armstrong,MID,Southampton,Wolves,89,0,0,1,0,11,0,0,0,0,0,0,2.6,4.6,17.7,4.0,False,2
+Stuart Armstrong,MID,Southampton,Man Utd,89,0,0,2,0,14,0,0,0,0,0,0,2.5,10.6,4.3,10.0,True,2
+Stuart Armstrong,MID,Southampton,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,5.6,19.2,28.8,8.0,False,2
+Stuart Armstrong,MID,Southampton,Sheffield Utd,90,1,0,0,1,22,0,0,0,0,0,0,6.1,41.2,6.3,13.0,True,8
+Stuart Armstrong,MID,Southampton,Arsenal,62,0,0,1,0,4,0,0,0,0,0,0,1.4,0.0,12.3,4.0,False,2
+Stuart Armstrong,MID,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Stuart Armstrong,MID,Southampton,Fulham,90,0,0,0,1,8,0,0,0,0,0,0,1.8,12.4,3.5,2.0,False,3
+Stuart Armstrong,MID,Southampton,West Ham,12,0,0,0,0,2,0,0,0,0,0,0,0.2,0.8,1.3,0.0,True,1
+Stuart Armstrong,MID,Southampton,Liverpool,90,0,0,0,1,12,0,0,0,0,0,0,3.5,13.4,11.7,10.0,True,3
+Stuart Armstrong,MID,Southampton,Leicester,90,0,0,2,0,10,0,0,0,0,0,0,3.8,10.2,23.5,4.0,False,2
+Stuart Armstrong,MID,Southampton,Arsenal,90,1,0,3,0,34,0,0,0,0,0,0,10.6,47.2,33.6,25.0,True,8
+Stuart Armstrong,MID,Southampton,Aston Villa,90,0,0,1,0,7,0,0,0,0,0,0,8.6,9.8,25.3,51.0,True,2
+Stuart Armstrong,MID,Southampton,Man Utd,90,0,0,9,0,3,1,0,0,0,0,0,0.0,0.0,0.5,0.0,False,1
+Stuart Armstrong,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Stuart Armstrong,MID,Southampton,Wolves,68,0,1,2,0,23,0,0,0,0,0,0,5.4,29.4,16.1,8.0,True,6
+Stuart Armstrong,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Stuart Armstrong,MID,Southampton,Leeds,90,0,0,3,0,13,0,0,0,0,0,0,5.5,13.2,22.4,19.0,False,2
+Stuart Armstrong,MID,Southampton,Everton,90,0,0,1,0,6,1,0,0,0,0,0,3.8,16.8,13.6,8.0,False,1
+Stuart Armstrong,MID,Southampton,Sheffield Utd,90,0,1,0,1,23,1,0,0,0,0,0,9.1,35.4,44.1,11.0,False,5
+Stuart Armstrong,MID,Southampton,Man City,71,0,1,5,0,18,0,0,0,0,0,0,3.7,5.6,2.9,28.0,False,5
+Stuart Armstrong,MID,Southampton,Brighton,86,0,0,2,0,15,0,0,0,0,0,0,4.9,14.4,7.7,27.0,True,2
+Stuart Armstrong,MID,Southampton,Burnley,78,1,0,2,0,28,0,0,0,0,0,0,13.0,51.6,31.3,47.0,True,7
+Stuart Armstrong,MID,Southampton,West Brom,90,0,0,3,0,10,0,0,0,0,0,0,4.6,16.0,4.1,26.0,False,2
+Stuart Armstrong,MID,Southampton,Spurs,90,0,0,2,0,9,0,0,0,0,0,0,2.3,8.4,13.3,1.0,False,2
+Stuart Armstrong,MID,Southampton,Leicester,90,0,1,1,0,17,0,0,0,0,0,0,3.5,8.0,1.0,26.0,True,5
+Stuart Armstrong,MID,Southampton,Liverpool,90,0,0,2,0,13,0,0,0,0,0,0,2.5,10.8,4.6,10.0,False,2
+Stuart Armstrong,MID,Southampton,Crystal Palace,90,0,1,1,0,24,0,0,0,0,0,0,4.2,23.4,14.4,4.0,True,5
+Stuart Armstrong,MID,Southampton,Fulham,77,0,0,1,0,7,0,0,0,0,0,0,2.3,6.6,2.8,14.0,True,2
+Stuart Armstrong,MID,Southampton,Leeds,90,0,0,2,0,9,0,0,0,0,0,0,4.8,9.6,24.7,14.0,True,2
+Stuart Armstrong,MID,Southampton,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,4.0,5.0,24.8,10.0,False,2

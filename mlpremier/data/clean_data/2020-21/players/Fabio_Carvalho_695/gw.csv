@@ -1,0 +1,6 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Fabio Carvalho,MID,Fulham,Chelsea,12,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.8,2.0,False,1
+Fabio Carvalho,MID,Fulham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabio Carvalho,MID,Fulham,Southampton,90,1,0,3,0,26,0,0,0,0,0,0,11.8,55.4,13.3,49.0,False,7
+Fabio Carvalho,MID,Fulham,Man Utd,62,0,0,1,0,5,0,0,0,0,0,0,6.7,9.4,1.8,56.0,False,2
+Fabio Carvalho,MID,Fulham,Newcastle,90,0,0,2,0,9,0,0,0,0,0,0,7.7,7.6,14.9,54.0,True,2

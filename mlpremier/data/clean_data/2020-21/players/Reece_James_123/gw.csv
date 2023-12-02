@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Reece James,DEF,Chelsea,Brighton,90,1,1,1,0,44,0,0,0,0,0,0,11.8,76.8,30.3,11.0,False,14
+Reece James,DEF,Chelsea,Liverpool,90,0,0,2,0,15,0,0,0,0,0,0,3.2,24.8,5.0,2.0,True,1
+Reece James,DEF,Chelsea,West Brom,90,0,0,3,0,27,1,0,0,0,0,0,13.1,36.8,89.7,4.0,False,1
+Reece James,DEF,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Reece James,DEF,Chelsea,Southampton,3,0,0,1,0,2,0,0,0,0,0,0,0.2,1.2,0.3,0.0,True,1
+Reece James,DEF,Chelsea,Man Utd,90,0,0,0,1,32,0,0,0,0,0,0,4.3,18.8,3.7,20.0,False,8
+Reece James,DEF,Chelsea,Burnley,90,0,0,0,1,25,0,0,0,0,0,0,3.0,6.8,9.9,13.0,False,6
+Reece James,DEF,Chelsea,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,5.4,16.2,22.3,15.0,True,2
+Reece James,DEF,Chelsea,Newcastle,90,0,0,0,1,28,0,0,0,0,0,0,3.5,13.2,11.1,11.0,False,8
+Reece James,DEF,Chelsea,Spurs,90,0,0,0,1,27,1,0,0,0,0,0,6.5,17.2,48.0,0.0,True,6
+Reece James,DEF,Chelsea,Leeds,90,0,1,1,0,26,0,0,0,0,0,0,6.5,30.2,28.8,6.0,True,5
+Reece James,DEF,Chelsea,Everton,90,0,0,1,0,6,1,0,0,0,0,0,5.4,16.8,5.3,32.0,False,1
+Reece James,DEF,Chelsea,Wolves,90,0,0,2,0,11,0,0,0,0,0,0,4.7,12.6,23.1,11.0,False,1
+Reece James,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Reece James,DEF,Chelsea,Arsenal,90,0,0,3,0,10,0,0,0,0,0,0,4.0,9.6,29.3,1.0,False,1
+Reece James,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Reece James,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Reece James,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Reece James,DEF,Chelsea,Leicester,90,0,0,2,0,17,0,0,0,0,0,0,9.3,24.0,34.9,34.0,False,1
+Reece James,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Reece James,DEF,Chelsea,Burnley,17,0,0,0,0,2,0,0,0,0,0,0,3.2,5.2,3.7,23.0,True,1
+Reece James,DEF,Chelsea,Spurs,90,0,0,0,1,32,0,0,0,0,0,0,8.4,15.2,43.1,26.0,False,8
+Reece James,DEF,Chelsea,Sheffield Utd,90,0,0,1,0,17,0,0,0,0,0,0,6.1,12.2,22.3,26.0,False,2
+Reece James,DEF,Chelsea,Newcastle,12,0,0,0,0,2,0,0,0,0,0,0,2.3,3.0,0.5,19.0,True,1
+Reece James,DEF,Chelsea,Southampton,90,0,0,1,0,17,0,0,0,0,0,0,3.6,11.6,14.7,10.0,False,3
+Reece James,DEF,Chelsea,Man Utd,45,0,0,0,0,10,0,0,0,0,0,0,4.5,10.4,14.3,20.0,True,1
+Reece James,DEF,Chelsea,Liverpool,90,0,0,0,1,25,0,0,0,0,0,0,2.0,6.4,12.0,2.0,False,6
+Reece James,DEF,Chelsea,Everton,90,0,0,0,1,29,0,0,0,0,0,0,5.0,15.2,15.6,19.0,True,8
+Reece James,DEF,Chelsea,Leeds,22,0,0,0,0,5,0,0,0,0,0,0,2.6,8.2,15.3,2.0,False,1
+Reece James,DEF,Chelsea,West Brom,90,0,0,5,0,14,0,0,0,0,0,0,11.9,23.2,65.9,30.0,True,0
+Reece James,DEF,Chelsea,Crystal Palace,14,0,1,0,0,12,0,0,0,0,0,0,3.7,2.6,12.0,22.0,False,4
+Reece James,DEF,Chelsea,Brighton,90,0,0,0,1,26,0,0,0,0,0,0,3.9,13.8,19.1,6.0,True,7
+Reece James,DEF,Chelsea,West Ham,4,0,0,0,0,4,0,0,0,0,0,0,1.7,6.2,10.3,0.0,False,1
+Reece James,DEF,Chelsea,Fulham,90,0,0,0,1,23,0,0,0,0,0,0,2.7,21.0,3.8,2.0,True,6
+Reece James,DEF,Chelsea,Man City,90,0,0,1,0,18,0,0,0,0,0,0,5.0,12.6,16.7,21.0,False,2
+Reece James,DEF,Chelsea,Arsenal,90,0,0,1,0,17,0,0,0,0,0,0,6.4,13.2,48.4,2.0,True,2
+Reece James,DEF,Chelsea,Leicester,90,0,0,1,0,17,0,0,0,0,0,0,5.2,22.4,20.9,9.0,True,2
+Reece James,DEF,Chelsea,Aston Villa,90,0,0,2,0,19,0,0,0,0,0,0,3.7,20.0,17.0,0.0,False,1

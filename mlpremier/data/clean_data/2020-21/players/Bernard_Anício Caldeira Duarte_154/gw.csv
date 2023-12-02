@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Bernard Anício Caldeira Duarte,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Southampton,45,0,0,0,0,3,1,0,0,0,0,0,4.5,14.0,27.0,4.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Newcastle,30,0,0,1,0,6,0,0,0,0,0,0,2.1,7.6,13.8,0.0,False,1
+Bernard Anício Caldeira Duarte,MID,Everton,Man Utd,90,1,0,3,0,28,0,0,0,0,0,0,9.6,45.6,30.4,20.0,True,8
+Bernard Anício Caldeira Duarte,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Leeds,8,0,0,0,0,2,0,0,0,0,0,0,0.2,0.4,1.1,0.0,True,1
+Bernard Anício Caldeira Duarte,MID,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Sheffield Utd,35,0,0,0,0,3,1,0,0,0,0,0,3.1,3.0,1.5,26.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,West Ham,63,0,0,0,1,2,0,0,0,0,0,0,3.3,7.4,14.6,11.0,True,3
+Bernard Anício Caldeira Duarte,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Fulham,22,0,0,0,0,5,0,0,0,0,0,0,2.2,4.6,15.6,2.0,True,1
+Bernard Anício Caldeira Duarte,MID,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,West Brom,83,0,0,0,1,16,0,0,0,0,0,0,4.0,13.8,13.8,12.0,False,3
+Bernard Anício Caldeira Duarte,MID,Everton,Chelsea,14,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.8,1.0,False,1
+Bernard Anício Caldeira Duarte,MID,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Aston Villa,14,0,0,1,0,4,0,0,0,0,0,0,1.6,3.0,11.2,2.0,True,1
+Bernard Anício Caldeira Duarte,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bernard Anício Caldeira Duarte,MID,Everton,Sheffield Utd,12,0,0,0,0,5,0,0,0,0,0,0,1.8,3.4,12.1,2.0,True,1
+Bernard Anício Caldeira Duarte,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Bernard Anício Caldeira Duarte,MID,Everton,Man City,31,0,0,2,0,1,0,0,0,0,0,0,0.3,2.0,0.8,0.0,False,1

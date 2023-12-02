@@ -1,0 +1,38 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Bertrand Traoré,MID,Aston Villa,Fulham,6,0,0,0,0,5,0,0,0,0,0,0,0.4,1.4,0.3,2.0,False,1
+Bertrand Traoré,MID,Aston Villa,Liverpool,3,0,0,0,0,2,0,0,0,0,0,0,2.8,1.0,0.5,26.0,True,1
+Bertrand Traoré,MID,Aston Villa,Leicester,9,0,0,0,0,2,0,0,0,0,0,0,2.3,3.2,1.2,19.0,False,1
+Bertrand Traoré,MID,Aston Villa,Leeds,24,0,0,2,0,2,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1
+Bertrand Traoré,MID,Aston Villa,Southampton,28,0,0,1,0,2,0,0,0,0,0,0,0.7,0.0,0.2,8.0,True,1
+Bertrand Traoré,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Bertrand Traoré,MID,Aston Villa,Brighton,69,0,1,2,0,21,0,0,0,0,0,0,7.0,22.4,38.2,9.0,True,5
+Bertrand Traoré,MID,Aston Villa,West Ham,16,0,0,0,0,3,0,0,0,0,0,0,1.2,3.2,1.4,7.0,False,1
+Bertrand Traoré,MID,Aston Villa,Wolves,74,0,0,0,1,8,0,0,0,0,0,0,1.9,5.6,7.0,6.0,False,3
+Bertrand Traoré,MID,Aston Villa,Burnley,79,0,0,0,1,12,0,0,0,0,0,0,10.1,9.6,15.7,76.0,True,3
+Bertrand Traoré,MID,Aston Villa,West Brom,90,1,1,0,1,48,0,0,0,0,0,0,16.5,67.6,45.3,52.0,False,13
+Bertrand Traoré,MID,Aston Villa,Crystal Palace,45,1,0,0,0,29,0,0,0,0,0,0,10.7,38.6,42.2,26.0,True,7
+Bertrand Traoré,MID,Aston Villa,Chelsea,86,0,0,1,0,12,0,0,0,0,0,0,2.7,7.6,0.9,18.0,False,2
+Bertrand Traoré,MID,Aston Villa,Man Utd,78,1,0,2,0,25,0,0,0,0,0,0,9.5,38.6,22.0,34.0,False,7
+Bertrand Traoré,MID,Aston Villa,Man City,67,0,0,0,1,5,0,0,0,0,0,0,2.5,5.4,1.0,19.0,False,3
+Bertrand Traoré,MID,Aston Villa,Newcastle,79,1,0,0,1,29,0,0,0,0,0,0,8.5,39.8,18.1,27.0,True,8
+Bertrand Traoré,MID,Aston Villa,Burnley,82,0,0,3,0,1,0,0,0,0,0,0,5.9,0.0,13.8,47.0,False,2
+Bertrand Traoré,MID,Aston Villa,Southampton,90,0,0,0,1,1,0,0,0,0,0,0,4.0,7.2,14.1,19.0,False,3
+Bertrand Traoré,MID,Aston Villa,West Ham,45,0,0,3,0,4,0,0,0,0,0,0,2.0,6.2,6.3,7.0,True,1
+Bertrand Traoré,MID,Aston Villa,Arsenal,65,0,1,0,1,9,0,0,0,0,0,0,5.7,19.6,14.3,23.0,True,6
+Bertrand Traoré,MID,Aston Villa,Brighton,65,0,0,0,1,4,0,0,0,0,0,0,0.3,1.8,0.8,0.0,False,3
+Bertrand Traoré,MID,Aston Villa,Leicester,90,1,0,2,0,22,0,0,0,0,0,0,9.5,41.2,3.2,51.0,True,8
+Bertrand Traoré,MID,Aston Villa,Leeds,90,0,0,0,1,9,0,0,0,0,0,0,1.1,4.2,4.9,2.0,False,3
+Bertrand Traoré,MID,Aston Villa,Sheffield Utd,80,0,0,1,0,0,0,0,0,0,0,0,11.1,3.8,31.4,76.0,False,2
+Bertrand Traoré,MID,Aston Villa,Wolves,82,0,0,0,1,10,0,0,0,0,0,0,2.7,8.6,16.1,2.0,True,3
+Bertrand Traoré,MID,Aston Villa,Newcastle,20,0,0,0,0,3,0,0,0,0,0,0,0.7,0.2,0.8,6.0,False,1
+Bertrand Traoré,MID,Aston Villa,Spurs,59,0,0,1,0,3,0,0,0,0,0,0,1.2,4.6,1.6,6.0,True,1
+Bertrand Traoré,MID,Aston Villa,Fulham,90,0,1,1,0,16,0,0,0,0,0,0,8.3,28.2,41.3,13.0,True,5
+Bertrand Traoré,MID,Aston Villa,Liverpool,67,0,0,1,0,6,0,0,0,0,0,0,1.9,3.8,11.6,4.0,False,2
+Bertrand Traoré,MID,Aston Villa,Man City,74,0,0,2,0,9,0,0,0,0,0,0,5.0,5.6,22.1,22.0,True,2
+Bertrand Traoré,MID,Aston Villa,West Brom,90,0,0,2,0,7,0,0,0,0,0,0,5.8,1.0,33.7,23.0,True,2
+Bertrand Traoré,MID,Aston Villa,Everton,87,0,1,1,0,11,0,0,0,0,0,0,9.1,27.4,24.3,39.0,False,5
+Bertrand Traoré,MID,Aston Villa,Man Utd,90,1,0,3,0,22,0,0,0,0,0,0,12.5,42.8,1.0,81.0,True,7
+Bertrand Traoré,MID,Aston Villa,Everton,71,0,0,0,1,2,1,0,0,0,0,0,3.2,1.4,4.4,26.0,True,2
+Bertrand Traoré,MID,Aston Villa,Crystal Palace,63,0,0,1,0,9,0,0,0,0,0,0,7.8,6.8,45.5,26.0,False,2
+Bertrand Traoré,MID,Aston Villa,Spurs,90,0,1,1,0,23,0,0,0,0,0,0,14.9,33.2,44.1,72.0,False,5
+Bertrand Traoré,MID,Aston Villa,Chelsea,72,1,1,1,0,31,0,0,0,0,0,0,8.0,36.6,0.7,43.0,True,13

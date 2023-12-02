@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Matej Vydra,FWD,Burnley,Leicester,20,0,0,1,0,5,0,0,0,0,0,0,5.1,4.2,10.6,36.0,False,1
+Matej Vydra,FWD,Burnley,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,4.8,4.2,16.5,27.0,True,2
+Matej Vydra,FWD,Burnley,Newcastle,13,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.0,2.0,False,1
+Matej Vydra,FWD,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matej Vydra,FWD,Burnley,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Matej Vydra,FWD,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,Brighton,6,0,0,0,0,3,0,0,0,0,0,0,0.3,1.0,0.3,2.0,False,1
+Matej Vydra,FWD,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,Man City,9,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.1,2.0,False,1
+Matej Vydra,FWD,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,Arsenal,20,0,0,0,0,3,0,0,0,0,0,0,2.3,3.0,1.0,19.0,False,1
+Matej Vydra,FWD,Burnley,Aston Villa,8,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Matej Vydra,FWD,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matej Vydra,FWD,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,Man Utd,10,0,0,0,0,-2,0,0,0,0,0,0,2.4,0.0,0.2,28.0,True,1
+Matej Vydra,FWD,Burnley,West Ham,27,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.6,2.0,False,1
+Matej Vydra,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matej Vydra,FWD,Burnley,Aston Villa,15,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1
+Matej Vydra,FWD,Burnley,Chelsea,56,0,0,1,0,3,0,0,0,0,0,0,0.4,0.0,0.8,4.0,False,1
+Matej Vydra,FWD,Burnley,Man City,90,0,0,2,0,3,0,0,0,0,0,0,1.5,0.0,4.8,12.0,True,2
+Matej Vydra,FWD,Burnley,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,8.9,9.4,32.2,47.0,True,2
+Matej Vydra,FWD,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matej Vydra,FWD,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matej Vydra,FWD,Burnley,West Brom,90,0,0,0,1,4,0,0,0,0,0,0,1.6,4.2,6.2,6.0,True,2
+Matej Vydra,FWD,Burnley,Spurs,72,0,0,4,0,-2,0,0,0,0,0,0,3.5,0.0,2.4,35.0,False,2
+Matej Vydra,FWD,Burnley,Leicester,90,1,0,1,0,24,0,0,0,0,0,0,8.7,39.0,14.3,34.0,True,7
+Matej Vydra,FWD,Burnley,Arsenal,85,0,0,1,0,12,0,0,0,0,0,0,4.0,3.4,23.0,14.0,True,2
+Matej Vydra,FWD,Burnley,Everton,77,0,1,1,0,16,0,0,0,0,0,0,8.2,31.0,23.9,27.0,False,5
+Matej Vydra,FWD,Burnley,Southampton,77,1,0,3,0,33,0,0,0,0,0,0,6.6,39.0,12.0,15.0,False,6
+Matej Vydra,FWD,Burnley,Newcastle,90,1,0,2,0,24,0,0,0,0,0,0,10.6,26.2,3.6,76.0,True,7
+Matej Vydra,FWD,Burnley,Man Utd,2,0,0,1,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,1
+Matej Vydra,FWD,Burnley,Wolves,72,0,0,0,1,2,0,0,0,0,0,0,2.6,0.0,14.1,13.0,False,2
+Matej Vydra,FWD,Burnley,West Ham,60,0,0,2,0,9,0,0,0,0,0,0,2.7,3.4,1.5,22.0,True,2
+Matej Vydra,FWD,Burnley,Fulham,66,0,1,0,1,17,0,0,0,0,0,0,4.2,18.4,10.6,13.0,False,5
+Matej Vydra,FWD,Burnley,Leeds,64,0,0,2,0,2,0,0,0,0,0,0,6.2,7.2,13.5,41.0,True,2
+Matej Vydra,FWD,Burnley,Liverpool,14,0,0,1,0,4,0,0,0,0,0,0,0.5,2.4,0.4,2.0,True,1
+Matej Vydra,FWD,Burnley,Sheffield Utd,45,0,0,0,0,3,0,0,0,0,0,0,1.3,0.0,0.8,12.0,False,1

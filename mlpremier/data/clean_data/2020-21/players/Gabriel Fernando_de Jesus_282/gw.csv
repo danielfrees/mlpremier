@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Gabriel Fernando de Jesus,FWD,Man City,Wolves,90,1,0,1,0,28,1,0,0,0,0,0,10.6,47.0,13.8,45.0,False,6
+Gabriel Fernando de Jesus,FWD,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Fernando de Jesus,FWD,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Fernando de Jesus,FWD,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Fernando de Jesus,FWD,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Fernando de Jesus,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Fernando de Jesus,FWD,Man City,Liverpool,90,1,0,1,0,24,0,0,0,0,0,0,6.9,32.2,13.7,23.0,True,9
+Gabriel Fernando de Jesus,FWD,Man City,Spurs,90,0,0,2,0,4,0,0,0,0,0,0,7.9,3.4,16.3,59.0,False,2
+Gabriel Fernando de Jesus,FWD,Man City,Burnley,90,0,1,0,1,12,0,0,0,0,0,0,5.7,15.6,23.4,18.0,True,5
+Gabriel Fernando de Jesus,FWD,Man City,Fulham,90,0,0,0,1,7,0,0,0,0,0,0,3.4,4.0,21.9,8.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Man Utd,90,0,0,0,1,3,0,0,0,0,0,0,3.4,8.6,13.3,12.0,False,2
+Gabriel Fernando de Jesus,FWD,Man City,West Brom,90,0,0,1,0,6,0,0,0,0,0,0,4.8,7.2,12.8,28.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Fernando de Jesus,FWD,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Fernando de Jesus,FWD,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Fernando de Jesus,FWD,Man City,Brighton,23,0,0,0,0,1,0,0,0,0,0,0,0.4,2.2,1.5,0.0,True,1
+Gabriel Fernando de Jesus,FWD,Man City,Crystal Palace,90,0,0,0,1,16,0,0,0,0,0,0,6.5,10.4,27.8,27.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Aston Villa,31,0,1,0,0,10,0,0,0,0,0,0,2.9,0.0,10.9,19.0,True,4
+Gabriel Fernando de Jesus,FWD,Man City,West Brom,30,0,0,0,0,3,0,0,0,0,0,0,2.3,2.8,14.1,6.0,False,1
+Gabriel Fernando de Jesus,FWD,Man City,Sheffield Utd,90,1,0,0,1,32,0,0,0,0,0,0,10.9,36.4,16.1,56.0,True,9
+Gabriel Fernando de Jesus,FWD,Man City,Burnley,90,1,0,0,1,37,0,0,0,0,0,0,10.3,36.0,6.3,61.0,False,9
+Gabriel Fernando de Jesus,FWD,Man City,Liverpool,18,0,1,0,0,13,0,0,0,0,0,0,3.0,18.6,11.1,0.0,False,4
+Gabriel Fernando de Jesus,FWD,Man City,Spurs,78,0,0,0,1,14,0,0,0,0,0,0,5.3,1.8,9.5,42.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Everton,90,0,1,1,0,21,0,0,0,0,0,0,9.8,20.6,19.7,58.0,False,5
+Gabriel Fernando de Jesus,FWD,Man City,Arsenal,27,0,0,0,0,5,0,0,0,0,0,0,1.6,0.4,12.3,3.0,False,1
+Gabriel Fernando de Jesus,FWD,Man City,West Ham,29,0,0,0,0,1,0,0,0,0,0,0,0.1,0.2,1.1,0.0,True,1
+Gabriel Fernando de Jesus,FWD,Man City,Wolves,90,2,0,1,0,54,0,0,0,0,0,0,21.1,72.2,23.7,115.0,True,13
+Gabriel Fernando de Jesus,FWD,Man City,Man Utd,69,0,0,2,0,2,0,0,0,0,0,0,5.0,0.0,14.1,36.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Fernando de Jesus,FWD,Man City,Fulham,90,1,0,0,1,35,0,0,0,0,0,0,7.4,44.2,10.4,19.0,False,7
+Gabriel Fernando de Jesus,FWD,Man City,Leicester,90,1,0,0,1,37,0,0,0,0,0,0,14.1,48.6,37.3,55.0,False,8
+Gabriel Fernando de Jesus,FWD,Man City,Leeds,90,0,0,2,0,15,0,0,0,0,0,0,8.6,9.6,31.9,44.0,True,2
+Gabriel Fernando de Jesus,FWD,Man City,Aston Villa,45,0,0,1,0,3,0,0,0,0,0,0,2.3,1.2,13.3,8.0,False,1
+Gabriel Fernando de Jesus,FWD,Man City,Crystal Palace,90,0,0,0,1,2,0,0,0,0,0,0,9.3,6.2,24.4,62.0,False,2
+Gabriel Fernando de Jesus,FWD,Man City,Chelsea,90,0,0,2,0,3,1,0,0,0,0,0,4.0,0.0,14.3,27.0,True,1
+Gabriel Fernando de Jesus,FWD,Man City,Newcastle,90,0,1,3,0,26,0,0,0,0,0,0,8.0,28.6,24.5,27.0,False,5
+Gabriel Fernando de Jesus,FWD,Man City,Brighton,13,0,0,0,0,2,0,0,0,0,0,0,2.8,4.4,0.7,23.0,False,1
+Gabriel Fernando de Jesus,FWD,Man City,Everton,73,1,0,0,1,37,0,0,0,0,0,0,11.6,38.6,27.3,50.0,True,6

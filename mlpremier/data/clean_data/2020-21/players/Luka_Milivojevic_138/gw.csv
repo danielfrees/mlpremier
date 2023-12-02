@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Luka Milivojevic,MID,Crystal Palace,Southampton,16,0,0,0,0,6,0,0,0,0,0,0,3.4,6.0,28.3,0.0,True,1
+Luka Milivojevic,MID,Crystal Palace,Man Utd,2,0,0,0,0,5,0,0,0,0,0,0,0.8,8.2,0.2,0.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luka Milivojevic,MID,Crystal Palace,Chelsea,23,0,0,2,0,5,0,0,0,0,0,0,1.1,5.6,5.5,0.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Brighton,7,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1
+Luka Milivojevic,MID,Crystal Palace,Fulham,90,0,0,1,0,10,0,0,0,0,0,0,2.0,7.2,11.9,1.0,False,2
+Luka Milivojevic,MID,Crystal Palace,Wolves,85,0,0,2,0,3,0,1,0,0,0,0,0.8,3.6,3.6,1.0,False,-1
+Luka Milivojevic,MID,Crystal Palace,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luka Milivojevic,MID,Crystal Palace,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Luka Milivojevic,MID,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luka Milivojevic,MID,Crystal Palace,West Brom,90,0,0,1,0,6,1,0,0,0,0,0,2.8,5.4,19.3,3.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Spurs,72,0,0,1,0,11,1,0,0,0,0,0,3.8,10.8,11.5,16.0,True,1
+Luka Milivojevic,MID,Crystal Palace,West Ham,90,0,0,1,0,13,1,0,0,0,0,0,3.7,19.6,16.4,1.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Liverpool,90,0,0,7,0,20,0,0,0,0,0,0,4.7,14.6,19.6,13.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Aston Villa,68,0,0,2,0,7,1,0,0,0,0,0,3.6,10.6,3.3,22.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Leicester,90,0,0,1,0,9,0,0,0,0,0,0,1.1,9.4,1.6,0.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Sheffield Utd,90,0,0,0,1,20,0,0,0,0,0,0,4.3,16.8,26.0,0.0,True,3
+Luka Milivojevic,MID,Crystal Palace,Arsenal,89,0,0,0,1,7,0,0,0,0,0,0,0.9,8.4,0.9,0.0,False,3
+Luka Milivojevic,MID,Crystal Palace,Man City,67,0,0,3,0,11,0,0,0,0,0,0,1.1,7.8,0.7,2.0,False,2
+Luka Milivojevic,MID,Crystal Palace,West Ham,72,0,0,3,0,11,0,0,0,0,0,0,1.4,9.2,2.3,2.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Wolves,90,0,0,0,1,9,0,0,0,0,0,0,3.8,26.8,2.3,9.0,True,3
+Luka Milivojevic,MID,Crystal Palace,Newcastle,90,0,0,1,0,12,1,0,0,0,0,0,3.0,27.2,2.9,0.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Leeds,90,0,0,2,0,5,1,0,0,0,0,0,0.5,1.0,4.1,0.0,False,1
+Luka Milivojevic,MID,Crystal Palace,Burnley,90,0,0,3,0,5,0,0,0,0,0,0,2.7,7.0,15.5,4.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.8,7.8,10.3,0.0,False,2
+Luka Milivojevic,MID,Crystal Palace,Fulham,90,0,0,0,1,12,1,0,0,0,0,0,4.4,20.2,15.4,8.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Man Utd,90,0,0,0,1,17,0,0,0,0,0,0,4.1,17.8,15.0,8.0,True,3
+Luka Milivojevic,MID,Crystal Palace,Spurs,90,0,1,4,0,20,0,0,0,0,0,0,5.4,20.0,33.5,0.0,False,5
+Luka Milivojevic,MID,Crystal Palace,West Brom,90,1,0,0,1,34,0,0,0,0,0,0,7.3,54.0,1.8,17.0,True,11
+Luka Milivojevic,MID,Crystal Palace,Everton,90,0,0,1,0,18,0,0,0,0,0,0,1.7,14.6,2.8,0.0,False,2
+Luka Milivojevic,MID,Crystal Palace,Chelsea,90,0,0,4,0,9,0,0,0,0,0,0,2.1,19.4,1.5,0.0,True,2
+Luka Milivojevic,MID,Crystal Palace,Leicester,82,0,0,2,0,12,0,0,0,0,0,0,1.4,13.4,0.8,0.0,False,2
+Luka Milivojevic,MID,Crystal Palace,Man City,90,0,0,2,0,5,1,0,0,0,0,0,1.6,6.8,1.0,8.0,True,1
+Luka Milivojevic,MID,Crystal Palace,Sheffield Utd,90,0,0,0,1,18,0,0,0,0,0,0,8.4,22.0,60.6,1.0,False,3
+Luka Milivojevic,MID,Crystal Palace,Southampton,64,0,0,2,0,0,0,0,0,0,1,0,4.7,9.4,11.0,27.0,False,0
+Luka Milivojevic,MID,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luka Milivojevic,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luka Milivojevic,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

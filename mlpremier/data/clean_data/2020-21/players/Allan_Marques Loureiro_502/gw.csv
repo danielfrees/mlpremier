@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Allan Marques Loureiro,MID,Everton,Spurs,90,0,0,0,1,16,0,0,0,0,0,0,2.1,18.0,3.4,0.0,False,3
+Allan Marques Loureiro,MID,Everton,West Brom,90,0,0,2,0,13,0,0,0,0,0,0,3.1,18.0,6.0,7.0,True,2
+Allan Marques Loureiro,MID,Everton,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,3.0,18.4,11.0,1.0,False,2
+Allan Marques Loureiro,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Liverpool,90,0,0,2,0,3,1,0,0,0,0,0,0.5,4.0,0.9,0.0,True,1
+Allan Marques Loureiro,MID,Everton,Southampton,90,0,0,2,0,13,0,0,0,0,0,0,1.7,15.0,1.6,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Newcastle,90,0,0,2,0,13,1,0,0,0,0,0,5.0,25.4,24.3,0.0,False,1
+Allan Marques Loureiro,MID,Everton,Man Utd,90,0,0,3,0,15,1,0,0,0,0,0,2.4,21.2,2.5,0.0,True,1
+Allan Marques Loureiro,MID,Everton,Fulham,90,0,0,2,0,12,0,0,0,0,0,0,1.2,9.4,2.2,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Leeds,90,0,0,1,0,10,1,0,0,0,0,0,5.0,7.6,22.9,19.0,True,1
+Allan Marques Loureiro,MID,Everton,Burnley,88,0,0,1,0,17,0,0,0,0,0,0,3.2,19.2,12.5,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Chelsea,90,0,0,0,1,14,0,0,0,0,0,0,1.5,14.2,0.8,0.0,True,3
+Allan Marques Loureiro,MID,Everton,Leicester,40,0,0,0,0,5,0,0,0,0,0,0,1.8,7.0,10.9,0.0,False,1
+Allan Marques Loureiro,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,Southampton,90,0,0,0,1,11,0,0,0,0,0,0,1.2,11.0,0.9,0.0,True,3
+Allan Marques Loureiro,MID,Everton,West Brom,32,0,0,0,0,4,0,0,0,0,0,0,0.8,7.2,1.0,0.0,False,1
+Allan Marques Loureiro,MID,Everton,Chelsea,90,0,0,2,0,19,0,0,0,0,0,0,1.4,12.8,1.3,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Burnley,90,0,0,2,0,14,0,0,0,0,0,0,1.7,10.4,6.3,0.0,True,2
+Allan Marques Loureiro,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Allan Marques Loureiro,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Allan Marques Loureiro,MID,Everton,Spurs,90,0,0,2,0,11,0,0,0,0,0,0,3.2,20.0,12.2,0.0,True,2
+Allan Marques Loureiro,MID,Everton,Arsenal,90,0,0,0,1,9,1,0,0,0,0,0,3.5,23.0,11.9,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Aston Villa,90,0,0,2,0,16,0,0,0,0,0,0,4.0,12.6,23.3,4.0,True,2
+Allan Marques Loureiro,MID,Everton,West Ham,90,0,0,0,1,8,1,0,0,0,0,0,1.5,14.2,0.5,0.0,False,2
+Allan Marques Loureiro,MID,Everton,Aston Villa,90,0,0,0,1,15,0,0,0,0,0,0,3.8,11.8,22.0,4.0,False,3
+Allan Marques Loureiro,MID,Everton,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,5.6,24.4,24.7,7.0,True,2
+Allan Marques Loureiro,MID,Everton,Wolves,90,0,0,0,1,15,0,0,0,0,0,0,4.4,26.6,17.6,0.0,True,3
+Allan Marques Loureiro,MID,Everton,Man City,90,0,0,5,0,15,0,0,0,0,0,0,2.8,15.2,12.6,0.0,False,2

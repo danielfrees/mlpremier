@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Jamie Vardy,FWD,Leicester,West Brom,90,2,0,0,1,52,0,0,0,0,0,0,11.8,71.2,10.3,36.0,False,13
+Jamie Vardy,FWD,Leicester,Burnley,90,0,0,2,0,6,0,0,0,0,0,0,3.6,2.6,11.2,22.0,True,2
+Jamie Vardy,FWD,Leicester,Man City,84,3,0,2,0,82,0,0,0,0,0,0,17.7,105.2,0.5,71.0,False,17
+Jamie Vardy,FWD,Leicester,West Ham,90,0,0,3,0,-2,0,0,0,0,0,0,1.8,2.6,1.4,14.0,True,2
+Jamie Vardy,FWD,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jamie Vardy,FWD,Leicester,Arsenal,30,1,0,0,0,26,0,0,0,0,0,0,7.0,35.2,0.8,34.0,False,7
+Jamie Vardy,FWD,Leicester,Leeds,84,1,2,1,0,50,0,0,0,0,0,0,15.7,55.2,23.6,78.0,False,14
+Jamie Vardy,FWD,Leicester,Wolves,90,1,0,0,1,20,0,0,0,0,1,0,8.6,39.4,3.1,43.0,True,4
+Jamie Vardy,FWD,Leicester,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,8.0,15.2,20.8,44.0,False,2
+Jamie Vardy,FWD,Leicester,Fulham,90,0,1,2,0,14,0,0,0,0,0,0,9.3,22.0,10.9,60.0,True,5
+Jamie Vardy,FWD,Leicester,Sheffield Utd,90,1,0,1,0,28,1,0,0,0,0,0,5.8,31.6,1.8,25.0,False,8
+Jamie Vardy,FWD,Leicester,Brighton,90,1,2,0,1,43,0,0,0,0,0,0,13.8,69.2,20.7,48.0,True,13
+Jamie Vardy,FWD,Leicester,Everton,90,0,0,2,0,4,0,0,0,0,0,0,7.1,6.0,21.6,43.0,True,2
+Jamie Vardy,FWD,Leicester,Spurs,87,1,1,0,1,44,0,0,0,0,0,0,17.6,45.6,21.4,109.0,False,12
+Jamie Vardy,FWD,Leicester,Man Utd,90,0,1,2,0,10,0,0,0,0,0,0,3.6,0.4,2.2,33.0,True,5
+Jamie Vardy,FWD,Leicester,Crystal Palace,24,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.2,0.0,False,1
+Jamie Vardy,FWD,Leicester,Newcastle,90,0,1,1,0,17,0,0,0,0,0,0,5.0,22.0,21.9,6.0,False,5
+Jamie Vardy,FWD,Leicester,Southampton,90,0,0,0,1,0,0,0,0,0,0,0,7.5,0.0,0.8,75.0,True,2
+Jamie Vardy,FWD,Leicester,Chelsea,87,0,0,0,1,4,0,0,0,0,0,0,3.4,3.2,10.1,21.0,True,2
+Jamie Vardy,FWD,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jamie Vardy,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jamie Vardy,FWD,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jamie Vardy,FWD,Leicester,Wolves,29,0,0,0,0,0,0,0,0,0,0,0,1.1,1.0,2.3,8.0,False,1
+Jamie Vardy,FWD,Leicester,Liverpool,90,1,0,1,0,25,0,0,0,0,0,0,11.2,48.4,2.3,61.0,True,6
+Jamie Vardy,FWD,Leicester,Aston Villa,90,0,1,1,0,13,0,0,0,0,0,0,4.4,1.2,1.8,41.0,False,5
+Jamie Vardy,FWD,Leicester,Arsenal,90,0,0,3,0,10,0,0,0,0,0,0,2.1,12.2,2.6,6.0,True,2
+Jamie Vardy,FWD,Leicester,Burnley,90,0,0,1,0,1,0,0,0,0,0,0,2.8,1.2,1.1,26.0,False,2
+Jamie Vardy,FWD,Leicester,Brighton,90,0,0,1,0,7,0,0,0,0,0,0,2.7,5.0,15.1,7.0,False,2
+Jamie Vardy,FWD,Leicester,Sheffield Utd,90,0,3,0,1,44,0,0,0,0,0,0,15.4,47.8,43.6,63.0,True,13
+Jamie Vardy,FWD,Leicester,Man City,90,0,0,2,0,7,0,0,0,0,0,0,0.6,4.2,1.5,0.0,True,2
+Jamie Vardy,FWD,Leicester,West Ham,90,0,0,3,0,4,0,0,0,0,0,0,5.1,6.2,17.8,27.0,False,2
+Jamie Vardy,FWD,Leicester,West Brom,84,1,1,0,1,43,0,0,0,0,0,0,13.3,52.8,22.5,58.0,True,10
+Jamie Vardy,FWD,Leicester,Crystal Palace,90,0,0,1,0,5,0,0,0,0,0,0,4.6,2.6,3.1,40.0,True,2
+Jamie Vardy,FWD,Leicester,Southampton,90,0,0,1,0,2,0,0,0,0,0,0,6.9,5.2,14.3,49.0,False,2
+Jamie Vardy,FWD,Leicester,Newcastle,90,0,1,4,0,13,0,0,0,0,0,0,12.9,27.4,35.3,66.0,True,5
+Jamie Vardy,FWD,Leicester,Man Utd,79,0,0,1,0,6,0,0,0,0,0,0,1.2,0.2,5.3,6.0,False,2
+Jamie Vardy,FWD,Leicester,Chelsea,90,0,0,2,0,7,0,0,0,0,0,0,3.1,4.2,3.1,24.0,False,2
+Jamie Vardy,FWD,Leicester,Spurs,90,2,0,4,0,50,0,0,0,0,0,0,13.5,71.8,1.6,62.0,True,13

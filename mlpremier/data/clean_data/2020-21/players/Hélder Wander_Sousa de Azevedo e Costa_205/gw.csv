@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Liverpool,90,0,1,4,0,18,0,0,0,0,0,0,4.7,25.6,14.9,6.0,False,5
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Fulham,90,2,0,3,0,45,0,0,0,0,0,0,12.6,72.6,17.2,36.0,True,14
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Sheffield Utd,65,0,0,0,1,-1,0,0,0,0,0,0,2.4,0.2,2.3,21.0,False,3
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Man City,90,0,0,1,0,8,0,0,0,0,0,0,5.0,9.0,14.8,26.0,True,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Wolves,70,0,0,1,0,3,0,0,0,0,0,0,1.8,0.8,3.5,14.0,True,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Aston Villa,82,0,1,0,1,19,0,0,0,0,0,0,11.4,29.6,42.7,42.0,False,6
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Leicester,90,0,0,4,0,7,0,0,0,0,0,0,2.7,7.2,13.6,6.0,True,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Crystal Palace,45,0,0,3,0,-5,0,0,1,0,0,0,0.0,0.0,1.1,2.0,False,-1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Everton,1,0,0,0,0,0,0,0,0,0,0,0,4.3,5.2,0.3,37.0,False,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,West Ham,45,0,0,1,0,2,0,0,0,0,0,0,0.4,2.4,1.8,0.0,True,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,West Brom,9,0,0,0,0,2,0,0,0,0,0,0,0.5,2.0,0.5,2.0,False,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Leicester,10,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Everton,3,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Arsenal,45,1,0,1,0,20,0,0,0,0,0,0,5.2,30.4,2.3,19.0,False,6
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Wolves,9,0,0,0,0,2,0,0,0,0,0,0,2.7,5.2,0.6,21.0,False,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Southampton,45,0,2,0,0,16,0,0,0,0,0,0,3.0,15.2,10.5,4.0,True,7
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Aston Villa,63,0,0,1,0,3,0,0,0,0,0,0,1.2,0.0,1.5,12.0,True,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,West Ham,45,0,0,2,0,-2,0,0,0,0,0,0,0.5,0.0,1.0,4.0,False,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Chelsea,26,0,0,0,0,2,0,0,0,0,0,0,0.5,2.2,0.6,2.0,True,1
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Man City,90,0,0,1,0,3,0,0,0,0,0,0,1.0,6.6,1.3,2.0,False,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Liverpool,66,0,0,1,0,6,0,0,0,0,0,0,1.9,5.6,1.9,11.0,True,2
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Man Utd,71,0,0,0,1,9,0,0,0,0,0,0,2.8,4.2,1.3,22.0,True,3
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Hélder Wander Sousa de Azevedo e Costa,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

@@ -1,0 +1,18 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Josh Maja,FWD,Fulham,West Ham,11,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.8,4.0,True,1
+Josh Maja,FWD,Fulham,Everton,72,2,0,0,1,50,0,0,0,0,0,0,14.6,66.8,4.8,74.0,False,13
+Josh Maja,FWD,Fulham,Burnley,90,0,0,1,0,7,0,0,0,0,0,0,2.8,5.4,11.3,11.0,False,2
+Josh Maja,FWD,Fulham,Sheffield Utd,85,0,0,0,1,4,0,0,0,0,0,0,2.0,1.4,12.4,6.0,True,2
+Josh Maja,FWD,Fulham,Crystal Palace,90,0,0,0,1,2,0,0,0,0,0,0,3.5,1.2,4.3,29.0,False,2
+Josh Maja,FWD,Fulham,Spurs,90,0,0,1,0,6,0,0,0,0,0,0,2.8,5.4,14.6,8.0,True,2
+Josh Maja,FWD,Fulham,Liverpool,66,0,0,0,1,1,0,0,0,0,0,0,6.0,0.0,2.2,59.0,False,2
+Josh Maja,FWD,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Josh Maja,FWD,Fulham,Leeds,45,0,0,1,0,2,0,0,0,0,0,0,2.6,4.6,0.8,21.0,True,1
+Josh Maja,FWD,Fulham,Aston Villa,7,0,0,1,0,3,0,0,0,0,0,0,1.7,3.0,12.4,2.0,False,1
+Josh Maja,FWD,Fulham,Wolves,16,0,0,1,0,4,0,0,0,0,0,0,5.1,5.2,10.5,35.0,True,1
+Josh Maja,FWD,Fulham,Arsenal,76,1,0,0,1,28,0,0,0,0,0,0,6.9,33.0,0.8,35.0,False,8
+Josh Maja,FWD,Fulham,Chelsea,80,0,0,2,0,10,0,0,0,0,0,0,2.5,6.8,13.8,4.0,False,2
+Josh Maja,FWD,Fulham,Burnley,36,0,0,0,0,0,0,0,0,0,0,0,2.7,5.0,2.4,20.0,True,1
+Josh Maja,FWD,Fulham,Southampton,14,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,1
+Josh Maja,FWD,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Josh Maja,FWD,Fulham,Newcastle,26,0,0,1,0,1,0,0,0,0,0,0,1.7,0.0,11.8,6.0,True,1

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Matt Ritchie,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Spurs,68,0,0,1,0,10,0,0,0,0,0,0,5.3,11.6,23.3,18.0,False,2
+Matt Ritchie,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Crystal Palace,22,0,0,0,0,6,0,0,0,0,0,0,3.2,6.6,18.7,7.0,False,1
+Matt Ritchie,MID,Newcastle,West Brom,90,0,0,1,0,14,0,0,0,0,0,0,5.6,12.6,43.7,0.0,True,2
+Matt Ritchie,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Fulham,90,0,0,1,0,5,0,0,1,0,0,0,6.3,8.6,43.3,11.0,True,0
+Matt Ritchie,MID,Newcastle,Man City,65,0,0,2,0,2,1,0,0,0,0,0,0.3,2.4,0.7,0.0,False,1
+Matt Ritchie,MID,Newcastle,Liverpool,85,0,0,0,1,17,0,0,0,0,0,0,5.4,18.4,33.7,2.0,True,3
+Matt Ritchie,MID,Newcastle,Leicester,90,0,0,2,0,9,0,0,0,0,0,0,5.6,15.8,39.7,0.0,True,2
+Matt Ritchie,MID,Newcastle,Sheffield Utd,16,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,0.9,0.0,False,1
+Matt Ritchie,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Wolves,18,0,0,1,0,2,0,0,0,0,0,0,0.6,0.0,0.6,6.0,True,1
+Matt Ritchie,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Matt Ritchie,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Matt Ritchie,MID,Newcastle,Spurs,90,0,0,2,0,11,0,0,0,0,0,0,5.1,14.4,20.3,16.0,True,2
+Matt Ritchie,MID,Newcastle,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,2.8,13.2,14.6,0.0,False,2
+Matt Ritchie,MID,Newcastle,West Ham,90,0,2,2,0,32,0,0,0,0,0,0,6.0,34.6,25.8,0.0,True,10
+Matt Ritchie,MID,Newcastle,Liverpool,90,0,0,1,0,11,0,0,0,0,0,0,4.0,9.4,18.9,12.0,False,2
+Matt Ritchie,MID,Newcastle,Arsenal,90,0,0,2,0,10,0,0,0,0,0,0,3.7,7.2,30.2,0.0,True,2
+Matt Ritchie,MID,Newcastle,Leicester,90,0,2,2,0,32,0,0,0,0,0,0,7.8,32.8,19.5,26.0,False,8
+Matt Ritchie,MID,Newcastle,Man City,83,0,0,4,0,6,1,0,0,0,0,0,2.2,7.8,14.1,0.0,True,1
+Matt Ritchie,MID,Newcastle,Sheffield Utd,90,0,0,0,1,18,0,0,0,0,0,0,6.1,16.2,43.6,1.0,True,3
+Matt Ritchie,MID,Newcastle,Fulham,90,0,1,0,1,27,0,0,0,0,0,0,3.6,13.6,20.3,2.0,False,9

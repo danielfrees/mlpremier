@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Federico Fernández,DEF,Newcastle,West Ham,90,0,0,0,1,27,0,0,0,0,0,0,2.8,26.0,0.1,2.0,False,6
+Federico Fernández,DEF,Newcastle,Brighton,90,0,0,3,0,11,0,0,0,0,0,0,1.0,9.8,0.2,0.0,True,1
+Federico Fernández,DEF,Newcastle,Spurs,90,0,0,1,0,18,0,0,0,0,0,0,3.8,25.8,10.4,2.0,False,2
+Federico Fernández,DEF,Newcastle,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,2.7,27.0,0.0,0.0,True,2
+Federico Fernández,DEF,Newcastle,Man Utd,90,0,0,4,0,19,0,0,0,0,0,0,2.7,27.0,0.3,0.0,True,0
+Federico Fernández,DEF,Newcastle,Wolves,90,0,0,1,0,11,0,0,0,0,0,0,1.9,17.8,1.2,0.0,False,2
+Federico Fernández,DEF,Newcastle,Everton,90,0,0,1,0,19,0,0,0,0,0,0,4.4,33.6,10.4,0.0,True,3
+Federico Fernández,DEF,Newcastle,Southampton,90,0,0,2,0,11,1,0,0,0,0,0,2.1,20.8,0.6,0.0,False,0
+Federico Fernández,DEF,Newcastle,Chelsea,90,0,0,2,0,2,0,0,1,0,0,0,1.0,7.2,0.4,2.0,True,-1
+Federico Fernández,DEF,Newcastle,Crystal Palace,90,0,0,0,1,22,1,0,0,0,0,0,1.7,17.0,0.2,0.0,False,5
+Federico Fernández,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Leeds,90,0,0,5,0,12,0,0,0,0,0,0,1.9,18.8,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Fulham,45,0,0,1,0,6,0,0,0,0,0,0,1.7,15.2,0.1,2.0,True,1
+Federico Fernández,DEF,Newcastle,Man City,90,0,0,2,0,18,0,0,0,0,0,0,2.3,22.6,0.8,0.0,False,1
+Federico Fernández,DEF,Newcastle,Liverpool,90,0,0,0,1,33,0,0,0,0,0,0,2.9,26.0,0.8,2.0,True,9
+Federico Fernández,DEF,Newcastle,Leicester,90,0,0,2,0,19,0,0,0,0,0,0,3.4,18.8,15.3,0.0,True,1
+Federico Fernández,DEF,Newcastle,Sheffield Utd,76,0,0,1,0,12,0,0,0,0,0,0,3.7,18.8,14.3,4.0,False,2
+Federico Fernández,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Federico Fernández,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Federico Fernández,DEF,Newcastle,Burnley,90,0,0,1,0,18,0,0,0,0,0,0,6.0,43.6,14.3,2.0,False,2
+Federico Fernández,DEF,Newcastle,West Ham,90,0,0,2,0,16,0,0,0,0,0,0,4.0,23.2,0.2,17.0,True,1
+Federico Fernández,DEF,Newcastle,Liverpool,90,0,0,1,0,11,1,0,0,0,0,0,2.7,22.0,0.8,4.0,False,1
+Federico Fernández,DEF,Newcastle,Arsenal,72,0,0,2,0,9,1,0,0,0,0,0,1.7,12.6,0.6,4.0,True,0
+Federico Fernández,DEF,Newcastle,Leicester,90,0,0,2,0,14,0,0,0,0,0,0,5.3,39.4,10.0,4.0,False,1
+Federico Fernández,DEF,Newcastle,Man City,87,0,0,4,0,7,0,0,0,0,0,0,0.7,5.2,0.0,2.0,True,0
+Federico Fernández,DEF,Newcastle,Sheffield Utd,90,0,0,0,1,29,0,0,0,0,0,0,5.6,28.6,10.3,17.0,True,8
+Federico Fernández,DEF,Newcastle,Fulham,90,0,0,0,1,20,0,0,0,0,0,0,1.5,15.2,0.0,0.0,False,6

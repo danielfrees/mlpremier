@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Rob Holding,DEF,Arsenal,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,2.2,20.6,1.2,0.0,False,6
+Rob Holding,DEF,Arsenal,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,1.4,13.6,0.3,0.0,True,2
+Rob Holding,DEF,Arsenal,Liverpool,90,0,0,3,0,14,0,0,0,0,0,0,3.2,32.0,0.1,0.0,False,1
+Rob Holding,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Rob Holding,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rob Holding,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Rob Holding,DEF,Arsenal,Man Utd,90,0,0,0,1,26,1,0,0,0,0,0,1.7,16.6,0.7,0.0,False,5
+Rob Holding,DEF,Arsenal,Aston Villa,90,0,0,3,0,16,0,0,0,0,0,0,1.9,14.0,1.3,4.0,True,1
+Rob Holding,DEF,Arsenal,Leeds,90,0,0,0,1,21,0,0,0,0,0,0,2.0,19.8,0.1,0.0,False,6
+Rob Holding,DEF,Arsenal,Wolves,45,0,0,0,0,2,1,0,0,0,0,0,1.0,1.8,0.9,7.0,True,0
+Rob Holding,DEF,Arsenal,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,1.9,16.2,3.2,0.0,False,1
+Rob Holding,DEF,Arsenal,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,3.2,18.0,0.6,13.0,True,2
+Rob Holding,DEF,Arsenal,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,2.2,18.2,0.2,4.0,True,2
+Rob Holding,DEF,Arsenal,Everton,90,0,0,2,0,5,0,0,1,0,0,0,0.8,7.0,1.3,0.0,False,-1
+Rob Holding,DEF,Arsenal,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,5.0,31.0,0.0,19.0,True,2
+Rob Holding,DEF,Arsenal,Brighton,90,0,0,0,1,31,0,0,0,0,0,0,2.3,19.6,0.3,3.0,False,9
+Rob Holding,DEF,Arsenal,West Brom,90,0,1,0,1,39,0,0,0,0,0,0,7.2,44.4,10.3,17.0,False,10
+Rob Holding,DEF,Arsenal,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,4.6,13.2,22.5,10.0,True,6
+Rob Holding,DEF,Arsenal,Newcastle,90,0,0,0,1,29,0,0,0,0,0,0,2.2,20.8,1.2,0.0,True,6
+Rob Holding,DEF,Arsenal,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,2.3,18.4,0.3,4.0,False,2
+Rob Holding,DEF,Arsenal,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,2.6,24.6,1.2,0.0,True,8
+Rob Holding,DEF,Arsenal,Wolves,90,0,0,2,0,15,0,0,0,0,0,0,2.0,16.2,1.8,2.0,False,1
+Rob Holding,DEF,Arsenal,Aston Villa,90,0,0,1,0,10,0,0,0,0,0,0,4.1,16.8,12.4,12.0,False,2
+Rob Holding,DEF,Arsenal,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.2,0.0,0.0,True,1
+Rob Holding,DEF,Arsenal,Man City,81,0,0,1,0,15,0,0,0,0,0,0,3.8,36.8,0.8,0.0,True,2
+Rob Holding,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rob Holding,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rob Holding,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Rob Holding,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rob Holding,DEF,Arsenal,Liverpool,90,0,0,3,0,12,0,0,0,0,0,0,1.5,14.8,0.3,0.0,True,1
+Rob Holding,DEF,Arsenal,Sheffield Utd,90,0,0,0,1,29,0,0,0,0,0,0,2.6,25.2,0.7,0.0,False,8
+Rob Holding,DEF,Arsenal,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,2.7,23.4,3.5,0.0,True,2
+Rob Holding,DEF,Arsenal,Everton,90,0,0,1,0,16,0,0,0,0,0,0,2.5,21.8,2.7,0.0,True,2
+Rob Holding,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rob Holding,DEF,Arsenal,West Brom,90,0,0,1,0,13,0,0,0,0,0,0,3.0,29.2,0.5,0.0,True,2
+Rob Holding,DEF,Arsenal,Chelsea,90,0,0,0,1,28,0,0,0,0,0,0,3.5,28.4,4.8,2.0,False,7
+Rob Holding,DEF,Arsenal,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,2.2,20.0,1.6,0.0,False,2
+Rob Holding,DEF,Arsenal,Brighton,90,0,0,0,1,27,0,0,0,0,0,0,1.9,18.0,1.3,0.0,True,7

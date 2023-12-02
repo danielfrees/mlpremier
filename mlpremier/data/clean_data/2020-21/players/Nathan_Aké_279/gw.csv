@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Nathan Aké,DEF,Man City,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,0.8,7.4,0.4,0.0,False,2
+Nathan Aké,DEF,Man City,Leicester,90,1,0,5,0,21,1,0,0,0,0,0,6.8,43.2,7.8,17.0,True,5
+Nathan Aké,DEF,Man City,Leeds,19,0,0,0,0,4,0,0,0,0,0,0,1.7,4.6,10.7,2.0,False,1
+Nathan Aké,DEF,Man City,Arsenal,90,0,0,0,1,20,1,0,0,0,0,0,1.5,9.2,5.8,0.0,True,5
+Nathan Aké,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,West Brom,90,0,0,1,0,8,1,0,0,0,0,0,2.0,14.0,4.1,2.0,True,1
+Nathan Aké,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Newcastle,90,0,0,0,1,32,0,0,0,0,0,0,3.8,29.6,6.7,2.0,True,7
+Nathan Aké,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Aké,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Leeds,58,0,0,1,0,6,1,0,0,0,0,0,2.5,2.8,1.8,20.0,True,0
+Nathan Aké,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,1.3,12.6,0.7,0.0,False,6
+Nathan Aké,DEF,Man City,Chelsea,90,0,0,2,0,14,0,0,0,0,0,0,2.2,19.4,2.3,0.0,True,1
+Nathan Aké,DEF,Man City,Newcastle,90,0,0,3,0,8,0,0,0,0,0,0,2.1,13.2,6.6,1.0,False,1
+Nathan Aké,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Aké,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

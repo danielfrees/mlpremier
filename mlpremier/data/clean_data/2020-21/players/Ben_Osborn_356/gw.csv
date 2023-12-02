@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Ben Osborn,MID,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Aston Villa,27,0,0,0,0,2,0,0,0,0,0,0,0.5,0.4,4.8,0.0,False,1
+Ben Osborn,MID,Sheffield Utd,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,7.8,15.0,41.0,22.0,True,2
+Ben Osborn,MID,Sheffield Utd,Arsenal,62,0,0,1,0,10,0,0,0,0,0,0,2.3,7.6,15.8,0.0,False,2
+Ben Osborn,MID,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,3.9,14.6,5.3,19.0,False,2
+Ben Osborn,MID,Sheffield Utd,Man City,54,0,0,1,0,1,0,0,0,0,0,0,0.4,3.2,1.0,0.0,True,1
+Ben Osborn,MID,Sheffield Utd,Chelsea,28,0,0,2,0,3,0,0,0,0,0,0,1.8,6.2,11.5,0.0,False,1
+Ben Osborn,MID,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Leicester,45,0,0,1,0,6,0,0,0,0,0,0,1.4,8.4,1.1,4.0,True,1
+Ben Osborn,MID,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Brighton,20,0,0,1,0,3,1,0,0,0,0,0,1.3,2.2,10.3,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Everton,90,0,0,1,0,17,0,0,0,0,0,0,5.2,18.2,31.3,2.0,True,2
+Ben Osborn,MID,Sheffield Utd,Burnley,90,0,0,1,0,14,0,0,0,0,0,0,2.1,12.8,6.3,2.0,False,2
+Ben Osborn,MID,Sheffield Utd,Crystal Palace,79,0,0,2,0,16,0,0,0,0,0,0,2.8,17.8,5.7,4.0,False,2
+Ben Osborn,MID,Sheffield Utd,Newcastle,90,0,0,0,1,17,0,0,0,0,0,0,6.3,21.2,35.3,6.0,True,3
+Ben Osborn,MID,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,West Ham,90,0,0,3,0,19,0,0,0,0,0,0,6.6,17.6,41.6,7.0,False,2
+Ben Osborn,MID,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Liverpool,34,0,0,1,0,2,0,0,0,0,0,0,0.4,2.2,1.5,0.0,True,1
+Ben Osborn,MID,Sheffield Utd,Aston Villa,17,0,0,0,0,4,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1
+Ben Osborn,MID,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ben Osborn,MID,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ben Osborn,MID,Sheffield Utd,Leeds,90,1,0,2,0,34,0,0,0,0,0,0,8.5,47.4,4.5,33.0,False,10
+Ben Osborn,MID,Sheffield Utd,Arsenal,90,0,0,3,0,8,0,0,0,0,0,0,2.6,10.0,14.3,2.0,True,2
+Ben Osborn,MID,Sheffield Utd,Wolves,74,0,0,1,0,10,0,0,0,0,0,0,2.8,5.0,8.8,14.0,False,2
+Ben Osborn,MID,Sheffield Utd,Brighton,80,0,0,0,1,11,0,0,0,0,0,0,3.9,12.8,23.8,2.0,True,3
+Ben Osborn,MID,Sheffield Utd,Spurs,90,0,0,4,0,16,0,0,0,0,0,0,6.2,13.2,12.3,36.0,False,2
+Ben Osborn,MID,Sheffield Utd,Crystal Palace,31,0,0,1,0,8,0,0,0,0,0,0,2.3,7.2,16.2,0.0,True,1
+Ben Osborn,MID,Sheffield Utd,Everton,90,0,0,0,1,8,0,0,0,0,0,0,4.0,7.0,25.8,7.0,False,3
+Ben Osborn,MID,Sheffield Utd,Newcastle,66,0,0,1,0,6,0,0,0,0,0,0,1.2,2.4,5.2,4.0,False,2
+Ben Osborn,MID,Sheffield Utd,Burnley,82,0,0,0,1,8,0,0,0,0,0,0,1.6,6.8,2.2,7.0,True,3

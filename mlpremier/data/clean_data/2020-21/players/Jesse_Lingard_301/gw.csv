@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Jesse Lingard,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Jesse Lingard,MID,Man Utd,Aston Villa,90,2,0,1,0,47,0,0,0,0,0,0,17.4,77.6,31.8,65.0,False,15
+Jesse Lingard,MID,Man Utd,Fulham,90,0,0,0,1,7,0,0,0,0,0,0,2.5,4.6,18.5,2.0,False,3
+Jesse Lingard,MID,Man Utd,Sheffield Utd,81,0,1,0,1,14,0,0,0,0,0,0,7.4,14.0,3.7,56.0,True,6
+Jesse Lingard,MID,Man Utd,Spurs,90,1,0,1,0,24,0,0,0,0,0,0,6.8,35.6,5.8,27.0,True,10
+Jesse Lingard,MID,Man Utd,Man City,90,0,1,2,0,23,0,0,0,0,0,0,10.7,28.2,33.8,45.0,False,5
+Jesse Lingard,MID,Man Utd,Leeds,86,1,0,0,1,11,1,0,0,0,1,0,12.0,39.6,24.6,56.0,True,5
+Jesse Lingard,MID,Man Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Jesse Lingard,MID,Man Utd,Arsenal,90,1,1,3,0,35,0,0,0,0,0,0,9.1,51.0,13.4,27.0,True,12
+Jesse Lingard,MID,Man Utd,Wolves,90,1,1,2,0,35,1,0,0,0,0,0,10.4,55.4,13.0,36.0,False,12
+Jesse Lingard,MID,Man Utd,Leicester,90,2,0,2,0,42,0,0,0,0,0,0,12.7,74.2,2.2,51.0,True,14
+Jesse Lingard,MID,Man Utd,Newcastle,86,1,0,3,0,23,0,0,0,0,0,0,7.6,32.6,5.3,38.0,False,7
+Jesse Lingard,MID,Man Utd,Chelsea,90,0,0,1,0,8,0,0,0,0,0,0,3.8,6.4,15.8,16.0,True,2
+Jesse Lingard,MID,Man Utd,Burnley,90,0,0,1,0,13,0,0,0,0,0,0,5.2,11.2,18.1,23.0,False,2
+Jesse Lingard,MID,Man Utd,Everton,90,0,0,1,0,7,1,0,0,0,0,0,5.6,12.4,17.3,26.0,True,1
+Jesse Lingard,MID,Man Utd,Brighton,90,0,0,1,0,15,0,0,0,0,0,0,6.4,13.2,33.5,17.0,False,2
+Jesse Lingard,MID,Man Utd,West Brom,90,0,1,1,0,27,0,0,0,0,0,0,9.7,30.0,47.6,19.0,False,7
+Jesse Lingard,MID,Man Utd,Southampton,90,0,0,0,1,1,0,0,0,0,0,0,3.1,1.0,3.8,26.0,True,3

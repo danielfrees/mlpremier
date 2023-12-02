@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Harry Winks,MID,Spurs,Everton,59,0,0,1,0,8,0,0,0,0,0,0,0.4,2.0,2.3,0.0,True,1
+Harry Winks,MID,Spurs,Southampton,90,0,0,2,0,9,0,0,0,0,0,0,1.2,10.8,1.0,0.0,False,2
+Harry Winks,MID,Spurs,Newcastle,90,0,0,1,0,17,1,0,0,0,0,0,3.8,21.2,16.9,0.0,True,1
+Harry Winks,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,West Ham,17,0,0,3,0,2,0,0,0,0,0,0,0.1,1.0,0.2,0.0,True,1
+Harry Winks,MID,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Leicester,26,0,0,0,0,-1,1,0,0,0,0,0,0.3,1.6,1.8,0.0,True,0
+Harry Winks,MID,Spurs,Wolves,90,0,0,1,0,6,1,0,0,0,0,0,1.2,10.6,1.6,0.0,False,1
+Harry Winks,MID,Spurs,Leeds,75,0,0,0,1,10,1,0,0,0,0,0,2.8,15.8,11.3,1.0,True,2
+Harry Winks,MID,Spurs,Fulham,74,0,0,1,0,13,0,0,0,0,0,0,4.0,11.8,13.2,15.0,True,2
+Harry Winks,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Liverpool,45,0,0,2,0,8,0,0,0,0,0,0,0.6,4.4,2.0,0.0,True,1
+Harry Winks,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Crystal Palace,69,0,0,1,0,11,0,0,0,0,0,0,1.2,8.4,3.8,0.0,True,2
+Harry Winks,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Harry Winks,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Southampton,17,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.2,0.0,True,1
+Harry Winks,MID,Spurs,Sheffield Utd,20,0,0,0,0,4,0,0,0,0,0,0,1.4,11.0,2.6,0.0,True,1
+Harry Winks,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Harry Winks,MID,Spurs,Wolves,21,0,0,0,0,11,0,0,0,0,0,0,1.7,5.2,11.8,0.0,True,1
+Harry Winks,MID,Spurs,Aston Villa,73,0,0,2,0,13,0,0,0,0,0,0,2.1,10.2,3.1,8.0,True,2
+Harry Winks,MID,Spurs,Leicester,90,0,0,2,0,10,1,0,0,0,0,0,1.9,13.6,5.8,0.0,False,1

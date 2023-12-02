@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Max Lowe,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Fulham,18,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,1
+Max Lowe,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Man City,80,0,0,1,0,5,0,0,0,0,0,0,1.5,11.2,1.8,2.0,True,2
+Max Lowe,DEF,Sheffield Utd,Chelsea,90,0,0,4,0,2,0,0,0,0,0,0,2.3,14.2,1.4,7.0,False,0
+Max Lowe,DEF,Sheffield Utd,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,2.9,24.8,2.6,2.0,True,2
+Max Lowe,DEF,Sheffield Utd,West Brom,90,0,0,1,0,10,0,0,0,0,0,0,3.4,7.6,3.9,22.0,False,2
+Max Lowe,DEF,Sheffield Utd,Leicester,45,0,0,1,0,-2,1,0,0,0,0,0,1.2,11.6,0.7,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,West Brom,46,0,0,0,0,9,0,0,0,0,0,0,4.7,14.2,26.7,6.0,True,1
+Max Lowe,DEF,Sheffield Utd,Chelsea,90,0,0,2,0,11,0,0,0,0,0,0,2.3,14.4,2.6,6.0,True,1
+Max Lowe,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Max Lowe,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Max Lowe,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

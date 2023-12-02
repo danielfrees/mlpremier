@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Luke Shaw,DEF,Man Utd,Crystal Palace,90,0,0,3,0,15,0,0,0,0,0,0,2.3,12.8,7.8,2.0,True,1
+Luke Shaw,DEF,Man Utd,Brighton,90,0,0,2,0,16,0,0,0,0,0,0,2.1,15.0,3.5,2.0,False,1
+Luke Shaw,DEF,Man Utd,Spurs,90,0,0,6,0,7,1,0,0,0,0,0,2.8,12.0,15.8,0.0,True,-2
+Luke Shaw,DEF,Man Utd,Newcastle,90,0,0,1,0,5,0,0,1,0,0,0,5.7,8.4,25.2,23.0,False,0
+Luke Shaw,DEF,Man Utd,Chelsea,90,0,0,0,1,19,1,0,0,0,0,0,2.1,13.6,4.9,2.0,True,5
+Luke Shaw,DEF,Man Utd,Arsenal,90,0,0,1,0,18,0,0,0,0,0,0,5.3,17.8,35.6,0.0,True,2
+Luke Shaw,DEF,Man Utd,Everton,66,0,1,1,0,30,0,0,0,0,0,0,5.5,33.8,21.0,0.0,False,7
+Luke Shaw,DEF,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luke Shaw,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Luke Shaw,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Luke Shaw,DEF,Man Utd,Man City,90,0,0,0,1,36,0,0,0,0,0,0,4.8,18.8,29.3,0.0,True,9
+Luke Shaw,DEF,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Luke Shaw,DEF,Man Utd,Leeds,59,0,0,1,0,8,0,0,0,0,0,0,4.9,10.0,38.8,0.0,True,1
+Luke Shaw,DEF,Man Utd,Leicester,90,0,0,2,0,24,0,0,0,0,0,0,5.7,12.8,42.2,2.0,False,3
+Luke Shaw,DEF,Man Utd,Wolves,45,0,0,0,0,8,0,0,0,0,0,0,3.8,10.4,27.2,0.0,True,1
+Luke Shaw,DEF,Man Utd,Aston Villa,90,0,0,1,0,15,1,0,0,0,0,0,7.4,15.4,50.9,8.0,True,1
+Luke Shaw,DEF,Man Utd,Burnley,90,0,0,0,1,30,1,0,0,0,0,0,5.5,18.8,34.2,2.0,False,7
+Luke Shaw,DEF,Man Utd,Liverpool,90,0,0,0,1,32,0,0,0,0,0,0,5.9,21.4,29.8,8.0,False,8
+Luke Shaw,DEF,Man Utd,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,7.8,14.2,37.7,26.0,False,2
+Luke Shaw,DEF,Man Utd,Sheffield Utd,8,0,0,0,0,6,0,0,0,0,0,0,2.7,6.8,20.4,0.0,True,1
+Luke Shaw,DEF,Man Utd,Arsenal,90,0,0,0,1,26,0,0,0,0,0,0,7.4,12.0,50.3,12.0,False,6
+Luke Shaw,DEF,Man Utd,Southampton,45,0,2,0,0,38,0,0,0,0,0,0,12.7,49.2,62.7,15.0,True,7
+Luke Shaw,DEF,Man Utd,Everton,90,0,1,3,0,19,1,0,0,0,0,0,6.4,27.2,19.4,17.0,True,3
+Luke Shaw,DEF,Man Utd,West Brom,90,0,1,1,0,26,0,0,0,0,0,0,10.9,36.4,70.8,2.0,False,8
+Luke Shaw,DEF,Man Utd,Newcastle,90,0,0,1,0,12,0,0,0,0,0,0,9.7,18.4,76.5,2.0,True,2
+Luke Shaw,DEF,Man Utd,Chelsea,90,0,0,0,1,28,0,0,0,0,0,0,6.4,26.4,33.1,4.0,False,6
+Luke Shaw,DEF,Man Utd,Crystal Palace,90,0,0,0,1,23,0,0,0,0,0,0,5.2,8.4,33.7,10.0,False,6
+Luke Shaw,DEF,Man Utd,Man City,90,1,0,0,1,35,1,0,0,0,0,0,8.2,44.2,1.3,36.0,False,14
+Luke Shaw,DEF,Man Utd,West Ham,90,0,0,0,1,31,0,0,0,0,0,0,6.3,21.8,29.0,12.0,True,9
+Luke Shaw,DEF,Man Utd,Brighton,90,0,0,1,0,15,0,0,0,0,0,0,3.5,12.4,22.3,0.0,True,2
+Luke Shaw,DEF,Man Utd,Spurs,90,0,0,1,0,14,1,0,0,0,0,0,4.8,16.6,29.3,2.0,False,1
+Luke Shaw,DEF,Man Utd,Burnley,90,0,0,1,0,23,0,0,0,0,0,0,12.1,25.6,81.4,14.0,True,2
+Luke Shaw,DEF,Man Utd,Leeds,90,0,0,0,1,32,0,0,0,0,0,0,9.0,18.0,69.6,2.0,False,8
+Luke Shaw,DEF,Man Utd,Aston Villa,90,0,0,1,0,12,0,0,0,0,0,0,8.4,14.8,34.5,35.0,False,2
+Luke Shaw,DEF,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Luke Shaw,DEF,Man Utd,Liverpool,90,0,0,4,0,16,0,0,0,0,0,0,6.3,14.6,44.4,4.0,True,0
+Luke Shaw,DEF,Man Utd,Fulham,90,0,0,1,0,8,1,0,0,0,0,0,1.2,8.0,3.3,1.0,True,1
+Luke Shaw,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

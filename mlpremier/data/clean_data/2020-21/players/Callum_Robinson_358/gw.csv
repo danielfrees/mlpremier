@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Callum Robinson,FWD,West Brom,Leicester,59,0,0,1,0,-3,0,0,0,0,0,0,0.1,0.0,1.3,2.0,True,1
+Callum Robinson,FWD,West Brom,Everton,90,0,0,5,0,2,0,0,0,0,0,0,4.6,7.6,25.0,13.0,False,2
+Callum Robinson,FWD,West Brom,Chelsea,65,2,0,1,0,54,0,0,0,0,0,0,10.3,64.0,4.0,35.0,True,13
+Callum Robinson,FWD,West Brom,Southampton,59,0,0,1,0,3,0,0,0,0,0,0,0.7,1.2,2.0,4.0,False,1
+Callum Robinson,FWD,West Brom,Burnley,17,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,1.3,0.0,True,1
+Callum Robinson,FWD,West Brom,Brighton,27,0,1,0,0,15,0,0,0,0,0,0,1.5,4.6,6.7,4.0,False,4
+Callum Robinson,FWD,West Brom,Fulham,34,0,0,0,0,1,0,0,0,0,0,0,3.7,0.0,0.5,38.0,False,1
+Callum Robinson,FWD,West Brom,Spurs,66,0,0,0,1,10,0,0,0,0,0,0,6.6,8.6,33.3,24.0,True,2
+Callum Robinson,FWD,West Brom,Man Utd,28,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,1.3,4.0,False,1
+Callum Robinson,FWD,West Brom,Sheffield Utd,64,0,0,0,1,4,0,0,0,0,0,0,1.8,1.4,6.4,10.0,True,2
+Callum Robinson,FWD,West Brom,Crystal Palace,28,0,0,2,0,2,0,0,0,0,0,0,1.0,0.4,7.5,2.0,True,1
+Callum Robinson,FWD,West Brom,Newcastle,45,0,0,1,0,4,0,0,0,0,0,0,3.0,3.8,26.4,0.0,False,1
+Callum Robinson,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Callum Robinson,FWD,West Brom,Aston Villa,7,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Callum Robinson,FWD,West Brom,Liverpool,72,0,0,1,0,11,0,0,0,0,0,0,2.3,6.4,16.7,0.0,False,2
+Callum Robinson,FWD,West Brom,Leeds,90,0,0,5,0,7,0,0,0,0,0,0,1.4,3.2,1.8,9.0,True,2
+Callum Robinson,FWD,West Brom,Arsenal,90,0,0,4,0,15,0,0,0,0,0,0,5.4,17.2,34.6,2.0,True,2
+Callum Robinson,FWD,West Brom,Wolves,90,0,2,2,0,25,0,0,0,0,0,0,5.1,7.0,0.7,43.0,False,9
+Callum Robinson,FWD,West Brom,West Ham,90,0,0,2,0,7,0,0,0,0,0,0,0.7,1.4,2.8,3.0,False,2
+Callum Robinson,FWD,West Brom,Man City,45,0,0,4,0,1,0,0,0,0,0,0,0.2,0.0,0.5,4.0,True,1
+Callum Robinson,FWD,West Brom,Fulham,45,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,1
+Callum Robinson,FWD,West Brom,Sheffield Utd,67,0,0,1,0,2,0,0,0,0,0,0,5.5,10.0,0.7,44.0,False,2
+Callum Robinson,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Callum Robinson,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Callum Robinson,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Callum Robinson,FWD,West Brom,Chelsea,53,2,0,1,0,59,0,0,0,0,0,0,14.5,76.2,32.3,36.0,False,11
+Callum Robinson,FWD,West Brom,Southampton,71,1,0,0,1,34,0,0,0,0,0,0,9.5,40.8,26.3,28.0,True,8
+Callum Robinson,FWD,West Brom,Leicester,45,0,0,3,0,1,0,0,0,0,0,0,0.9,2.2,2.4,4.0,False,1
+Callum Robinson,FWD,West Brom,Aston Villa,66,0,0,1,0,5,0,0,0,0,0,0,1.4,2.6,0.3,11.0,False,2
+Callum Robinson,FWD,West Brom,Wolves,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1
+Callum Robinson,FWD,West Brom,Arsenal,67,0,0,2,0,4,0,0,0,0,0,0,2.3,0.2,0.5,22.0,False,2
+Callum Robinson,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Callum Robinson,FWD,West Brom,Leeds,60,0,0,2,0,1,0,0,0,0,0,0,3.6,0.0,15.1,23.0,False,2

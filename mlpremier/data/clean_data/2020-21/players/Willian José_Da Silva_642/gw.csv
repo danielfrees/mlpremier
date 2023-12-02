@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Willian José Da Silva,FWD,Wolves,Chelsea,18,0,0,0,0,3,0,0,0,0,0,0,0.6,6.0,0.3,0.0,False,1
+Willian José Da Silva,FWD,Wolves,Crystal Palace,90,0,0,1,0,3,0,0,0,0,0,0,6.9,7.0,1.9,60.0,False,2
+Willian José Da Silva,FWD,Wolves,Arsenal,90,0,1,1,0,18,0,0,0,0,0,0,4.5,6.8,19.4,19.0,True,5
+Willian José Da Silva,FWD,Wolves,Leicester,60,0,0,0,1,6,0,0,0,0,0,0,0.4,1.4,1.0,2.0,True,2
+Willian José Da Silva,FWD,Wolves,Southampton,88,0,0,1,0,3,0,0,0,0,0,0,4.8,0.0,5.3,43.0,False,2
+Willian José Da Silva,FWD,Wolves,Leeds,86,0,0,0,1,7,0,0,0,0,0,0,5.5,8.4,44.8,2.0,True,2
+Willian José Da Silva,FWD,Wolves,Newcastle,82,0,0,1,0,4,0,0,0,0,0,0,1.7,3.8,11.2,2.0,False,2
+Willian José Da Silva,FWD,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Willian José Da Silva,FWD,Wolves,Aston Villa,77,0,0,0,1,10,0,0,0,0,0,0,2.4,0.8,14.0,9.0,False,2
+Willian José Da Silva,FWD,Wolves,Liverpool,69,0,0,1,0,9,0,0,0,0,0,0,1.0,2.4,5.9,2.0,True,2
+Willian José Da Silva,FWD,Wolves,West Ham,71,0,0,3,0,10,0,0,0,0,0,0,7.3,7.6,32.7,33.0,True,2
+Willian José Da Silva,FWD,Wolves,Fulham,77,0,0,0,1,5,0,0,0,0,0,0,0.7,0.2,0.8,6.0,False,2
+Willian José Da Silva,FWD,Wolves,Sheffield Utd,76,1,0,0,1,35,0,0,0,0,0,0,6.7,35.0,13.3,19.0,True,9
+Willian José Da Silva,FWD,Wolves,Burnley,90,0,0,4,0,5,0,0,0,0,0,0,2.4,2.8,1.4,20.0,True,2
+Willian José Da Silva,FWD,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Willian José Da Silva,FWD,Wolves,Brighton,20,0,0,0,0,3,0,0,0,0,0,0,0.3,0.0,0.8,2.0,True,1
+Willian José Da Silva,FWD,Wolves,Spurs,27,0,0,0,0,2,0,0,0,0,0,0,1.5,2.4,10.8,2.0,False,1
+Willian José Da Silva,FWD,Wolves,Everton,22,0,0,0,0,2,0,0,0,0,0,0,0.1,0.6,0.6,0.0,False,1
+Willian José Da Silva,FWD,Wolves,Man Utd,63,0,0,1,0,6,0,0,0,0,0,0,4.1,4.4,1.7,35.0,True,2

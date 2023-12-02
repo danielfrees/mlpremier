@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Kurt Zouma,DEF,Chelsea,Brighton,90,1,0,1,0,25,0,0,0,0,0,0,6.9,51.8,0.2,17.0,False,8
+Kurt Zouma,DEF,Chelsea,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,3.6,18.4,0.2,17.0,True,1
+Kurt Zouma,DEF,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Crystal Palace,90,1,0,0,1,36,0,0,0,0,0,0,7.0,46.8,2.2,21.0,True,13
+Kurt Zouma,DEF,Chelsea,Southampton,90,0,0,3,0,15,0,0,0,0,0,0,4.8,28.0,0.7,19.0,True,1
+Kurt Zouma,DEF,Chelsea,Man Utd,90,0,0,0,1,33,0,0,0,0,0,0,4.1,27.8,11.3,2.0,False,9
+Kurt Zouma,DEF,Chelsea,Burnley,90,1,0,0,1,37,0,0,0,0,0,0,6.1,43.6,0.3,17.0,False,14
+Kurt Zouma,DEF,Chelsea,Sheffield Utd,90,0,0,1,0,12,0,0,0,0,0,0,1.8,15.4,0.8,2.0,True,2
+Kurt Zouma,DEF,Chelsea,Newcastle,90,0,0,0,1,26,0,0,0,0,0,0,3.0,22.0,2.2,6.0,False,6
+Kurt Zouma,DEF,Chelsea,Spurs,90,0,0,0,1,21,1,0,0,0,0,0,1.6,13.8,2.3,0.0,True,5
+Kurt Zouma,DEF,Chelsea,Leeds,90,1,0,1,0,28,0,0,0,0,0,0,6.8,48.0,0.7,19.0,True,8
+Kurt Zouma,DEF,Chelsea,Everton,90,0,0,1,0,13,0,0,0,0,0,0,7.3,31.6,22.2,19.0,False,2
+Kurt Zouma,DEF,Chelsea,Wolves,90,0,0,2,0,20,0,0,0,0,0,0,3.3,19.0,0.4,14.0,False,1
+Kurt Zouma,DEF,Chelsea,West Ham,90,0,0,0,1,29,0,0,0,0,0,0,1.8,17.0,0.6,0.0,True,6
+Kurt Zouma,DEF,Chelsea,Arsenal,90,0,0,3,0,13,0,0,0,0,0,0,3.6,9.8,0.6,26.0,False,1
+Kurt Zouma,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Kurt Zouma,DEF,Chelsea,Man City,90,0,0,3,0,13,0,0,0,0,0,0,2.5,23.6,1.2,0.0,True,1
+Kurt Zouma,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Kurt Zouma,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Kurt Zouma,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Kurt Zouma,DEF,Chelsea,Southampton,90,0,0,1,0,13,0,0,0,0,0,0,4.2,23.4,1.2,17.0,False,2
+Kurt Zouma,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Kurt Zouma,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Everton,90,0,0,0,1,25,0,0,0,0,0,0,3.6,17.4,1.3,17.0,True,6
+Kurt Zouma,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,West Brom,90,0,0,5,0,8,0,0,0,0,0,0,4.2,9.8,2.1,30.0,True,0
+Kurt Zouma,DEF,Chelsea,Crystal Palace,90,1,0,1,0,26,0,0,0,0,0,0,8.8,48.6,0.5,39.0,False,8
+Kurt Zouma,DEF,Chelsea,Brighton,90,0,0,0,1,22,1,0,0,0,0,0,2.8,20.0,1.3,7.0,True,5
+Kurt Zouma,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Kurt Zouma,DEF,Chelsea,Fulham,90,0,0,0,1,24,1,0,0,0,0,0,2.3,19.4,3.8,0.0,True,5
+Kurt Zouma,DEF,Chelsea,Man City,45,0,0,0,0,9,0,0,0,0,0,0,1.2,11.2,0.3,0.0,False,1
+Kurt Zouma,DEF,Chelsea,Arsenal,90,0,0,1,0,14,0,0,0,0,0,0,7.7,11.2,16.1,50.0,True,2
+Kurt Zouma,DEF,Chelsea,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1
+Kurt Zouma,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
