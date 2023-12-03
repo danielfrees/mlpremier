@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Ahmed El Mohamady,DEF,Aston Villa,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Liverpool,10,0,0,0,0,4,0,0,0,0,0,0,1.7,3.6,11.1,2.0,True,1
+Ahmed El Mohamady,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Southampton,23,0,0,0,0,4,0,0,0,0,0,0,1.1,4.0,4.8,2.0,True,1
+Ahmed El Mohamady,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,West Ham,2,0,0,0,0,3,0,0,0,0,0,0,0.3,0.0,0.9,2.0,False,1
+Ahmed El Mohamady,DEF,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Burnley,90,0,0,0,1,29,0,0,0,0,0,0,9.0,19.4,55.7,15.0,True,8
+Ahmed El Mohamady,DEF,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Crystal Palace,4,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1
+Ahmed El Mohamady,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Brighton,29,0,0,0,0,7,0,0,0,0,0,0,0.5,4.6,0.3,0.0,False,1
+Ahmed El Mohamady,DEF,Aston Villa,Leicester,90,0,0,2,0,19,1,0,0,0,0,0,3.9,23.6,15.7,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Leeds,90,0,0,0,1,17,1,0,0,0,0,0,1.2,6.8,0.7,4.0,False,5
+Ahmed El Mohamady,DEF,Aston Villa,Sheffield Utd,90,0,0,1,0,15,0,0,0,0,0,0,5.4,18.8,26.8,8.0,False,2
+Ahmed El Mohamady,DEF,Aston Villa,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,2.4,15.0,5.2,4.0,True,8
+Ahmed El Mohamady,DEF,Aston Villa,Newcastle,90,0,0,1,0,14,0,0,0,0,0,0,3.4,21.6,12.3,0.0,False,2
+Ahmed El Mohamady,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,West Brom,90,0,0,2,0,21,0,0,0,0,0,0,7.4,19.8,43.2,11.0,True,1
+Ahmed El Mohamady,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ahmed El Mohamady,DEF,Aston Villa,Everton,45,0,0,0,0,10,0,0,0,0,0,0,2.1,10.2,4.6,6.0,True,1
+Ahmed El Mohamady,DEF,Aston Villa,Crystal Palace,90,0,0,3,0,20,0,0,0,0,0,0,5.4,22.8,20.0,11.0,False,1
+Ahmed El Mohamady,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ahmed El Mohamady,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

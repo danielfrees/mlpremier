@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Japhet Tanganga,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Man City,90,0,0,3,0,13,0,0,0,0,0,0,1.9,13.2,6.1,0.0,False,1
+Japhet Tanganga,DEF,Spurs,West Ham,45,0,0,1,0,4,0,0,0,0,0,0,0.6,2.8,1.2,2.0,False,1
+Japhet Tanganga,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Aston Villa,90,0,0,0,1,22,0,0,0,0,0,0,2.3,22.4,0.9,0.0,False,6
+Japhet Tanganga,DEF,Spurs,Newcastle,90,0,0,2,0,14,1,0,0,0,0,0,6.6,17.0,15.4,34.0,False,0
+Japhet Tanganga,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Japhet Tanganga,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Japhet Tanganga,DEF,Spurs,Wolves,90,0,0,0,1,15,1,0,0,0,0,0,1.1,4.0,2.6,4.0,True,5
+Japhet Tanganga,DEF,Spurs,Aston Villa,82,0,0,2,0,13,0,0,0,0,0,0,1.3,9.4,3.3,0.0,True,1
+Japhet Tanganga,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Rúben Diogo da Silva Neves,MID,Wolves,Sheffield Utd,14,0,0,0,0,4,0,0,0,0,0,0,1.6,5.6,10.3,0.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Man City,90,0,0,3,0,15,0,0,0,0,0,0,5.1,13.0,11.6,26.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,West Ham,90,0,0,4,0,18,0,0,0,0,0,0,4.4,21.0,7.0,16.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Fulham,90,0,0,0,1,7,1,0,0,0,0,0,2.0,8.2,2.7,9.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,Leeds,8,0,0,0,0,4,0,0,0,0,0,0,3.1,4.6,0.0,26.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Newcastle,82,0,0,0,1,11,0,0,0,0,0,0,4.0,12.2,25.8,2.0,True,3
+Rúben Diogo da Silva Neves,MID,Wolves,Crystal Palace,90,0,0,0,1,19,0,0,0,0,0,0,8.3,19.8,44.4,19.0,True,3
+Rúben Diogo da Silva Neves,MID,Wolves,Leicester,90,0,0,1,0,15,1,0,0,0,0,0,4.9,18.8,13.8,16.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Southampton,69,0,0,1,0,11,1,0,0,0,0,0,2.3,11.2,11.8,0.0,True,1
+Rúben Diogo da Silva Neves,MID,Wolves,Arsenal,20,0,0,0,0,5,0,0,0,0,0,0,1.2,11.4,0.3,0.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Liverpool,61,0,0,2,0,7,0,0,0,0,0,0,0.6,3.8,1.2,1.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Aston Villa,10,0,0,1,0,3,0,0,0,0,0,0,0.1,0.8,0.2,0.0,True,1
+Rúben Diogo da Silva Neves,MID,Wolves,Chelsea,90,0,0,1,0,14,0,0,0,0,0,0,4.3,21.2,14.3,7.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,Burnley,75,0,0,2,0,12,0,0,0,0,0,0,8.1,14.4,32.5,34.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Spurs,90,0,0,1,0,20,0,0,0,0,0,0,6.8,26.8,25.9,15.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,6.1,37.8,16.5,7.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Brighton,90,1,0,3,0,32,0,0,0,0,0,0,8.8,49.4,11.7,27.0,False,10
+Rúben Diogo da Silva Neves,MID,Wolves,Everton,90,1,0,2,0,29,0,0,0,0,0,0,9.4,53.8,14.6,26.0,True,7
+Rúben Diogo da Silva Neves,MID,Wolves,West Brom,59,0,0,3,0,11,0,0,0,0,0,0,1.2,1.8,0.8,9.0,True,1
+Rúben Diogo da Silva Neves,MID,Wolves,Chelsea,90,0,0,0,1,11,0,0,0,0,0,0,1.5,14.0,0.4,1.0,False,3
+Rúben Diogo da Silva Neves,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Rúben Diogo da Silva Neves,MID,Wolves,Arsenal,73,1,0,1,0,28,1,0,0,0,0,0,6.7,40.6,2.8,24.0,True,7
+Rúben Diogo da Silva Neves,MID,Wolves,Leicester,90,0,0,0,1,16,1,0,0,0,0,0,5.4,16.8,16.3,21.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,Southampton,90,1,1,1,0,37,0,0,0,0,0,0,9.6,60.4,12.0,24.0,False,13
+Rúben Diogo da Silva Neves,MID,Wolves,Leeds,90,0,0,0,1,11,0,0,0,0,0,0,1.5,11.8,1.8,1.0,True,3
+Rúben Diogo da Silva Neves,MID,Wolves,Newcastle,90,1,0,1,0,30,0,0,0,0,0,0,10.7,52.4,24.0,31.0,False,10
+Rúben Diogo da Silva Neves,MID,Wolves,Man City,89,0,0,2,0,14,0,0,0,0,0,0,1.1,9.8,1.1,0.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Aston Villa,90,0,0,0,1,9,0,0,0,0,0,0,2.3,9.6,3.0,10.0,False,3
+Rúben Diogo da Silva Neves,MID,Wolves,Liverpool,75,0,0,1,0,8,1,0,0,0,0,0,3.7,22.6,1.4,13.0,True,1
+Rúben Diogo da Silva Neves,MID,Wolves,West Ham,90,0,0,3,0,10,1,0,0,0,0,0,6.7,25.2,35.3,6.0,True,1
+Rúben Diogo da Silva Neves,MID,Wolves,Fulham,90,0,0,0,1,12,0,0,0,0,0,0,1.8,13.8,2.3,2.0,False,3
+Rúben Diogo da Silva Neves,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Rúben Diogo da Silva Neves,MID,Wolves,Burnley,68,0,0,3,0,16,0,0,0,0,0,0,6.0,20.4,22.8,17.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,West Brom,90,0,0,1,0,16,0,0,0,0,0,0,8.7,23.8,38.1,25.0,False,2
+Rúben Diogo da Silva Neves,MID,Wolves,Brighton,60,0,0,1,0,8,0,0,0,0,0,0,1.9,2.6,3.3,13.0,True,2
+Rúben Diogo da Silva Neves,MID,Wolves,Spurs,17,0,0,0,0,4,0,0,0,0,0,0,2.0,2.0,10.4,8.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Everton,90,0,0,1,0,10,1,0,0,0,0,0,3.2,15.4,16.1,0.0,False,1
+Rúben Diogo da Silva Neves,MID,Wolves,Man Utd,90,0,0,2,0,9,0,0,0,0,0,0,4.8,20.4,18.5,9.0,True,2

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Joel Matip,DEF,Liverpool,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,3.3,7.0,3.8,22.0,False,6
+Joel Matip,DEF,Liverpool,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,7.5,18.2,0.8,56.0,True,6
+Joel Matip,DEF,Liverpool,Crystal Palace,90,0,0,1,0,8,0,0,0,0,0,0,3.8,16.2,3.6,18.0,True,2
+Joel Matip,DEF,Liverpool,Leeds,90,0,0,0,1,27,0,0,0,0,0,0,4.5,11.6,13.4,20.0,False,6
+Joel Matip,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Joel Matip,DEF,Liverpool,Brighton,90,0,0,3,0,12,0,0,0,0,0,0,2.9,21.4,1.2,6.0,False,1
+Joel Matip,DEF,Liverpool,Man City,90,0,0,2,0,22,0,0,0,0,0,0,4.3,30.2,12.3,0.0,True,1
+Joel Matip,DEF,Liverpool,West Brom,90,0,0,0,1,25,0,0,0,0,0,0,1.9,12.4,2.8,4.0,False,6
+Joel Matip,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Joel Matip,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Joel Matip,DEF,Liverpool,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,2.3,20.0,2.8,0.0,False,1
+Joel Matip,DEF,Liverpool,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,1.2,9.4,0.6,2.0,True,6
+Joel Matip,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Joel Matip,DEF,Liverpool,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,3.0,21.6,0.5,8.0,False,2
+Joel Matip,DEF,Liverpool,Wolves,90,0,0,0,1,27,0,0,0,0,0,0,2.9,18.2,3.2,8.0,False,6
+Joel Matip,DEF,Liverpool,Aston Villa,90,0,0,0,1,26,0,0,0,0,0,0,6.0,19.2,11.8,29.0,True,7
+Joel Matip,DEF,Liverpool,Newcastle,90,0,0,1,0,22,0,0,0,0,0,0,5.2,20.2,14.7,17.0,True,2
+Joel Matip,DEF,Liverpool,Spurs,90,0,0,2,0,21,0,0,0,0,0,0,2.0,15.0,0.6,4.0,False,2
+Joel Matip,DEF,Liverpool,Leicester,90,0,0,1,0,11,1,0,0,0,0,0,4.8,11.2,3.3,33.0,False,1
+Joel Matip,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Joel Matip,DEF,Liverpool,Brighton,90,0,0,0,1,28,0,0,0,0,0,0,7.4,25.4,2.7,46.0,True,6
+Joel Matip,DEF,Liverpool,Everton,90,0,0,1,0,12,0,0,0,0,0,0,2.6,10.0,11.8,4.0,False,2
+Joel Matip,DEF,Liverpool,Leicester,90,0,1,0,1,47,0,0,0,0,0,0,8.2,39.4,22.6,20.0,True,11
+Joel Matip,DEF,Liverpool,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,2.1,20.2,1.0,0.0,False,6
+Joel Matip,DEF,Liverpool,Sheffield Utd,90,0,0,1,0,19,0,0,0,0,0,0,3.6,23.4,12.8,0.0,True,2
+Joel Matip,DEF,Liverpool,Leeds,90,1,0,0,1,40,0,0,0,0,0,0,6.9,48.6,1.8,19.0,True,12
+Joel Matip,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Joel Matip,DEF,Liverpool,Burnley,90,0,1,0,1,35,0,0,0,0,0,0,5.9,36.4,13.8,9.0,False,12
+Joel Matip,DEF,Liverpool,Arsenal,90,0,0,0,1,26,0,0,0,0,0,0,4.2,22.4,1.6,18.0,False,7
+Joel Matip,DEF,Liverpool,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,3.9,15.4,3.2,20.0,True,7
+Joel Matip,DEF,Liverpool,Man City,90,0,0,2,0,17,0,0,0,0,0,0,2.1,18.8,1.9,0.0,False,1
+Joel Matip,DEF,Liverpool,Man Utd,90,0,0,0,1,28,0,0,0,0,0,0,1.9,16.0,1.4,2.0,True,6
+Joel Matip,DEF,Liverpool,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,8.3,33.2,6.0,44.0,True,8
+Joel Matip,DEF,Liverpool,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,1.3,12.2,0.7,0.0,False,6
+Joel Matip,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Joel Matip,DEF,Liverpool,Aston Villa,90,1,0,1,0,32,0,0,0,0,0,0,11.8,55.6,10.8,52.0,False,11
+Joel Matip,DEF,Liverpool,Southampton,90,1,0,1,0,31,0,0,0,0,0,0,7.0,49.8,3.1,17.0,False,11
+Joel Matip,DEF,Liverpool,Wolves,90,0,1,1,0,36,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,7

@@ -1,0 +1,34 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Nathaniel Phillips,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,3.4,22.2,11.7,0.0,True,2
+Nathaniel Phillips,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Brighton,90,0,0,1,0,16,0,0,0,0,0,0,2.7,24.0,0.7,2.0,False,2
+Nathaniel Phillips,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Newcastle,90,0,0,0,1,18,1,0,0,0,0,0,1.9,13.0,1.9,4.0,False,5
+Nathaniel Phillips,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Spurs,45,0,0,1,0,4,1,0,0,0,0,0,0.7,6.6,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,West Ham,90,0,0,1,0,15,0,0,0,0,0,0,2.2,21.0,1.3,0.0,False,2
+Nathaniel Phillips,DEF,Liverpool,Brighton,90,0,0,1,0,14,0,0,0,0,0,0,1.5,13.2,1.8,0.0,True,2
+Nathaniel Phillips,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,Everton,60,0,0,1,0,11,0,0,0,0,0,0,2.0,11.2,1.0,8.0,True,2
+Nathaniel Phillips,DEF,Liverpool,Sheffield Utd,90,0,0,0,1,22,0,0,0,0,0,0,3.6,17.8,0.5,18.0,False,6
+Nathaniel Phillips,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Fulham,90,0,0,1,0,14,0,0,0,0,0,0,5.8,19.4,14.8,24.0,True,2
+Nathaniel Phillips,DEF,Liverpool,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,3.2,31.2,0.3,0.0,False,6
+Nathaniel Phillips,DEF,Liverpool,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,2.8,23.8,2.1,2.0,False,6
+Nathaniel Phillips,DEF,Liverpool,Aston Villa,90,0,0,1,0,23,0,0,0,0,0,0,8.1,31.4,31.0,19.0,True,2
+Nathaniel Phillips,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathaniel Phillips,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathaniel Phillips,DEF,Liverpool,Southampton,90,0,0,0,1,20,0,0,0,0,0,0,1.8,8.4,1.3,8.0,True,6
+Nathaniel Phillips,DEF,Liverpool,Man Utd,90,0,1,2,0,27,0,0,0,0,0,0,5.9,40.0,10.5,8.0,False,4
+Nathaniel Phillips,DEF,Liverpool,West Brom,90,0,0,1,0,15,0,0,0,0,0,0,4.2,20.4,11.3,10.0,False,2
+Nathaniel Phillips,DEF,Liverpool,Burnley,90,1,0,0,1,39,0,0,0,0,0,0,8.8,62.4,0.3,25.0,False,13
+Nathaniel Phillips,DEF,Liverpool,Crystal Palace,90,0,0,0,1,23,0,0,0,0,0,0,1.5,10.4,0.1,4.0,True,6

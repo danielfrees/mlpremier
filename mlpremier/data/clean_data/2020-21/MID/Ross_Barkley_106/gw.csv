@@ -1,0 +1,40 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Ross Barkley,MID,Aston Villa,Brighton,29,0,0,0,0,1,0,0,0,0,0,0,2.3,4.2,11.8,7.0,False,1
+Ross Barkley,MID,Aston Villa,Liverpool,11,0,0,0,0,4,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1
+Ross Barkley,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Liverpool,90,1,0,2,0,24,0,0,0,0,0,0,9.6,36.6,3.9,55.0,True,7
+Ross Barkley,MID,Aston Villa,Leicester,90,1,0,0,1,31,0,0,0,0,0,0,9.1,41.8,16.0,33.0,False,11
+Ross Barkley,MID,Aston Villa,Leeds,90,0,0,3,0,13,0,0,0,0,0,0,8.3,20.2,46.7,16.0,True,2
+Ross Barkley,MID,Aston Villa,Southampton,90,0,0,4,0,12,0,0,0,0,0,0,9.0,10.2,64.8,15.0,True,2
+Ross Barkley,MID,Aston Villa,Arsenal,90,0,1,0,1,28,0,0,0,0,0,0,19.4,34.6,80.7,79.0,False,7
+Ross Barkley,MID,Aston Villa,Brighton,4,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Ross Barkley,MID,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ross Barkley,MID,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ross Barkley,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Man City,67,0,0,0,1,2,0,0,0,0,0,0,5.1,3.0,2.7,45.0,False,3
+Ross Barkley,MID,Aston Villa,Newcastle,79,0,0,0,1,6,0,0,0,0,0,0,4.2,2.8,28.4,11.0,True,3
+Ross Barkley,MID,Aston Villa,Burnley,82,0,0,3,0,12,0,0,0,0,0,0,3.7,3.0,28.3,6.0,False,2
+Ross Barkley,MID,Aston Villa,Southampton,90,1,0,0,1,24,0,0,0,0,0,0,8.2,33.8,24.7,23.0,False,8
+Ross Barkley,MID,Aston Villa,West Ham,68,0,0,2,0,10,0,0,0,0,0,0,2.9,3.6,19.6,6.0,True,2
+Ross Barkley,MID,Aston Villa,Arsenal,77,0,0,0,1,13,0,0,0,0,0,0,9.5,12.2,38.1,45.0,True,3
+Ross Barkley,MID,Aston Villa,Brighton,75,0,0,0,1,7,0,0,0,0,0,0,4.9,8.0,24.1,17.0,False,3
+Ross Barkley,MID,Aston Villa,Leicester,75,0,0,2,0,13,0,0,0,0,0,0,2.0,6.6,9.4,4.0,True,2
+Ross Barkley,MID,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Sheffield Utd,22,0,0,0,0,5,0,0,0,0,0,0,2.3,5.0,13.9,4.0,False,1
+Ross Barkley,MID,Aston Villa,Wolves,29,0,0,0,0,3,0,0,0,0,0,0,1.5,0.4,14.5,0.0,True,1
+Ross Barkley,MID,Aston Villa,Newcastle,22,0,0,1,0,5,0,0,0,0,0,0,2.0,4.0,13.6,2.0,False,1
+Ross Barkley,MID,Aston Villa,Spurs,24,0,0,1,0,3,0,0,0,0,0,0,3.4,2.6,10.9,20.0,True,1
+Ross Barkley,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Ross Barkley,MID,Aston Villa,Liverpool,24,0,0,1,0,2,0,0,0,0,0,0,1.1,3.2,0.8,7.0,False,1
+Ross Barkley,MID,Aston Villa,Man City,27,0,0,0,0,4,0,0,0,0,0,0,1.8,2.8,15.3,0.0,True,1
+Ross Barkley,MID,Aston Villa,West Brom,81,0,1,2,0,24,0,0,0,0,0,0,8.1,14.6,43.0,23.0,True,5
+Ross Barkley,MID,Aston Villa,Everton,90,0,0,1,0,19,0,0,0,0,0,0,4.6,10.4,29.9,6.0,False,2
+Ross Barkley,MID,Aston Villa,Man Utd,76,0,0,2,0,8,0,0,0,0,0,0,2.3,4.8,12.9,5.0,True,2
+Ross Barkley,MID,Aston Villa,Everton,64,0,0,0,1,10,0,0,0,0,0,0,3.2,4.6,25.3,2.0,True,3
+Ross Barkley,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Ross Barkley,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

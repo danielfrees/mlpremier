@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+James Tomkins,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Liverpool,27,0,0,3,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Leicester,90,0,0,1,0,12,0,0,0,0,0,0,1.2,12.0,0.1,0.0,True,2
+James Tomkins,DEF,Crystal Palace,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.0,17.6,0.3,2.0,True,8
+James Tomkins,DEF,Crystal Palace,Arsenal,90,0,0,0,1,23,1,0,0,0,0,0,2.5,18.4,0.3,6.0,False,5
+James Tomkins,DEF,Crystal Palace,Man City,90,0,0,4,0,12,0,0,0,0,0,0,1.6,14.2,0.1,2.0,False,0
+James Tomkins,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+James Tomkins,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+James Tomkins,DEF,Crystal Palace,Aston Villa,17,0,0,0,0,2,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1
+James Tomkins,DEF,Crystal Palace,Arsenal,90,0,0,3,0,14,0,0,0,0,0,0,5.2,22.6,10.6,19.0,True,1
+James Tomkins,DEF,Crystal Palace,Liverpool,57,0,0,1,0,6,0,0,0,0,0,0,0.9,9.2,0.0,0.0,False,1

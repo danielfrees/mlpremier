@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Tammy Abraham,FWD,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,2.2,5.0,0.0,17.0,True,1
+Tammy Abraham,FWD,Chelsea,West Brom,90,1,0,3,0,23,0,0,0,0,0,0,7.9,29.6,4.2,45.0,False,6
+Tammy Abraham,FWD,Chelsea,Crystal Palace,90,0,1,0,1,12,0,0,0,0,0,0,7.0,7.4,11.3,51.0,True,5
+Tammy Abraham,FWD,Chelsea,Southampton,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Tammy Abraham,FWD,Chelsea,Man Utd,19,0,0,0,0,3,0,0,0,0,0,0,0.3,2.2,0.3,0.0,False,1
+Tammy Abraham,FWD,Chelsea,Burnley,76,0,1,0,1,15,0,0,0,0,0,0,7.5,23.2,12.3,39.0,False,5
+Tammy Abraham,FWD,Chelsea,Sheffield Utd,90,1,0,1,0,33,0,0,0,0,0,0,16.1,45.6,43.5,72.0,True,8
+Tammy Abraham,FWD,Chelsea,Newcastle,90,1,0,0,1,33,0,0,0,0,0,0,13.4,41.2,32.3,60.0,False,9
+Tammy Abraham,FWD,Chelsea,Spurs,78,0,0,0,1,2,0,0,0,0,0,0,2.2,0.0,2.2,25.0,True,2
+Tammy Abraham,FWD,Chelsea,Leeds,11,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,0.5,4.0,True,1
+Tammy Abraham,FWD,Chelsea,Everton,22,0,0,0,0,4,0,0,0,0,0,0,0.7,2.2,0.4,4.0,False,1
+Tammy Abraham,FWD,Chelsea,Wolves,19,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
+Tammy Abraham,FWD,Chelsea,West Ham,90,2,0,0,1,57,0,0,0,0,0,0,11.1,71.2,2.2,38.0,True,13
+Tammy Abraham,FWD,Chelsea,Arsenal,90,1,0,3,0,25,0,0,0,0,0,0,8.3,31.0,2.6,49.0,False,6
+Tammy Abraham,FWD,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Fulham,25,0,0,0,0,1,0,0,0,0,0,0,2.4,3.4,1.6,19.0,False,1
+Tammy Abraham,FWD,Chelsea,Leicester,90,0,0,2,0,2,0,0,0,0,0,0,4.7,8.2,1.8,37.0,False,2
+Tammy Abraham,FWD,Chelsea,Wolves,13,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,True,1
+Tammy Abraham,FWD,Chelsea,Burnley,45,0,0,0,0,0,0,0,0,0,0,0,0.1,0.0,1.7,2.0,True,1
+Tammy Abraham,FWD,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Newcastle,19,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,0.4,6.0,True,1
+Tammy Abraham,FWD,Chelsea,Southampton,45,0,0,1,0,0,0,0,0,0,0,0,0.4,0.0,2.4,4.0,False,1
+Tammy Abraham,FWD,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,West Ham,3,0,0,0,0,-2,0,0,0,0,0,0,0.8,0.0,1.3,9.0,False,1
+Tammy Abraham,FWD,Chelsea,Fulham,14,0,0,0,0,3,0,0,0,0,0,0,0.7,7.0,0.0,0.0,True,1
+Tammy Abraham,FWD,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tammy Abraham,FWD,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tammy Abraham,FWD,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

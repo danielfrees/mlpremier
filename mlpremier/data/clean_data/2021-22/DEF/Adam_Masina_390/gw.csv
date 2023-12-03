@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Adam Masina,DEF,Watford,Aston Villa,90,0,0,2,0,8,0,0,0,0,0,0,0.8,7.2,0.3,0.0,True,1
+Adam Masina,DEF,Watford,Burnley,90,0,0,2,0,15,0,0,0,0,0,0,3.3,21.0,11.7,0.0,False,1
+Adam Masina,DEF,Watford,Spurs,90,0,0,1,0,18,0,0,0,0,0,0,4.8,28.4,19.7,0.0,False,2
+Adam Masina,DEF,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Liverpool,45,0,0,2,0,5,0,0,0,0,0,0,0.9,8.8,0.2,0.0,True,0
+Adam Masina,DEF,Watford,Fulham,90,0,0,2,0,11,0,0,0,0,0,0,1.9,12.4,6.2,0.0,False,1
+Adam Masina,DEF,Watford,Southampton,90,0,0,1,0,13,0,0,0,0,0,0,3.7,21.4,15.0,1.0,True,2
+Adam Masina,DEF,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Man Utd,90,0,0,1,0,18,0,0,0,0,0,0,4.0,19.2,18.8,2.0,True,2
+Adam Masina,DEF,Watford,Leicester,90,0,0,4,0,9,0,0,0,0,0,0,5.9,24.8,25.4,9.0,False,0
+Adam Masina,DEF,Watford,Crystal Palace,11,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,1
+Adam Masina,DEF,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,West Ham,90,0,0,4,0,9,0,0,0,0,0,0,2.4,7.4,4.6,12.0,True,0
+Adam Masina,DEF,Watford,Spurs,90,0,0,1,0,10,0,0,0,0,0,0,1.4,13.2,0.8,0.0,True,2
+Adam Masina,DEF,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Adam Masina,DEF,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Adam Masina,DEF,Watford,Everton,17,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.1,0.0,False,1
+Adam Masina,DEF,Watford,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,2.4,22.6,1.8,0.0,True,8
+Adam Masina,DEF,Watford,Leicester,90,0,0,5,0,10,0,0,0,0,0,0,2.0,11.4,1.7,7.0,True,0
+Adam Masina,DEF,Watford,Crystal Palace,12,0,1,1,0,19,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,4

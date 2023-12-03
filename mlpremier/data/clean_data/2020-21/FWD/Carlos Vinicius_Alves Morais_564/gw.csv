@@ -1,0 +1,35 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Carlos Vinicius Alves Morais,FWD,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,West Brom,12,0,0,0,0,2,0,0,0,0,0,0,3.3,2.0,10.3,21.0,False,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Leeds,3,0,0,0,0,5,0,0,0,0,0,0,0.3,3.2,0.1,0.0,True,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Fulham,9,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Sheffield Utd,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Brighton,45,0,0,0,0,5,0,0,0,0,0,0,8.1,11.0,11.6,58.0,False,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Chelsea,90,0,0,1,0,-1,0,0,0,0,0,0,1.1,2.0,2.8,6.0,True,2
+Carlos Vinicius Alves Morais,FWD,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Crystal Palace,10,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.0,0.3,2.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Aston Villa,90,1,0,0,1,24,1,0,0,0,0,0,8.6,32.4,0.8,53.0,False,5
+Carlos Vinicius Alves Morais,FWD,Spurs,Newcastle,45,0,0,1,0,1,0,0,0,0,0,0,0.5,2.0,1.0,2.0,False,1
+Carlos Vinicius Alves Morais,FWD,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Carlos Vinicius Alves Morais,FWD,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

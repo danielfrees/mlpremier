@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Miguel Almirón,MID,Newcastle,West Ham,5,0,1,0,0,13,0,0,0,0,0,0,4.9,17.4,11.4,20.0,False,4
+Miguel Almirón,MID,Newcastle,Brighton,45,0,0,1,0,11,0,0,0,0,0,0,6.0,17.2,40.8,2.0,True,1
+Miguel Almirón,MID,Newcastle,Spurs,76,0,0,1,0,9,0,0,0,0,0,0,3.9,11.0,14.4,14.0,False,2
+Miguel Almirón,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Miguel Almirón,MID,Newcastle,Man Utd,2,0,0,2,0,3,0,0,0,0,0,0,0.3,0.6,0.6,2.0,True,1
+Miguel Almirón,MID,Newcastle,Wolves,90,0,0,1,0,11,1,0,0,0,0,0,5.6,25.0,13.1,18.0,False,1
+Miguel Almirón,MID,Newcastle,Everton,82,0,0,0,1,11,0,0,0,0,0,0,2.0,7.0,12.5,0.0,True,3
+Miguel Almirón,MID,Newcastle,Southampton,90,0,0,2,0,0,0,0,0,0,0,0,0.6,4.6,1.1,0.0,False,2
+Miguel Almirón,MID,Newcastle,Chelsea,25,0,0,0,0,3,0,0,0,0,0,0,3.4,5.2,11.6,17.0,True,1
+Miguel Almirón,MID,Newcastle,Crystal Palace,67,0,0,0,1,8,0,0,0,0,0,0,1.2,5.6,2.5,4.0,False,3
+Miguel Almirón,MID,Newcastle,West Brom,85,1,0,1,0,26,0,0,0,0,0,0,11.0,45.6,5.3,59.0,True,9
+Miguel Almirón,MID,Newcastle,Leeds,15,0,0,3,0,4,0,0,0,0,0,0,0.2,1.4,0.5,0.0,False,1
+Miguel Almirón,MID,Newcastle,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,4.4,12.2,12.4,19.0,True,2
+Miguel Almirón,MID,Newcastle,Man City,81,0,0,2,0,12,0,0,0,0,0,0,4.5,14.0,31.3,0.0,False,2
+Miguel Almirón,MID,Newcastle,Liverpool,23,0,0,0,0,5,0,0,0,0,0,0,0.8,5.4,0.3,2.0,True,1
+Miguel Almirón,MID,Newcastle,Leicester,63,0,0,1,0,4,0,0,0,0,0,0,0.5,0.0,3.9,1.0,True,2
+Miguel Almirón,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Miguel Almirón,MID,Newcastle,Arsenal,86,0,0,3,0,6,0,0,0,0,0,0,2.5,8.6,12.7,4.0,False,2
+Miguel Almirón,MID,Newcastle,Aston Villa,80,0,0,2,0,10,0,0,0,0,0,0,4.9,15.2,26.8,7.0,False,2
+Miguel Almirón,MID,Newcastle,Leeds,90,1,0,2,0,33,0,0,0,0,0,0,11.0,51.4,32.8,26.0,True,9
+Miguel Almirón,MID,Newcastle,Everton,90,0,0,0,1,20,0,0,0,0,0,0,7.7,17.0,41.7,18.0,False,3
+Miguel Almirón,MID,Newcastle,Crystal Palace,90,0,0,2,0,16,0,0,0,0,0,0,9.3,19.4,31.3,42.0,True,2
+Miguel Almirón,MID,Newcastle,Southampton,90,2,0,2,0,52,0,0,0,0,0,0,10.3,76.4,2.2,24.0,True,15
+Miguel Almirón,MID,Newcastle,Chelsea,90,0,0,2,0,1,0,0,0,0,0,0,1.3,0.0,7.4,6.0,False,2
+Miguel Almirón,MID,Newcastle,Man Utd,78,0,0,3,0,9,0,0,0,0,0,0,2.9,9.0,12.5,7.0,False,2
+Miguel Almirón,MID,Newcastle,Wolves,45,0,0,0,0,-2,0,0,0,0,0,0,3.9,4.0,12.8,22.0,True,1
+Miguel Almirón,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Miguel Almirón,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Miguel Almirón,MID,Newcastle,Brighton,76,0,0,3,0,7,0,0,0,0,0,0,1.8,5.0,13.2,0.0,False,2
+Miguel Almirón,MID,Newcastle,Spurs,90,0,1,2,0,13,1,0,0,0,0,0,7.1,14.0,5.7,51.0,True,4
+Miguel Almirón,MID,Newcastle,Burnley,90,0,0,1,0,3,0,0,0,0,0,0,2.3,3.4,1.8,18.0,False,2
+Miguel Almirón,MID,Newcastle,West Ham,90,0,0,2,0,24,0,0,0,0,0,0,6.5,14.0,36.4,15.0,True,3
+Miguel Almirón,MID,Newcastle,Liverpool,84,0,0,1,0,4,0,0,0,0,0,0,0.4,3.2,1.2,0.0,False,2
+Miguel Almirón,MID,Newcastle,Arsenal,72,0,0,2,0,3,1,0,0,0,0,0,1.2,10.4,2.0,0.0,True,1
+Miguel Almirón,MID,Newcastle,Leicester,87,0,0,2,0,10,0,0,0,0,0,0,3.2,10.0,15.5,6.0,False,2
+Miguel Almirón,MID,Newcastle,Man City,90,0,0,4,0,7,0,0,0,0,0,0,2.2,8.8,11.3,2.0,True,2
+Miguel Almirón,MID,Newcastle,Sheffield Utd,90,0,0,0,1,12,0,0,0,0,0,0,3.4,7.8,16.0,10.0,True,3
+Miguel Almirón,MID,Newcastle,Fulham,79,0,0,0,1,7,0,0,0,0,0,0,1.4,2.8,2.3,9.0,False,3

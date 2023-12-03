@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Curtis Jones,MID,Liverpool,Leeds,24,0,0,1,0,2,0,0,0,0,0,0,1.8,2.4,13.3,2.0,True,1
+Curtis Jones,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Curtis Jones,MID,Liverpool,Aston Villa,29,0,0,2,0,4,0,0,0,0,0,0,0.7,5.8,1.3,0.0,False,1
+Curtis Jones,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Curtis Jones,MID,Liverpool,West Ham,69,0,0,1,0,11,0,0,0,0,0,0,2.7,6.2,11.4,9.0,True,2
+Curtis Jones,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Leicester,90,0,0,0,1,8,0,0,0,0,0,0,5.5,11.8,24.6,19.0,True,3
+Curtis Jones,MID,Liverpool,Brighton,16,0,0,1,0,4,0,0,0,0,0,0,0.5,5.0,0.0,0.0,False,1
+Curtis Jones,MID,Liverpool,Wolves,90,0,0,0,1,11,0,0,0,0,0,0,4.2,17.6,5.8,19.0,True,3
+Curtis Jones,MID,Liverpool,Fulham,90,0,0,1,0,15,1,0,0,0,0,0,10.1,25.6,28.9,46.0,False,1
+Curtis Jones,MID,Liverpool,Spurs,90,0,0,1,0,12,0,0,0,0,0,0,10.8,17.8,33.3,57.0,True,2
+Curtis Jones,MID,Liverpool,Crystal Palace,21,0,0,0,0,0,0,0,0,0,0,0,0.5,2.4,2.3,0.0,False,1
+Curtis Jones,MID,Liverpool,West Brom,82,0,0,1,0,12,0,0,0,0,0,0,2.1,9.4,11.3,0.0,True,2
+Curtis Jones,MID,Liverpool,Newcastle,67,0,0,0,1,9,0,0,0,0,0,0,0.9,3.4,4.0,2.0,False,3
+Curtis Jones,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Man Utd,14,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,2.3,0.0,True,1
+Curtis Jones,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Curtis Jones,MID,Liverpool,Spurs,12,0,0,0,0,3,0,0,0,0,0,0,0.4,2.6,1.3,0.0,False,1
+Curtis Jones,MID,Liverpool,West Ham,33,0,1,1,0,22,0,0,0,0,0,0,3.9,23.4,13.5,2.0,False,4
+Curtis Jones,MID,Liverpool,Brighton,11,0,0,0,0,3,0,0,0,0,0,0,1.5,1.4,1.3,12.0,True,1
+Curtis Jones,MID,Liverpool,Man City,67,0,0,1,0,18,0,0,0,0,0,0,3.7,8.4,5.1,23.0,True,2
+Curtis Jones,MID,Liverpool,Leicester,74,0,0,0,1,6,1,0,0,0,0,0,1.6,4.4,3.7,8.0,False,2
+Curtis Jones,MID,Liverpool,Everton,62,0,0,1,0,15,0,0,0,0,0,0,3.0,5.6,19.7,5.0,True,2
+Curtis Jones,MID,Liverpool,Sheffield Utd,79,1,0,0,1,23,0,0,0,0,0,0,13.5,41.6,14.0,79.0,False,8
+Curtis Jones,MID,Liverpool,Chelsea,61,0,0,1,0,13,0,0,0,0,0,0,2.7,5.8,15.3,6.0,True,2
+Curtis Jones,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Curtis Jones,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Curtis Jones,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Newcastle,13,0,0,1,0,3,0,0,0,0,0,0,0.2,0.8,1.4,0.0,True,1
+Curtis Jones,MID,Liverpool,Southampton,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
+Curtis Jones,MID,Liverpool,Man Utd,16,0,1,0,0,17,0,0,0,0,0,0,3.0,19.4,10.3,0.0,False,4
+Curtis Jones,MID,Liverpool,West Brom,58,0,0,1,0,10,0,0,0,0,0,0,1.2,3.0,9.0,0.0,False,1
+Curtis Jones,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Curtis Jones,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0

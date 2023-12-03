@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Arthur Masuaku,DEF,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Liverpool,4,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1
+Arthur Masuaku,DEF,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Man City,73,0,0,1,0,13,0,0,0,0,0,0,1.0,7.8,1.8,0.0,False,2
+Arthur Masuaku,DEF,West Ham,Burnley,13,0,0,1,0,3,0,0,0,0,0,0,0.8,3.2,2.4,2.0,True,1
+Arthur Masuaku,DEF,West Ham,Crystal Palace,45,1,0,0,0,20,0,0,0,0,0,0,6.1,53.2,0.9,7.0,True,7
+Arthur Masuaku,DEF,West Ham,Chelsea,90,0,0,0,1,30,0,0,0,0,0,0,2.8,14.2,4.8,9.0,False,9
+Arthur Masuaku,DEF,West Ham,Arsenal,90,0,0,2,0,20,0,0,0,0,0,0,4.1,25.4,13.8,2.0,False,1
+Arthur Masuaku,DEF,West Ham,Southampton,90,0,0,3,0,16,0,0,0,0,0,0,3.0,18.0,9.4,3.0,True,1
+Arthur Masuaku,DEF,West Ham,West Brom,8,0,0,0,0,7,0,0,0,0,0,0,0.6,5.4,0.8,0.0,False,1
+Arthur Masuaku,DEF,West Ham,Everton,45,0,0,2,0,3,1,0,0,0,0,0,1.7,15.8,0.8,0.0,False,-1
+Arthur Masuaku,DEF,West Ham,Sheffield Utd,12,0,1,0,0,15,0,0,0,0,0,0,3.5,17.6,11.4,6.0,True,4
+Arthur Masuaku,DEF,West Ham,Leeds,29,0,0,0,0,3,0,0,0,0,0,0,0.7,3.4,1.7,2.0,True,1
+Arthur Masuaku,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Spurs,56,0,0,2,0,0,0,0,0,0,0,0,1.2,5.8,5.9,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,2.0,8.2,3.5,8.0,False,2
+Arthur Masuaku,DEF,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Arthur Masuaku,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Arthur Masuaku,DEF,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

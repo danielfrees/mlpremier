@@ -1,0 +1,32 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Lee Peltier,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Man City,3,0,0,0,0,0,1,0,0,0,0,0,0.1,0.2,0.3,0.0,False,0
+Lee Peltier,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Leeds,90,0,0,5,0,12,0,0,0,0,0,0,2.8,17.0,10.8,0.0,True,0
+Lee Peltier,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Spurs,90,0,0,2,0,10,0,0,0,0,0,0,3.1,22.2,8.8,0.0,False,1
+Lee Peltier,DEF,West Brom,Man Utd,45,0,0,1,0,3,0,0,0,0,0,0,0.7,6.2,0.4,0.0,True,1
+Lee Peltier,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Lee Peltier,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Lee Peltier,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

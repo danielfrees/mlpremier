@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Robert Snodgrass,MID,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
+Robert Snodgrass,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Robert Snodgrass,MID,West Ham,Crystal Palace,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1
+Robert Snodgrass,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Wolves,90,0,0,2,0,13,0,0,0,0,0,0,4.1,15.2,1.7,24.0,False,2
+Robert Snodgrass,MID,West Ham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Man City,58,0,0,5,0,4,0,0,0,0,0,0,1.9,2.2,15.2,2.0,True,1
+Robert Snodgrass,MID,West Ham,Fulham,90,0,0,2,0,12,0,0,0,0,0,0,1.0,8.6,1.8,0.0,True,2
+Robert Snodgrass,MID,West Ham,Sheffield Utd,90,0,0,2,0,10,0,0,0,0,0,0,2.8,14.6,11.8,2.0,False,2
+Robert Snodgrass,MID,West Ham,Spurs,79,0,0,2,0,14,1,0,0,0,0,0,4.0,18.4,19.8,2.0,False,1
+Robert Snodgrass,MID,West Ham,Man Utd,86,0,0,1,0,9,1,0,0,0,0,0,3.4,12.6,2.2,19.0,True,1
+Robert Snodgrass,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Everton,12,0,0,0,0,3,0,0,0,0,0,0,2.4,4.2,1.6,18.0,True,1
+Robert Snodgrass,MID,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Crystal Palace,19,0,0,0,0,2,0,0,0,0,0,0,1.0,0.4,1.1,8.0,False,1
+Robert Snodgrass,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Robert Snodgrass,MID,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Robert Snodgrass,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

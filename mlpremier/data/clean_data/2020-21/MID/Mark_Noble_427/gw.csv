@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Mark Noble,MID,West Ham,Newcastle,66,0,0,1,0,8,0,0,0,0,0,0,1.7,4.4,12.2,0.0,True,2
+Mark Noble,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Wolves,2,0,0,0,0,3,0,0,0,0,0,0,0.3,2.6,0.5,0.0,True,1
+Mark Noble,MID,West Ham,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1
+Mark Noble,MID,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Sheffield Utd,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
+Mark Noble,MID,West Ham,Aston Villa,11,0,0,0,0,3,0,0,0,0,0,0,0.0,0.4,0.0,0.0,True,1
+Mark Noble,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Leeds,6,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.0,0.7,0.0,False,0
+Mark Noble,MID,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Chelsea,90,0,0,3,0,13,0,0,0,0,0,0,1.7,7.4,3.9,6.0,False,2
+Mark Noble,MID,West Ham,Brighton,45,0,0,1,0,4,0,0,0,0,0,0,2.1,4.0,16.9,0.0,True,1
+Mark Noble,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,West Brom,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
+Mark Noble,MID,West Ham,Crystal Palace,3,0,0,1,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1
+Mark Noble,MID,West Ham,Liverpool,11,0,0,1,0,3,0,0,0,0,0,0,0.2,0.8,0.8,0.0,True,1
+Mark Noble,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Fulham,34,0,0,0,0,2,0,0,0,0,0,0,0.4,3.4,0.8,0.0,False,1
+Mark Noble,MID,West Ham,Sheffield Utd,27,0,0,0,0,3,0,0,0,0,0,0,0.4,2.6,1.5,0.0,True,1
+Mark Noble,MID,West Ham,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Mark Noble,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Man Utd,61,0,0,1,0,15,0,0,0,0,0,0,0.9,6.4,2.3,0.0,False,2
+Mark Noble,MID,West Ham,Arsenal,16,0,0,1,0,3,0,0,0,0,0,0,0.1,0.0,0.6,0.0,True,1
+Mark Noble,MID,West Ham,Wolves,90,0,0,2,0,18,0,0,0,0,0,0,1.8,16.8,1.2,0.0,False,2
+Mark Noble,MID,West Ham,Leicester,81,0,0,1,0,11,0,0,0,0,0,0,1.0,7.8,2.1,0.0,True,2
+Mark Noble,MID,West Ham,Newcastle,74,0,0,2,0,14,0,0,0,0,0,0,4.2,10.2,31.0,1.0,False,2
+Mark Noble,MID,West Ham,Chelsea,68,0,0,1,0,16,0,0,0,0,0,0,2.7,13.4,13.3,0.0,True,2
+Mark Noble,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Mark Noble,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Mark Noble,MID,West Ham,Southampton,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1

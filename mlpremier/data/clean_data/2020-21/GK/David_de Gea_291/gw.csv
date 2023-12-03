@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+David de Gea,GK,Man Utd,Crystal Palace,90,0,0,3,0,12,0,0,0,2,0,0,1.7,16.6,0.0,0.0,True,1
+David de Gea,GK,Man Utd,Brighton,90,0,0,2,0,13,0,0,0,3,0,0,2.6,25.8,0.0,0.0,False,2
+David de Gea,GK,Man Utd,Spurs,90,0,0,6,0,11,0,0,0,2,0,0,2.0,19.8,0.0,0.0,True,-1
+David de Gea,GK,Man Utd,Newcastle,90,0,0,1,0,15,0,0,0,4,0,0,2.7,26.6,0.0,0.0,False,3
+David de Gea,GK,Man Utd,Chelsea,90,0,0,0,1,22,0,0,0,1,0,0,0.9,9.4,0.0,0.0,True,6
+David de Gea,GK,Man Utd,Arsenal,90,0,0,1,0,9,0,0,0,1,0,0,0.6,5.8,0.0,0.0,True,2
+David de Gea,GK,Man Utd,Everton,90,0,0,1,0,7,0,0,0,0,0,0,0.2,1.8,0.0,0.0,False,2
+David de Gea,GK,Man Utd,West Brom,90,0,0,0,1,22,0,0,0,2,0,0,2.0,20.2,0.0,0.0,True,6
+David de Gea,GK,Man Utd,Southampton,45,0,0,2,0,5,0,0,0,1,0,0,0.4,3.6,0.0,0.0,False,0
+David de Gea,GK,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Man City,90,0,0,0,1,24,0,0,0,2,0,0,2.0,19.8,0.0,0.0,True,6
+David de Gea,GK,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Leeds,90,0,0,2,0,10,0,0,0,1,0,0,1.9,18.8,0.0,0.0,True,1
+David de Gea,GK,Man Utd,Leicester,90,0,0,2,0,9,0,0,0,1,0,0,1.0,10.4,0.0,0.0,False,1
+David de Gea,GK,Man Utd,Wolves,90,0,0,0,1,30,0,0,0,5,0,0,3.4,34.2,0.0,0.0,True,10
+David de Gea,GK,Man Utd,Aston Villa,90,0,0,1,0,14,0,0,0,4,0,0,3.0,30.4,0.0,0.0,True,3
+David de Gea,GK,Man Utd,Burnley,90,0,0,0,1,20,0,0,0,0,0,0,0.1,1.4,0.0,0.0,False,6
+David de Gea,GK,Man Utd,Liverpool,90,0,0,0,1,27,0,0,0,3,0,0,2.2,22.2,0.0,0.0,False,7
+David de Gea,GK,Man Utd,Fulham,90,0,0,1,0,18,0,0,0,4,0,0,3.1,31.0,0.0,0.0,False,3
+David de Gea,GK,Man Utd,Sheffield Utd,90,0,0,2,0,9,0,0,0,1,0,0,1.1,11.2,0.0,0.0,True,1
+David de Gea,GK,Man Utd,Arsenal,90,0,0,0,1,25,0,0,0,3,0,0,2.3,23.0,0.0,0.0,False,7
+David de Gea,GK,Man Utd,Southampton,90,0,0,0,1,21,0,0,0,1,0,0,0.6,6.0,0.0,0.0,True,6
+David de Gea,GK,Man Utd,Everton,90,0,0,3,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+David de Gea,GK,Man Utd,West Brom,90,0,0,1,0,12,0,0,0,2,0,0,2.1,21.4,0.0,0.0,False,2
+David de Gea,GK,Man Utd,Newcastle,90,0,0,1,0,18,0,0,0,5,0,0,2.4,24.0,0.0,0.0,True,3
+David de Gea,GK,Man Utd,Chelsea,90,0,0,0,1,32,0,0,0,6,0,0,3.2,32.4,0.0,0.0,False,9
+David de Gea,GK,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+David de Gea,GK,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+David de Gea,GK,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+David de Gea,GK,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+David de Gea,GK,Man Utd,Leicester,90,0,0,2,0,12,0,0,0,1,0,0,1.4,13.8,0.0,0.0,True,1
+David de Gea,GK,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+David de Gea,GK,Man Utd,Fulham,90,0,0,1,0,15,0,0,0,4,0,0,3.5,34.6,0.0,0.0,True,3
+David de Gea,GK,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

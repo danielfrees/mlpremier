@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Fabian Schär,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Burnley,54,0,0,0,0,2,0,0,0,0,0,0,0.3,2.4,0.1,0.0,True,1
+Fabian Schär,DEF,Newcastle,Man Utd,41,0,0,3,0,5,0,0,0,0,0,0,0.8,6.6,0.7,1.0,True,0
+Fabian Schär,DEF,Newcastle,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,1.8,17.6,0.5,0.0,False,2
+Fabian Schär,DEF,Newcastle,Everton,90,0,0,1,0,5,0,0,0,0,0,0,1.6,13.8,0.3,2.0,True,2
+Fabian Schär,DEF,Newcastle,Southampton,90,0,0,2,0,13,0,0,0,0,0,0,1.7,16.6,0.7,0.0,False,1
+Fabian Schär,DEF,Newcastle,Chelsea,45,0,0,1,0,6,0,0,0,0,0,0,0.4,3.4,0.3,0.0,True,1
+Fabian Schär,DEF,Newcastle,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+Fabian Schär,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Man City,90,0,0,2,0,10,1,0,0,0,0,0,1.9,16.2,0.6,2.0,False,0
+Fabian Schär,DEF,Newcastle,Liverpool,90,0,0,0,1,26,0,0,0,0,0,0,3.1,30.8,0.0,0.0,True,6
+Fabian Schär,DEF,Newcastle,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,1.8,18.0,0.4,0.0,True,1
+Fabian Schär,DEF,Newcastle,Sheffield Utd,90,0,0,1,0,4,1,0,0,0,0,0,3.6,21.0,0.3,15.0,False,1
+Fabian Schär,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Aston Villa,90,0,0,2,0,7,1,0,0,0,0,0,1.7,16.0,1.1,0.0,False,0
+Fabian Schär,DEF,Newcastle,Leeds,90,0,0,2,0,9,1,0,0,0,0,0,4.4,18.0,1.5,24.0,True,0
+Fabian Schär,DEF,Newcastle,Everton,90,0,0,0,1,27,0,0,0,0,0,0,3.8,17.8,0.4,20.0,False,7
+Fabian Schär,DEF,Newcastle,Crystal Palace,90,0,0,2,0,6,0,0,0,0,0,0,3.7,10.6,1.5,25.0,True,1
+Fabian Schär,DEF,Newcastle,Southampton,90,0,0,2,0,6,0,0,0,0,0,0,1.8,7.6,0.3,10.0,True,1
+Fabian Schär,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Arsenal,17,0,0,0,0,-8,0,1,0,0,0,0,0.0,0.0,0.3,0.0,True,-2
+Fabian Schär,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Fabian Schär,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Fabian Schär,DEF,Newcastle,Fulham,17,1,0,0,0,15,0,0,0,0,0,0,5.2,34.6,0.0,17.0,False,7

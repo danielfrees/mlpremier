@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Crysencio Summerville,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Newcastle,23,0,0,0,0,4,0,0,0,0,0,0,0.9,2.4,2.8,4.0,False,1
+Crysencio Summerville,MID,Leeds,West Ham,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
+Crysencio Summerville,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Southampton,9,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1
+Crysencio Summerville,MID,Leeds,Wolves,36,0,0,0,0,3,0,0,0,0,0,0,3.6,6.8,3.3,26.0,True,1
+Crysencio Summerville,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Arsenal,50,0,0,1,0,2,0,0,0,0,0,0,2.5,4.0,14.8,6.0,True,1
+Crysencio Summerville,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,West Brom,7,0,0,0,0,7,0,0,0,0,0,0,1.5,5.2,10.2,0.0,False,1
+Crysencio Summerville,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Crysencio Summerville,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Crysencio Summerville,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

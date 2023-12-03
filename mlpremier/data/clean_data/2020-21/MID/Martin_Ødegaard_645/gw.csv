@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Martin Ødegaard,MID,Arsenal,Man Utd,7,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
+Martin Ødegaard,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Martin Ødegaard,MID,Arsenal,Aston Villa,25,0,0,0,0,0,0,0,0,0,0,0,1.2,0.0,4.9,8.0,False,1
+Martin Ødegaard,MID,Arsenal,Leeds,77,0,0,2,0,12,0,0,0,0,0,0,4.8,5.2,13.0,30.0,True,2
+Martin Ødegaard,MID,Arsenal,Man City,72,0,0,1,0,13,0,0,0,0,0,0,1.7,3.2,9.6,4.0,True,2
+Martin Ødegaard,MID,Arsenal,Leicester,48,0,0,0,0,5,0,0,0,0,0,0,2.3,7.0,14.1,2.0,False,1
+Martin Ødegaard,MID,Arsenal,Burnley,62,0,0,1,0,12,0,0,0,0,0,0,5.4,7.8,29.1,17.0,False,2
+Martin Ødegaard,MID,Arsenal,Spurs,90,1,0,1,0,31,0,0,0,0,0,0,9.6,46.8,28.3,21.0,True,10
+Martin Ødegaard,MID,Arsenal,West Ham,90,0,0,3,0,21,0,0,0,0,0,0,12.2,21.0,59.8,41.0,False,2
+Martin Ødegaard,MID,Arsenal,Liverpool,90,0,0,3,0,10,0,0,0,0,0,0,1.2,3.8,8.0,0.0,True,2
+Martin Ødegaard,MID,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Martin Ødegaard,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Martin Ødegaard,MID,Arsenal,Everton,16,0,0,1,0,3,0,0,0,0,0,0,0.4,0.6,3.6,0.0,True,1
+Martin Ødegaard,MID,Arsenal,Newcastle,84,0,0,0,1,19,0,0,0,0,0,0,9.3,17.6,67.6,8.0,False,3
+Martin Ødegaard,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Martin Ødegaard,MID,Arsenal,Chelsea,90,0,0,0,1,13,0,0,0,0,0,0,3.6,4.6,16.9,14.0,False,3
+Martin Ødegaard,MID,Arsenal,Crystal Palace,25,0,1,0,0,17,0,0,0,0,0,0,3.8,19.4,16.6,2.0,False,4
+Martin Ødegaard,MID,Arsenal,Brighton,85,0,1,0,1,25,0,0,0,0,0,0,10.4,32.8,51.0,20.0,True,6

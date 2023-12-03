@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Conor Townsend,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,Chelsea,90,0,0,3,0,9,0,0,0,0,0,0,1.8,12.2,1.4,4.0,True,1
+Conor Townsend,DEF,West Brom,Southampton,90,0,0,2,0,12,0,0,0,0,0,0,1.8,15.6,2.3,0.0,False,1
+Conor Townsend,DEF,West Brom,Burnley,90,0,0,0,1,26,0,0,0,0,0,0,6.7,20.4,27.7,19.0,True,7
+Conor Townsend,DEF,West Brom,Brighton,90,0,0,1,0,16,0,0,0,0,0,0,3.9,16.4,18.9,4.0,False,4
+Conor Townsend,DEF,West Brom,Fulham,90,0,0,2,0,16,0,0,0,0,0,0,3.2,20.4,7.8,4.0,False,1
+Conor Townsend,DEF,West Brom,Spurs,90,0,0,1,0,10,0,0,0,0,0,0,2.7,15.4,11.8,0.0,True,2
+Conor Townsend,DEF,West Brom,Man Utd,90,0,0,1,0,17,0,0,0,0,0,0,4.9,27.8,1.8,19.0,False,2
+Conor Townsend,DEF,West Brom,Sheffield Utd,74,0,0,0,1,22,0,0,0,0,0,0,1.3,10.8,2.5,0.0,True,6
+Conor Townsend,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Conor Townsend,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Conor Townsend,DEF,West Brom,Sheffield Utd,90,0,0,2,0,10,0,0,0,0,0,0,3.2,16.4,11.3,4.0,False,1
+Conor Townsend,DEF,West Brom,Spurs,90,0,0,2,0,17,0,0,0,0,0,0,3.9,17.6,15.6,6.0,False,1
+Conor Townsend,DEF,West Brom,Man Utd,90,0,0,1,0,10,0,0,0,0,0,0,3.3,18.8,14.5,0.0,True,2
+Conor Townsend,DEF,West Brom,Burnley,90,0,0,0,1,19,0,0,0,0,0,0,0.6,4.0,1.3,1.0,False,6
+Conor Townsend,DEF,West Brom,Brighton,90,0,0,0,1,15,0,0,0,0,0,0,0.0,0.0,2.1,0.0,True,6
+Conor Townsend,DEF,West Brom,Everton,90,0,0,1,0,15,0,0,0,0,0,0,2.9,20.6,5.9,2.0,True,2
+Conor Townsend,DEF,West Brom,Newcastle,90,0,0,0,1,38,0,0,0,0,0,0,10.9,33.8,68.8,6.0,True,9
+Conor Townsend,DEF,West Brom,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,5.9,10.4,26.3,22.0,False,2
+Conor Townsend,DEF,West Brom,Chelsea,90,0,0,2,0,5,0,0,0,0,0,0,1.1,6.4,1.3,3.0,False,1
+Conor Townsend,DEF,West Brom,Southampton,90,0,0,0,1,25,0,0,0,0,0,0,6.3,15.8,25.7,21.0,True,6
+Conor Townsend,DEF,West Brom,Leicester,90,0,0,3,0,5,0,0,0,0,0,0,0.3,2.0,1.0,0.0,False,1
+Conor Townsend,DEF,West Brom,Aston Villa,90,0,0,2,0,16,0,0,0,0,0,0,3.6,25.6,10.5,0.0,False,1
+Conor Townsend,DEF,West Brom,Wolves,90,0,1,1,0,21,0,0,0,0,0,0,7.8,41.6,15.0,21.0,True,5
+Conor Townsend,DEF,West Brom,Arsenal,90,0,1,3,0,34,0,0,0,0,0,0,9.0,38.0,50.1,2.0,False,6
+Conor Townsend,DEF,West Brom,Liverpool,90,0,0,2,0,9,0,0,0,0,0,0,1.7,15.8,1.4,0.0,True,1
+Conor Townsend,DEF,West Brom,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,3.2,9.6,6.8,16.0,True,1
+Conor Townsend,DEF,West Brom,Leeds,90,0,0,3,0,8,0,0,0,0,0,0,3.7,24.8,12.0,0.0,False,1

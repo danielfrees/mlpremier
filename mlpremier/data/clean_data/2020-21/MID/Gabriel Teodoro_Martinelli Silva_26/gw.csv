@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Everton,19,0,0,0,0,2,0,0,0,0,0,0,0.9,1.4,1.8,6.0,False,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Chelsea,70,0,0,0,1,2,0,0,0,0,0,0,6.9,9.4,1.1,58.0,True,3
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Brighton,65,0,0,0,1,5,0,0,0,0,0,0,0.4,0.0,0.8,4.0,False,3
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Newcastle,8,0,0,0,0,1,0,0,0,0,0,0,0.4,0.0,0.5,4.0,True,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Man Utd,45,0,0,0,0,8,0,0,0,0,0,0,2.5,7.6,13.6,4.0,True,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,West Ham,9,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Liverpool,13,0,0,1,0,3,0,0,0,0,0,0,0.3,2.0,0.8,0.0,True,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Sheffield Utd,82,1,0,0,1,21,0,0,0,0,0,0,11.9,36.4,12.1,70.0,False,8
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Fulham,90,0,0,1,0,10,0,0,0,0,0,0,11.8,17.6,36.3,64.0,True,2
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Everton,16,0,0,1,0,3,0,0,0,0,0,0,2.3,4.0,0.3,19.0,True,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Newcastle,90,0,1,0,1,23,0,0,0,0,0,0,9.0,29.0,54.2,7.0,False,6
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,West Brom,59,0,0,0,0,1,0,0,0,0,0,0,3.6,1.0,11.8,23.0,True,1
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Crystal Palace,12,1,0,0,0,22,0,0,0,0,0,0,6.6,33.0,0.3,33.0,False,6
+Gabriel Teodoro Martinelli Silva,MID,Arsenal,Brighton,4,0,0,0,0,3,0,0,0,0,0,0,0.9,1.0,0.1,8.0,True,1

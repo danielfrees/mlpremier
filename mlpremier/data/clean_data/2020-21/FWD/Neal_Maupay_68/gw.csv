@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Neal Maupay,FWD,Brighton,Chelsea,90,0,0,3,0,1,0,0,0,0,0,0,0.7,0.0,1.0,8.0,True,2
+Neal Maupay,FWD,Brighton,Newcastle,90,2,1,0,1,66,0,0,0,0,0,0,16.3,88.4,14.6,60.0,False,16
+Neal Maupay,FWD,Brighton,Man Utd,90,1,0,3,0,33,0,0,0,0,0,0,14.1,40.2,38.7,62.0,True,8
+Neal Maupay,FWD,Brighton,Everton,90,1,0,4,0,26,0,0,0,0,0,0,11.9,40.0,5.8,73.0,False,6
+Neal Maupay,FWD,Brighton,Crystal Palace,90,0,0,1,0,2,0,0,0,0,0,0,10.1,5.6,13.2,82.0,False,2
+Neal Maupay,FWD,Brighton,West Brom,90,0,0,1,0,-1,0,0,0,0,0,0,3.3,6.8,2.8,23.0,True,2
+Neal Maupay,FWD,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Neal Maupay,FWD,Brighton,Burnley,90,0,0,0,1,8,0,0,0,0,0,0,6.2,6.2,6.5,49.0,True,2
+Neal Maupay,FWD,Brighton,Aston Villa,79,0,0,1,0,-3,0,0,0,0,0,0,3.0,0.0,3.5,29.0,False,2
+Neal Maupay,FWD,Brighton,Liverpool,24,0,0,0,0,-3,0,0,0,0,1,0,1.8,0.0,14.6,4.0,True,-1
+Neal Maupay,FWD,Brighton,Southampton,26,0,0,1,0,3,0,0,0,0,0,0,1.9,2.4,10.4,6.0,True,1
+Neal Maupay,FWD,Brighton,Leicester,90,0,0,3,0,4,0,0,0,0,0,0,4.7,7.8,2.8,36.0,False,2
+Neal Maupay,FWD,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Neal Maupay,FWD,Brighton,Sheffield Utd,65,0,0,1,0,1,0,0,0,0,0,0,7.2,1.8,12.1,58.0,True,2
+Neal Maupay,FWD,Brighton,West Ham,89,1,0,2,0,24,0,0,0,0,0,0,8.7,36.2,6.2,45.0,False,7
+Neal Maupay,FWD,Brighton,Arsenal,23,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1
+Neal Maupay,FWD,Brighton,Wolves,90,1,0,3,0,30,0,0,0,0,0,0,7.7,35.8,2.3,39.0,True,7
+Neal Maupay,FWD,Brighton,Man City,22,0,0,0,0,1,0,0,0,0,0,0,0.8,0.0,0.0,8.0,False,1
+Neal Maupay,FWD,Brighton,Leeds,80,1,0,0,1,32,0,0,0,0,0,0,8.5,31.4,12.3,41.0,False,9
+Neal Maupay,FWD,Brighton,Fulham,90,0,0,0,1,2,0,0,0,0,0,0,8.4,6.4,21.8,56.0,True,2
+Neal Maupay,FWD,Brighton,Spurs,78,0,0,0,1,4,1,0,0,0,0,0,5.1,4.4,23.6,23.0,True,1
+Neal Maupay,FWD,Brighton,Liverpool,82,0,0,0,1,4,0,0,0,0,0,0,3.6,0.0,12.9,24.0,False,2
+Neal Maupay,FWD,Brighton,Burnley,61,0,0,1,0,2,0,0,0,0,0,0,2.4,0.0,12.3,12.0,False,2
+Neal Maupay,FWD,Brighton,Aston Villa,79,0,0,0,1,8,0,0,0,0,0,0,7.0,2.4,22.2,45.0,True,2
+Neal Maupay,FWD,Brighton,Crystal Palace,90,0,0,2,0,7,0,0,0,0,0,0,8.3,10.0,34.1,39.0,True,2
+Neal Maupay,FWD,Brighton,West Brom,90,0,0,1,0,7,0,0,0,0,0,0,10.4,13.2,28.3,62.0,False,2
+Neal Maupay,FWD,Brighton,Leicester,78,0,1,1,0,14,0,0,0,0,0,0,4.1,16.4,14.7,10.0,True,5
+Neal Maupay,FWD,Brighton,Southampton,90,0,0,1,0,0,0,0,0,0,0,0,3.4,9.4,1.9,23.0,False,2
+Neal Maupay,FWD,Brighton,Newcastle,90,1,0,0,1,33,0,0,0,0,0,0,12.0,42.4,32.8,45.0,True,8
+Neal Maupay,FWD,Brighton,Man Utd,90,0,0,2,0,12,0,0,0,0,0,0,3.3,11.8,16.9,4.0,False,2
+Neal Maupay,FWD,Brighton,Everton,86,0,0,0,1,9,0,0,0,0,0,0,7.6,5.0,33.0,38.0,True,2
+Neal Maupay,FWD,Brighton,Chelsea,16,0,0,0,0,6,0,0,0,0,0,0,3.3,4.0,10.6,18.0,False,1
+Neal Maupay,FWD,Brighton,Sheffield Utd,90,0,0,1,0,1,0,0,0,0,0,0,9.1,12.2,13.9,65.0,False,2
+Neal Maupay,FWD,Brighton,Leeds,90,0,0,0,1,2,0,0,0,0,0,0,2.4,0.8,13.0,10.0,True,2
+Neal Maupay,FWD,Brighton,Wolves,90,0,0,2,0,-4,0,1,0,0,0,0,1.1,1.0,3.8,6.0,False,-1
+Neal Maupay,FWD,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Neal Maupay,FWD,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Neal Maupay,FWD,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

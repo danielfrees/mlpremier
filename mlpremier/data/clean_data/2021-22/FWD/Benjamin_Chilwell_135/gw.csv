@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Benjamin Chilwell,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Southampton,90,1,0,1,0,17,0,0,0,0,0,0,15.7,40.0,41.6,75.0,True,8
+Benjamin Chilwell,DEF,Chelsea,Brighton,90,1,0,0,1,38,0,0,0,0,0,0,7.7,53.4,4.8,19.0,False,15
+Benjamin Chilwell,DEF,Chelsea,Sheffield Utd,90,1,0,0,1,30,0,0,0,0,0,0,7.3,37.0,15.5,20.0,True,12
+Benjamin Chilwell,DEF,Chelsea,Newcastle,90,0,0,0,1,29,0,0,0,0,0,0,4.7,8.6,32.2,6.0,False,8
+Benjamin Chilwell,DEF,Chelsea,Chelsea,90,0,0,1,0,15,0,0,0,0,0,0,9.4,9.2,26.8,58.0,True,2
+Benjamin Chilwell,DEF,Chelsea,Leicester,90,0,1,0,1,29,0,0,0,0,0,0,9.2,27.4,40.1,24.0,False,9
+Benjamin Chilwell,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Benjamin Chilwell,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Benjamin Chilwell,DEF,Chelsea,West Brom,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1

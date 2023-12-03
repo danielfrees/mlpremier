@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Nathan Tella,MID,Southampton,Fulham,10,0,0,1,0,2,0,0,0,0,0,0,0.3,0.2,0.3,2.0,False,1
+Nathan Tella,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Crystal Palace,72,0,0,1,0,5,0,0,0,0,0,0,1.7,3.4,5.2,8.0,False,2
+Nathan Tella,MID,Southampton,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Nathan Tella,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Liverpool,45,0,0,1,0,8,0,0,0,0,0,0,4.1,12.2,24.4,4.0,False,1
+Nathan Tella,MID,Southampton,Leicester,64,0,0,2,0,7,0,0,0,0,0,0,5.2,7.6,15.5,29.0,True,2
+Nathan Tella,MID,Southampton,Burnley,83,0,0,0,1,0,1,0,0,0,0,0,0.9,0.0,5.6,5.0,True,2
+Nathan Tella,MID,Southampton,Arsenal,90,0,0,3,0,5,0,0,0,0,0,0,6.8,11.6,21.5,35.0,False,2
+Nathan Tella,MID,Southampton,Everton,81,0,0,2,0,4,0,0,0,0,0,0,2.1,0.0,2.1,21.0,False,2
+Nathan Tella,MID,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Brighton,69,0,0,1,0,10,0,0,0,0,0,0,0.6,3.0,2.0,1.0,True,2
+Nathan Tella,MID,Southampton,Wolves,70,0,0,2,0,4,0,0,0,0,0,0,0.7,4.6,1.9,0.0,False,2
+Nathan Tella,MID,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Leeds,3,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
+Nathan Tella,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Nathan Tella,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Burnley,65,0,1,2,0,13,0,0,0,0,0,0,3.5,1.6,11.4,22.0,False,5
+Nathan Tella,MID,Southampton,Everton,79,0,0,1,0,10,0,0,0,0,0,0,2.1,12.2,1.6,7.0,True,2
+Nathan Tella,MID,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Nathan Tella,MID,Southampton,Liverpool,70,0,1,2,0,9,1,0,0,0,0,0,3.7,23.0,10.4,4.0,True,4
+Nathan Tella,MID,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

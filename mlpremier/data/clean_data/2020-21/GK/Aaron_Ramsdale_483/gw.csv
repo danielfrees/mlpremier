@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Aaron Ramsdale,GK,Sheffield Utd,Wolves,90,0,0,2,0,12,0,0,0,2,0,0,1.8,18.2,0.0,0.0,True,1
+Aaron Ramsdale,GK,Sheffield Utd,Aston Villa,90,0,0,1,0,10,0,0,0,1,0,0,1.1,11.2,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Leeds,90,0,0,1,0,26,0,0,0,7,0,0,5.2,42.0,10.0,0.0,True,4
+Aaron Ramsdale,GK,Sheffield Utd,Arsenal,90,0,0,2,0,13,0,0,0,3,0,0,2.1,18.6,0.0,2.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Fulham,90,0,0,1,0,18,0,0,0,5,0,0,2.8,27.8,0.0,0.0,True,3
+Aaron Ramsdale,GK,Sheffield Utd,Liverpool,90,0,0,2,0,14,0,0,0,3,0,0,2.2,21.8,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Man City,90,0,0,1,0,24,0,0,0,7,0,0,4.4,44.0,0.0,0.0,True,4
+Aaron Ramsdale,GK,Sheffield Utd,Chelsea,90,0,0,4,0,17,0,0,0,6,0,0,3.1,30.8,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,West Ham,90,0,0,1,0,12,0,0,0,2,0,0,1.8,18.2,0.0,0.0,True,2
+Aaron Ramsdale,GK,Sheffield Utd,West Brom,90,0,0,1,0,18,0,0,0,5,0,0,3.5,35.2,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Leicester,90,0,0,2,0,13,0,0,0,2,0,0,1.9,17.2,0.0,2.0,True,1
+Aaron Ramsdale,GK,Sheffield Utd,Southampton,90,0,0,3,0,20,0,0,0,3,0,0,2.5,25.0,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Man Utd,90,0,0,3,0,15,0,0,0,4,0,0,2.7,26.6,0.0,0.0,True,2
+Aaron Ramsdale,GK,Sheffield Utd,Brighton,90,0,0,1,0,12,1,0,0,3,0,0,2.0,20.2,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Everton,90,0,0,1,0,12,0,0,0,2,0,0,1.1,10.8,0.0,0.0,True,2
+Aaron Ramsdale,GK,Sheffield Utd,Burnley,90,0,0,1,0,12,0,0,0,2,0,0,1.7,17.2,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Crystal Palace,90,0,0,2,0,13,0,0,0,2,0,0,1.6,15.8,0.0,0.0,False,1
+Aaron Ramsdale,GK,Sheffield Utd,Newcastle,90,0,0,0,1,28,0,0,0,3,0,0,1.9,19.4,0.0,0.0,True,9
+Aaron Ramsdale,GK,Sheffield Utd,Spurs,90,0,0,3,0,11,0,0,0,2,0,0,1.0,10.2,0.0,0.0,True,1
+Aaron Ramsdale,GK,Sheffield Utd,Man Utd,90,0,0,1,0,16,0,0,0,3,0,0,2.0,20.0,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Man City,90,0,0,1,0,16,0,0,0,4,0,0,3.0,30.2,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,West Brom,90,0,0,1,0,15,0,0,0,3,0,0,2.6,26.0,0.0,0.0,True,3
+Aaron Ramsdale,GK,Sheffield Utd,Chelsea,90,0,0,2,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Aaron Ramsdale,GK,Sheffield Utd,West Ham,90,0,0,3,0,21,0,0,0,6,0,0,3.8,37.8,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Fulham,90,0,0,1,0,18,0,0,0,4,0,0,2.2,21.6,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Liverpool,90,0,0,2,0,23,0,0,0,7,0,0,5.6,55.8,0.0,0.0,True,3
+Aaron Ramsdale,GK,Sheffield Utd,Aston Villa,90,0,0,0,1,32,0,0,0,4,0,0,3.1,30.8,0.0,0.0,True,10
+Aaron Ramsdale,GK,Sheffield Utd,Southampton,90,0,0,2,0,18,0,0,0,5,0,0,3.4,34.4,0.0,0.0,True,2
+Aaron Ramsdale,GK,Sheffield Utd,Leicester,90,0,0,5,0,18,0,0,0,5,0,0,4.2,41.8,0.0,0.0,False,1
+Aaron Ramsdale,GK,Sheffield Utd,Leeds,90,0,0,2,0,24,0,0,0,7,0,0,4.7,46.8,0.0,0.0,False,4
+Aaron Ramsdale,GK,Sheffield Utd,Arsenal,90,0,0,3,0,13,0,0,0,2,0,0,1.7,17.4,0.0,0.0,True,1
+Aaron Ramsdale,GK,Sheffield Utd,Wolves,90,0,0,1,0,16,0,0,0,3,0,0,2.2,22.0,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Brighton,90,0,0,0,1,27,0,0,0,4,0,0,3.0,30.4,0.0,0.0,True,9
+Aaron Ramsdale,GK,Sheffield Utd,Spurs,90,0,0,4,0,22,0,0,0,6,0,0,3.1,31.4,0.0,0.0,False,2
+Aaron Ramsdale,GK,Sheffield Utd,Crystal Palace,90,0,0,2,0,22,0,0,0,6,0,0,5.1,50.6,0.0,0.0,True,3
+Aaron Ramsdale,GK,Sheffield Utd,Everton,90,0,0,0,1,33,0,0,0,6,0,0,4.6,46.0,0.0,0.0,False,10
+Aaron Ramsdale,GK,Sheffield Utd,Newcastle,90,0,0,1,0,17,0,0,0,4,0,0,2.8,27.8,0.0,0.0,False,3
+Aaron Ramsdale,GK,Sheffield Utd,Burnley,90,0,0,0,1,30,0,0,0,3,0,0,3.2,22.0,10.0,0.0,True,9

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Angelo Ogbonna,DEF,West Ham,Newcastle,90,0,0,2,0,18,0,0,0,0,0,0,1.3,12.0,0.9,0.0,False,1
+Angelo Ogbonna,DEF,West Ham,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,1.5,13.2,0.2,2.0,True,2
+Angelo Ogbonna,DEF,West Ham,Everton,90,0,0,2,0,12,0,0,0,0,0,0,1.1,7.8,0.8,2.0,True,1
+Angelo Ogbonna,DEF,West Ham,Southampton,90,0,0,0,1,30,0,0,0,0,0,0,1.6,15.2,0.5,0.0,False,9
+Angelo Ogbonna,DEF,West Ham,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,2.1,20.8,0.3,0.0,True,1
+Angelo Ogbonna,DEF,West Ham,Leeds,90,0,0,1,0,7,0,0,0,0,0,0,1.5,13.8,1.0,0.0,False,2
+Angelo Ogbonna,DEF,West Ham,Brighton,90,0,0,2,0,10,0,0,0,0,0,0,1.9,8.6,0.3,10.0,True,1
+Angelo Ogbonna,DEF,West Ham,Fulham,90,1,0,0,1,41,0,0,0,0,0,0,10.6,52.8,0.5,53.0,False,15
+Angelo Ogbonna,DEF,West Ham,Spurs,90,0,0,0,1,18,1,0,0,0,0,0,1.0,9.4,0.5,0.0,True,5
+Angelo Ogbonna,DEF,West Ham,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,1.4,13.4,0.3,0.0,False,2
+Angelo Ogbonna,DEF,West Ham,Liverpool,21,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
+Angelo Ogbonna,DEF,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Angelo Ogbonna,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Angelo Ogbonna,DEF,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0

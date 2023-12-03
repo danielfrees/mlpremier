@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
+Tariq Lamptey,DEF,Brighton,Chelsea,90,0,1,3,0,22,1,0,0,0,0,0,8.1,33.8,27.3,20.0,True,3
+Tariq Lamptey,DEF,Brighton,Newcastle,57,0,1,0,0,12,0,0,0,0,0,0,2.7,4.8,0.9,21.0,False,4
+Tariq Lamptey,DEF,Brighton,Man Utd,90,0,1,3,0,21,0,0,0,0,0,0,1.5,10.0,2.5,2.0,True,4
+Tariq Lamptey,DEF,Brighton,Everton,45,0,0,2,0,9,0,0,0,0,0,0,2.3,8.0,15.1,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Crystal Palace,90,0,0,1,0,10,0,0,0,0,0,0,8.6,15.0,47.0,24.0,False,2
+Tariq Lamptey,DEF,Brighton,West Brom,90,0,0,1,0,1,1,0,0,0,0,0,2.0,12.0,2.3,6.0,True,1
+Tariq Lamptey,DEF,Brighton,Spurs,78,1,0,2,0,24,0,0,0,0,0,0,6.0,38.2,2.6,19.0,False,9
+Tariq Lamptey,DEF,Brighton,Burnley,90,0,0,0,1,24,0,0,0,0,0,0,8.6,11.6,27.9,46.0,True,6
+Tariq Lamptey,DEF,Brighton,Aston Villa,90,0,0,1,0,-1,0,1,0,0,0,0,3.4,3.8,22.4,8.0,False,-1
+Tariq Lamptey,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Southampton,90,0,0,2,0,12,0,0,0,0,0,0,3.1,10.6,12.5,8.0,True,1
+Tariq Lamptey,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Fulham,77,0,0,0,1,22,0,0,0,0,0,0,0.4,0.0,2.4,2.0,False,6
+Tariq Lamptey,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+Tariq Lamptey,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+Tariq Lamptey,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
