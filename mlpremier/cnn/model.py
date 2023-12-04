@@ -2,15 +2,12 @@
 Construct and train CNN models for the FPL Regression Task.
 """
 import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv1D, Dense, Flatten, MaxPool1D
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.callbacks import EarlyStopping 
-from tensorflow.keras.optimizers.legacy import SGD
 from mlpremier.cnn.preprocess import generate_cnn_data, split_preprocess_cnn_data
 from typing import Tuple, List
 import os
-from mlpremier.cnn.evaluate import plot_learning_curve, log_evaluation
+from mlpremier.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 
 STANDARD_NUM_FEATURES = ['minutes', 'goals_scored', 'assists', 'goals_conceded',
                           'clean_sheets', 'bps', 'yellow_cards', 'red_cards', 
@@ -24,6 +21,7 @@ def create_cnn(input_shape: Tuple,
                num_dense: int,
                conv_activation: str = 'relu',
                dense_activation: str = 'relu',
+               optimizer: str = 'adam',
                learning_rate: float = 0.001,
                loss: str = 'mse',
                metrics: List[str] = ['mae'],
@@ -50,17 +48,18 @@ def create_cnn(input_shape: Tuple,
     # Output layer with linear activation for regression
     model.add(Dense(1, activation='linear', kernel_regularizer=l2(regularization)))
     """
-    model = tf.keras.Sequential([
+    model = tf.keras.models.Sequential([
         tf.keras.Input(shape=input_shape),
         tf.keras.layers.Conv1D(filters=num_filters,
                                kernel_size=kernel_size,
-                               input_shape=input_shape),
-        tf.keras.layers.MaxPool1D(input_shape=input_shape),
-        tf.keras.layers.Dense(units=num_dense,input_shape=input_shape),
-        tf.keras.layers.Dense(units=1,input_shape=input_shape),
+                               activation=conv_activation),
+        tf.keras.layers.Flatten(),
+        tf.keras.layers.Dense(units=num_dense,activation=dense_activation),
+        tf.keras.layers.Dense(units=1,activation='linear'),
     ])
 
-    optimizer = SGD(learning_rate=learning_rate)
+    if optimizer == 'sgd':
+        optimizer = tf.keras.optimizers.legacy.SGD(learning_rate=learning_rate)
     model.compile(optimizer=optimizer, loss=loss, metrics=metrics)  
     
     # Stop early if change in validation loss for 10 iterations is 
@@ -91,6 +90,7 @@ def build_train_cnn(data_dir: str,
               cat_features: List[str] = STANDARD_CAT_FEATURES, 
               conv_activation: str = 'relu',
               dense_activation: str = 'relu',
+              optimizer: str = 'adam',
               learning_rate: float = 0.001,
               loss: str = 'mse',
               metrics: List[str] = ['mae'],
@@ -98,8 +98,6 @@ def build_train_cnn(data_dir: str,
               regularization: float = 0.001, 
               tolerance: float = 1e-3,
               plot: bool = False, 
-              log: bool = False,   #whether to save eval results to a csv,
-              log_file: str = None,
               standardize: bool = True):
     
     df, features_df = generate_cnn_data(data_dir=data_dir,
@@ -128,6 +126,7 @@ def build_train_cnn(data_dir: str,
                        conv_activation=conv_activation,
                        dense_activation=dense_activation,
                        learning_rate=learning_rate,
+                       optimizer=optimizer,
                        loss=loss,
                        metrics=metrics,
                        verbose=verbose,
@@ -141,50 +140,35 @@ def build_train_cnn(data_dir: str,
                         validation_data=(X_val, y_val)) #callbacks = [early_stopping]
     
 
-    # Evaluate on test set
-    test_loss, test_mae = model.evaluate(X_test, y_test)
+    # Evaluate Loss and Metrics, Assign to dictionary along with experiment hyperparams
+    expt_res = eval_cnn(season=season,
+            position=position,
+            model=model,
+            X_train=X_train, y_train=y_train,
+            X_val=X_val, y_val=y_val,
+            X_test=X_test, y_test=y_test,
+            verbose=verbose,
+            kernel_size=kernel_size, 
+            num_filters=num_filters, 
+            conv_activation=conv_activation,
+            dense_activation=dense_activation,
+            optimizer=optimizer,
+            learning_rate=learning_rate,
+            loss=loss,
+            metrics=metrics,
+            regularization=regularization,
+            standardize=standardize,
+            num_features=num_features,
+            cat_features=cat_features)
+    
+    # Print Test Set Evaluation
+    test_loss, test_mae = (expt_res['test_mse'], expt_res['test_mae'])
     print(f'Test Loss (MSE): {test_loss}, Test Mean Absolute Error (MAE): {test_mae}')
 
     if plot:
         plot_learning_curve(season,
                             position,
-                            model, history, 
-                            X_train, y_train,
-                            X_val, y_val,
-                            X_test, y_test,
-                            input_shape=input_shape, 
-                            kernel_size=kernel_size, 
-                            num_filters=num_filters, 
-                            conv_activation=conv_activation,
-                            dense_activation=dense_activation,
-                            learning_rate=learning_rate,
-                            loss=loss,
-                            metrics=metrics,
-                            verbose=verbose,
-                            regularization=regularization,
-                            tolerance=tolerance,
-                            standardize=standardize)
-        
-    if log: 
-        log_evaluation(log_file=log_file,
-                    season=season,
-                    position=position,
-                    model=model,
-                    history=history,
-                    X_train=X_train, y_train=y_train,
-                    X_val=X_val, y_val=y_val,
-                    X_test=X_test, y_test=y_test,
-                    verbose=verbose,
-                    input_shape=input_shape, 
-                    kernel_size=kernel_size, 
-                    num_filters=num_filters, 
-                    conv_activation=conv_activation,
-                    dense_activation=dense_activation,
-                    learning_rate=learning_rate,
-                    loss=loss,
-                    metrics=metrics,
-                    regularization=regularization,
-                    tolerance=tolerance,
-                    standardize=standardize)
+                            history, 
+                            expt_res)
 
-    return model, history
+    return model, expt_res

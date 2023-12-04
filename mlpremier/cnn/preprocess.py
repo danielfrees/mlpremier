@@ -254,7 +254,6 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     val_data = df[df['name'].isin(players_val)]
     test_data = df[df['name'].isin(players_test)]
 
-    # Drop player name from features
     X_train = np.array(train_data['features'].tolist())
     X_val = np.array(val_data['features'].tolist())
     X_test = np.array(test_data['features'].tolist())
