@@ -40,7 +40,7 @@ def combine_csv_position(position, window):
                 for col in columns_csv[:-3]:
                     # Exclude the current row from calculation by setting closed='left'
                     rl_col = dataset[col].rolling(
-                        window, min_periods=2, closed= "left").mean()
+                        window+1, min_periods=2, closed= "left").mean()
                     temp_df[col] = rl_col
                 # Other columns, kept as is
                 for col in columns_csv[-4:]:
@@ -59,6 +59,9 @@ def combine_csv_position(position, window):
 
 
 def main():
+    # Step into the "clean_data" directory
+    os.chdir("clean_data")
+    
     try:
         os.makedirs("windowed_data")
     except FileExistsError:
