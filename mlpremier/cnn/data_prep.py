@@ -78,16 +78,19 @@ def generate_cnn_data(data_dir : str,
                     ct_dropped_players += 1
                     continue
 
-                #all features except name 
+                # all features except name 
                 features = player_data.iloc[:, 1:] 
-                #FPL pts
+                # all players should have same position because of how we split 
+                # the data for separate position modeling
+                features.drop('position', axis=1) 
+                # FPL pts
                 targets = player_data.iloc[:, -1].values
 
                 # Create training samples using the specified window size
                 X, y, player_names = [], [], []
                 for i in range(len(player_data) - window_size):
-                    X.append(features.iloc[i:i + window_size]) #get window of features
-                    y.append(targets[i + window_size]) #get next weeks FPL points
+                    X.append(features.iloc[i:i + window_size]) # get window of features
+                    y.append(targets[i + window_size]) # get next weeks FPL points
                     player_names.append(player_data['name'].iloc[i + window_size])
 
                 all_windowed_data.extend(list(zip(player_names, X, y)))
@@ -141,7 +144,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
                           'own_goals', 'saves', 'penalties_missed', 'penalties_saved',
                           'ict_index', 'influence', 'creativity', 'threat', 
                           'total_points']
-    categorical_features = ['position','team','opponent_team'] 
+    categorical_features = ['team', 'opponent_team'] #,'team','opponent_team'] 
 
     # Create transformers for numerical and categorical features
     numerical_transformer = StandardScaler()
