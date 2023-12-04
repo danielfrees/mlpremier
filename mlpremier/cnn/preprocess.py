@@ -1,3 +1,7 @@
+"""
+Preprocess data for an FPL Regression Model, given the desired architecture.
+"""
+
 import os
 import pandas as pd
 import numpy as np
@@ -6,6 +10,12 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from typing import Tuple, List
+
+STANDARD_NUM_FEATURES = ['minutes', 'goals_scored', 'assists', 'goals_conceded',
+                          'clean_sheets', 'bps', 'yellow_cards', 'red_cards', 
+                          'own_goals', 'saves', 'penalties_missed', 'penalties_saved',
+                          'ict_index', 'total_points']
+STANDARD_CAT_FEATURES = []
 
 def get_avg_playtime(player_data: pd.DataFrame) -> int:
     """
@@ -29,8 +39,10 @@ def generate_cnn_data(data_dir : str,
                         season : str,
                         position : str, 
                         window_size : int,
+                        num_features: List[str] = STANDARD_NUM_FEATURES,
+                        cat_features: List[str] = STANDARD_CAT_FEATURES,
                         drop_low_playtime : bool = True,
-                        low_playtime_cutoff : int = 35,
+                        low_playtime_cutoff : int = 25,
                         verbose: bool = False) -> Tuple[pd.DataFrame]:
     """
     Load and shape cnn data for a specific season and position. 
@@ -72,26 +84,25 @@ def generate_cnn_data(data_dir : str,
             player_csv = os.path.join(player_path, 'gw.csv')
             if os.path.isfile(player_csv):
                 player_data = pd.read_csv(player_csv)
-
                 # drop players with low avg playtime if requested
                 if drop_low_playtime and get_avg_playtime(player_data) < low_playtime_cutoff:
                     ct_dropped_players += 1
                     continue
 
-                # all features except name 
-                features = player_data.iloc[:, 1:] 
-                # all players should have same position because of how we split 
-                # the data for separate position modeling
-                features.drop('position', axis=1) 
+                #DROP USELESS FEATURES
+                features = player_data.copy()
+                cols_to_keep = num_features + cat_features
+                features = features.loc[:, cols_to_keep] 
                 # FPL pts
                 targets = player_data.iloc[:, -1].values
 
                 # Create training samples using the specified window size
                 X, y, player_names = [], [], []
+                player_name = player_data['name'][0]
                 for i in range(len(player_data) - window_size):
                     X.append(features.iloc[i:i + window_size]) # get window of features
                     y.append(targets[i + window_size]) # get next weeks FPL points
-                    player_names.append(player_data['name'].iloc[i + window_size])
+                    player_names.append(player_name)
 
                 all_windowed_data.extend(list(zip(player_names, X, y)))
                 all_features.append(features)
@@ -114,6 +125,9 @@ def generate_cnn_data(data_dir : str,
 def preprocess_cnn_data(windowed_df: pd.DataFrame, 
                          combined_features_df: pd.DataFrame,
                          train_players: List[str],
+                         standardize: bool = True,
+                         num_features: List[str] = STANDARD_NUM_FEATURES,
+                         cat_features: List[str] = STANDARD_CAT_FEATURES,
                          verbose: bool = False):
     """
     StandardScale and One Hot Encode the features in a DataFrame for preparation
@@ -139,15 +153,15 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
 
     df = windowed_df.copy()
 
-    numerical_features = ['minutes', 'goals_scored', 'assists', 'goals_conceded',
-                          'clean_sheets', 'bps', 'yellow_cards', 'red_cards', 
-                          'own_goals', 'saves', 'penalties_missed', 'penalties_saved',
-                          'ict_index', 'influence', 'creativity', 'threat', 
-                          'total_points']
-    categorical_features = ['team', 'opponent_team'] #,'team','opponent_team'] 
+    numerical_features = num_features
+    categorical_features = cat_features #,'team','opponent_team'] 
 
     # Create transformers for numerical and categorical features
-    numerical_transformer = StandardScaler()
+    numerical_transformer = None
+    if standardize:
+        numerical_transformer = StandardScaler()
+    else:
+        numerical_transformer = 'passthrough'
     categorical_transformer = OneHotEncoder()
 
     # Combine transformers using ColumnTransformer
@@ -156,7 +170,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
             ('num', numerical_transformer, numerical_features),
             ('cat', categorical_transformer, categorical_features)
         ],
-        remainder='passthrough'  # Include non-specified columns in the result
+        # remainder='passthrough'  # Include non-specified columns in the result
     )
 
     # Create a pipeline to apply the transformations
@@ -166,13 +180,16 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
     pipeline.fit(combined_features_df)
 
     if verbose:
-        # Print mean and standard deviation of the Standard Scaler
-        print("Mean of Standard Scaler:")
-        print(pipeline.named_steps[
-            'preprocessor'].named_transformers_['num'].mean_)
-        print("\nStandard Deviation of Standard Scaler:")
-        print(pipeline.named_steps
-              ['preprocessor'].named_transformers_['num'].scale_)
+        if standardize:
+            # Print mean and standard deviation of the Standard Scaler
+            print("Mean of Standard Scaler:")
+            print(pipeline.named_steps[
+                'preprocessor'].named_transformers_['num'].mean_)
+            print("\nStandard Deviation of Standard Scaler:")
+            print(pipeline.named_steps
+                ['preprocessor'].named_transformers_['num'].scale_)
+        else:
+            print("No StandardScaler applied. standardize=False.")
 
     # Apply the fitted pipeline to each 'features' DataFrame 
     # from the original DataFrame
@@ -188,6 +205,9 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
 
 def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
                     combined_features_df: pd.DataFrame,
+                    standardize: bool = True,
+                    num_features: List[str] = STANDARD_NUM_FEATURES,
+                    cat_features: List[str] = STANDARD_CAT_FEATURES,
                     verbose: bool = False) -> Tuple[np.array]:
     """
     Split and preprocess CNN data into training, validation, and test sets. 
@@ -208,23 +228,26 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     df = windowed_df.copy()
     if verbose:
         print(f"Shape of windowed_df: {windowed_df.shape}")
-        print(f"Shape of a given window: {windowed_df.loc[0, 'features'].shape}")
+        print(f"Shape of a given window (prior to preprocessing): {windowed_df.loc[0, 'features'].shape}")
     features_df = combined_features_df.copy()
-    # Split data into 70% train and 30% test (by player)
+    # Split data into 85% train and 15% test (by player)
     players = df['name'].unique()
     players_train, players_test = train_test_split(players, 
-                                                   test_size=0.3, 
+                                                   test_size=0.15, 
                                                    shuffle=True)
 
-    # Further split 10% of training data for validation
+    # Further split 30% of training data for validation
     players_train, players_val = train_test_split(players_train, 
-                                                  test_size=0.1, 
+                                                  test_size=0.3, 
                                                   shuffle=True)
     
     df = preprocess_cnn_data(df, 
-                             features_df, 
-                             train_players = players_train, 
-                             verbose = verbose)
+                            features_df, 
+                            train_players = players_train, 
+                            standardize = standardize,
+                            num_features = num_features, 
+                            cat_features = cat_features,
+                            verbose = verbose)
 
     # Filter data for train, validation, and test sets
     train_data = df[df['name'].isin(players_train)]
