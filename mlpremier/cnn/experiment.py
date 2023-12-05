@@ -85,7 +85,7 @@ def gridsearch_cnn(epochs: int = 200,
     for (season, position, window_size, kernel_size, num_filters, num_dense,
         low_playtime_cutoff, amt_num_feature, 
         optimizer, regularization) in itertools.product(
-        SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
+        *SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
         LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
         OPTIMIZERS, REGULARIZATIONS):
 
