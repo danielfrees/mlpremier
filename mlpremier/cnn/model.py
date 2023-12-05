@@ -22,28 +22,12 @@ def create_cnn(input_shape: Tuple,
                loss: str = 'mse',
                metrics: List[str] = ['mae'],
                verbose: bool = False,
-               regularization: float = 0.001,    #regularize convolution and dense layer
-               tolerance: float = 1e-5,
-               patience: int = 40):  
+               regularization: float = 0.001):  
 
     if verbose:
         print("====== Building CNN Architecture ======")
 
-    """
-    model = Sequential()
-    # 1D convolution over the performance window inputs with regularization
-    model.add(Conv1D(filters=num_filters, 
-                     kernel_size=kernel_size, 
-                     activation=conv_activation, 
-                     input_shape=input_shape,
-                     kernel_regularizer=l2(regularization)))  # Add regularization here
-    model.add(MaxPool1D)
-    # Fully connected NN layers with regularization
-    model.add(Dense(num_filters, activation=dense_activation, kernel_regularizer=l2(regularization)))
-    model.add(Dense(num_filters, activation=dense_activation, kernel_regularizer=l2(regularization)))
-    # Output layer with linear activation for regression
-    model.add(Dense(1, activation='linear', kernel_regularizer=l2(regularization)))
-    """
+    # ================= Set up Model Architecture ==================
     model = tf.keras.models.Sequential([
         tf.keras.Input(shape=input_shape),
         tf.keras.layers.Conv1D(filters=num_filters,
@@ -59,6 +43,7 @@ def create_cnn(input_shape: Tuple,
         tf.keras.layers.Dense(units=1,activation='linear'),
     ])
 
+    # ============= Set Optimizer and Compile Model =================
     if optimizer == 'sgd':
         optimizer = tf.keras.optimizers.legacy.SGD(learning_rate=learning_rate)
     elif optimizer == 'adam':
@@ -66,20 +51,13 @@ def create_cnn(input_shape: Tuple,
     else:
         print(f"Using passed optimizer directly: {optimizer}. If you want a Keras optimizer pass 'adam' or 'sgd")
         optimizer = optimizer
+
     model.compile(optimizer=optimizer, loss=loss, metrics=metrics)  
-    
-    # Stop early if change in validation loss for 10 iterations is 
-    # < tolerance
-    early_stop = EarlyStopping(monitor='val_loss', 
-                                   patience=patience, 
-                                   mode='min', 
-                                   min_delta=tolerance, 
-                                   verbose=1)
 
     if verbose:
         print("====== Done Building CNN Architecture ======")
 
-    return model, early_stop
+    return model
 
 def build_train_cnn(data_dir: str,
               season: str, 
@@ -108,6 +86,9 @@ def build_train_cnn(data_dir: str,
               plot: bool = False, 
               standardize: bool = True):
     
+    # =========== Generate CNN Dataset  ============
+    # == for Desired Season, Posn, Window Size =====
+    # ===== and Feature Engineering Settings =======
     df, features_df = generate_cnn_data(data_dir=data_dir,
                          season=season, 
                          position=position, 
@@ -127,22 +108,27 @@ def build_train_cnn(data_dir: str,
     # X has shape (num_examples, window_size, features)
     input_shape = (window_size, X_train.shape[2])  
 
-    model, early_stop = create_cnn(input_shape=input_shape, 
-                                   kernel_size=kernel_size, 
-                                   num_filters=num_filters, 
-                                   num_dense=num_dense,
-                                   conv_activation=conv_activation,
-                                   dense_activation=dense_activation,
-                                   optimizer=optimizer,
-                                   learning_rate=learning_rate,
-                                   loss=loss,
-                                   metrics=metrics,
-                                   regularization=regularization,
-                                   tolerance=tolerance,
-                                   patience=patience,
-                                   verbose=verbose,)
+    model = create_cnn(input_shape=input_shape, 
+                        kernel_size=kernel_size, 
+                        num_filters=num_filters, 
+                        num_dense=num_dense,
+                        conv_activation=conv_activation,
+                        dense_activation=dense_activation,
+                        optimizer=optimizer,
+                        learning_rate=learning_rate,
+                        loss=loss,
+                        metrics=metrics,
+                        regularization=regularization,
+                        verbose=verbose,)
+    
+    # ============ Generate EarlyStopping Callback ==============
+    early_stop = EarlyStopping(monitor='val_loss', 
+                                   patience=patience, 
+                                   mode='min', 
+                                   min_delta=tolerance, 
+                                   verbose=1)
 
-    # Train the model
+    # =========== Run Model Fitting ==================
     history = None
     if early_stopping:
         history = model.fit(X_train, y_train, 
@@ -157,7 +143,7 @@ def build_train_cnn(data_dir: str,
                             validation_data=(X_val, y_val)) 
     
 
-    # Evaluate Loss and Metrics, Assign to dictionary along with experiment hyperparams
+    # ============= Evaluate the Model ==============
     expt_res = eval_cnn(season=season,
             position=position,
             model=model,
@@ -187,6 +173,7 @@ def build_train_cnn(data_dir: str,
     test_loss, test_mae = (expt_res['test_mse'], expt_res['test_mae'])
     print(f'Test Loss (MSE): {test_loss}, Test Mean Absolute Error (MAE): {test_mae}')
 
+    # =========== Plot Learning Curve for CNN ==================
     if plot:
         plot_learning_curve(season,
                             position,

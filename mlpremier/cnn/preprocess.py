@@ -78,6 +78,8 @@ def generate_cnn_data(data_dir : str,
         seasons = season
     else:
         seasons = [season]
+
+    # ================ Iterate through Clean Data and generate CNN data =================
     for season in seasons:
         position_folder = os.path.join(data_dir, season, position)
         for player_folder in os.listdir(position_folder):
@@ -165,7 +167,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
     numerical_features = num_features
     categorical_features = cat_features #,'team','opponent_team'] 
 
-    # Create transformers for numerical and categorical features
+    # ========== Preprocessing pipeline for Numerical + Cat Features ===========
     numerical_transformer = None
     if standardize:
         numerical_transformer = StandardScaler()
@@ -183,7 +185,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
     )
     pipeline = Pipeline(steps=[('preprocessor', preprocessor)])
 
-    # Fit the pipeline on the combined DataFrame of train data features.
+    # =========== Fit pipeline to training data features =================
     train_features_df = combined_features_df[combined_features_df['name'].isin(train_players)]
     pipeline.fit(train_features_df)
 
@@ -199,8 +201,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
         else:
             print("No StandardScaler applied. standardize=False.")
 
-    # Apply the fitted pipeline to each 'features' DataFrame 
-    # from the original DataFrame
+    # ============ Actually apply pipeline to data ============
     if verbose: 
         print('Transforming features using StandardScaler + OHE Pipeline.')
     df['features'] = df['features'].apply(lambda features_df: 
@@ -247,17 +248,24 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     quantiles = None
     bins=None
     labels=None
-    if num_players > 120:  #when there is enough data for finer grain skill
+    if num_players > 120:
         quantiles = np.percentile(players_scores['avg_score'], [10, 30, 50, 70, 90])
         bins = quantiles.tolist()
-        bins = [-100] + bins + [100]
-        labels = ['shite', 'bad', 'bad+', 
-                'mid', 'great', 'all-star']
+        bins = [-100] + bins 
+        labels = ['shite', 'bad', 'bad+', 'mid', 'great', 'all-star']
+        # Drop any quantiles that aren't unique - needed for highly modal dists.
+        bins, labels = zip(*((b, l) for b, l in zip(bins, labels) if bins.count(b) == 1))
+        bins = list(bins) + [100]
+        labels = list(labels)
     else: #GKs
         quantiles = np.percentile(players_scores['avg_score'], [80, 90])
         bins = quantiles.tolist()
-        bins = [-100] + bins + [100]
+        bins = [-100] + bins 
         labels = ['shite', 'mid', 'great']
+        # Drop any quantiles that aren't unique
+        bins, labels = zip(*((b, l) for b, l in zip(bins, labels) if bins.count(b) == 1))
+        bins = list(bins) + [100]
+        labels = list(labels)
     players_scores['skill'] = pd.cut(players_scores['avg_score'], 
                                      bins=bins, 
                                      labels=labels)
@@ -275,7 +283,9 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
 
 
     # ========= Stratified Train/Val/Test Split by Skill =========
-    # Split data into 85% train and 15% test (by player) 
+    # Split data into 85% train and 15% test 
+    # We split by player so no windows of player performance (which overlap)
+    # Can possibly be shared across splits. Necessary to avoid data leakage.
     players_train, players_test = train_test_split(players, 
                                                    test_size=0.15, 
                                                    shuffle=True,
@@ -288,6 +298,7 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
                                                   shuffle=True,
                                                   stratify=train_skills)
     
+    # ================ Preprocess Data ==================
     df = preprocess_cnn_data(df, 
                             features_df, 
                             train_players = players_train, 
@@ -296,14 +307,15 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
                             cat_features = cat_features,
                             verbose = verbose)
 
-    # Filter data for train, validation, and test sets
+    # ================ Generate train, val, test sets ====================
     train_data = df[df['name'].isin(players_train)]
     val_data = df[df['name'].isin(players_val)]
     test_data = df[df['name'].isin(players_test)]
+    
+    # =============== Assert no Data Leakage ==================
     assert len(set(train_data['name']).intersection(val_data['name'])) == 0, "Overlap between train and validation sets"
     assert len(set(train_data['name']).intersection(test_data['name'])) == 0, "Overlap between train and test sets"
     assert len(set(val_data['name']).intersection(test_data['name'])) == 0, "Overlap between validation and test sets"
-
 
     X_train = np.array(train_data['features'].tolist())
     X_val = np.array(val_data['features'].tolist())

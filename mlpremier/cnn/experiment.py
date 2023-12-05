@@ -35,31 +35,59 @@ def gridsearch_cnn(epochs: int = 200,
     np.random.seed(seed)
 
     DATA_DIR = os.path.join(os.getcwd(), '..', 'data', 'clean_data')
-    SEASONS = ['2020-21']
+    SEASONS = [['2020-21', '2021-22']]
     POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
     WINDOW_SIZES = [3, 6, 9]
     KERNEL_SIZES = [1, 2, 3]
-    NUM_FILTERS = [64]
-    NUM_DENSE = [64]
+    NUM_FILTERS = [64, 128]
+    NUM_DENSE = [64, 128]
+    CONV_ACTIVATION = 'relu'
+    DENSE_ACTIVATION = 'relu'
     DROP_LOW_PLAYTIME = True
-    LOW_PLAYTIME_CUTOFF = [0, 30]
-    NUM_FEATURES = {'ptsonly': ['total_points'],
-                    'small': ['total_points', 'minutes', 'goals_scored', 'assists'],
-                    'medium': ['total_points', 'minutes', 'goals_scored', 'assists', 'goals_conceded', 'yellow_cards'],
-                    'large': STANDARD_NUM_FEATURES}
+    LOW_PLAYTIME_CUTOFF = [15]
+    AMT_NUM_FEATURES = ['ptsonly','small'] #,'medium','large']
+    NUM_FEATURES_DICT = {
+        'GK': {
+            'ptsonly': ['total_points'],
+            'small': ['total_points', 'minutes', 'saves'],
+            'medium': ['total_points', 'minutes', 'saves', 'bps', 'goals_conceded'],
+            'large': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps', 'yellow_cards', 'red_cards']
+        },
+        'DEF': {
+            'ptsonly': ['total_points'],
+            'small': ['total_points', 'minutes', 'goals_scored', 'assists'],
+            'medium': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps'],
+            'large': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps', 'yellow_cards', 'red_cards', 'own_goals', 'penalties_saved']
+        },
+        'MID': {
+            'ptsonly': ['total_points'],
+            'small': ['total_points', 'minutes', 'goals_scored', 'assists'],
+            'medium': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps'],
+            'large': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps', 'yellow_cards', 'red_cards']
+        },
+        'FWD': {
+            'ptsonly': ['total_points'],
+            'small': ['total_points', 'minutes', 'goals_scored', 'assists'],
+            'medium': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps'],
+            'large': ['total_points', 'minutes', 'goals_scored', 'assists', 'clean_sheets', 'bps', 'yellow_cards', 'red_cards']
+        }
+    }
+    CAT_FEATURES = STANDARD_CAT_FEATURES
     OPTIMIZERS = ['adam'] #, 'sgd'
     REGULARIZATIONS = [0.001]  #L1 L2 reg strength
-    TOLERANCES = [1e-4] #early stopping tolderance (patience = 20 hardcoded)
+    TOLERANCE = 1e-4 #early stopping tolderance 
+    PATIENCE = 20  #num of iterations of no minimization of val loss
+    STANDARDIZE = True
 
     # Loop through all combinations of parameters
     expt_results = []
 
     for (season, position, window_size, kernel_size, num_filters, num_dense,
-        low_playtime_cutoff, num_feature_key, 
-        optimizer, regularization, tolerance) in itertools.product(
+        low_playtime_cutoff, amt_num_feature, 
+        optimizer, regularization) in itertools.product(
         SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
-        LOW_PLAYTIME_CUTOFF, NUM_FEATURES.keys(), 
-        OPTIMIZERS, REGULARIZATIONS, TOLERANCES):
+        LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
+        OPTIMIZERS, REGULARIZATIONS):
 
         if kernel_size >= window_size:  #skip invalid configurations of kernel size
             continue
@@ -72,11 +100,11 @@ def gridsearch_cnn(epochs: int = 200,
             'num_filters': num_filters,
             'num_dense': num_dense,
             'low_playtime_cutoff': low_playtime_cutoff,
-            'num_feature_key': num_feature_key,
+            'amt_num_features': amt_num_feature,
             'optimizer': optimizer,
             'regularization': regularization,
-            'tolerance': tolerance
         }
+        num_features = NUM_FEATURES_DICT[position][amt_num_feature]
 
         if verbose:
             print(f"===== Running Expt for Parameters: =====\n {hyperparameters}\n")
@@ -89,23 +117,25 @@ def gridsearch_cnn(epochs: int = 200,
                                         kernel_size=kernel_size,
                                         num_filters=num_filters,
                                         num_dense=num_dense,
+                                        drop_low_playtime=DROP_LOW_PLAYTIME,
                                         low_playtime_cutoff=low_playtime_cutoff,
-                                        num_features=NUM_FEATURES[num_feature_key],
+                                        num_features=num_features,
                                         regularization=regularization,
                                         batch_size=batch_size,
                                         epochs=epochs,
-                                        drop_low_playtime=True,
-                                        cat_features=STANDARD_CAT_FEATURES,
-                                        conv_activation='relu',
-                                        dense_activation='relu',
+                                        cat_features=CAT_FEATURES,
+                                        conv_activation=CONV_ACTIVATION,
+                                        dense_activation=DENSE_ACTIVATION,
                                         optimizer=optimizer,
                                         learning_rate=learning_rate,
                                         loss='mse',
                                         metrics=['mae'],
                                         verbose=verbose,
-                                        tolerance=1e-5, #not used rn
+                                        early_stopping=True,
+                                        tolerance=TOLERANCE,
+                                        patience=PATIENCE,
                                         plot=False,
-                                        standardize=True)
+                                        standardize=STANDARDIZE)
         
         expt_results.append(expt_res)
 
@@ -117,3 +147,13 @@ def gridsearch_cnn(epochs: int = 200,
         print("======= Done with GridSearch Experiment ========")
 
     return
+
+def main():
+    """
+    Run the experiment specified by gridsearch_cnn constants
+    """
+    gridsearch_cnn(epochs=100, verbose=False)
+    return
+
+if __name__ == '__main__':
+    main()

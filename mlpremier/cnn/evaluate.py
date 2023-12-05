@@ -5,7 +5,10 @@ Evaluate and visualize the performance of trained FPL CNN models.
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import seaborn as sns
 import os
+from pandas.plotting import table
+from IPython.display import display
 
 
 def eval_cnn(season, position, model, 
@@ -14,7 +17,9 @@ def eval_cnn(season, position, model,
              X_test, y_test,
              **hyperparameters) -> dict:
     """
-    Gets a dict of hyperparameter and MSE, MAE Evaluation data.
+    Evaluate the given model on the provided data. 
+    Returns a dict of evaluation results and the hyperparameters used 
+    for the model.
     """
     train_mse, train_mae = model.evaluate(X_train, y_train, verbose=0)
     val_mse, val_mae = model.evaluate(X_val, y_val, verbose=0)
@@ -36,8 +41,9 @@ def eval_cnn(season, position, model,
 
 def log_evals(log_file, eval_data_list, verbose=False):
     """
-    Creates a df based on a list of eval_cnn dicts, then concats this 
-    with the log_file df.
+    Log the results of several evaluations to a csv file specified by log_file.
+
+    Creates the log_file if it doesn't exists, appends results otherwise.
     """
     COLUMNS = ['season', 'position', 'train_mse', 
                'val_mse', 'test_mse', 'train_mae', 
@@ -74,6 +80,10 @@ def plot_learning_curve(season,
                         history,
                         expt_res,  # experimental results (dictionary)
                         verbose: bool = False):
+    """
+    Plot train/validation learning curve, barplot of train/valid/test MSE results,
+    and a simple text display of the hyperparameters used in the experiment.
+    """
     # Plot learning curve
     plt.figure(figsize=(12, 5))
     plt.suptitle(f'FPL Regression Model Training, Season: {season}, Pos: {position}', fontsize=16)
@@ -116,10 +126,11 @@ def plot_learning_curve(season,
 
 def eda_and_plot(features_df):
     """
-    Perform Exploratory Data Analysis (EDA) on the given DataFrame and plot histograms for numerical variables.
+    Perform Exploratory Data Analysis (EDA) on the given DataFrame and plots
+      histograms for numerical variables.
 
     Parameters:
-    - features_df (pd.DataFrame): The DataFrame containing the features for analysis.
+    - features_df (pd.DataFrame): The DataFrame containing features for analysis.
 
     Returns:
     None
@@ -142,4 +153,50 @@ def eda_and_plot(features_df):
 
     plt.tight_layout()
     plt.show()
+
+def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.csv'),
+                        eval_top: int = 5):
+    """
+    Visualizes and investigates the results of a gridsearch for best CNN hyperparams.
+    """
+    df = pd.read_csv(expt_res_path)
+    df = df.sort_values(by='val_mse')
+
+    # ======== Color MSE Results from Green (good) to Red (bad) =============
+    mse_columns = df.filter(like='mse')
+    color_range = [mse_columns.min().min(), mse_columns.max().max()]
+    cmap = sns.color_palette("RdYlGn_r", as_cmap=True)  # green good red bad
+    sns.heatmap(mse_columns, cmap=cmap, vmin=color_range[0], vmax=color_range[1])
+    plt.title("CNN FPL Experiments, sorted by Val MSE")
+    plt.ylabel("Experiment Index")
+    plt.show()
+
+    # ========= Analyze Mode Params for Top  Models for Each Posn ===========
+    positions = ['GK', 'DEF', 'MID', 'FWD']
+
+    hyperparams_df = pd.DataFrame()
+    performance_df = pd.DataFrame()
+
+    for position in positions:
+        top_models = df[df['position'] == position].head(eval_top)
+        top_models_filtered = top_models.loc[:, ~top_models.columns.str.contains('mse|mae|verbose')]
+
+        top_hyperparams = top_models_filtered.mode().iloc[0]
+        top_means = top_models.filter(like='mse').mean()
+
+        hyperparams_df[position] = top_hyperparams
+        performance_df[position] = top_means
+
+    hyperparams_df = hyperparams_df.T
+    performance_df = performance_df.T
+
+    # Print or display the tables
+    print("\nMode Best Hyperparameters for Each Position")
+    print(f"Via Top {eval_top} Models by Position")
+    display(hyperparams_df)
+
+    print(f"\nMean Performance of Top {eval_top} Model by Position")
+    display(performance_df)
+    
+    return
 

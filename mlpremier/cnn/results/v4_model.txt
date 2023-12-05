@@ -1,0 +1,38 @@
+# ================= Set up Model Architecture ==================
+    model = tf.keras.models.Sequential([
+        tf.keras.Input(shape=input_shape),
+        tf.keras.layers.Conv1D(filters=num_filters,
+                               kernel_size=kernel_size,
+                               activation=conv_activation,
+                               kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                             l2=regularization)),
+        tf.keras.layers.Flatten(),
+        tf.keras.layers.Dense(units=num_dense,
+                              activation=dense_activation, 
+                              kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                             l2=regularization)),
+        tf.keras.layers.Dense(units=1,activation='linear'),
+    ])
+
++ added stratification on player skill (based on avg points) in train/val/test split
++ added learning rate on adam
++ added position specific feature engineering in the gridsearch
++ other smaller fixes
+
+
+Results: ==================================================
+
+Mode Best Hyperparameters for Each Position
+Via Top 1 Models by Position
+season	position	window_size	kernel_size	num_filters	num_dense	conv_activation	dense_activation	drop_low_playtime	low_playtime_cutoff	optimizer	learning_rate	loss	metrics	regularization	early_stopping	tolerance	patience	standardize
+GK	['2020-21', '2021-22']	GK	6	2	64	64	relu	relu	True	0	adam	0.01	mse	['mae']	0.001	True	0.00001	20	True
+DEF	2020-21	DEF	9	2	64	64	relu	relu	True	0	adam	0.01	mse	['mae']	0.001	True	0.00001	20	True
+MID	2021-22	MID	6	1	64	64	relu	relu	True	0	adam	0.01	mse	['mae']	0.001	True	0.00001	20	True
+FWD	2020-21	FWD	9	1	64	64	relu	relu	True	0	adam	0.01	mse	['mae']	0.001	True	0.00001	20	True
+
+Mean Performance of Top 1 Model by Position
+train_mse	val_mse	test_mse
+GK	3.017067	1.354558	3.231826
+DEF	4.899445	3.858049	4.501652
+MID	5.071956	3.148513	4.797949
+FWD	5.450167	3.623432	4.579809

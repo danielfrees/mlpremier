@@ -1,0 +1,6 @@
+v4_model + forced cutoff of low playtime players (<15 mins)
+
+Harder task as the model can no longer learn to regress bench players. 
+Should yield less impressive MSE.
+
+Results: ==================================================
