@@ -16,6 +16,8 @@ from mlpremier.cnn.evaluate import eval_cnn, log_evals
 import tensorflow as tf
 import itertools
 
+from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
+
 def gridsearch_cnn(epochs: int = 200,
                    batch_size: int = 32,
                    learning_rate: float = 0.01,
@@ -25,11 +27,6 @@ def gridsearch_cnn(epochs: int = 200,
     """
     GridSearch for Best Hyperparameters
     """
-    STANDARD_NUM_FEATURES = ['minutes', 'goals_scored', 'assists', 'goals_conceded',
-                          'clean_sheets', 'bps', 'yellow_cards', 'red_cards', 
-                          'own_goals', 'saves', 'penalties_missed', 'penalties_saved',
-                          'ict_index', 'total_points']
-    STANDARD_CAT_FEATURES = []
 
     if verbose:
         print("======= Running GridSearch Experiment ========")
@@ -50,16 +47,19 @@ def gridsearch_cnn(epochs: int = 200,
                     'small': ['total_points', 'minutes', 'goals_scored', 'assists'],
                     'medium': ['total_points', 'minutes', 'goals_scored', 'assists', 'goals_conceded', 'yellow_cards'],
                     'large': STANDARD_NUM_FEATURES}
-    OPTIMIZERS = ['adam', 'sgd']
-    REGULARIZATIONS = [0]  #
+    OPTIMIZERS = ['adam'] #, 'sgd'
+    REGULARIZATIONS = [0.001]  #L1 L2 reg strength
+    TOLERANCES = [1e-4] #early stopping tolderance (patience = 20 hardcoded)
 
     # Loop through all combinations of parameters
     expt_results = []
 
     for (season, position, window_size, kernel_size, num_filters, num_dense,
-        low_playtime_cutoff, num_feature_key, optimizer, regularization) in itertools.product(
+        low_playtime_cutoff, num_feature_key, 
+        optimizer, regularization, tolerance) in itertools.product(
         SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
-        LOW_PLAYTIME_CUTOFF, NUM_FEATURES.keys(), OPTIMIZERS, REGULARIZATIONS):
+        LOW_PLAYTIME_CUTOFF, NUM_FEATURES.keys(), 
+        OPTIMIZERS, REGULARIZATIONS, TOLERANCES):
 
         if kernel_size >= window_size:  #skip invalid configurations of kernel size
             continue
@@ -73,7 +73,9 @@ def gridsearch_cnn(epochs: int = 200,
             'num_dense': num_dense,
             'low_playtime_cutoff': low_playtime_cutoff,
             'num_feature_key': num_feature_key,
-            'regularization': regularization
+            'optimizer': optimizer,
+            'regularization': regularization,
+            'tolerance': tolerance
         }
 
         if verbose:

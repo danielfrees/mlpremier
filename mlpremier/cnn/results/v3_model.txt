@@ -1,0 +1,26 @@
+model = tf.keras.models.Sequential([
+    tf.keras.Input(shape=input_shape),
+    tf.keras.layers.Conv1D(filters=num_filters,
+                            kernel_size=kernel_size,
+                            activation=conv_activation,
+                            kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                            l2=regularization)),
+    tf.keras.layers.Flatten(),
+    tf.keras.layers.Dense(units=num_dense,
+                            activation=dense_activation, 
+                            kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                            l2=regularization)),
+    tf.keras.layers.Dense(units=1,activation='linear'),
+])
+
+if optimizer == 'sgd':
+    optimizer = tf.keras.optimizers.legacy.SGD(learning_rate=learning_rate)
+model.compile(optimizer=optimizer, loss=loss, metrics=metrics)  
+
+# Stop early if change in validation loss for 10 iterations is 
+# < tolerance
+early_stopping = EarlyStopping(monitor='val_loss', 
+                                patience=20, 
+                                mode='min', 
+                                min_delta=tolerance, 
+                                verbose=1)

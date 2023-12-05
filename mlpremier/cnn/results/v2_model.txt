@@ -1,0 +1,10 @@
+model = tf.keras.models.Sequential([
+        tf.keras.Input(shape=input_shape),
+        tf.keras.layers.Conv1D(filters=num_filters,
+                               kernel_size=kernel_size,
+                               activation=conv_activation,
+        ),
+        tf.keras.layers.Flatten(),
+        tf.keras.layers.Dense(units=num_dense,
+                              activation=dense_activation)
+        tf.keras.layers.Dense(units=1,activation='linear'),

@@ -114,3 +114,32 @@ def plot_learning_curve(season,
 
     return
 
+def eda_and_plot(features_df):
+    """
+    Perform Exploratory Data Analysis (EDA) on the given DataFrame and plot histograms for numerical variables.
+
+    Parameters:
+    - features_df (pd.DataFrame): The DataFrame containing the features for analysis.
+
+    Returns:
+    None
+    """
+    # Display selected statistics for each numerical feature
+    numerical_statistics = features_df.describe().loc[['mean', 'min', 'max', 'std']]
+    print("Selected Statistics:")
+    print(numerical_statistics)
+
+    # Plot histograms for numerical variables in a single row
+    numerical_columns = features_df.select_dtypes(include=['int64', 'float64']).columns
+    plt.figure(figsize=(16, 4))
+    
+    for i, column in enumerate(numerical_columns, 1):
+        plt.subplot(1, 4, i)
+        features_df[column].plot(kind='hist', bins=20, edgecolor='black')
+        plt.title(f'{column} Distribution')
+        plt.xlabel(column)
+        plt.ylabel('Frequency')
+
+    plt.tight_layout()
+    plt.show()
+
