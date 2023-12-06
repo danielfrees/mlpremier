@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Oliver Norwood,MID,Sheffield Utd,Wolves,75,0,0,2,0,13,0,0,0,0,0,0,3.2,9.8,21.8,0.0,True,2
-Oliver Norwood,MID,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Leeds,26,0,0,1,0,2,0,0,0,0,0,0,0.1,0.6,0.3,0.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,4.3,19.2,23.3,0.0,True,2
-Oliver Norwood,MID,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Man City,25,0,0,0,0,2,0,0,0,0,0,0,0.7,6.6,0.5,0.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Chelsea,61,0,0,2,0,7,0,0,0,0,0,0,1.8,6.0,12.1,0.0,False,2
-Oliver Norwood,MID,Sheffield Utd,West Ham,64,0,0,1,0,12,0,0,0,0,0,0,1.5,12.0,3.3,0.0,True,2
-Oliver Norwood,MID,Sheffield Utd,West Brom,53,0,0,1,0,4,1,0,0,0,0,0,2.5,6.0,19.3,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Leicester,27,0,0,1,0,3,0,0,0,0,0,0,0.4,3.4,0.3,0.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Oliver Norwood,MID,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Oliver Norwood,MID,Sheffield Utd,Everton,27,0,0,1,0,8,0,0,0,0,0,0,6.5,7.8,57.5,0.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Burnley,23,0,0,0,0,10,0,0,0,0,0,0,2.0,4.4,15.8,0.0,False,1
-Oliver Norwood,MID,Sheffield Utd,Crystal Palace,90,0,0,2,0,10,1,0,0,0,0,0,3.1,14.6,10.6,6.0,False,1
-Oliver Norwood,MID,Sheffield Utd,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,1.8,10.0,8.3,0.0,True,3
-Oliver Norwood,MID,Sheffield Utd,Spurs,66,0,0,3,0,10,1,0,0,0,0,0,6.1,15.2,37.8,8.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.9,17.8,1.3,0.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Man City,90,0,0,1,0,8,1,0,0,0,0,0,3.3,13.6,11.3,8.0,False,1
-Oliver Norwood,MID,Sheffield Utd,West Brom,45,0,0,1,0,7,0,0,0,0,0,0,0.6,2.6,2.1,1.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Chelsea,85,0,0,2,0,14,0,0,0,0,0,0,2.5,13.2,11.4,0.0,True,2
-Oliver Norwood,MID,Sheffield Utd,West Ham,61,0,0,2,0,19,0,0,0,0,0,0,3.3,13.2,19.3,0.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Fulham,39,0,0,1,0,6,0,0,0,0,0,0,2.1,15.0,5.6,0.0,False,1
-Oliver Norwood,MID,Sheffield Utd,Liverpool,90,0,0,2,0,20,0,0,0,0,0,0,5.5,20.0,33.8,1.0,True,2
-Oliver Norwood,MID,Sheffield Utd,Aston Villa,90,0,0,0,1,15,0,0,0,0,0,0,4.7,32.2,11.9,3.0,True,3
-Oliver Norwood,MID,Sheffield Utd,Southampton,45,0,0,1,0,4,0,0,0,0,0,0,0.9,4.0,4.7,0.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Leicester,78,0,0,4,0,11,0,0,0,0,0,0,2.1,16.4,4.7,0.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Leeds,64,0,0,2,0,9,0,0,0,0,0,0,2.9,8.2,12.8,8.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,4.3,26.8,16.0,0.0,True,2
-Oliver Norwood,MID,Sheffield Utd,Wolves,90,0,0,1,0,18,0,0,0,0,0,0,6.3,25.6,37.6,0.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Brighton,90,0,0,0,1,12,0,0,0,0,0,0,1.2,9.2,3.0,0.0,True,3
-Oliver Norwood,MID,Sheffield Utd,Spurs,90,0,0,4,0,16,0,0,0,0,0,0,4.4,14.0,10.6,19.0,False,2
-Oliver Norwood,MID,Sheffield Utd,Crystal Palace,90,0,0,2,0,17,1,0,0,0,0,0,5.6,24.8,29.8,1.0,True,1
-Oliver Norwood,MID,Sheffield Utd,Everton,90,0,0,0,1,18,0,0,0,0,0,0,3.1,14.8,15.8,0.0,False,3
-Oliver Norwood,MID,Sheffield Utd,Newcastle,90,0,0,1,0,10,1,0,0,0,0,0,3.2,8.4,21.8,2.0,False,1
-Oliver Norwood,MID,Sheffield Utd,Burnley,90,0,0,0,1,16,0,0,0,0,0,0,7.2,20.4,51.6,0.0,True,3
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Oliver Norwood,MID,Sheffield Utd,Wolves,75,0,0,2,0,13,0,0,0,0,0,0,3.2,9.8,21.8,0.0,True,2,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Leeds,26,0,0,1,0,2,0,0,0,0,0,0,0.1,0.6,0.3,0.0,True,1,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,4.3,19.2,23.3,0.0,True,2,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Man City,25,0,0,0,0,2,0,0,0,0,0,0,0.7,6.6,0.5,0.0,True,1,2.0,5.0,-3.0
+Oliver Norwood,MID,Sheffield Utd,Chelsea,61,0,0,2,0,7,0,0,0,0,0,0,1.8,6.0,12.1,0.0,False,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,West Ham,64,0,0,1,0,12,0,0,0,0,0,0,1.5,12.0,3.3,0.0,True,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,West Brom,53,0,0,1,0,4,1,0,0,0,0,0,2.5,6.0,19.3,0.0,False,0,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Leicester,27,0,0,1,0,3,0,0,0,0,0,0,0.4,3.4,0.3,0.0,True,1,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Everton,27,0,0,1,0,8,0,0,0,0,0,0,6.5,7.8,57.5,0.0,True,1,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Burnley,23,0,0,0,0,10,0,0,0,0,0,0,2.0,4.4,15.8,0.0,False,1,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Crystal Palace,90,0,0,2,0,10,1,0,0,0,0,0,3.1,14.6,10.6,6.0,False,1,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,1.8,10.0,8.3,0.0,True,3,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Spurs,66,0,0,3,0,10,1,0,0,0,0,0,6.1,15.2,37.8,8.0,True,1,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.9,17.8,1.3,0.0,False,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Man City,90,0,0,1,0,8,1,0,0,0,0,0,3.3,13.6,11.3,8.0,False,1,2.0,5.0,-3.0
+Oliver Norwood,MID,Sheffield Utd,West Brom,45,0,0,1,0,7,0,0,0,0,0,0,0.6,2.6,2.1,1.0,True,1,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Chelsea,85,0,0,2,0,14,0,0,0,0,0,0,2.5,13.2,11.4,0.0,True,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,West Ham,61,0,0,2,0,19,0,0,0,0,0,0,3.3,13.2,19.3,0.0,False,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Fulham,39,0,0,1,0,6,0,0,0,0,0,0,2.1,15.0,5.6,0.0,False,1,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Liverpool,90,0,0,2,0,20,0,0,0,0,0,0,5.5,20.0,33.8,1.0,True,2,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Aston Villa,90,0,0,0,1,15,0,0,0,0,0,0,4.7,32.2,11.9,3.0,True,3,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Southampton,45,0,0,1,0,4,0,0,0,0,0,0,0.9,4.0,4.7,0.0,True,1,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Leicester,78,0,0,4,0,11,0,0,0,0,0,0,2.1,16.4,4.7,0.0,False,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Leeds,64,0,0,2,0,9,0,0,0,0,0,0,2.9,8.2,12.8,8.0,False,2,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Arsenal,90,0,0,3,0,15,0,0,0,0,0,0,4.3,26.8,16.0,0.0,True,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Wolves,90,0,0,1,0,18,0,0,0,0,0,0,6.3,25.6,37.6,0.0,False,2,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Brighton,90,0,0,0,1,12,0,0,0,0,0,0,1.2,9.2,3.0,0.0,True,3,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Spurs,90,0,0,4,0,16,0,0,0,0,0,0,4.4,14.0,10.6,19.0,False,2,2.0,4.0,-2.0
+Oliver Norwood,MID,Sheffield Utd,Crystal Palace,90,0,0,2,0,17,1,0,0,0,0,0,5.6,24.8,29.8,1.0,True,1,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Everton,90,0,0,0,1,18,0,0,0,0,0,0,3.1,14.8,15.8,0.0,False,3,2.0,3.0,-1.0
+Oliver Norwood,MID,Sheffield Utd,Newcastle,90,0,0,1,0,10,1,0,0,0,0,0,3.2,8.4,21.8,2.0,False,1,2.0,2.0,0.0
+Oliver Norwood,MID,Sheffield Utd,Burnley,90,0,0,0,1,16,0,0,0,0,0,0,7.2,20.4,51.6,0.0,True,3,2.0,2.0,0.0

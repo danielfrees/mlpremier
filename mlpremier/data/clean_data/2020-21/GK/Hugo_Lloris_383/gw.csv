@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Hugo Lloris,GK,Spurs,Everton,90,0,0,1,0,15,0,0,0,3,0,0,2.0,20.0,0.0,0.0,True,3
-Hugo Lloris,GK,Spurs,Southampton,90,0,0,2,0,18,0,0,0,5,0,0,3.7,37.2,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,0.2,1.6,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Man Utd,90,0,0,1,0,11,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,West Ham,90,0,0,3,0,14,0,0,0,2,0,0,1.7,16.6,0.0,0.0,True,1
-Hugo Lloris,GK,Spurs,Burnley,90,0,0,0,1,28,0,0,0,3,0,0,1.5,14.6,0.0,0.0,False,9
-Hugo Lloris,GK,Spurs,Brighton,90,0,0,1,0,10,0,0,0,1,0,0,1.1,10.6,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,West Brom,90,0,0,0,1,23,0,0,0,2,0,0,1.8,17.8,0.0,0.0,False,6
-Hugo Lloris,GK,Spurs,Man City,90,0,0,0,1,33,0,0,0,5,0,0,3.4,34.4,0.0,0.0,True,10
-Hugo Lloris,GK,Spurs,Chelsea,90,0,0,0,1,31,0,0,0,3,0,0,1.9,18.8,0.0,0.0,False,10
-Hugo Lloris,GK,Spurs,Arsenal,90,0,0,0,1,22,0,0,0,2,0,0,1.7,17.4,0.0,0.0,True,6
-Hugo Lloris,GK,Spurs,Crystal Palace,90,0,0,1,0,14,0,0,0,4,0,0,2.4,24.2,0.0,0.0,False,3
-Hugo Lloris,GK,Spurs,Liverpool,90,0,0,2,0,29,0,0,0,9,0,0,7.0,69.8,0.0,0.0,False,5
-Hugo Lloris,GK,Spurs,Leicester,90,0,0,2,0,14,0,0,0,3,0,0,1.8,18.0,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Wolves,90,0,0,1,0,20,0,0,0,5,0,0,4.0,40.0,0.0,0.0,False,3
-Hugo Lloris,GK,Spurs,Leeds,90,0,0,0,1,30,0,0,0,5,0,0,3.5,35.0,0.0,0.0,True,7
-Hugo Lloris,GK,Spurs,Fulham,90,0,0,1,0,13,0,0,0,3,0,0,2.2,22.2,0.0,0.0,True,3
-Hugo Lloris,GK,Spurs,Sheffield Utd,90,0,0,1,0,20,0,0,0,4,0,0,2.5,25.4,0.0,0.0,False,3
-Hugo Lloris,GK,Spurs,Liverpool,90,0,0,3,0,16,0,0,0,4,0,0,3.2,32.4,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Brighton,90,0,0,1,0,12,0,0,0,2,0,0,1.5,15.2,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,Chelsea,90,0,0,1,0,10,0,0,0,1,0,0,1.2,12.2,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,West Brom,90,0,0,0,1,21,0,0,0,1,0,0,1.0,9.8,0.0,0.0,True,6
-Hugo Lloris,GK,Spurs,Man City,90,0,0,3,0,13,0,0,0,3,0,0,2.2,22.4,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,West Ham,90,0,0,2,0,12,0,0,0,2,0,0,2.0,19.6,0.0,0.0,False,1
-Hugo Lloris,GK,Spurs,Burnley,90,0,0,0,1,27,0,0,0,3,0,0,2.6,26.2,0.0,0.0,True,7
-Hugo Lloris,GK,Spurs,Fulham,90,0,0,0,1,27,0,0,0,3,0,0,2.9,28.6,0.0,0.0,False,9
-Hugo Lloris,GK,Spurs,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,0.2,2.4,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Arsenal,90,0,0,2,0,12,0,0,0,1,0,0,1.0,10.0,0.0,0.0,False,1
-Hugo Lloris,GK,Spurs,Aston Villa,90,0,0,0,1,22,0,0,0,1,0,0,0.8,7.6,0.0,0.0,False,6
-Hugo Lloris,GK,Spurs,Newcastle,90,0,0,2,0,18,0,0,0,4,0,0,3.0,30.2,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,Man Utd,90,0,0,3,0,16,0,0,0,4,0,0,2.6,26.0,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Everton,90,0,0,2,0,19,0,0,0,5,0,0,4.0,39.6,0.0,0.0,False,3
-Hugo Lloris,GK,Spurs,Southampton,90,0,0,1,0,17,0,0,0,4,0,0,3.0,30.0,0.0,0.0,True,3
-Hugo Lloris,GK,Spurs,Sheffield Utd,90,0,0,0,1,22,0,0,0,1,0,0,1.0,10.4,0.0,0.0,True,6
-Hugo Lloris,GK,Spurs,Leeds,90,0,0,3,0,19,0,0,0,5,0,0,3.9,39.4,0.0,0.0,False,2
-Hugo Lloris,GK,Spurs,Wolves,90,0,0,0,1,26,0,0,0,3,0,0,2.4,23.8,0.0,0.0,True,8
-Hugo Lloris,GK,Spurs,Aston Villa,90,0,0,2,0,14,0,0,0,3,0,0,2.3,23.4,0.0,0.0,True,2
-Hugo Lloris,GK,Spurs,Leicester,90,0,0,2,0,18,0,0,0,4,0,0,2.9,28.8,0.0,0.0,False,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Hugo Lloris,GK,Spurs,Everton,90,0,0,1,0,15,0,0,0,3,0,0,2.0,20.0,0.0,0.0,True,3,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Southampton,90,0,0,2,0,18,0,0,0,5,0,0,3.7,37.2,0.0,0.0,False,2,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,0.2,1.6,0.0,0.0,True,2,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Man Utd,90,0,0,1,0,11,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,2,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,West Ham,90,0,0,3,0,14,0,0,0,2,0,0,1.7,16.6,0.0,0.0,True,1,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Burnley,90,0,0,0,1,28,0,0,0,3,0,0,1.5,14.6,0.0,0.0,False,9,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Brighton,90,0,0,1,0,10,0,0,0,1,0,0,1.1,10.6,0.0,0.0,True,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,West Brom,90,0,0,0,1,23,0,0,0,2,0,0,1.8,17.8,0.0,0.0,False,6,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Man City,90,0,0,0,1,33,0,0,0,5,0,0,3.4,34.4,0.0,0.0,True,10,4.0,5.0,-1.0
+Hugo Lloris,GK,Spurs,Chelsea,90,0,0,0,1,31,0,0,0,3,0,0,1.9,18.8,0.0,0.0,False,10,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Arsenal,90,0,0,0,1,22,0,0,0,2,0,0,1.7,17.4,0.0,0.0,True,6,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Crystal Palace,90,0,0,1,0,14,0,0,0,4,0,0,2.4,24.2,0.0,0.0,False,3,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Liverpool,90,0,0,2,0,29,0,0,0,9,0,0,7.0,69.8,0.0,0.0,False,5,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Leicester,90,0,0,2,0,14,0,0,0,3,0,0,1.8,18.0,0.0,0.0,True,2,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Wolves,90,0,0,1,0,20,0,0,0,5,0,0,4.0,40.0,0.0,0.0,False,3,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Leeds,90,0,0,0,1,30,0,0,0,5,0,0,3.5,35.0,0.0,0.0,True,7,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Fulham,90,0,0,1,0,13,0,0,0,3,0,0,2.2,22.2,0.0,0.0,True,3,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Sheffield Utd,90,0,0,1,0,20,0,0,0,4,0,0,2.5,25.4,0.0,0.0,False,3,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Liverpool,90,0,0,3,0,16,0,0,0,4,0,0,3.2,32.4,0.0,0.0,True,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Brighton,90,0,0,1,0,12,0,0,0,2,0,0,1.5,15.2,0.0,0.0,False,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Chelsea,90,0,0,1,0,10,0,0,0,1,0,0,1.2,12.2,0.0,0.0,True,2,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,West Brom,90,0,0,0,1,21,0,0,0,1,0,0,1.0,9.8,0.0,0.0,True,6,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Man City,90,0,0,3,0,13,0,0,0,3,0,0,2.2,22.4,0.0,0.0,False,2,4.0,5.0,-1.0
+Hugo Lloris,GK,Spurs,West Ham,90,0,0,2,0,12,0,0,0,2,0,0,2.0,19.6,0.0,0.0,False,1,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Burnley,90,0,0,0,1,27,0,0,0,3,0,0,2.6,26.2,0.0,0.0,True,7,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Fulham,90,0,0,0,1,27,0,0,0,3,0,0,2.9,28.6,0.0,0.0,False,9,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,0.2,2.4,0.0,0.0,True,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Arsenal,90,0,0,2,0,12,0,0,0,1,0,0,1.0,10.0,0.0,0.0,False,1,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Aston Villa,90,0,0,0,1,22,0,0,0,1,0,0,0.8,7.6,0.0,0.0,False,6,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Newcastle,90,0,0,2,0,18,0,0,0,4,0,0,3.0,30.2,0.0,0.0,False,2,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Man Utd,90,0,0,3,0,16,0,0,0,4,0,0,2.6,26.0,0.0,0.0,True,2,4.0,4.0,0.0
+Hugo Lloris,GK,Spurs,Everton,90,0,0,2,0,19,0,0,0,5,0,0,4.0,39.6,0.0,0.0,False,3,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Southampton,90,0,0,1,0,17,0,0,0,4,0,0,3.0,30.0,0.0,0.0,True,3,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Sheffield Utd,90,0,0,0,1,22,0,0,0,1,0,0,1.0,10.4,0.0,0.0,True,6,4.0,2.0,2.0
+Hugo Lloris,GK,Spurs,Leeds,90,0,0,3,0,19,0,0,0,5,0,0,3.9,39.4,0.0,0.0,False,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Wolves,90,0,0,0,1,26,0,0,0,3,0,0,2.4,23.8,0.0,0.0,True,8,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Aston Villa,90,0,0,2,0,14,0,0,0,3,0,0,2.3,23.4,0.0,0.0,True,2,4.0,3.0,1.0
+Hugo Lloris,GK,Spurs,Leicester,90,0,0,2,0,18,0,0,0,4,0,0,2.9,28.8,0.0,0.0,False,2,4.0,4.0,0.0

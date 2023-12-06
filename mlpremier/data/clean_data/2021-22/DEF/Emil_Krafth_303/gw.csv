@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Emil Krafth,DEF,Newcastle,West Ham,84,0,0,4,0,10,0,0,0,0,0,0,1.5,9.4,1.3,4.0,True,0
-Emil Krafth,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Leeds,9,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1
-Emil Krafth,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Everton,90,0,1,1,0,21,0,0,0,0,0,0,8.1,49.8,10.9,20.0,False,6
-Emil Krafth,DEF,Newcastle,Crystal Palace,90,0,0,3,0,8,0,0,0,0,0,0,1.1,10.0,0.9,0.0,True,1
-Emil Krafth,DEF,Newcastle,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,0.7,6.4,0.8,0.0,False,2
-Emil Krafth,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Arsenal,90,0,0,2,0,9,1,0,0,0,0,0,2.2,21.0,1.1,0.0,False,0
-Emil Krafth,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Man Utd,90,0,0,1,0,11,1,0,0,0,0,0,3.8,24.8,11.1,2.0,True,1
-Emil Krafth,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Emil Krafth,DEF,Newcastle,Aston Villa,42,0,0,0,0,4,0,0,0,0,0,0,1.3,2.2,10.5,0.0,True,1
-Emil Krafth,DEF,Newcastle,West Ham,90,0,0,1,0,7,1,0,0,0,0,0,2.2,8.2,13.6,0.0,False,1
-Emil Krafth,DEF,Newcastle,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,3.5,8.0,15.2,12.0,False,6
-Emil Krafth,DEF,Newcastle,Burnley,90,0,0,1,0,15,0,0,0,0,0,0,2.3,21.4,1.6,0.0,True,2
-Emil Krafth,DEF,Newcastle,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,1.1,9.6,1.2,0.0,False,2
-Emil Krafth,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Fulham,90,0,0,0,1,14,1,0,0,0,0,0,2.1,7.8,1.8,11.0,False,5
-Emil Krafth,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Emil Krafth,DEF,Newcastle,Wolves,90,0,0,0,1,21,0,0,0,0,0,0,1.5,14.0,1.2,0.0,True,6
-Emil Krafth,DEF,Newcastle,Leicester,90,0,0,1,0,6,1,0,0,0,0,0,2.0,17.8,1.8,0.0,True,1
-Emil Krafth,DEF,Newcastle,Everton,90,0,0,0,1,25,0,0,0,0,0,0,2.4,11.8,12.3,0.0,True,7
-Emil Krafth,DEF,Newcastle,Sheffield Utd,90,0,0,0,1,19,0,0,0,0,0,0,1.4,11.0,2.6,0.0,False,6
-Emil Krafth,DEF,Newcastle,Liverpool,84,0,0,1,0,11,0,0,0,0,0,0,1.7,14.2,0.8,2.0,True,2
-Emil Krafth,DEF,Newcastle,Man City,67,0,0,3,0,10,0,0,0,0,0,0,0.8,6.6,1.0,0.0,False,1
-Emil Krafth,DEF,Newcastle,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,3.0,14.4,13.0,3.0,True,7
-Emil Krafth,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Emil Krafth,DEF,Newcastle,West Ham,84,0,0,4,0,10,0,0,0,0,0,0,1.5,9.4,1.3,4.0,True,0,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Leeds,9,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Crystal Palace,90,0,1,1,0,21,0,0,0,0,0,0,8.1,49.8,10.9,20.0,False,6,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Chelsea,90,0,0,3,0,8,0,0,0,0,0,0,1.1,10.0,0.9,0.0,True,1,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,0.7,6.4,0.8,0.0,False,2,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Arsenal,90,0,0,2,0,9,1,0,0,0,0,0,2.2,21.0,1.1,0.0,False,0,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Emil Krafth,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Emil Krafth,DEF,Newcastle,Man Utd,90,0,0,1,0,11,1,0,0,0,0,0,3.8,24.8,11.1,2.0,True,1,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Aston Villa,42,0,0,0,0,4,0,0,0,0,0,0,1.3,2.2,10.5,0.0,True,1,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,West Ham,90,0,0,1,0,7,1,0,0,0,0,0,2.2,8.2,13.6,0.0,False,1,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Brentford,90,0,0,0,1,24,0,0,0,0,0,0,3.5,8.0,15.2,12.0,False,6,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Brighton,90,0,0,1,0,15,0,0,0,0,0,0,2.3,21.4,1.6,0.0,True,2,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,1.1,9.6,1.2,0.0,False,2,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Everton,90,0,0,0,1,14,1,0,0,0,0,0,2.1,7.8,1.8,11.0,False,5,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Wolves,90,0,0,0,1,21,0,0,0,0,0,0,1.5,14.0,1.2,0.0,True,6,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Leicester,90,0,0,1,0,6,1,0,0,0,0,0,2.0,17.8,1.8,0.0,True,1,3.0,3.0,0.0
+Emil Krafth,DEF,Newcastle,Crystal Palace,90,0,0,0,1,25,0,0,0,0,0,0,2.4,11.8,12.3,0.0,True,7,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Norwich,90,0,0,0,1,19,0,0,0,0,0,0,1.4,11.0,2.6,0.0,False,6,3.0,2.0,1.0
+Emil Krafth,DEF,Newcastle,Liverpool,84,0,0,1,0,11,0,0,0,0,0,0,1.7,14.2,0.8,2.0,True,2,3.0,5.0,-2.0
+Emil Krafth,DEF,Newcastle,Man City,67,0,0,3,0,10,0,0,0,0,0,0,0.8,6.6,1.0,0.0,False,1,3.0,5.0,-2.0
+Emil Krafth,DEF,Newcastle,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,3.0,14.4,13.0,3.0,True,7,3.0,4.0,-1.0
+Emil Krafth,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0

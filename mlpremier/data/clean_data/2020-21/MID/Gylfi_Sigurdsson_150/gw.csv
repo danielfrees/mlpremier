@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Gylfi Sigurdsson,MID,Everton,Spurs,22,0,0,0,0,3,0,0,0,0,0,0,0.3,2.4,0.3,0.0,False,1
-Gylfi Sigurdsson,MID,Everton,West Brom,25,0,0,0,0,13,0,0,0,0,0,0,3.1,9.2,21.4,0.0,True,1
-Gylfi Sigurdsson,MID,Everton,Crystal Palace,14,0,0,0,0,4,0,0,0,0,0,0,0.2,1.4,0.4,0.0,False,1
-Gylfi Sigurdsson,MID,Everton,Brighton,90,0,1,2,0,26,0,0,0,0,0,0,8.3,34.2,27.0,22.0,True,5
-Gylfi Sigurdsson,MID,Everton,Liverpool,18,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1
-Gylfi Sigurdsson,MID,Everton,Southampton,57,0,0,2,0,1,0,0,0,0,0,0,0.5,0.0,2.7,3.0,False,1
-Gylfi Sigurdsson,MID,Everton,Newcastle,90,0,0,2,0,6,0,0,0,0,0,0,9.4,12.8,32.0,49.0,False,2
-Gylfi Sigurdsson,MID,Everton,Man Utd,66,0,0,2,0,6,0,0,0,0,0,0,2.2,8.0,11.9,2.0,True,2
-Gylfi Sigurdsson,MID,Everton,Fulham,14,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,1.0,0.0,False,1
-Gylfi Sigurdsson,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Gylfi Sigurdsson,MID,Everton,Burnley,9,0,0,0,0,-1,0,0,0,0,0,0,2.2,5.0,0.2,17.0,False,1
-Gylfi Sigurdsson,MID,Everton,Chelsea,82,1,0,0,1,32,0,0,0,0,0,0,14.3,53.2,69.6,20.0,True,11
-Gylfi Sigurdsson,MID,Everton,Leicester,90,0,0,0,1,9,0,0,0,0,0,0,6.2,8.2,45.8,8.0,False,3
-Gylfi Sigurdsson,MID,Everton,Arsenal,90,0,1,1,0,27,0,0,0,0,0,0,7.1,26.6,31.8,13.0,True,7
-Gylfi Sigurdsson,MID,Everton,Sheffield Utd,90,1,0,0,1,37,0,0,0,0,0,0,9.0,40.8,28.7,20.0,False,11
-Gylfi Sigurdsson,MID,Everton,West Ham,63,0,0,0,1,13,0,0,0,0,0,0,2.9,4.8,22.5,2.0,True,3
-Gylfi Sigurdsson,MID,Everton,Wolves,75,0,0,1,0,4,0,0,0,0,0,0,1.8,2.6,15.4,0.0,False,2
-Gylfi Sigurdsson,MID,Everton,Leicester,5,0,0,0,0,4,0,0,0,0,0,0,1.7,2.4,14.5,0.0,True,1
-Gylfi Sigurdsson,MID,Everton,Newcastle,90,0,0,2,0,13,1,0,0,0,0,0,1.5,12.8,2.3,0.0,True,1
-Gylfi Sigurdsson,MID,Everton,Leeds,89,1,0,1,0,24,0,0,0,0,0,0,8.3,39.8,16.8,26.0,False,8
-Gylfi Sigurdsson,MID,Everton,Man Utd,21,0,0,1,0,3,0,0,0,0,0,0,0.2,1.0,0.5,0.0,False,1
-Gylfi Sigurdsson,MID,Everton,Fulham,90,0,0,2,0,4,0,0,0,0,0,0,3.6,3.0,2.3,31.0,True,2
-Gylfi Sigurdsson,MID,Everton,Man City,90,0,0,3,0,14,0,0,0,0,0,0,3.2,9.0,3.6,19.0,True,2
-Gylfi Sigurdsson,MID,Everton,Liverpool,31,1,0,0,0,19,0,0,0,0,0,0,7.1,35.8,0.3,35.0,False,6
-Gylfi Sigurdsson,MID,Everton,Southampton,90,0,1,0,1,27,0,0,0,0,0,0,9.4,29.0,55.0,10.0,True,7
-Gylfi Sigurdsson,MID,Everton,West Brom,26,0,1,0,0,17,0,0,0,0,0,0,3.8,21.4,14.4,2.0,False,4
-Gylfi Sigurdsson,MID,Everton,Chelsea,69,0,0,2,0,5,0,0,0,0,0,0,1.9,1.4,14.4,3.0,False,2
-Gylfi Sigurdsson,MID,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Gylfi Sigurdsson,MID,Everton,Crystal Palace,59,0,0,1,0,1,0,0,0,0,0,0,4.0,10.8,2.0,27.0,True,1
-Gylfi Sigurdsson,MID,Everton,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,2.3,11.4,1.8,10.0,False,3
-Gylfi Sigurdsson,MID,Everton,Spurs,90,2,0,2,0,59,0,0,0,0,0,0,17.9,80.2,49.3,49.0,True,15
-Gylfi Sigurdsson,MID,Everton,Arsenal,90,0,0,0,1,12,0,0,0,0,0,0,2.7,4.4,3.5,19.0,False,3
-Gylfi Sigurdsson,MID,Everton,Aston Villa,81,0,0,2,0,5,0,0,0,0,0,0,4.9,0.0,1.8,47.0,True,2
-Gylfi Sigurdsson,MID,Everton,West Ham,84,0,0,0,1,10,0,0,0,0,0,0,5.5,14.8,33.0,7.0,False,3
-Gylfi Sigurdsson,MID,Everton,Aston Villa,66,0,0,0,1,4,1,0,0,0,0,0,2.8,6.6,12.3,9.0,False,2
-Gylfi Sigurdsson,MID,Everton,Sheffield Utd,45,0,0,0,0,5,0,0,0,0,0,0,5.6,4.8,36.9,14.0,True,1
-Gylfi Sigurdsson,MID,Everton,Wolves,85,0,1,0,1,22,0,0,0,0,0,0,10.2,26.4,58.3,17.0,True,6
-Gylfi Sigurdsson,MID,Everton,Man City,58,0,0,3,0,-6,0,0,0,0,1,0,4.6,6.4,10.4,29.0,False,-1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Gylfi Sigurdsson,MID,Everton,Spurs,22,0,0,0,0,3,0,0,0,0,0,0,0.3,2.4,0.3,0.0,False,1,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,West Brom,25,0,0,0,0,13,0,0,0,0,0,0,3.1,9.2,21.4,0.0,True,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Crystal Palace,14,0,0,0,0,4,0,0,0,0,0,0,0.2,1.4,0.4,0.0,False,1,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Brighton,90,0,1,2,0,26,0,0,0,0,0,0,8.3,34.2,27.0,22.0,True,5,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Liverpool,18,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Southampton,57,0,0,2,0,1,0,0,0,0,0,0,0.5,0.0,2.7,3.0,False,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Newcastle,90,0,0,2,0,6,0,0,0,0,0,0,9.4,12.8,32.0,49.0,False,2,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Man Utd,66,0,0,2,0,6,0,0,0,0,0,0,2.2,8.0,11.9,2.0,True,2,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Fulham,14,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,1.0,0.0,False,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Burnley,9,0,0,0,0,-1,0,0,0,0,0,0,2.2,5.0,0.2,17.0,False,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Chelsea,82,1,0,0,1,32,0,0,0,0,0,0,14.3,53.2,69.6,20.0,True,11,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Leicester,90,0,0,0,1,9,0,0,0,0,0,0,6.2,8.2,45.8,8.0,False,3,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Arsenal,90,0,1,1,0,27,0,0,0,0,0,0,7.1,26.6,31.8,13.0,True,7,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Sheffield Utd,90,1,0,0,1,37,0,0,0,0,0,0,9.0,40.8,28.7,20.0,False,11,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,West Ham,63,0,0,0,1,13,0,0,0,0,0,0,2.9,4.8,22.5,2.0,True,3,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Wolves,75,0,0,1,0,4,0,0,0,0,0,0,1.8,2.6,15.4,0.0,False,2,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Leicester,5,0,0,0,0,4,0,0,0,0,0,0,1.7,2.4,14.5,0.0,True,1,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Newcastle,90,0,0,2,0,13,1,0,0,0,0,0,1.5,12.8,2.3,0.0,True,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Leeds,89,1,0,1,0,24,0,0,0,0,0,0,8.3,39.8,16.8,26.0,False,8,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Man Utd,21,0,0,1,0,3,0,0,0,0,0,0,0.2,1.0,0.5,0.0,False,1,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Fulham,90,0,0,2,0,4,0,0,0,0,0,0,3.6,3.0,2.3,31.0,True,2,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Man City,90,0,0,3,0,14,0,0,0,0,0,0,3.2,9.0,3.6,19.0,True,2,3.0,5.0,-2.0
+Gylfi Sigurdsson,MID,Everton,Liverpool,31,1,0,0,0,19,0,0,0,0,0,0,7.1,35.8,0.3,35.0,False,6,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Southampton,90,0,1,0,1,27,0,0,0,0,0,0,9.4,29.0,55.0,10.0,True,7,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,West Brom,26,0,1,0,0,17,0,0,0,0,0,0,3.8,21.4,14.4,2.0,False,4,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Chelsea,69,0,0,2,0,5,0,0,0,0,0,0,1.9,1.4,14.4,3.0,False,2,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Crystal Palace,59,0,0,1,0,1,0,0,0,0,0,0,4.0,10.8,2.0,27.0,True,1,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,2.3,11.4,1.8,10.0,False,3,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Spurs,90,2,0,2,0,59,0,0,0,0,0,0,17.9,80.2,49.3,49.0,True,15,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Arsenal,90,0,0,0,1,12,0,0,0,0,0,0,2.7,4.4,3.5,19.0,False,3,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Aston Villa,81,0,0,2,0,5,0,0,0,0,0,0,4.9,0.0,1.8,47.0,True,2,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,West Ham,84,0,0,0,1,10,0,0,0,0,0,0,5.5,14.8,33.0,7.0,False,3,3.0,4.0,-1.0
+Gylfi Sigurdsson,MID,Everton,Aston Villa,66,0,0,0,1,4,1,0,0,0,0,0,2.8,6.6,12.3,9.0,False,2,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Sheffield Utd,45,0,0,0,0,5,0,0,0,0,0,0,5.6,4.8,36.9,14.0,True,1,3.0,2.0,1.0
+Gylfi Sigurdsson,MID,Everton,Wolves,85,0,1,0,1,22,0,0,0,0,0,0,10.2,26.4,58.3,17.0,True,6,3.0,3.0,0.0
+Gylfi Sigurdsson,MID,Everton,Man City,58,0,0,3,0,-6,0,0,0,0,1,0,4.6,6.4,10.4,29.0,False,-1,3.0,5.0,-2.0

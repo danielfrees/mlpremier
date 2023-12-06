@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Ayoze Pérez,MID,Leicester,West Brom,66,0,0,0,1,5,0,0,0,0,0,0,2.7,0.0,2.5,24.0,False,3
-Ayoze Pérez,MID,Leicester,Burnley,61,0,0,1,0,4,0,0,0,0,0,0,3.8,6.8,3.3,28.0,True,2
-Ayoze Pérez,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,West Ham,63,0,0,2,0,9,0,0,0,0,0,0,0.7,1.8,4.8,0.0,True,2
-Ayoze Pérez,MID,Leicester,Aston Villa,90,0,0,1,0,5,1,0,0,0,0,0,10.2,24.4,26.2,51.0,True,1
-Ayoze Pérez,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ayoze Pérez,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ayoze Pérez,MID,Leicester,Sheffield Utd,68,1,0,1,0,26,0,0,0,0,0,0,11.7,41.0,26.6,49.0,False,9
-Ayoze Pérez,MID,Leicester,Brighton,61,0,0,0,1,3,0,0,0,0,0,0,6.6,12.8,33.8,19.0,True,3
-Ayoze Pérez,MID,Leicester,Everton,28,0,0,1,0,1,0,0,0,0,0,0,5.1,3.0,11.5,36.0,True,1
-Ayoze Pérez,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Man Utd,9,0,0,0,0,0,0,0,0,0,0,0,2.5,1.2,14.8,9.0,True,1
-Ayoze Pérez,MID,Leicester,Crystal Palace,90,0,0,1,0,6,0,0,0,0,0,0,6.7,17.8,31.8,17.0,False,2
-Ayoze Pérez,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Southampton,13,0,0,0,0,3,0,0,0,0,0,0,2.4,6.0,14.0,4.0,True,1
-Ayoze Pérez,MID,Leicester,Chelsea,14,0,0,0,0,2,0,0,0,0,0,0,0.4,3.4,1.0,0.0,True,1
-Ayoze Pérez,MID,Leicester,Everton,90,0,0,1,0,6,0,0,0,0,0,0,3.2,6.6,2.0,23.0,False,2
-Ayoze Pérez,MID,Leicester,Leeds,90,0,0,3,0,6,0,0,0,0,0,0,10.8,17.0,57.2,34.0,True,2
-Ayoze Pérez,MID,Leicester,Fulham,60,0,0,0,1,4,0,0,0,0,0,0,0.8,4.0,1.7,2.0,False,3
-Ayoze Pérez,MID,Leicester,Wolves,60,0,0,0,1,8,0,0,0,0,0,0,2.9,11.4,16.0,2.0,False,3
-Ayoze Pérez,MID,Leicester,Liverpool,15,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Ayoze Pérez,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ayoze Pérez,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,Sheffield Utd,80,1,0,0,1,28,0,0,0,0,0,0,9.9,44.0,6.8,48.0,True,8
-Ayoze Pérez,MID,Leicester,Man City,90,0,0,2,0,14,0,0,0,0,0,0,1.0,8.6,1.3,0.0,True,2
-Ayoze Pérez,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ayoze Pérez,MID,Leicester,West Brom,18,0,0,0,0,2,0,0,0,0,0,0,0.7,2.6,2.3,2.0,True,1
-Ayoze Pérez,MID,Leicester,Crystal Palace,20,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,1
-Ayoze Pérez,MID,Leicester,Southampton,45,0,0,1,0,6,0,0,0,0,0,0,8.3,14.6,25.8,43.0,False,1
-Ayoze Pérez,MID,Leicester,Newcastle,27,0,1,2,0,9,0,0,0,0,0,0,12.1,25.2,21.6,74.0,True,4
-Ayoze Pérez,MID,Leicester,Man Utd,64,0,0,1,0,6,0,0,0,0,0,0,1.6,3.0,13.3,0.0,False,2
-Ayoze Pérez,MID,Leicester,Chelsea,90,0,0,2,0,-10,1,0,0,0,0,0,1.9,0.0,4.3,17.0,False,1
-Ayoze Pérez,MID,Leicester,Spurs,10,0,0,2,0,2,0,0,0,0,0,0,0.1,0.4,0.2,0.0,True,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ayoze Pérez,MID,Leicester,West Brom,66,0,0,0,1,5,0,0,0,0,0,0,2.7,0.0,2.5,24.0,False,3,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Burnley,61,0,0,1,0,4,0,0,0,0,0,0,3.8,6.8,3.3,28.0,True,2,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Ayoze Pérez,MID,Leicester,West Ham,63,0,0,2,0,9,0,0,0,0,0,0,0.7,1.8,4.8,0.0,True,2,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Aston Villa,90,0,0,1,0,5,1,0,0,0,0,0,10.2,24.4,26.2,51.0,True,1,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Sheffield Utd,68,1,0,1,0,26,0,0,0,0,0,0,11.7,41.0,26.6,49.0,False,9,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Brighton,61,0,0,0,1,3,0,0,0,0,0,0,6.6,12.8,33.8,19.0,True,3,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Everton,28,0,0,1,0,1,0,0,0,0,0,0,5.1,3.0,11.5,36.0,True,1,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Man Utd,9,0,0,0,0,0,0,0,0,0,0,0,2.5,1.2,14.8,9.0,True,1,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Crystal Palace,90,0,0,1,0,6,0,0,0,0,0,0,6.7,17.8,31.8,17.0,False,2,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Southampton,13,0,0,0,0,3,0,0,0,0,0,0,2.4,6.0,14.0,4.0,True,1,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Chelsea,14,0,0,0,0,2,0,0,0,0,0,0,0.4,3.4,1.0,0.0,True,1,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Everton,90,0,0,1,0,6,0,0,0,0,0,0,3.2,6.6,2.0,23.0,False,2,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Leeds,90,0,0,3,0,6,0,0,0,0,0,0,10.8,17.0,57.2,34.0,True,2,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Fulham,60,0,0,0,1,4,0,0,0,0,0,0,0.8,4.0,1.7,2.0,False,3,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Wolves,60,0,0,0,1,8,0,0,0,0,0,0,2.9,11.4,16.0,2.0,False,3,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Liverpool,15,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Sheffield Utd,80,1,0,0,1,28,0,0,0,0,0,0,9.9,44.0,6.8,48.0,True,8,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Man City,90,0,0,2,0,14,0,0,0,0,0,0,1.0,8.6,1.3,0.0,True,2,4.0,5.0,-1.0
+Ayoze Pérez,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,West Brom,18,0,0,0,0,2,0,0,0,0,0,0,0.7,2.6,2.3,2.0,True,1,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Crystal Palace,20,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,1,4.0,3.0,1.0
+Ayoze Pérez,MID,Leicester,Southampton,45,0,0,1,0,6,0,0,0,0,0,0,8.3,14.6,25.8,43.0,False,1,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Newcastle,27,0,1,2,0,9,0,0,0,0,0,0,12.1,25.2,21.6,74.0,True,4,4.0,2.0,2.0
+Ayoze Pérez,MID,Leicester,Man Utd,64,0,0,1,0,6,0,0,0,0,0,0,1.6,3.0,13.3,0.0,False,2,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Chelsea,90,0,0,2,0,-10,1,0,0,0,0,0,1.9,0.0,4.3,17.0,False,1,4.0,4.0,0.0
+Ayoze Pérez,MID,Leicester,Spurs,10,0,0,2,0,2,0,0,0,0,0,0,0.1,0.4,0.2,0.0,True,1,4.0,4.0,0.0

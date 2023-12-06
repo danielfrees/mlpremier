@@ -1,35 +1,35 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Nathaniel Clyne,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Fulham,71,0,0,0,1,20,0,0,0,0,0,0,0.5,4.2,0.4,0.0,False,6
-Nathaniel Clyne,DEF,Crystal Palace,Wolves,90,0,0,2,0,17,0,0,0,0,0,0,4.9,14.2,16.8,18.0,False,1
-Nathaniel Clyne,DEF,Crystal Palace,Leeds,90,0,0,1,0,12,0,0,0,0,0,0,1.4,13.4,0.6,0.0,True,2
-Nathaniel Clyne,DEF,Crystal Palace,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,2.7,14.0,3.6,9.0,False,2
-Nathaniel Clyne,DEF,Crystal Palace,Newcastle,90,0,0,2,0,10,0,0,0,0,0,0,1.6,8.2,5.5,2.0,True,1
-Nathaniel Clyne,DEF,Crystal Palace,West Brom,90,0,1,1,0,24,0,0,0,0,0,0,4.4,28.4,15.3,0.0,False,5
-Nathaniel Clyne,DEF,Crystal Palace,Spurs,90,0,0,1,0,11,0,0,0,0,0,0,1.0,9.0,0.9,0.0,True,2
-Nathaniel Clyne,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Liverpool,90,0,0,7,0,5,1,0,0,0,0,0,1.4,8.4,5.7,0.0,True,-2
-Nathaniel Clyne,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,1.9,17.8,0.7,0.0,True,2
-Nathaniel Clyne,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Wolves,84,0,0,0,1,21,0,0,0,0,0,0,1.4,6.2,2.3,5.0,True,6
-Nathaniel Clyne,DEF,Crystal Palace,Newcastle,90,0,0,1,0,6,1,0,0,0,0,0,1.4,12.8,1.4,0.0,False,1
-Nathaniel Clyne,DEF,Crystal Palace,Leeds,90,0,0,2,0,7,0,0,0,0,0,0,0.2,0.8,0.7,0.0,False,1
-Nathaniel Clyne,DEF,Crystal Palace,Burnley,90,0,0,3,0,12,0,0,0,0,0,0,4.4,13.4,30.4,0.0,True,1
-Nathaniel Clyne,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nathaniel Clyne,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nathaniel Clyne,DEF,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nathaniel Clyne,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Fulham,71,0,0,0,1,20,0,0,0,0,0,0,0.5,4.2,0.4,0.0,False,6,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Wolves,90,0,0,2,0,17,0,0,0,0,0,0,4.9,14.2,16.8,18.0,False,1,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Leeds,90,0,0,1,0,12,0,0,0,0,0,0,1.4,13.4,0.6,0.0,True,2,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,2.7,14.0,3.6,9.0,False,2,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Newcastle,90,0,0,2,0,10,0,0,0,0,0,0,1.6,8.2,5.5,2.0,True,1,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,West Brom,90,0,1,1,0,24,0,0,0,0,0,0,4.4,28.4,15.3,0.0,False,5,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Spurs,90,0,0,1,0,11,0,0,0,0,0,0,1.0,9.0,0.9,0.0,True,2,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Liverpool,90,0,0,7,0,5,1,0,0,0,0,0,1.4,8.4,5.7,0.0,True,-2,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,1.9,17.8,0.7,0.0,True,2,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Nathaniel Clyne,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Wolves,84,0,0,0,1,21,0,0,0,0,0,0,1.4,6.2,2.3,5.0,True,6,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Newcastle,90,0,0,1,0,6,1,0,0,0,0,0,1.4,12.8,1.4,0.0,False,1,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Leeds,90,0,0,2,0,7,0,0,0,0,0,0,0.2,0.8,0.7,0.0,False,1,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Burnley,90,0,0,3,0,12,0,0,0,0,0,0,4.4,13.4,30.4,0.0,True,1,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Nathaniel Clyne,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nathaniel Clyne,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nathaniel Clyne,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nathaniel Clyne,DEF,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

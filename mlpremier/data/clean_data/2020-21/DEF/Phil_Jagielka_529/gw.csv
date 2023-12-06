@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Phil Jagielka,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Southampton,90,0,0,3,0,15,0,0,0,0,0,0,1.3,12.2,0.7,0.0,False,1
-Phil Jagielka,DEF,Sheffield Utd,Man Utd,51,0,0,3,0,2,1,0,0,0,0,0,0.4,3.2,0.3,0.0,True,-1
-Phil Jagielka,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1
-Phil Jagielka,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Man Utd,90,0,0,1,0,9,0,0,0,0,0,0,1.6,16.0,0.1,0.0,False,2
-Phil Jagielka,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,West Ham,5,0,0,1,0,6,0,0,0,0,0,0,0.5,5.2,0.0,0.0,False,1
-Phil Jagielka,DEF,Sheffield Utd,Fulham,79,0,0,1,0,9,0,0,0,0,0,0,0.9,9.2,0.1,0.0,False,2
-Phil Jagielka,DEF,Sheffield Utd,Liverpool,55,0,0,1,0,6,0,0,0,0,0,0,1.0,7.6,0.3,2.0,True,1
-Phil Jagielka,DEF,Sheffield Utd,Aston Villa,56,0,0,0,0,-6,0,1,0,0,0,0,0.3,2.4,0.1,0.0,True,-2
-Phil Jagielka,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Leeds,90,0,0,2,0,6,0,0,1,0,0,0,1.3,12.6,0.3,0.0,False,-1
-Phil Jagielka,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Jagielka,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Jagielka,DEF,Sheffield Utd,Burnley,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Phil Jagielka,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Phil Jagielka,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Southampton,90,0,0,3,0,15,0,0,0,0,0,0,1.3,12.2,0.7,0.0,False,1,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Man Utd,51,0,0,3,0,2,1,0,0,0,0,0,0.4,3.2,0.3,0.0,True,-1,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,1,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Man Utd,90,0,0,1,0,9,0,0,0,0,0,0,1.6,16.0,0.1,0.0,False,2,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Phil Jagielka,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,West Ham,5,0,0,1,0,6,0,0,0,0,0,0,0.5,5.2,0.0,0.0,False,1,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Fulham,79,0,0,1,0,9,0,0,0,0,0,0,0.9,9.2,0.1,0.0,False,2,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Liverpool,55,0,0,1,0,6,0,0,0,0,0,0,1.0,7.6,0.3,2.0,True,1,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Aston Villa,56,0,0,0,0,-6,0,1,0,0,0,0,0.3,2.4,0.1,0.0,True,-2,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Leeds,90,0,0,2,0,6,0,0,1,0,0,0,1.3,12.6,0.3,0.0,False,-1,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Phil Jagielka,DEF,Sheffield Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Phil Jagielka,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Phil Jagielka,DEF,Sheffield Utd,Burnley,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,1,2.0,2.0,0.0

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Hal Robson-Kanu,FWD,West Brom,Leicester,30,0,0,2,0,3,0,0,0,0,0,0,0.3,2.0,0.1,1.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Chelsea,24,0,0,2,0,3,0,0,0,0,0,0,2.0,1.2,10.6,8.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Southampton,30,0,0,1,0,0,0,0,0,0,0,0,1.1,4.0,0.0,7.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Man Utd,28,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Sheffield Utd,25,0,0,0,0,-1,0,0,0,0,0,0,1.4,4.2,0.8,9.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Wolves,21,0,0,0,0,-2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Hal Robson-Kanu,FWD,West Brom,West Ham,10,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Man City,26,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.3,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Sheffield Utd,22,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,0.3,4.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Brighton,7,0,0,0,0,4,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Everton,12,0,0,0,0,3,0,0,0,0,0,0,2.3,2.0,12.8,8.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Newcastle,6,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.3,2.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Crystal Palace,27,0,0,0,0,4,0,0,0,0,0,0,0.5,1.6,1.8,2.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Southampton,14,0,0,0,0,-1,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1
-Hal Robson-Kanu,FWD,West Brom,Leicester,29,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.3,0.0,False,1
-Hal Robson-Kanu,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hal Robson-Kanu,FWD,West Brom,Arsenal,34,0,0,1,0,-2,1,0,0,0,0,0,0.0,0.0,0.3,0.0,False,0
-Hal Robson-Kanu,FWD,West Brom,Liverpool,81,1,0,1,0,22,0,0,0,0,0,0,10.2,38.6,11.1,52.0,True,6
-Hal Robson-Kanu,FWD,West Brom,West Ham,88,0,0,3,0,7,0,0,0,0,0,0,6.3,6.2,27.1,30.0,True,2
-Hal Robson-Kanu,FWD,West Brom,Leeds,30,1,0,1,0,27,0,0,0,0,0,0,6.5,38.4,0.6,26.0,False,8
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Hal Robson-Kanu,FWD,West Brom,Leicester,30,0,0,2,0,3,0,0,0,0,0,0,0.3,2.0,0.1,1.0,True,1,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Chelsea,24,0,0,2,0,3,0,0,0,0,0,0,2.0,1.2,10.6,8.0,True,1,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Southampton,30,0,0,1,0,0,0,0,0,0,0,0,1.1,4.0,0.0,7.0,False,1,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Man Utd,28,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Sheffield Utd,25,0,0,0,0,-1,0,0,0,0,0,0,1.4,4.2,0.8,9.0,True,1,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Hal Robson-Kanu,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Wolves,21,0,0,0,0,-2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,West Ham,10,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Man City,26,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.3,0.0,True,0,2.0,5.0,-3.0
+Hal Robson-Kanu,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Sheffield Utd,22,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,0.3,4.0,False,1,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Brighton,7,0,0,0,0,4,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Everton,12,0,0,0,0,3,0,0,0,0,0,0,2.3,2.0,12.8,8.0,True,1,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Newcastle,6,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.3,2.0,True,1,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Crystal Palace,27,0,0,0,0,4,0,0,0,0,0,0,0.5,1.6,1.8,2.0,False,1,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Southampton,14,0,0,0,0,-1,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1,2.0,2.0,0.0
+Hal Robson-Kanu,FWD,West Brom,Leicester,29,0,0,0,0,2,0,0,0,0,0,0,0.2,2.0,0.3,0.0,False,1,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,Arsenal,34,0,0,1,0,-2,1,0,0,0,0,0,0.0,0.0,0.3,0.0,False,0,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Liverpool,81,1,0,1,0,22,0,0,0,0,0,0,10.2,38.6,11.1,52.0,True,6,2.0,3.0,-1.0
+Hal Robson-Kanu,FWD,West Brom,West Ham,88,0,0,3,0,7,0,0,0,0,0,0,6.3,6.2,27.1,30.0,True,2,2.0,4.0,-2.0
+Hal Robson-Kanu,FWD,West Brom,Leeds,30,1,0,1,0,27,0,0,0,0,0,0,6.5,38.4,0.6,26.0,False,8,2.0,3.0,-1.0

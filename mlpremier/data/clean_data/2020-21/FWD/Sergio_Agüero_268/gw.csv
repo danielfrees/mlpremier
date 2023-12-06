@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Sergio Agüero,FWD,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Arsenal,64,0,0,0,1,14,0,0,0,0,0,0,4.9,4.0,35.2,10.0,True,2
-Sergio Agüero,FWD,Man City,West Ham,45,0,0,1,0,2,0,0,0,0,0,0,0.9,0.0,1.6,8.0,False,1
-Sergio Agüero,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,West Brom,14,0,0,0,0,1,0,0,0,0,0,0,0.8,0.0,0.0,12.0,True,1
-Sergio Agüero,FWD,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Newcastle,13,0,0,0,0,0,0,0,0,0,0,0,3.8,3.2,0.1,35.0,True,1
-Sergio Agüero,FWD,Man City,Chelsea,4,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Sergio Agüero,FWD,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,West Ham,60,0,0,1,0,3,0,0,0,0,0,0,2.4,1.6,16.5,6.0,True,2
-Sergio Agüero,FWD,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Southampton,18,0,0,0,0,2,0,0,0,0,0,0,2.0,3.0,0.0,17.0,True,1
-Sergio Agüero,FWD,Man City,Fulham,90,1,0,0,1,27,0,0,0,0,0,0,8.6,41.8,2.3,42.0,False,6
-Sergio Agüero,FWD,Man City,Leicester,62,0,0,0,1,5,0,0,0,0,0,0,2.7,0.0,3.6,24.0,False,2
-Sergio Agüero,FWD,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sergio Agüero,FWD,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Crystal Palace,90,1,0,0,1,36,0,0,0,0,0,0,12.8,41.6,18.8,68.0,False,8
-Sergio Agüero,FWD,Man City,Chelsea,69,0,1,1,0,9,0,0,0,0,1,0,8.4,30.6,21.8,32.0,True,3
-Sergio Agüero,FWD,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sergio Agüero,FWD,Man City,Everton,25,2,0,0,0,53,0,0,0,0,0,0,14.9,74.8,2.3,72.0,True,10
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Sergio Agüero,FWD,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Arsenal,64,0,0,0,1,14,0,0,0,0,0,0,4.9,4.0,35.2,10.0,True,2,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,West Ham,45,0,0,1,0,2,0,0,0,0,0,0,0.9,0.0,1.6,8.0,False,1,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,West Brom,14,0,0,0,0,1,0,0,0,0,0,0,0.8,0.0,0.0,12.0,True,1,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Newcastle,13,0,0,0,0,0,0,0,0,0,0,0,3.8,3.2,0.1,35.0,True,1,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Chelsea,4,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,West Ham,60,0,0,1,0,3,0,0,0,0,0,0,2.4,1.6,16.5,6.0,True,2,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Southampton,18,0,0,0,0,2,0,0,0,0,0,0,2.0,3.0,0.0,17.0,True,1,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Fulham,90,1,0,0,1,27,0,0,0,0,0,0,8.6,41.8,2.3,42.0,False,6,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Leicester,62,0,0,0,1,5,0,0,0,0,0,0,2.7,0.0,3.6,24.0,False,2,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Crystal Palace,90,1,0,0,1,36,0,0,0,0,0,0,12.8,41.6,18.8,68.0,False,8,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Chelsea,69,0,1,1,0,9,0,0,0,0,1,0,8.4,30.6,21.8,32.0,True,3,5.0,4.0,1.0
+Sergio Agüero,FWD,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Sergio Agüero,FWD,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Sergio Agüero,FWD,Man City,Everton,25,2,0,0,0,53,0,0,0,0,0,0,14.9,74.8,2.3,72.0,True,10,5.0,3.0,2.0

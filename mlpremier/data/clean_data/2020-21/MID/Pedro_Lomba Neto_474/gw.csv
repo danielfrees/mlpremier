@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Pedro Lomba Neto,MID,Wolves,Sheffield Utd,67,0,1,0,1,18,0,0,0,0,0,0,4.0,19.8,15.8,4.0,False,6
-Pedro Lomba Neto,MID,Wolves,Man City,77,0,0,2,0,4,0,0,0,0,0,0,5.0,8.0,23.9,18.0,True,2
-Pedro Lomba Neto,MID,Wolves,West Ham,90,0,0,4,0,12,0,0,0,0,0,0,6.0,8.4,43.5,8.0,False,2
-Pedro Lomba Neto,MID,Wolves,Fulham,81,1,0,0,1,25,0,0,0,0,0,0,11.2,40.4,35.3,36.0,True,8
-Pedro Lomba Neto,MID,Wolves,Leeds,88,0,0,0,1,5,0,0,0,0,0,0,4.6,9.6,12.3,24.0,False,3
-Pedro Lomba Neto,MID,Wolves,Newcastle,90,0,0,1,0,8,0,0,0,0,0,0,7.4,8.4,28.3,37.0,True,2
-Pedro Lomba Neto,MID,Wolves,Crystal Palace,75,0,1,0,1,32,0,0,0,0,0,0,11.1,43.6,61.5,6.0,True,7
-Pedro Lomba Neto,MID,Wolves,Leicester,78,0,0,1,0,9,0,0,0,0,0,0,6.5,15.8,22.1,27.0,False,2
-Pedro Lomba Neto,MID,Wolves,Southampton,20,1,0,0,0,20,0,0,0,0,0,0,9.4,36.4,1.2,56.0,True,6
-Pedro Lomba Neto,MID,Wolves,Arsenal,90,1,1,1,0,41,0,0,0,0,0,0,11.4,45.4,38.2,30.0,False,13
-Pedro Lomba Neto,MID,Wolves,Liverpool,78,0,0,4,0,11,0,0,0,0,0,0,5.1,12.2,33.2,6.0,False,2
-Pedro Lomba Neto,MID,Wolves,Aston Villa,90,0,0,1,0,16,0,0,0,0,0,0,6.4,11.8,37.0,15.0,True,2
-Pedro Lomba Neto,MID,Wolves,Chelsea,90,1,0,1,0,30,0,0,0,0,0,0,10.4,37.2,35.3,31.0,True,9
-Pedro Lomba Neto,MID,Wolves,Burnley,90,0,0,2,0,9,0,0,0,0,0,0,4.7,6.2,9.6,31.0,False,2
-Pedro Lomba Neto,MID,Wolves,Spurs,90,0,1,1,0,22,0,0,0,0,0,0,10.1,28.4,48.7,24.0,True,6
-Pedro Lomba Neto,MID,Wolves,Man Utd,67,0,0,0,1,11,0,0,0,0,0,0,6.7,5.4,20.1,41.0,False,3
-Pedro Lomba Neto,MID,Wolves,Brighton,90,0,1,3,0,20,0,0,0,0,0,0,3.9,8.2,8.1,23.0,False,5
-Pedro Lomba Neto,MID,Wolves,Everton,90,0,0,2,0,21,0,0,0,0,0,0,11.2,18.8,61.3,32.0,True,2
-Pedro Lomba Neto,MID,Wolves,West Brom,90,0,0,3,0,19,0,0,0,0,0,0,11.8,19.8,82.5,16.0,True,2
-Pedro Lomba Neto,MID,Wolves,Chelsea,90,0,0,0,1,-2,1,0,0,0,0,0,2.4,2.8,16.2,5.0,False,2
-Pedro Lomba Neto,MID,Wolves,Crystal Palace,90,0,0,1,0,20,0,0,0,0,0,0,8.5,24.6,53.7,7.0,False,2
-Pedro Lomba Neto,MID,Wolves,Arsenal,90,0,1,1,0,30,0,0,0,0,0,0,10.0,31.2,26.6,42.0,True,8
-Pedro Lomba Neto,MID,Wolves,Leicester,87,0,0,0,1,11,0,0,0,0,0,0,8.8,19.6,45.8,23.0,True,3
-Pedro Lomba Neto,MID,Wolves,Southampton,90,1,0,1,0,22,1,0,0,0,0,0,11.3,39.8,46.2,27.0,False,6
-Pedro Lomba Neto,MID,Wolves,Leeds,90,0,0,0,1,4,1,0,0,0,0,0,5.0,6.6,14.8,29.0,True,2
-Pedro Lomba Neto,MID,Wolves,Newcastle,90,0,1,1,0,23,0,0,0,0,0,0,12.6,32.0,54.3,40.0,False,5
-Pedro Lomba Neto,MID,Wolves,Man City,90,0,0,4,0,3,1,0,0,0,0,0,5.8,12.0,26.4,20.0,False,1
-Pedro Lomba Neto,MID,Wolves,Aston Villa,90,0,0,0,1,14,0,0,0,0,0,0,6.6,12.0,32.5,21.0,False,3
-Pedro Lomba Neto,MID,Wolves,Liverpool,90,0,0,1,0,7,0,0,0,0,0,0,2.0,5.6,8.3,6.0,True,2
-Pedro Lomba Neto,MID,Wolves,West Ham,90,0,1,3,0,23,0,0,0,0,0,0,12.5,24.0,64.0,37.0,True,5
-Pedro Lomba Neto,MID,Wolves,Fulham,31,0,0,0,0,4,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1
-Pedro Lomba Neto,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Pedro Lomba Neto,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Pedro Lomba Neto,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Pedro Lomba Neto,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Pedro Lomba Neto,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Pedro Lomba Neto,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Pedro Lomba Neto,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Pedro Lomba Neto,MID,Wolves,Sheffield Utd,67,0,1,0,1,18,0,0,0,0,0,0,4.0,19.8,15.8,4.0,False,6,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Man City,77,0,0,2,0,4,0,0,0,0,0,0,5.0,8.0,23.9,18.0,True,2,3.0,5.0,-2.0
+Pedro Lomba Neto,MID,Wolves,West Ham,90,0,0,4,0,12,0,0,0,0,0,0,6.0,8.4,43.5,8.0,False,2,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Fulham,81,1,0,0,1,25,0,0,0,0,0,0,11.2,40.4,35.3,36.0,True,8,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Leeds,88,0,0,0,1,5,0,0,0,0,0,0,4.6,9.6,12.3,24.0,False,3,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Newcastle,90,0,0,1,0,8,0,0,0,0,0,0,7.4,8.4,28.3,37.0,True,2,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Crystal Palace,75,0,1,0,1,32,0,0,0,0,0,0,11.1,43.6,61.5,6.0,True,7,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Leicester,78,0,0,1,0,9,0,0,0,0,0,0,6.5,15.8,22.1,27.0,False,2,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Southampton,20,1,0,0,0,20,0,0,0,0,0,0,9.4,36.4,1.2,56.0,True,6,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Arsenal,90,1,1,1,0,41,0,0,0,0,0,0,11.4,45.4,38.2,30.0,False,13,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Liverpool,78,0,0,4,0,11,0,0,0,0,0,0,5.1,12.2,33.2,6.0,False,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Aston Villa,90,0,0,1,0,16,0,0,0,0,0,0,6.4,11.8,37.0,15.0,True,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Chelsea,90,1,0,1,0,30,0,0,0,0,0,0,10.4,37.2,35.3,31.0,True,9,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Burnley,90,0,0,2,0,9,0,0,0,0,0,0,4.7,6.2,9.6,31.0,False,2,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Spurs,90,0,1,1,0,22,0,0,0,0,0,0,10.1,28.4,48.7,24.0,True,6,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Man Utd,67,0,0,0,1,11,0,0,0,0,0,0,6.7,5.4,20.1,41.0,False,3,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Brighton,90,0,1,3,0,20,0,0,0,0,0,0,3.9,8.2,8.1,23.0,False,5,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Everton,90,0,0,2,0,21,0,0,0,0,0,0,11.2,18.8,61.3,32.0,True,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,West Brom,90,0,0,3,0,19,0,0,0,0,0,0,11.8,19.8,82.5,16.0,True,2,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Chelsea,90,0,0,0,1,-2,1,0,0,0,0,0,2.4,2.8,16.2,5.0,False,2,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Crystal Palace,90,0,0,1,0,20,0,0,0,0,0,0,8.5,24.6,53.7,7.0,False,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Arsenal,90,0,1,1,0,30,0,0,0,0,0,0,10.0,31.2,26.6,42.0,True,8,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Leicester,87,0,0,0,1,11,0,0,0,0,0,0,8.8,19.6,45.8,23.0,True,3,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Southampton,90,1,0,1,0,22,1,0,0,0,0,0,11.3,39.8,46.2,27.0,False,6,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Leeds,90,0,0,0,1,4,1,0,0,0,0,0,5.0,6.6,14.8,29.0,True,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Newcastle,90,0,1,1,0,23,0,0,0,0,0,0,12.6,32.0,54.3,40.0,False,5,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Man City,90,0,0,4,0,3,1,0,0,0,0,0,5.8,12.0,26.4,20.0,False,1,3.0,5.0,-2.0
+Pedro Lomba Neto,MID,Wolves,Aston Villa,90,0,0,0,1,14,0,0,0,0,0,0,6.6,12.0,32.5,21.0,False,3,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Liverpool,90,0,0,1,0,7,0,0,0,0,0,0,2.0,5.6,8.3,6.0,True,2,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,West Ham,90,0,1,3,0,23,0,0,0,0,0,0,12.5,24.0,64.0,37.0,True,5,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Fulham,31,0,0,0,0,4,0,0,0,0,0,0,0.1,0.2,0.6,0.0,False,1,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Pedro Lomba Neto,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Pedro Lomba Neto,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Pedro Lomba Neto,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0

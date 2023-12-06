@@ -1,38 +1,38 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Branislav Ivanovic,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Burnley,90,0,0,0,1,25,0,0,0,0,0,0,7.9,21.6,0.1,57.0,True,6
-Branislav Ivanovic,DEF,West Brom,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,1.4,13.6,0.4,0.0,False,2
-Branislav Ivanovic,DEF,West Brom,Fulham,90,0,0,2,0,14,0,0,0,0,0,0,3.6,25.8,10.4,0.0,False,1
-Branislav Ivanovic,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Man Utd,78,0,0,1,0,7,0,0,0,0,0,0,1.0,5.8,0.2,4.0,False,2
-Branislav Ivanovic,DEF,West Brom,Sheffield Utd,90,0,0,0,1,16,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,5
-Branislav Ivanovic,DEF,West Brom,Crystal Palace,90,0,0,5,0,12,0,0,0,0,0,0,1.2,12.2,0.1,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Newcastle,90,0,0,2,0,12,1,0,0,0,0,0,1.1,10.4,0.5,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Aston Villa,12,0,0,2,0,4,0,0,0,0,0,0,0.3,3.2,0.1,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Liverpool,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Branislav Ivanovic,DEF,West Brom,Leeds,45,0,0,1,0,4,0,0,0,0,0,0,1.5,14.6,0.3,0.0,True,1
-Branislav Ivanovic,DEF,West Brom,Arsenal,65,0,0,4,0,4,0,0,0,0,0,0,0.8,7.6,0.6,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Brighton,11,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,1
-Branislav Ivanovic,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Chelsea,12,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Branislav Ivanovic,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Branislav Ivanovic,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Branislav Ivanovic,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Branislav Ivanovic,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Burnley,90,0,0,0,1,25,0,0,0,0,0,0,7.9,21.6,0.1,57.0,True,6,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,1.4,13.6,0.4,0.0,False,2,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Fulham,90,0,0,2,0,14,0,0,0,0,0,0,3.6,25.8,10.4,0.0,False,1,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Man Utd,78,0,0,1,0,7,0,0,0,0,0,0,1.0,5.8,0.2,4.0,False,2,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Sheffield Utd,90,0,0,0,1,16,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,5,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Crystal Palace,90,0,0,5,0,12,0,0,0,0,0,0,1.2,12.2,0.1,0.0,True,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Newcastle,90,0,0,2,0,12,1,0,0,0,0,0,1.1,10.4,0.5,0.0,False,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Branislav Ivanovic,DEF,West Brom,Aston Villa,12,0,0,2,0,4,0,0,0,0,0,0,0.3,3.2,0.1,0.0,True,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Liverpool,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Leeds,45,0,0,1,0,4,0,0,0,0,0,0,1.5,14.6,0.3,0.0,True,1,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Arsenal,65,0,0,4,0,4,0,0,0,0,0,0,0.8,7.6,0.6,0.0,True,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Branislav Ivanovic,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Brighton,11,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Chelsea,12,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Branislav Ivanovic,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Branislav Ivanovic,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Branislav Ivanovic,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0

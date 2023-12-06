@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Kevin De Bruyne,MID,Man City,Wolves,90,1,1,1,0,42,0,0,0,0,0,0,22.1,85.2,71.6,64.0,False,13
-Kevin De Bruyne,MID,Man City,Leicester,90,0,0,5,0,13,0,0,0,0,0,0,6.3,10.4,42.5,10.0,True,2
-Kevin De Bruyne,MID,Man City,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,14.4,19.2,71.3,53.0,False,2
-Kevin De Bruyne,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kevin De Bruyne,MID,Man City,West Ham,22,0,0,0,0,7,0,0,0,0,0,0,3.8,7.6,19.3,11.0,False,1
-Kevin De Bruyne,MID,Man City,Sheffield Utd,90,0,1,0,1,22,0,0,0,0,0,0,9.6,26.4,48.7,21.0,False,6
-Kevin De Bruyne,MID,Man City,Liverpool,90,0,1,1,0,6,0,0,0,0,1,0,6.8,20.0,31.9,16.0,True,3
-Kevin De Bruyne,MID,Man City,Spurs,90,0,0,2,0,17,0,0,0,0,0,0,15.6,12.8,51.8,91.0,False,2
-Kevin De Bruyne,MID,Man City,Burnley,90,0,2,0,1,34,0,0,0,0,0,0,10.9,49.6,36.9,22.0,True,10
-Kevin De Bruyne,MID,Man City,Fulham,90,1,1,0,1,41,0,0,0,0,0,0,16.4,65.0,34.3,65.0,True,14
-Kevin De Bruyne,MID,Man City,Man Utd,90,0,0,0,1,12,0,0,0,0,0,0,7.8,10.0,34.4,34.0,False,3
-Kevin De Bruyne,MID,Man City,West Brom,90,0,0,1,0,22,0,0,0,0,0,0,14.6,21.4,82.7,42.0,True,4
-Kevin De Bruyne,MID,Man City,Southampton,90,0,1,0,1,24,1,0,0,0,0,0,10.6,36.4,52.2,17.0,False,5
-Kevin De Bruyne,MID,Man City,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,8.1,14.8,35.0,31.0,True,3
-Kevin De Bruyne,MID,Man City,Chelsea,85,1,1,0,1,38,0,0,0,0,0,0,12.4,47.8,37.0,39.0,False,13
-Kevin De Bruyne,MID,Man City,Brighton,90,0,1,0,1,23,0,0,0,0,0,0,17.9,44.6,45.7,89.0,True,6
-Kevin De Bruyne,MID,Man City,Crystal Palace,70,0,1,0,1,33,0,0,0,0,0,0,12.6,33.4,61.1,31.0,True,7
-Kevin De Bruyne,MID,Man City,Aston Villa,58,0,0,0,0,10,0,0,0,0,0,0,7.7,10.0,40.4,27.0,True,1
-Kevin De Bruyne,MID,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kevin De Bruyne,MID,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kevin De Bruyne,MID,Man City,Everton,10,0,0,0,0,4,0,0,0,0,0,0,1.4,2.8,11.3,0.0,False,1
-Kevin De Bruyne,MID,Man City,Arsenal,62,0,0,0,1,10,0,0,0,0,0,0,5.7,3.2,45.9,8.0,False,3
-Kevin De Bruyne,MID,Man City,West Ham,90,0,1,1,0,31,0,0,0,0,0,0,9.6,35.0,36.8,24.0,True,8
-Kevin De Bruyne,MID,Man City,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,11.0,20.0,23.6,66.0,True,2
-Kevin De Bruyne,MID,Man City,Man Utd,90,0,0,2,0,22,0,0,0,0,0,0,18.0,26.8,101.4,52.0,True,2
-Kevin De Bruyne,MID,Man City,Southampton,71,2,0,2,0,45,0,0,0,0,0,0,16.3,72.6,17.7,73.0,True,14
-Kevin De Bruyne,MID,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Leicester,87,0,0,0,1,19,0,0,0,0,0,0,5.9,12.2,44.3,2.0,False,3
-Kevin De Bruyne,MID,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kevin De Bruyne,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kevin De Bruyne,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kevin De Bruyne,MID,Man City,Everton,90,1,1,0,1,55,0,0,0,0,0,0,19.2,73.6,92.3,26.0,True,13
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kevin De Bruyne,MID,Man City,Wolves,90,1,1,1,0,42,0,0,0,0,0,0,22.1,85.2,71.6,64.0,False,13,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Leicester,90,0,0,5,0,13,0,0,0,0,0,0,6.3,10.4,42.5,10.0,True,2,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,14.4,19.2,71.3,53.0,False,2,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,West Ham,22,0,0,0,0,7,0,0,0,0,0,0,3.8,7.6,19.3,11.0,False,1,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Sheffield Utd,90,0,1,0,1,22,0,0,0,0,0,0,9.6,26.4,48.7,21.0,False,6,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Liverpool,90,0,1,1,0,6,0,0,0,0,1,0,6.8,20.0,31.9,16.0,True,3,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Spurs,90,0,0,2,0,17,0,0,0,0,0,0,15.6,12.8,51.8,91.0,False,2,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Burnley,90,0,2,0,1,34,0,0,0,0,0,0,10.9,49.6,36.9,22.0,True,10,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Fulham,90,1,1,0,1,41,0,0,0,0,0,0,16.4,65.0,34.3,65.0,True,14,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Man Utd,90,0,0,0,1,12,0,0,0,0,0,0,7.8,10.0,34.4,34.0,False,3,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,West Brom,90,0,0,1,0,22,0,0,0,0,0,0,14.6,21.4,82.7,42.0,True,4,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Southampton,90,0,1,0,1,24,1,0,0,0,0,0,10.6,36.4,52.2,17.0,False,5,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,8.1,14.8,35.0,31.0,True,3,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Chelsea,85,1,1,0,1,38,0,0,0,0,0,0,12.4,47.8,37.0,39.0,False,13,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Brighton,90,0,1,0,1,23,0,0,0,0,0,0,17.9,44.6,45.7,89.0,True,6,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Crystal Palace,70,0,1,0,1,33,0,0,0,0,0,0,12.6,33.4,61.1,31.0,True,7,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Aston Villa,58,0,0,0,0,10,0,0,0,0,0,0,7.7,10.0,40.4,27.0,True,1,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Everton,10,0,0,0,0,4,0,0,0,0,0,0,1.4,2.8,11.3,0.0,False,1,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Arsenal,62,0,0,0,1,10,0,0,0,0,0,0,5.7,3.2,45.9,8.0,False,3,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,West Ham,90,0,1,1,0,31,0,0,0,0,0,0,9.6,35.0,36.8,24.0,True,8,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Wolves,90,0,0,1,0,12,0,0,0,0,0,0,11.0,20.0,23.6,66.0,True,2,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Man Utd,90,0,0,2,0,22,0,0,0,0,0,0,18.0,26.8,101.4,52.0,True,2,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Southampton,71,2,0,2,0,45,0,0,0,0,0,0,16.3,72.6,17.7,73.0,True,14,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Leicester,87,0,0,0,1,19,0,0,0,0,0,0,5.9,12.2,44.3,2.0,False,3,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Kevin De Bruyne,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Kevin De Bruyne,MID,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Kevin De Bruyne,MID,Man City,Everton,90,1,1,0,1,55,0,0,0,0,0,0,19.2,73.6,92.3,26.0,True,13,5.0,3.0,2.0

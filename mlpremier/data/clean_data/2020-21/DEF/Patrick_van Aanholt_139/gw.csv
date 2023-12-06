@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Patrick van Aanholt,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Fulham,18,0,0,1,0,2,0,0,0,0,0,0,1.2,3.8,0.7,7.0,False,1
-Patrick van Aanholt,DEF,Crystal Palace,Wolves,90,0,0,2,0,6,1,0,0,0,0,0,3.6,10.4,18.6,7.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Leeds,90,0,1,1,0,21,0,0,0,0,0,0,6.6,16.2,11.8,38.0,True,5
-Patrick van Aanholt,DEF,Crystal Palace,Burnley,90,0,0,1,0,10,0,0,0,0,0,0,4.0,14.6,2.1,23.0,False,2
-Patrick van Aanholt,DEF,Crystal Palace,Newcastle,90,0,0,2,0,22,0,0,0,0,0,0,6.2,17.8,37.2,7.0,True,1
-Patrick van Aanholt,DEF,Crystal Palace,West Brom,90,0,1,1,0,26,0,0,0,0,0,0,9.7,32.8,37.3,27.0,False,5
-Patrick van Aanholt,DEF,Crystal Palace,Spurs,90,0,0,1,0,16,0,0,0,0,0,0,2.9,16.0,2.6,10.0,True,2
-Patrick van Aanholt,DEF,Crystal Palace,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,2.7,8.2,12.8,6.0,False,2
-Patrick van Aanholt,DEF,Crystal Palace,Liverpool,90,0,0,7,0,11,0,0,0,0,0,0,1.3,7.0,2.1,4.0,True,-1
-Patrick van Aanholt,DEF,Crystal Palace,Aston Villa,90,0,0,3,0,13,0,0,0,0,0,0,2.6,10.8,13.5,2.0,False,1
-Patrick van Aanholt,DEF,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Wolves,90,0,0,0,1,31,0,0,0,0,0,0,5.1,22.0,25.2,4.0,True,9
-Patrick van Aanholt,DEF,Crystal Palace,Newcastle,90,0,0,1,0,10,0,0,0,0,0,0,3.0,12.6,6.2,11.0,False,2
-Patrick van Aanholt,DEF,Crystal Palace,Leeds,45,0,0,1,0,4,0,0,0,0,0,0,0.2,1.0,0.9,0.0,False,1
-Patrick van Aanholt,DEF,Crystal Palace,Burnley,90,0,0,3,0,5,0,0,0,0,0,0,2.5,8.6,2.7,14.0,True,1
-Patrick van Aanholt,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.6,18.6,5.6,2.0,True,6
-Patrick van Aanholt,DEF,Crystal Palace,Man Utd,90,0,0,0,1,25,0,0,0,0,0,0,4.2,17.2,1.8,23.0,True,8
-Patrick van Aanholt,DEF,Crystal Palace,Spurs,90,0,0,4,0,16,0,0,0,0,0,0,1.9,17.0,2.4,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,West Brom,90,0,0,0,1,19,1,0,0,0,0,0,1.5,10.6,4.8,0.0,True,5
-Patrick van Aanholt,DEF,Crystal Palace,Everton,90,0,0,1,0,13,0,0,0,0,0,0,2.9,12.2,3.8,13.0,False,2
-Patrick van Aanholt,DEF,Crystal Palace,Chelsea,90,0,0,4,0,10,0,0,0,0,0,0,2.5,24.0,1.4,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Leicester,90,0,0,2,0,10,0,0,0,0,0,0,1.7,15.2,1.7,0.0,False,1
-Patrick van Aanholt,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Patrick van Aanholt,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Patrick van Aanholt,DEF,Crystal Palace,Liverpool,2,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.1,0.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Patrick van Aanholt,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Fulham,18,0,0,1,0,2,0,0,0,0,0,0,1.2,3.8,0.7,7.0,False,1,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Wolves,90,0,0,2,0,6,1,0,0,0,0,0,3.6,10.4,18.6,7.0,False,0,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Leeds,90,0,1,1,0,21,0,0,0,0,0,0,6.6,16.2,11.8,38.0,True,5,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Burnley,90,0,0,1,0,10,0,0,0,0,0,0,4.0,14.6,2.1,23.0,False,2,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Newcastle,90,0,0,2,0,22,0,0,0,0,0,0,6.2,17.8,37.2,7.0,True,1,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,West Brom,90,0,1,1,0,26,0,0,0,0,0,0,9.7,32.8,37.3,27.0,False,5,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Spurs,90,0,0,1,0,16,0,0,0,0,0,0,2.9,16.0,2.6,10.0,True,2,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,2.7,8.2,12.8,6.0,False,2,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Liverpool,90,0,0,7,0,11,0,0,0,0,0,0,1.3,7.0,2.1,4.0,True,-1,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Aston Villa,90,0,0,3,0,13,0,0,0,0,0,0,2.6,10.8,13.5,2.0,False,1,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Patrick van Aanholt,DEF,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Wolves,90,0,0,0,1,31,0,0,0,0,0,0,5.1,22.0,25.2,4.0,True,9,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Newcastle,90,0,0,1,0,10,0,0,0,0,0,0,3.0,12.6,6.2,11.0,False,2,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Leeds,45,0,0,1,0,4,0,0,0,0,0,0,0.2,1.0,0.9,0.0,False,1,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Burnley,90,0,0,3,0,5,0,0,0,0,0,0,2.5,8.6,2.7,14.0,True,1,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.6,18.6,5.6,2.0,True,6,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Man Utd,90,0,0,0,1,25,0,0,0,0,0,0,4.2,17.2,1.8,23.0,True,8,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Spurs,90,0,0,4,0,16,0,0,0,0,0,0,1.9,17.0,2.4,0.0,False,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,West Brom,90,0,0,0,1,19,1,0,0,0,0,0,1.5,10.6,4.8,0.0,True,5,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Everton,90,0,0,1,0,13,0,0,0,0,0,0,2.9,12.2,3.8,13.0,False,2,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Chelsea,90,0,0,4,0,10,0,0,0,0,0,0,2.5,24.0,1.4,0.0,True,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Leicester,90,0,0,2,0,10,0,0,0,0,0,0,1.7,15.2,1.7,0.0,False,1,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Patrick van Aanholt,DEF,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Patrick van Aanholt,DEF,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Patrick van Aanholt,DEF,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Patrick van Aanholt,DEF,Crystal Palace,Liverpool,2,0,0,0,0,5,0,0,0,0,0,0,0.2,2.0,0.1,0.0,False,1,3.0,3.0,0.0

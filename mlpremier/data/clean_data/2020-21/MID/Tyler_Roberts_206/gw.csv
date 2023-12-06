@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Tyler Roberts,MID,Leeds,Liverpool,28,0,0,1,0,5,0,0,0,0,0,0,0.7,7.2,0.0,0.0,False,1
-Tyler Roberts,MID,Leeds,Fulham,45,0,0,2,0,5,0,0,0,0,0,0,3.2,5.4,15.2,11.0,True,1
-Tyler Roberts,MID,Leeds,Sheffield Utd,45,0,0,0,0,2,0,0,0,0,0,0,0.5,0.0,5.2,0.0,False,1
-Tyler Roberts,MID,Leeds,Man City,55,0,0,1,0,4,0,0,0,0,0,0,1.2,1.0,11.2,0.0,True,1
-Tyler Roberts,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Tyler Roberts,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Leicester,23,0,0,2,0,2,0,0,0,0,0,0,1.1,0.4,0.3,10.0,True,1
-Tyler Roberts,MID,Leeds,Crystal Palace,19,0,0,0,0,3,0,0,0,0,0,0,0.4,0.6,1.4,2.0,False,1
-Tyler Roberts,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Tyler Roberts,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,West Ham,16,0,0,1,0,1,0,0,0,0,0,0,0.2,0.2,0.1,2.0,True,1
-Tyler Roberts,MID,Leeds,Newcastle,6,0,0,0,0,2,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1
-Tyler Roberts,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Tyler Roberts,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Brighton,28,0,0,0,0,4,0,0,0,0,0,0,4.9,6.2,1.3,41.0,True,1
-Tyler Roberts,MID,Leeds,Newcastle,30,0,0,0,0,5,0,0,0,0,0,0,2.2,9.8,12.1,0.0,False,1
-Tyler Roberts,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Tyler Roberts,MID,Leeds,Everton,21,0,0,0,0,3,0,0,0,0,0,0,1.0,2.0,1.6,6.0,True,1
-Tyler Roberts,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Tyler Roberts,MID,Leeds,Arsenal,45,0,1,1,0,16,0,0,0,0,0,0,4.5,20.4,22.3,2.0,False,4
-Tyler Roberts,MID,Leeds,Wolves,90,0,0,1,0,4,0,0,0,0,0,0,3.1,0.0,13.4,19.0,False,2
-Tyler Roberts,MID,Leeds,Southampton,74,0,1,0,1,15,0,0,0,0,0,0,6.0,19.0,15.8,25.0,True,6
-Tyler Roberts,MID,Leeds,Aston Villa,70,0,0,1,0,0,1,0,0,0,0,0,4.3,2.0,23.3,18.0,True,1
-Tyler Roberts,MID,Leeds,West Ham,59,0,0,2,0,11,0,0,0,0,0,0,2.2,9.4,12.3,0.0,False,1
-Tyler Roberts,MID,Leeds,Chelsea,90,0,0,0,1,2,1,0,0,0,0,0,3.9,12.4,8.3,18.0,True,2
-Tyler Roberts,MID,Leeds,Fulham,90,0,0,1,0,10,0,0,0,0,0,0,1.7,10.2,4.8,2.0,False,2
-Tyler Roberts,MID,Leeds,Sheffield Utd,80,0,0,1,0,11,0,0,0,0,0,0,5.0,6.6,15.8,28.0,True,2
-Tyler Roberts,MID,Leeds,Man City,62,0,0,0,1,7,0,0,0,0,0,0,0.5,1.8,1.3,2.0,False,3
-Tyler Roberts,MID,Leeds,Liverpool,85,0,0,1,0,8,0,0,0,0,0,0,6.9,13.0,15.6,40.0,True,2
-Tyler Roberts,MID,Leeds,Man Utd,76,0,0,0,1,5,1,0,0,0,0,0,0.5,1.2,1.6,2.0,True,2
-Tyler Roberts,MID,Leeds,Brighton,90,0,0,2,0,13,0,0,0,0,0,0,4.2,7.6,14.3,20.0,False,2
-Tyler Roberts,MID,Leeds,Spurs,57,0,0,1,0,2,0,0,0,0,0,0,1.5,1.6,2.8,11.0,True,1
-Tyler Roberts,MID,Leeds,Burnley,14,0,0,0,0,3,0,0,0,0,0,0,1.1,3.2,0.3,7.0,False,1
-Tyler Roberts,MID,Leeds,Southampton,12,1,0,0,0,20,0,0,0,0,0,0,6.6,35.2,10.1,21.0,False,6
-Tyler Roberts,MID,Leeds,West Brom,20,0,0,1,0,6,0,0,0,0,0,0,4.8,10.8,28.3,9.0,True,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Tyler Roberts,MID,Leeds,Liverpool,28,0,0,1,0,5,0,0,0,0,0,0,0.7,7.2,0.0,0.0,False,1,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Fulham,45,0,0,2,0,5,0,0,0,0,0,0,3.2,5.4,15.2,11.0,True,1,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Sheffield Utd,45,0,0,0,0,2,0,0,0,0,0,0,0.5,0.0,5.2,0.0,False,1,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Man City,55,0,0,1,0,4,0,0,0,0,0,0,1.2,1.0,11.2,0.0,True,1,3.0,5.0,-2.0
+Tyler Roberts,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Leicester,23,0,0,2,0,2,0,0,0,0,0,0,1.1,0.4,0.3,10.0,True,1,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Crystal Palace,19,0,0,0,0,3,0,0,0,0,0,0,0.4,0.6,1.4,2.0,False,1,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,West Ham,16,0,0,1,0,1,0,0,0,0,0,0,0.2,0.2,0.1,2.0,True,1,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Newcastle,6,0,0,0,0,2,0,0,0,0,0,0,0.3,2.2,0.3,0.0,True,1,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Brighton,28,0,0,0,0,4,0,0,0,0,0,0,4.9,6.2,1.3,41.0,True,1,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Newcastle,30,0,0,0,0,5,0,0,0,0,0,0,2.2,9.8,12.1,0.0,False,1,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Everton,21,0,0,0,0,3,0,0,0,0,0,0,1.0,2.0,1.6,6.0,True,1,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Arsenal,45,0,1,1,0,16,0,0,0,0,0,0,4.5,20.4,22.3,2.0,False,4,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Wolves,90,0,0,1,0,4,0,0,0,0,0,0,3.1,0.0,13.4,19.0,False,2,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Southampton,74,0,1,0,1,15,0,0,0,0,0,0,6.0,19.0,15.8,25.0,True,6,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Aston Villa,70,0,0,1,0,0,1,0,0,0,0,0,4.3,2.0,23.3,18.0,True,1,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,West Ham,59,0,0,2,0,11,0,0,0,0,0,0,2.2,9.4,12.3,0.0,False,1,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Chelsea,90,0,0,0,1,2,1,0,0,0,0,0,3.9,12.4,8.3,18.0,True,2,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Fulham,90,0,0,1,0,10,0,0,0,0,0,0,1.7,10.2,4.8,2.0,False,2,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Sheffield Utd,80,0,0,1,0,11,0,0,0,0,0,0,5.0,6.6,15.8,28.0,True,2,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Man City,62,0,0,0,1,7,0,0,0,0,0,0,0.5,1.8,1.3,2.0,False,3,3.0,5.0,-2.0
+Tyler Roberts,MID,Leeds,Liverpool,85,0,0,1,0,8,0,0,0,0,0,0,6.9,13.0,15.6,40.0,True,2,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Man Utd,76,0,0,0,1,5,1,0,0,0,0,0,0.5,1.2,1.6,2.0,True,2,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Brighton,90,0,0,2,0,13,0,0,0,0,0,0,4.2,7.6,14.3,20.0,False,2,3.0,3.0,0.0
+Tyler Roberts,MID,Leeds,Spurs,57,0,0,1,0,2,0,0,0,0,0,0,1.5,1.6,2.8,11.0,True,1,3.0,4.0,-1.0
+Tyler Roberts,MID,Leeds,Burnley,14,0,0,0,0,3,0,0,0,0,0,0,1.1,3.2,0.3,7.0,False,1,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,Southampton,12,1,0,0,0,20,0,0,0,0,0,0,6.6,35.2,10.1,21.0,False,6,3.0,2.0,1.0
+Tyler Roberts,MID,Leeds,West Brom,20,0,0,1,0,6,0,0,0,0,0,0,4.8,10.8,28.3,9.0,True,1,3.0,2.0,1.0

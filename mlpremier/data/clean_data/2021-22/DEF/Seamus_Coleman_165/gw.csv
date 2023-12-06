@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Seamus Coleman,DEF,Everton,Southampton,90,0,0,1,0,10,0,0,0,0,0,0,3.7,20.6,16.6,0.0,True,2
-Seamus Coleman,DEF,Everton,Leeds,90,0,0,2,0,5,1,0,0,0,0,0,2.3,11.4,10.5,1.0,False,0
-Seamus Coleman,DEF,Everton,Burnley,90,0,1,0,1,30,0,0,0,0,0,0,1.2,6.8,1.3,4.0,False,10
-Seamus Coleman,DEF,Everton,Chelsea,90,0,0,1,0,12,0,0,0,0,0,0,2.3,10.4,6.6,6.0,True,2
-Seamus Coleman,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Seamus Coleman,DEF,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Seamus Coleman,DEF,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Seamus Coleman,DEF,Everton,West Ham,90,0,0,1,0,8,0,0,0,0,0,0,1.4,6.0,2.0,6.0,True,2
-Seamus Coleman,DEF,Everton,West Brom,90,0,0,5,0,15,0,0,0,0,0,0,6.0,23.2,26.8,10.0,True,0
-Seamus Coleman,DEF,Everton,Wolves,90,0,0,2,0,7,1,0,0,0,0,0,4.0,20.0,2.2,18.0,False,0
-Seamus Coleman,DEF,Everton,Spurs,90,0,0,0,1,24,0,0,0,0,0,0,2.5,19.8,3.3,2.0,True,6
-Seamus Coleman,DEF,Everton,Man City,90,0,0,3,0,5,0,0,0,0,0,0,4.9,10.0,0.8,38.0,False,1
-Seamus Coleman,DEF,Everton,Brighton,90,0,0,1,0,23,0,0,0,0,0,0,8.0,32.8,37.0,10.0,False,2
-Seamus Coleman,DEF,Everton,Liverpool,90,0,0,4,0,1,0,0,0,0,0,0,0.5,2.2,0.5,2.0,True,0
-Seamus Coleman,DEF,Everton,Arsenal,90,0,0,1,0,16,0,0,0,0,0,0,3.0,25.4,4.8,0.0,True,2
-Seamus Coleman,DEF,Everton,Everton,90,0,0,3,0,10,0,0,0,0,0,0,2.1,19.6,1.8,0.0,False,1
-Seamus Coleman,DEF,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Seamus Coleman,DEF,Everton,Burnley,90,0,0,3,0,12,0,0,0,0,0,0,1.8,12.4,2.9,3.0,True,1
-Seamus Coleman,DEF,Everton,Sheffield Utd,53,0,0,2,0,6,0,0,0,0,0,0,2.4,8.8,15.5,0.0,False,0
-Seamus Coleman,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Seamus Coleman,DEF,Everton,Newcastle,90,0,0,3,0,25,0,0,0,0,0,0,5.8,30.8,25.6,2.0,False,3
-Seamus Coleman,DEF,Everton,Leeds,90,1,0,0,1,37,0,0,0,0,0,0,7.8,43.6,1.3,33.0,True,14
-Seamus Coleman,DEF,Everton,Southampton,90,0,0,2,0,15,0,0,0,0,0,0,1.8,13.6,1.8,3.0,False,1
-Seamus Coleman,DEF,Everton,Man City,90,0,0,1,0,9,0,0,0,0,0,0,1.4,13.2,1.0,0.0,True,2
-Seamus Coleman,DEF,Everton,Spurs,90,0,0,5,0,11,0,0,0,0,0,0,1.8,13.2,4.6,0.0,False,0
-Seamus Coleman,DEF,Everton,Wolves,90,0,0,1,0,6,0,0,0,0,0,0,2.0,4.6,11.7,4.0,True,2
-Seamus Coleman,DEF,Everton,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,5.7,19.8,15.2,22.0,True,7
-Seamus Coleman,DEF,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Seamus Coleman,DEF,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Seamus Coleman,DEF,Everton,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,1.3,12.8,0.3,0.0,True,6
-Seamus Coleman,DEF,Everton,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,3.0,17.2,11.0,2.0,True,2
-Seamus Coleman,DEF,Everton,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,2.3,23.0,0.2,0.0,False,1
-Seamus Coleman,DEF,Everton,Crystal Palace,90,0,0,0,1,19,1,0,0,0,0,0,1.1,10.8,0.3,0.0,True,5
-Seamus Coleman,DEF,Everton,Leicester,90,0,0,1,0,11,0,0,0,0,0,0,0.9,8.6,0.8,0.0,False,2
-Seamus Coleman,DEF,Everton,West Brom,90,0,0,0,1,22,1,0,0,0,0,0,0.7,5.8,1.6,0.0,False,5
-Seamus Coleman,DEF,Everton,Brighton,83,0,0,3,0,5,0,0,1,0,0,0,1.0,5.4,4.2,0.0,True,-1
-Seamus Coleman,DEF,Everton,Everton,90,0,0,2,0,18,0,0,0,0,0,0,4.2,17.6,19.9,4.0,True,1
-Seamus Coleman,DEF,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Seamus Coleman,DEF,Everton,Southampton,90,0,0,1,0,10,0,0,0,0,0,0,3.7,20.6,16.6,0.0,True,2,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Leeds,90,0,0,2,0,5,1,0,0,0,0,0,2.3,11.4,10.5,1.0,False,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Brighton,90,0,1,0,1,30,0,0,0,0,0,0,1.2,6.8,1.3,4.0,False,10,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,2.3,10.4,6.6,6.0,True,2,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,West Ham,90,0,0,1,0,8,0,0,0,0,0,0,1.4,6.0,2.0,6.0,True,2,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Watford,90,0,0,5,0,15,0,0,0,0,0,0,6.0,23.2,26.8,10.0,True,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Wolves,90,0,0,2,0,7,1,0,0,0,0,0,4.0,20.0,2.2,18.0,False,0,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Spurs,90,0,0,0,1,24,0,0,0,0,0,0,2.5,19.8,3.3,2.0,True,6,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Man City,90,0,0,3,0,5,0,0,0,0,0,0,4.9,10.0,0.8,38.0,False,1,2.0,5.0,-3.0
+Seamus Coleman,DEF,Everton,Brentford,90,0,0,1,0,23,0,0,0,0,0,0,8.0,32.8,37.0,10.0,False,2,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Liverpool,90,0,0,4,0,1,0,0,0,0,0,0,0.5,2.2,0.5,2.0,True,0,2.0,5.0,-3.0
+Seamus Coleman,DEF,Everton,Arsenal,90,0,0,1,0,16,0,0,0,0,0,0,3.0,25.4,4.8,0.0,True,2,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Crystal Palace,90,0,0,3,0,10,0,0,0,0,0,0,2.1,19.6,1.8,0.0,False,1,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Brighton,90,0,0,3,0,12,0,0,0,0,0,0,1.8,12.4,2.9,3.0,True,1,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Norwich,53,0,0,2,0,6,0,0,0,0,0,0,2.4,8.8,15.5,0.0,False,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Newcastle,90,0,0,3,0,25,0,0,0,0,0,0,5.8,30.8,25.6,2.0,False,3,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Leeds,90,1,0,0,1,37,0,0,0,0,0,0,7.8,43.6,1.3,33.0,True,14,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Southampton,90,0,0,2,0,15,0,0,0,0,0,0,1.8,13.6,1.8,3.0,False,1,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Man City,90,0,0,1,0,9,0,0,0,0,0,0,1.4,13.2,1.0,0.0,True,2,2.0,5.0,-3.0
+Seamus Coleman,DEF,Everton,Spurs,90,0,0,5,0,11,0,0,0,0,0,0,1.8,13.2,4.6,0.0,False,0,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Wolves,90,0,0,1,0,6,0,0,0,0,0,0,2.0,4.6,11.7,4.0,True,2,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,5.7,19.8,15.2,22.0,True,7,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,1.3,12.8,0.3,0.0,True,6,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,3.0,17.2,11.0,2.0,True,2,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,2.3,23.0,0.2,0.0,False,1,2.0,5.0,-3.0
+Seamus Coleman,DEF,Everton,Chelsea,90,0,0,0,1,19,1,0,0,0,0,0,1.1,10.8,0.3,0.0,True,5,2.0,4.0,-2.0
+Seamus Coleman,DEF,Everton,Leicester,90,0,0,1,0,11,0,0,0,0,0,0,0.9,8.6,0.8,0.0,False,2,2.0,3.0,-1.0
+Seamus Coleman,DEF,Everton,Watford,90,0,0,0,1,22,1,0,0,0,0,0,0.7,5.8,1.6,0.0,False,5,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Brentford,83,0,0,3,0,5,0,0,1,0,0,0,1.0,5.4,4.2,0.0,True,-1,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Crystal Palace,90,0,0,2,0,18,0,0,0,0,0,0,4.2,17.6,19.9,4.0,True,1,2.0,2.0,0.0
+Seamus Coleman,DEF,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

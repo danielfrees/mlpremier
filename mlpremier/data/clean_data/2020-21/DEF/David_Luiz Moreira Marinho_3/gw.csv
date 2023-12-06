@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-David Luiz Moreira Marinho,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-David Luiz Moreira Marinho,DEF,Arsenal,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,2.3,20.2,3.2,0.0,False,1
-David Luiz Moreira Marinho,DEF,Arsenal,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,2.4,23.0,0.8,0.0,True,2
-David Luiz Moreira Marinho,DEF,Arsenal,Man City,90,0,0,1,0,12,0,0,0,0,0,0,3.7,14.6,3.3,19.0,False,2
-David Luiz Moreira Marinho,DEF,Arsenal,Leicester,48,0,0,0,0,12,0,0,0,0,0,0,1.3,8.8,2.5,2.0,True,1
-David Luiz Moreira Marinho,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Wolves,45,0,0,2,0,1,0,0,0,0,0,0,2.0,5.4,13.3,1.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Southampton,25,0,0,0,0,4,0,0,0,0,0,0,0.5,5.2,0.0,0.0,True,1
-David Luiz Moreira Marinho,DEF,Arsenal,Everton,90,0,0,2,0,14,0,0,0,0,0,0,4.3,22.2,2.7,18.0,False,1
-David Luiz Moreira Marinho,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Crystal Palace,90,0,0,0,1,19,1,0,0,0,0,0,1.6,12.0,1.7,2.0,True,5
-David Luiz Moreira Marinho,DEF,Arsenal,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,1.9,4.0,1.3,14.0,True,6
-David Luiz Moreira Marinho,DEF,Arsenal,Southampton,90,0,0,1,0,9,0,0,0,0,0,0,0.4,3.6,0.8,0.0,False,2
-David Luiz Moreira Marinho,DEF,Arsenal,Man Utd,90,0,0,0,1,26,0,0,0,0,0,0,4.5,13.8,0.8,30.0,True,6
-David Luiz Moreira Marinho,DEF,Arsenal,Wolves,47,0,0,2,0,-5,0,1,0,0,0,0,0.0,0.0,0.3,2.0,False,-3
-David Luiz Moreira Marinho,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,2.8,15.2,11.1,2.0,True,1
-David Luiz Moreira Marinho,DEF,Arsenal,Man City,8,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-David Luiz Moreira Marinho,DEF,Arsenal,Leicester,90,1,0,1,0,25,0,0,0,0,0,0,6.6,44.4,0.6,21.0,False,8
-David Luiz Moreira Marinho,DEF,Arsenal,Burnley,90,0,0,1,0,15,0,0,0,0,0,0,1.5,14.4,0.8,0.0,False,2
-David Luiz Moreira Marinho,DEF,Arsenal,Spurs,90,0,0,1,0,14,0,0,0,0,0,0,2.1,17.8,1.0,2.0,True,2
-David Luiz Moreira Marinho,DEF,Arsenal,West Ham,90,0,0,3,0,17,0,0,0,0,0,0,3.1,20.0,1.0,10.0,False,1
-David Luiz Moreira Marinho,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Newcastle,52,0,0,0,0,7,0,0,0,0,0,0,2.9,6.0,1.5,21.0,False,1
-David Luiz Moreira Marinho,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David Luiz Moreira Marinho,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David Luiz Moreira Marinho,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+David Luiz Moreira Marinho,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,2.3,20.2,3.2,0.0,False,1,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,2.4,23.0,0.8,0.0,True,2,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Man City,90,0,0,1,0,12,0,0,0,0,0,0,3.7,14.6,3.3,19.0,False,2,4.0,5.0,-1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Leicester,48,0,0,0,0,12,0,0,0,0,0,0,1.3,8.8,2.5,2.0,True,1,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Wolves,45,0,0,2,0,1,0,0,0,0,0,0,2.0,5.4,13.3,1.0,True,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Southampton,25,0,0,0,0,4,0,0,0,0,0,0,0.5,5.2,0.0,0.0,True,1,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Everton,90,0,0,2,0,14,0,0,0,0,0,0,4.3,22.2,2.7,18.0,False,1,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Crystal Palace,90,0,0,0,1,19,1,0,0,0,0,0,1.6,12.0,1.7,2.0,True,5,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,1.9,4.0,1.3,14.0,True,6,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Southampton,90,0,0,1,0,9,0,0,0,0,0,0,0.4,3.6,0.8,0.0,False,2,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Man Utd,90,0,0,0,1,26,0,0,0,0,0,0,4.5,13.8,0.8,30.0,True,6,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Wolves,47,0,0,2,0,-5,0,1,0,0,0,0,0.0,0.0,0.3,2.0,False,-3,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,2.8,15.2,11.1,2.0,True,1,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Man City,8,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,5.0,-1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Leicester,90,1,0,1,0,25,0,0,0,0,0,0,6.6,44.4,0.6,21.0,False,8,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Burnley,90,0,0,1,0,15,0,0,0,0,0,0,1.5,14.4,0.8,0.0,False,2,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Spurs,90,0,0,1,0,14,0,0,0,0,0,0,2.1,17.8,1.0,2.0,True,2,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,West Ham,90,0,0,3,0,17,0,0,0,0,0,0,3.1,20.0,1.0,10.0,False,1,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Newcastle,52,0,0,0,0,7,0,0,0,0,0,0,2.9,6.0,1.5,21.0,False,1,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+David Luiz Moreira Marinho,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+David Luiz Moreira Marinho,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+David Luiz Moreira Marinho,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0

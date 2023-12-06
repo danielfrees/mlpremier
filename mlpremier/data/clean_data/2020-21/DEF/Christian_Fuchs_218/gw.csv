@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Christian Fuchs,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Man City,10,0,0,1,0,3,0,0,0,0,0,0,0.6,6.0,0.0,0.0,False,1
-Christian Fuchs,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Arsenal,90,0,0,0,1,23,1,0,0,0,0,0,2.4,21.0,3.0,0.0,False,6
-Christian Fuchs,DEF,Leicester,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,1.7,16.0,1.4,0.0,False,2
-Christian Fuchs,DEF,Leicester,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,3.1,20.6,1.4,9.0,True,7
-Christian Fuchs,DEF,Leicester,Liverpool,61,0,0,2,0,9,0,0,0,0,0,0,1.5,15.0,0.1,0.0,False,1
-Christian Fuchs,DEF,Leicester,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,4.3,25.8,15.1,2.0,True,1
-Christian Fuchs,DEF,Leicester,Sheffield Utd,90,0,0,1,0,7,1,0,0,0,0,0,1.9,10.6,7.2,1.0,False,1
-Christian Fuchs,DEF,Leicester,Brighton,90,0,0,0,1,20,1,0,0,0,0,0,2.5,14.4,3.0,8.0,True,5
-Christian Fuchs,DEF,Leicester,Everton,90,0,0,2,0,8,1,0,0,0,0,0,1.2,7.6,2.7,2.0,True,0
-Christian Fuchs,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Fuchs,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Fuchs,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Christian Fuchs,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Man City,10,0,0,1,0,3,0,0,0,0,0,0,0.6,6.0,0.0,0.0,False,1,4.0,5.0,-1.0
+Christian Fuchs,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Arsenal,90,0,0,0,1,23,1,0,0,0,0,0,2.4,21.0,3.0,0.0,False,6,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Leeds,90,0,0,1,0,11,0,0,0,0,0,0,1.7,16.0,1.4,0.0,False,2,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,3.1,20.6,1.4,9.0,True,7,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Liverpool,61,0,0,2,0,9,0,0,0,0,0,0,1.5,15.0,0.1,0.0,False,1,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,4.3,25.8,15.1,2.0,True,1,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Sheffield Utd,90,0,0,1,0,7,1,0,0,0,0,0,1.9,10.6,7.2,1.0,False,1,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Brighton,90,0,0,0,1,20,1,0,0,0,0,0,2.5,14.4,3.0,8.0,True,5,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Everton,90,0,0,2,0,8,1,0,0,0,0,0,1.2,7.6,2.7,2.0,True,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Christian Fuchs,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Christian Fuchs,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Fuchs,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Christian Fuchs,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

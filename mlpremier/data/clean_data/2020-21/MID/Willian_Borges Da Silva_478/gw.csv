@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Willian Borges Da Silva,MID,Arsenal,Fulham,74,0,3,0,1,35,0,0,0,0,0,0,11.5,38.6,38.0,38.0,False,14
-Willian Borges Da Silva,MID,Arsenal,West Ham,63,0,0,1,0,11,0,0,0,0,0,0,3.1,6.4,20.9,4.0,True,2
-Willian Borges Da Silva,MID,Arsenal,Liverpool,67,0,0,2,0,6,0,0,0,0,0,0,1.5,0.8,13.7,0.0,False,2
-Willian Borges Da Silva,MID,Arsenal,Sheffield Utd,90,0,0,1,0,12,0,0,0,0,0,0,1.5,6.4,8.3,0.0,True,2
-Willian Borges Da Silva,MID,Arsenal,Man City,68,0,0,1,0,9,0,0,0,0,0,0,3.4,4.6,29.5,0.0,False,2
-Willian Borges Da Silva,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Man Utd,85,0,0,0,1,10,0,0,0,0,0,0,0.8,0.0,4.1,4.0,False,3
-Willian Borges Da Silva,MID,Arsenal,Aston Villa,64,0,0,1,0,11,0,0,0,0,0,0,3.4,2.6,19.2,12.0,True,2
-Willian Borges Da Silva,MID,Arsenal,Leeds,45,0,0,0,0,4,0,0,0,0,0,0,1.2,6.4,1.7,4.0,False,1
-Willian Borges Da Silva,MID,Arsenal,Wolves,64,0,1,2,0,17,0,0,0,0,0,0,4.6,24.0,18.8,3.0,True,5
-Willian Borges Da Silva,MID,Arsenal,Spurs,90,0,0,2,0,11,0,0,0,0,0,0,4.6,7.2,26.9,12.0,False,2
-Willian Borges Da Silva,MID,Arsenal,Burnley,82,0,0,1,0,21,0,0,0,0,0,0,8.0,12.8,57.8,9.0,True,2
-Willian Borges Da Silva,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Everton,90,0,0,2,0,12,0,0,0,0,0,0,2.6,4.6,18.3,3.0,False,2
-Willian Borges Da Silva,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Willian Borges Da Silva,MID,Arsenal,West Brom,19,0,0,0,0,9,0,0,0,0,0,0,5.7,9.6,26.4,21.0,False,1
-Willian Borges Da Silva,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Newcastle,11,0,0,0,0,3,0,0,0,0,0,0,2.6,2.6,14.9,8.0,True,1
-Willian Borges Da Silva,MID,Arsenal,Southampton,18,0,0,0,0,4,0,0,0,0,0,0,0.6,4.0,1.5,0.0,False,1
-Willian Borges Da Silva,MID,Arsenal,Man Utd,45,0,0,0,0,10,0,0,0,0,0,0,6.5,14.0,31.0,20.0,True,1
-Willian Borges Da Silva,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Willian Borges Da Silva,MID,Arsenal,Aston Villa,16,0,0,0,0,3,0,0,0,0,0,0,2.4,1.0,2.6,20.0,False,1
-Willian Borges Da Silva,MID,Arsenal,Leeds,28,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1
-Willian Borges Da Silva,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Leicester,90,0,2,1,0,35,0,0,0,0,0,0,12.1,22.4,61.5,37.0,False,11
-Willian Borges Da Silva,MID,Arsenal,Burnley,68,0,1,1,0,18,0,0,0,0,0,0,3.6,18.6,15.0,2.0,False,6
-Willian Borges Da Silva,MID,Arsenal,Spurs,13,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1
-Willian Borges Da Silva,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Willian Borges Da Silva,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Sheffield Utd,21,0,0,0,0,3,0,0,0,0,0,0,0.8,0.2,0.1,8.0,False,1
-Willian Borges Da Silva,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Willian Borges Da Silva,MID,Arsenal,Everton,7,0,0,0,0,3,0,0,0,0,0,0,0.3,0.4,2.1,0.0,True,1
-Willian Borges Da Silva,MID,Arsenal,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,9.3,18.8,72.4,2.0,False,3
-Willian Borges Da Silva,MID,Arsenal,West Brom,90,1,0,1,0,35,0,0,0,0,0,0,12.0,49.6,49.3,21.0,True,10
-Willian Borges Da Silva,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Willian Borges Da Silva,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Willian Borges Da Silva,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Willian Borges Da Silva,MID,Arsenal,Fulham,74,0,3,0,1,35,0,0,0,0,0,0,11.5,38.6,38.0,38.0,False,14,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,West Ham,63,0,0,1,0,11,0,0,0,0,0,0,3.1,6.4,20.9,4.0,True,2,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Liverpool,67,0,0,2,0,6,0,0,0,0,0,0,1.5,0.8,13.7,0.0,False,2,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Sheffield Utd,90,0,0,1,0,12,0,0,0,0,0,0,1.5,6.4,8.3,0.0,True,2,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Man City,68,0,0,1,0,9,0,0,0,0,0,0,3.4,4.6,29.5,0.0,False,2,4.0,5.0,-1.0
+Willian Borges Da Silva,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Man Utd,85,0,0,0,1,10,0,0,0,0,0,0,0.8,0.0,4.1,4.0,False,3,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Aston Villa,64,0,0,1,0,11,0,0,0,0,0,0,3.4,2.6,19.2,12.0,True,2,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Leeds,45,0,0,0,0,4,0,0,0,0,0,0,1.2,6.4,1.7,4.0,False,1,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Wolves,64,0,1,2,0,17,0,0,0,0,0,0,4.6,24.0,18.8,3.0,True,5,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Spurs,90,0,0,2,0,11,0,0,0,0,0,0,4.6,7.2,26.9,12.0,False,2,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Burnley,82,0,0,1,0,21,0,0,0,0,0,0,8.0,12.8,57.8,9.0,True,2,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Everton,90,0,0,2,0,12,0,0,0,0,0,0,2.6,4.6,18.3,3.0,False,2,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,West Brom,19,0,0,0,0,9,0,0,0,0,0,0,5.7,9.6,26.4,21.0,False,1,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Newcastle,11,0,0,0,0,3,0,0,0,0,0,0,2.6,2.6,14.9,8.0,True,1,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Southampton,18,0,0,0,0,4,0,0,0,0,0,0,0.6,4.0,1.5,0.0,False,1,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Man Utd,45,0,0,0,0,10,0,0,0,0,0,0,6.5,14.0,31.0,20.0,True,1,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Aston Villa,16,0,0,0,0,3,0,0,0,0,0,0,2.4,1.0,2.6,20.0,False,1,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Leeds,28,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Willian Borges Da Silva,MID,Arsenal,Leicester,90,0,2,1,0,35,0,0,0,0,0,0,12.1,22.4,61.5,37.0,False,11,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Burnley,68,0,1,1,0,18,0,0,0,0,0,0,3.6,18.6,15.0,2.0,False,6,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Spurs,13,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.5,0.0,True,1,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Sheffield Utd,21,0,0,0,0,3,0,0,0,0,0,0,0.8,0.2,0.1,8.0,False,1,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Everton,7,0,0,0,0,3,0,0,0,0,0,0,0.3,0.4,2.1,0.0,True,1,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,9.3,18.8,72.4,2.0,False,3,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,West Brom,90,1,0,1,0,35,0,0,0,0,0,0,12.0,49.6,49.3,21.0,True,10,4.0,2.0,2.0
+Willian Borges Da Silva,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Willian Borges Da Silva,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Willian Borges Da Silva,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0

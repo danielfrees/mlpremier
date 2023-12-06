@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Cédric Soares,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.8,17.0,20.8,0.0,True,1
-Cédric Soares,DEF,Arsenal,Man City,90,0,0,5,0,1,1,0,0,0,0,0,0.5,4.4,1.0,0.0,False,-1
-Cédric Soares,DEF,Arsenal,Sheffield Utd,8,0,0,0,0,5,0,0,0,0,0,0,2.5,9.4,14.3,1.0,True,1
-Cédric Soares,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Leeds,26,0,0,1,0,4,0,0,0,0,0,0,0.5,0.6,4.4,0.0,False,1
-Cédric Soares,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cédric Soares,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cédric Soares,DEF,Arsenal,Wolves,90,0,0,0,1,23,0,0,0,0,0,0,2.7,15.0,10.1,2.0,False,6
-Cédric Soares,DEF,Arsenal,Brighton,90,0,0,1,0,18,0,0,0,0,0,0,9.1,28.6,42.2,20.0,True,2
-Cédric Soares,DEF,Arsenal,Wolves,75,0,0,1,0,14,0,0,0,0,0,0,0.7,3.8,2.7,0.0,True,2
-Cédric Soares,DEF,Arsenal,West Brom,90,0,0,2,0,16,1,0,0,0,0,0,5.4,26.8,16.7,10.0,False,0
-Cédric Soares,DEF,Arsenal,Leicester,90,0,0,0,1,24,0,0,0,0,0,0,3.4,11.8,2.3,20.0,True,6
-Cédric Soares,DEF,Arsenal,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,1.6,12.2,3.0,1.0,True,1
-Cédric Soares,DEF,Arsenal,Aston Villa,90,0,0,0,1,24,1,0,0,0,0,0,4.6,17.6,26.7,2.0,False,5
-Cédric Soares,DEF,Arsenal,Everton,65,0,0,2,0,13,0,0,0,0,0,0,1.7,13.2,3.4,0.0,False,1
-Cédric Soares,DEF,Arsenal,Burnley,90,0,0,2,0,20,0,0,0,0,0,0,8.2,21.8,51.7,8.0,True,1
-Cédric Soares,DEF,Arsenal,Southampton,59,0,0,1,0,13,0,0,0,0,0,0,4.8,21.6,25.1,1.0,False,1
-Cédric Soares,DEF,Arsenal,Crystal Palace,15,0,0,0,0,6,0,0,0,0,0,0,3.4,7.6,24.6,2.0,False,1
-Cédric Soares,DEF,Arsenal,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.0,6.2,3.7,0.0,True,2
-Cédric Soares,DEF,Arsenal,West Ham,12,0,0,0,0,2,0,0,0,0,0,0,0.1,1.2,0.1,0.0,False,1
-Cédric Soares,DEF,Arsenal,Leeds,90,0,0,1,0,18,0,0,0,0,0,0,5.7,20.8,27.9,8.0,True,2
-Cédric Soares,DEF,Arsenal,Spurs,90,0,0,3,0,7,0,0,0,0,0,0,2.4,0.6,23.5,0.0,False,1
-Cédric Soares,DEF,Arsenal,Newcastle,51,0,0,2,0,2,0,0,0,0,0,0,0.9,5.8,2.3,1.0,False,0
-Cédric Soares,DEF,Arsenal,Fulham,90,1,1,1,0,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,14
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cédric Soares,DEF,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Chelsea,90,0,0,2,0,15,0,0,0,0,0,0,3.8,17.0,20.8,0.0,True,1,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,Man City,90,0,0,5,0,1,1,0,0,0,0,0,0.5,4.4,1.0,0.0,False,-1,4.0,5.0,-1.0
+Cédric Soares,DEF,Arsenal,Norwich,8,0,0,0,0,5,0,0,0,0,0,0,2.5,9.4,14.3,1.0,True,1,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Cédric Soares,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Leeds,26,0,0,1,0,4,0,0,0,0,0,0,0.5,0.6,4.4,0.0,False,1,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Cédric Soares,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Wolves,90,0,0,0,1,23,0,0,0,0,0,0,2.7,15.0,10.1,2.0,False,6,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Brentford,90,0,0,1,0,18,0,0,0,0,0,0,9.1,28.6,42.2,20.0,True,2,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Wolves,75,0,0,1,0,14,0,0,0,0,0,0,0.7,3.8,2.7,0.0,True,2,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Watford,90,0,0,2,0,16,1,0,0,0,0,0,5.4,26.8,16.7,10.0,False,0,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Leicester,90,0,0,0,1,24,0,0,0,0,0,0,3.4,11.8,2.3,20.0,True,6,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,1.6,12.2,3.0,1.0,True,1,4.0,5.0,-1.0
+Cédric Soares,DEF,Arsenal,Aston Villa,90,0,0,0,1,24,1,0,0,0,0,0,4.6,17.6,26.7,2.0,False,5,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Crystal Palace,65,0,0,2,0,13,0,0,0,0,0,0,1.7,13.2,3.4,0.0,False,1,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Brighton,90,0,0,2,0,20,0,0,0,0,0,0,8.2,21.8,51.7,8.0,True,1,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Southampton,59,0,0,1,0,13,0,0,0,0,0,0,4.8,21.6,25.1,1.0,False,1,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Chelsea,15,0,0,0,0,6,0,0,0,0,0,0,3.4,7.6,24.6,2.0,False,1,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.0,6.2,3.7,0.0,True,2,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,West Ham,12,0,0,0,0,2,0,0,0,0,0,0,0.1,1.2,0.1,0.0,False,1,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Leeds,90,0,0,1,0,18,0,0,0,0,0,0,5.7,20.8,27.9,8.0,True,2,4.0,2.0,2.0
+Cédric Soares,DEF,Arsenal,Spurs,90,0,0,3,0,7,0,0,0,0,0,0,2.4,0.6,23.5,0.0,False,1,4.0,4.0,0.0
+Cédric Soares,DEF,Arsenal,Newcastle,51,0,0,2,0,2,0,0,0,0,0,0,0.9,5.8,2.3,1.0,False,0,4.0,3.0,1.0
+Cédric Soares,DEF,Arsenal,Everton,90,1,1,1,0,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,14,4.0,2.0,2.0

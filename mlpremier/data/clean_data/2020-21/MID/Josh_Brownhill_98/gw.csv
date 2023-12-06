@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Josh Brownhill,MID,Burnley,Leicester,90,0,0,4,0,11,0,0,0,0,0,0,4.3,10.4,23.2,9.0,False,2
-Josh Brownhill,MID,Burnley,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,5.4,8.2,10.0,36.0,True,2
-Josh Brownhill,MID,Burnley,Newcastle,90,0,0,3,0,10,0,0,0,0,0,0,3.1,9.6,15.8,6.0,False,2
-Josh Brownhill,MID,Burnley,West Brom,90,0,0,0,1,11,0,0,0,0,0,0,1.0,8.2,1.8,0.0,False,3
-Josh Brownhill,MID,Burnley,Spurs,90,0,0,1,0,15,1,0,0,0,0,0,4.2,13.2,24.5,4.0,True,1
-Josh Brownhill,MID,Burnley,Chelsea,90,0,0,3,0,16,0,0,0,0,0,0,2.4,9.8,14.4,0.0,True,2
-Josh Brownhill,MID,Burnley,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,1.0,7.6,2.1,0.0,False,3
-Josh Brownhill,MID,Burnley,Crystal Palace,90,0,0,0,1,15,0,0,0,0,0,0,2.4,21.8,2.2,0.0,True,3
-Josh Brownhill,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Josh Brownhill,MID,Burnley,Everton,90,0,0,1,0,14,0,0,0,0,0,0,4.2,14.2,6.3,21.0,True,2
-Josh Brownhill,MID,Burnley,Arsenal,90,0,0,0,1,9,0,0,0,0,0,0,5.6,16.0,1.8,38.0,False,3
-Josh Brownhill,MID,Burnley,Aston Villa,90,0,0,0,1,11,0,0,0,0,0,0,4.1,23.8,15.4,2.0,False,3
-Josh Brownhill,MID,Burnley,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,2.7,20.8,1.7,4.0,True,2
-Josh Brownhill,MID,Burnley,Leeds,90,0,0,1,0,15,0,0,0,0,0,0,5.0,14.2,15.3,20.0,False,2
-Josh Brownhill,MID,Burnley,Sheffield Utd,90,0,0,0,1,9,0,0,0,0,0,0,2.2,12.8,2.8,6.0,True,3
-Josh Brownhill,MID,Burnley,Man Utd,90,0,0,1,0,8,0,0,0,0,0,0,0.7,2.6,1.7,3.0,True,2
-Josh Brownhill,MID,Burnley,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,4.9,14.0,15.1,20.0,False,2
-Josh Brownhill,MID,Burnley,Liverpool,90,0,0,0,1,9,0,0,0,0,0,0,1.0,9.4,0.8,0.0,False,3
-Josh Brownhill,MID,Burnley,Aston Villa,45,0,0,1,0,5,0,0,0,0,0,0,3.2,5.4,1.6,25.0,True,1
-Josh Brownhill,MID,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Josh Brownhill,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Josh Brownhill,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Josh Brownhill,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Josh Brownhill,MID,Burnley,Fulham,25,0,0,0,0,2,0,0,0,0,0,0,0.2,1.4,0.9,0.0,True,1
-Josh Brownhill,MID,Burnley,West Brom,90,0,0,0,1,7,0,0,0,0,0,0,3.6,10.0,19.1,7.0,True,3
-Josh Brownhill,MID,Burnley,Spurs,90,0,0,4,0,10,0,0,0,0,0,0,1.2,3.8,6.8,1.0,False,2
-Josh Brownhill,MID,Burnley,Leicester,90,0,0,1,0,7,0,0,0,0,0,0,1.0,0.0,3.4,7.0,True,2
-Josh Brownhill,MID,Burnley,Arsenal,90,0,0,1,0,11,0,0,0,0,0,0,0.9,3.8,1.6,4.0,True,2
-Josh Brownhill,MID,Burnley,Everton,90,0,0,1,0,14,0,0,0,0,0,0,5.0,19.4,5.4,25.0,False,2
-Josh Brownhill,MID,Burnley,Southampton,90,0,0,3,0,15,0,0,0,0,0,0,2.6,12.6,13.3,0.0,False,2
-Josh Brownhill,MID,Burnley,Newcastle,90,0,0,2,0,6,1,0,0,0,0,0,5.8,2.6,3.7,52.0,True,1
-Josh Brownhill,MID,Burnley,Man Utd,87,0,0,2,0,8,0,0,0,0,0,0,3.1,8.2,12.1,11.0,False,2
-Josh Brownhill,MID,Burnley,Wolves,90,0,0,0,1,9,0,0,0,0,0,0,2.2,4.6,14.2,3.0,False,3
-Josh Brownhill,MID,Burnley,West Ham,90,0,0,2,0,16,0,0,0,0,0,0,3.2,8.8,3.8,19.0,True,2
-Josh Brownhill,MID,Burnley,Fulham,90,0,1,0,1,16,0,0,0,0,0,0,4.0,22.8,11.2,6.0,False,6
-Josh Brownhill,MID,Burnley,Leeds,90,0,0,4,0,11,0,0,0,0,0,0,4.8,7.6,28.6,12.0,True,2
-Josh Brownhill,MID,Burnley,Liverpool,90,0,0,3,0,17,0,0,0,0,0,0,7.6,19.6,17.0,39.0,True,2
-Josh Brownhill,MID,Burnley,Sheffield Utd,45,0,0,1,0,7,0,0,0,0,0,0,1.9,3.2,11.5,4.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Josh Brownhill,MID,Burnley,Leicester,90,0,0,4,0,11,0,0,0,0,0,0,4.3,10.4,23.2,9.0,False,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,5.4,8.2,10.0,36.0,True,2,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Newcastle,90,0,0,3,0,10,0,0,0,0,0,0,3.1,9.6,15.8,6.0,False,2,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,West Brom,90,0,0,0,1,11,0,0,0,0,0,0,1.0,8.2,1.8,0.0,False,3,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Spurs,90,0,0,1,0,15,1,0,0,0,0,0,4.2,13.2,24.5,4.0,True,1,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Chelsea,90,0,0,3,0,16,0,0,0,0,0,0,2.4,9.8,14.4,0.0,True,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,1.0,7.6,2.1,0.0,False,3,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Crystal Palace,90,0,0,0,1,15,0,0,0,0,0,0,2.4,21.8,2.2,0.0,True,3,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Josh Brownhill,MID,Burnley,Everton,90,0,0,1,0,14,0,0,0,0,0,0,4.2,14.2,6.3,21.0,True,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Arsenal,90,0,0,0,1,9,0,0,0,0,0,0,5.6,16.0,1.8,38.0,False,3,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Aston Villa,90,0,0,0,1,11,0,0,0,0,0,0,4.1,23.8,15.4,2.0,False,3,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,2.7,20.8,1.7,4.0,True,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Leeds,90,0,0,1,0,15,0,0,0,0,0,0,5.0,14.2,15.3,20.0,False,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Sheffield Utd,90,0,0,0,1,9,0,0,0,0,0,0,2.2,12.8,2.8,6.0,True,3,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Man Utd,90,0,0,1,0,8,0,0,0,0,0,0,0.7,2.6,1.7,3.0,True,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,4.9,14.0,15.1,20.0,False,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Liverpool,90,0,0,0,1,9,0,0,0,0,0,0,1.0,9.4,0.8,0.0,False,3,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Aston Villa,45,0,0,1,0,5,0,0,0,0,0,0,3.2,5.4,1.6,25.0,True,1,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Josh Brownhill,MID,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Fulham,25,0,0,0,0,2,0,0,0,0,0,0,0.2,1.4,0.9,0.0,True,1,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,West Brom,90,0,0,0,1,7,0,0,0,0,0,0,3.6,10.0,19.1,7.0,True,3,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Spurs,90,0,0,4,0,10,0,0,0,0,0,0,1.2,3.8,6.8,1.0,False,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Leicester,90,0,0,1,0,7,0,0,0,0,0,0,1.0,0.0,3.4,7.0,True,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Arsenal,90,0,0,1,0,11,0,0,0,0,0,0,0.9,3.8,1.6,4.0,True,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Everton,90,0,0,1,0,14,0,0,0,0,0,0,5.0,19.4,5.4,25.0,False,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Southampton,90,0,0,3,0,15,0,0,0,0,0,0,2.6,12.6,13.3,0.0,False,2,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Newcastle,90,0,0,2,0,6,1,0,0,0,0,0,5.8,2.6,3.7,52.0,True,1,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Man Utd,87,0,0,2,0,8,0,0,0,0,0,0,3.1,8.2,12.1,11.0,False,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Wolves,90,0,0,0,1,9,0,0,0,0,0,0,2.2,4.6,14.2,3.0,False,3,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,West Ham,90,0,0,2,0,16,0,0,0,0,0,0,3.2,8.8,3.8,19.0,True,2,2.0,4.0,-2.0
+Josh Brownhill,MID,Burnley,Fulham,90,0,1,0,1,16,0,0,0,0,0,0,4.0,22.8,11.2,6.0,False,6,2.0,2.0,0.0
+Josh Brownhill,MID,Burnley,Leeds,90,0,0,4,0,11,0,0,0,0,0,0,4.8,7.6,28.6,12.0,True,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Liverpool,90,0,0,3,0,17,0,0,0,0,0,0,7.6,19.6,17.0,39.0,True,2,2.0,3.0,-1.0
+Josh Brownhill,MID,Burnley,Sheffield Utd,45,0,0,1,0,7,0,0,0,0,0,0,1.9,3.2,11.5,4.0,False,1,2.0,2.0,0.0

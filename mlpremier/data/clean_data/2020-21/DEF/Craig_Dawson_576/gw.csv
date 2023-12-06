@@ -1,35 +1,35 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Craig Dawson,DEF,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Craig Dawson,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Craig Dawson,DEF,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Craig Dawson,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Craig Dawson,DEF,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Craig Dawson,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Southampton,90,0,0,0,1,18,0,0,0,0,0,0,1.5,11.0,0.1,4.0,False,6
-Craig Dawson,DEF,West Ham,Everton,90,0,0,0,1,23,0,0,0,0,0,0,1.2,11.4,0.1,0.0,False,6
-Craig Dawson,DEF,West Ham,Burnley,90,0,0,0,1,24,0,0,0,0,0,0,3.2,19.4,10.5,2.0,True,6
-Craig Dawson,DEF,West Ham,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,1.2,7.4,0.9,4.0,True,2
-Craig Dawson,DEF,West Ham,Crystal Palace,90,1,0,2,0,26,0,0,0,0,0,0,7.8,44.2,0.7,33.0,False,9
-Craig Dawson,DEF,West Ham,Liverpool,90,1,0,3,0,23,0,0,0,0,0,0,9.5,50.0,0.9,44.0,True,7
-Craig Dawson,DEF,West Ham,Aston Villa,90,0,0,1,0,10,0,0,0,0,0,0,1.7,16.4,0.6,0.0,False,2
-Craig Dawson,DEF,West Ham,Fulham,90,0,0,0,1,24,0,0,0,0,0,0,3.8,23.8,10.1,4.0,False,6
-Craig Dawson,DEF,West Ham,Sheffield Utd,90,0,0,0,1,23,0,0,0,0,0,0,1.1,6.8,0.0,4.0,True,6
-Craig Dawson,DEF,West Ham,Spurs,90,0,0,1,0,10,0,0,0,0,0,0,3.1,13.8,0.1,17.0,True,2
-Craig Dawson,DEF,West Ham,Man City,90,0,0,2,0,12,0,0,0,0,0,0,2.0,18.4,0.5,1.0,False,1
-Craig Dawson,DEF,West Ham,Leeds,90,1,0,0,1,28,0,0,0,0,0,0,11.6,48.6,0.2,67.0,True,13
-Craig Dawson,DEF,West Ham,Man Utd,90,0,0,1,0,10,0,0,1,0,0,0,1.7,16.0,0.8,0.0,False,0
-Craig Dawson,DEF,West Ham,Arsenal,90,0,0,3,0,8,0,0,1,0,0,0,1.1,9.8,0.7,0.0,True,-1
-Craig Dawson,DEF,West Ham,Wolves,90,0,0,2,0,8,1,0,0,0,0,0,1.1,11.2,0.1,0.0,False,0
-Craig Dawson,DEF,West Ham,Leicester,90,0,0,2,0,8,0,0,0,0,0,0,1.5,10.8,0.0,4.0,True,1
-Craig Dawson,DEF,West Ham,Newcastle,35,0,0,3,0,-2,0,1,0,0,0,0,2.4,7.2,0.2,17.0,False,-3
-Craig Dawson,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Craig Dawson,DEF,West Ham,Burnley,90,0,0,1,0,15,1,0,0,0,0,0,3.4,34.0,0.2,0.0,False,1
-Craig Dawson,DEF,West Ham,Everton,90,0,0,1,0,15,0,0,0,0,0,0,2.1,16.8,2.3,2.0,True,2
-Craig Dawson,DEF,West Ham,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,3.0,21.2,0.7,8.0,False,2
-Craig Dawson,DEF,West Ham,West Brom,90,0,0,1,0,11,1,0,0,0,0,0,3.0,26.2,0.2,4.0,False,1
-Craig Dawson,DEF,West Ham,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,1.4,9.2,0.3,4.0,True,6
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Craig Dawson,DEF,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Craig Dawson,DEF,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Southampton,90,0,0,0,1,18,0,0,0,0,0,0,1.5,11.0,0.1,4.0,False,6,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Everton,90,0,0,0,1,23,0,0,0,0,0,0,1.2,11.4,0.1,0.0,False,6,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Burnley,90,0,0,0,1,24,0,0,0,0,0,0,3.2,19.4,10.5,2.0,True,6,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,1.2,7.4,0.9,4.0,True,2,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Crystal Palace,90,1,0,2,0,26,0,0,0,0,0,0,7.8,44.2,0.7,33.0,False,9,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Liverpool,90,1,0,3,0,23,0,0,0,0,0,0,9.5,50.0,0.9,44.0,True,7,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Aston Villa,90,0,0,1,0,10,0,0,0,0,0,0,1.7,16.4,0.6,0.0,False,2,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Fulham,90,0,0,0,1,24,0,0,0,0,0,0,3.8,23.8,10.1,4.0,False,6,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Sheffield Utd,90,0,0,0,1,23,0,0,0,0,0,0,1.1,6.8,0.0,4.0,True,6,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Spurs,90,0,0,1,0,10,0,0,0,0,0,0,3.1,13.8,0.1,17.0,True,2,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Man City,90,0,0,2,0,12,0,0,0,0,0,0,2.0,18.4,0.5,1.0,False,1,4.0,5.0,-1.0
+Craig Dawson,DEF,West Ham,Leeds,90,1,0,0,1,28,0,0,0,0,0,0,11.6,48.6,0.2,67.0,True,13,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Man Utd,90,0,0,1,0,10,0,0,1,0,0,0,1.7,16.0,0.8,0.0,False,0,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Arsenal,90,0,0,3,0,8,0,0,1,0,0,0,1.1,9.8,0.7,0.0,True,-1,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Wolves,90,0,0,2,0,8,1,0,0,0,0,0,1.1,11.2,0.1,0.0,False,0,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Leicester,90,0,0,2,0,8,0,0,0,0,0,0,1.5,10.8,0.0,4.0,True,1,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Newcastle,35,0,0,3,0,-2,0,1,0,0,0,0,2.4,7.2,0.2,17.0,False,-3,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Craig Dawson,DEF,West Ham,Burnley,90,0,0,1,0,15,1,0,0,0,0,0,3.4,34.0,0.2,0.0,False,1,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Everton,90,0,0,1,0,15,0,0,0,0,0,0,2.1,16.8,2.3,2.0,True,2,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,3.0,21.2,0.7,8.0,False,2,4.0,3.0,1.0
+Craig Dawson,DEF,West Ham,West Brom,90,0,0,1,0,11,1,0,0,0,0,0,3.0,26.2,0.2,4.0,False,1,4.0,2.0,2.0
+Craig Dawson,DEF,West Ham,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,1.4,9.2,0.3,4.0,True,6,4.0,2.0,2.0

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Ainsley Maitland-Niles,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Man City,19,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,False,1
-Ainsley Maitland-Niles,MID,Arsenal,Sheffield Utd,81,0,0,0,1,12,0,0,0,0,0,0,5.0,14.6,27.0,8.0,True,3
-Ainsley Maitland-Niles,MID,Arsenal,Chelsea,15,0,0,0,0,1,0,0,0,0,0,0,0.6,5.6,0.5,0.0,False,1
-Ainsley Maitland-Niles,MID,Arsenal,Spurs,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Ainsley Maitland-Niles,MID,Arsenal,Burnley,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Ainsley Maitland-Niles,MID,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Aston Villa,17,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Ainsley Maitland-Niles,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,West Brom,90,0,0,0,1,17,0,0,0,0,0,0,3.2,19.0,12.4,1.0,True,3
-Ainsley Maitland-Niles,MID,Arsenal,Liverpool,37,0,0,2,0,5,0,0,0,0,0,0,0.4,3.0,0.7,0.0,False,1
-Ainsley Maitland-Niles,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ainsley Maitland-Niles,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ainsley Maitland-Niles,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ainsley Maitland-Niles,MID,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,Man City,19,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,False,1,4.0,5.0,-1.0
+Ainsley Maitland-Niles,MID,Arsenal,Norwich,81,0,0,0,1,12,0,0,0,0,0,0,5.0,14.6,27.0,8.0,True,3,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Burnley,15,0,0,0,0,1,0,0,0,0,0,0,0.6,5.6,0.5,0.0,False,1,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Spurs,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Aston Villa,17,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Watford,90,0,0,0,1,17,0,0,0,0,0,0,3.2,19.0,12.4,1.0,True,3,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Liverpool,37,0,0,2,0,5,0,0,0,0,0,0,0.4,3.0,0.7,0.0,False,1,4.0,5.0,-1.0
+Ainsley Maitland-Niles,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Ainsley Maitland-Niles,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Ainsley Maitland-Niles,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Ainsley Maitland-Niles,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Ainsley Maitland-Niles,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Ainsley Maitland-Niles,MID,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

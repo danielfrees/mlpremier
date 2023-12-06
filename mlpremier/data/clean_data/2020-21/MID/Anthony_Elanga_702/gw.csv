@@ -1,6 +1,6 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Anthony Elanga,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Anthony Elanga,MID,Man Utd,Leicester,65,0,0,1,0,3,0,0,0,0,0,0,0.5,3.8,1.5,0.0,True,2
-Anthony Elanga,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Anthony Elanga,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Anthony Elanga,MID,Man Utd,Wolves,90,1,0,1,0,29,0,0,0,0,0,0,9.5,47.8,18.2,29.0,False,9
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Anthony Elanga,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Anthony Elanga,MID,Man Utd,Leicester,65,0,0,1,0,3,0,0,0,0,0,0,0.5,3.8,1.5,0.0,True,2,4.0,4.0,0.0
+Anthony Elanga,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Anthony Elanga,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Anthony Elanga,MID,Man Utd,Wolves,90,1,0,1,0,29,0,0,0,0,0,0,9.5,47.8,18.2,29.0,False,9,4.0,3.0,1.0

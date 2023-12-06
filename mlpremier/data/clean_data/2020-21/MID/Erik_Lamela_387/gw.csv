@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Erik Lamela,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Southampton,29,0,1,1,0,10,0,0,0,0,0,0,3.7,1.2,0.8,35.0,False,4
-Erik Lamela,MID,Spurs,Newcastle,11,0,0,1,0,3,0,0,0,0,0,0,1.2,3.4,1.3,7.0,True,1
-Erik Lamela,MID,Spurs,Man Utd,45,0,0,1,0,5,1,0,0,0,0,0,3.5,5.6,1.4,28.0,False,0
-Erik Lamela,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Burnley,33,0,0,0,0,8,0,0,0,0,0,0,6.0,13.6,25.6,21.0,False,1
-Erik Lamela,MID,Spurs,Brighton,69,0,0,1,0,4,0,0,0,0,0,0,0.5,0.0,4.2,4.0,True,2
-Erik Lamela,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Wolves,6,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Erik Lamela,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Fulham,15,0,0,0,0,4,0,0,0,0,0,0,0.3,1.2,1.7,0.0,True,1
-Erik Lamela,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Liverpool,45,0,0,2,0,2,0,0,0,0,0,0,0.5,2.0,1.3,2.0,True,1
-Erik Lamela,MID,Spurs,Brighton,16,0,0,0,0,2,0,0,0,0,0,0,2.0,3.6,1.1,15.0,False,1
-Erik Lamela,MID,Spurs,Chelsea,21,0,0,0,0,2,0,0,0,0,0,0,1.8,5.0,2.3,11.0,True,1
-Erik Lamela,MID,Spurs,West Brom,73,0,0,0,1,5,1,0,0,0,0,0,3.0,4.4,18.8,7.0,True,2
-Erik Lamela,MID,Spurs,Man City,71,0,0,3,0,4,1,0,0,0,0,0,0.4,0.6,3.3,0.0,False,1
-Erik Lamela,MID,Spurs,West Ham,45,0,0,1,0,2,1,0,0,0,0,0,5.1,7.2,26.3,17.0,False,0
-Erik Lamela,MID,Spurs,Burnley,20,0,0,0,0,4,0,0,0,0,0,0,0.2,1.0,1.0,0.0,True,1
-Erik Lamela,MID,Spurs,Fulham,15,0,0,0,0,8,0,0,0,0,0,0,2.6,8.2,13.7,4.0,False,1
-Erik Lamela,MID,Spurs,Crystal Palace,20,0,0,0,0,12,0,0,0,0,0,0,3.1,10.6,2.7,18.0,True,1
-Erik Lamela,MID,Spurs,Arsenal,56,1,0,2,0,8,0,1,0,0,0,0,6.8,31.2,1.2,36.0,False,3
-Erik Lamela,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Erik Lamela,MID,Spurs,Newcastle,26,0,0,1,0,2,0,0,0,0,0,0,2.4,6.4,11.7,6.0,False,1
-Erik Lamela,MID,Spurs,Man Utd,12,0,0,2,0,6,0,0,0,0,0,0,1.5,4.6,10.8,0.0,True,1
-Erik Lamela,MID,Spurs,Everton,26,0,0,0,0,-1,0,0,0,0,0,0,0.4,1.8,1.3,1.0,False,1
-Erik Lamela,MID,Spurs,Southampton,11,0,0,0,0,1,0,0,0,0,0,0,0.7,0.2,0.3,6.0,True,1
-Erik Lamela,MID,Spurs,Sheffield Utd,12,0,0,0,0,3,0,0,0,0,0,0,0.5,0.8,4.5,0.0,True,1
-Erik Lamela,MID,Spurs,Leeds,23,0,0,1,0,2,0,0,0,0,0,0,2.2,2.6,1.5,18.0,False,1
-Erik Lamela,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Erik Lamela,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Erik Lamela,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Southampton,29,0,1,1,0,10,0,0,0,0,0,0,3.7,1.2,0.8,35.0,False,4,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Newcastle,11,0,0,1,0,3,0,0,0,0,0,0,1.2,3.4,1.3,7.0,True,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Man Utd,45,0,0,1,0,5,1,0,0,0,0,0,3.5,5.6,1.4,28.0,False,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Burnley,33,0,0,0,0,8,0,0,0,0,0,0,6.0,13.6,25.6,21.0,False,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Brighton,69,0,0,1,0,4,0,0,0,0,0,0,0.5,0.0,4.2,4.0,True,2,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Erik Lamela,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Wolves,6,0,0,1,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Fulham,15,0,0,0,0,4,0,0,0,0,0,0,0.3,1.2,1.7,0.0,True,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Liverpool,45,0,0,2,0,2,0,0,0,0,0,0,0.5,2.0,1.3,2.0,True,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Brighton,16,0,0,0,0,2,0,0,0,0,0,0,2.0,3.6,1.1,15.0,False,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Chelsea,21,0,0,0,0,2,0,0,0,0,0,0,1.8,5.0,2.3,11.0,True,1,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,West Brom,73,0,0,0,1,5,1,0,0,0,0,0,3.0,4.4,18.8,7.0,True,2,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Man City,71,0,0,3,0,4,1,0,0,0,0,0,0.4,0.6,3.3,0.0,False,1,4.0,5.0,-1.0
+Erik Lamela,MID,Spurs,West Ham,45,0,0,1,0,2,1,0,0,0,0,0,5.1,7.2,26.3,17.0,False,0,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Burnley,20,0,0,0,0,4,0,0,0,0,0,0,0.2,1.0,1.0,0.0,True,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Fulham,15,0,0,0,0,8,0,0,0,0,0,0,2.6,8.2,13.7,4.0,False,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Crystal Palace,20,0,0,0,0,12,0,0,0,0,0,0,3.1,10.6,2.7,18.0,True,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Arsenal,56,1,0,2,0,8,0,1,0,0,0,0,6.8,31.2,1.2,36.0,False,3,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Newcastle,26,0,0,1,0,2,0,0,0,0,0,0,2.4,6.4,11.7,6.0,False,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Man Utd,12,0,0,2,0,6,0,0,0,0,0,0,1.5,4.6,10.8,0.0,True,1,4.0,4.0,0.0
+Erik Lamela,MID,Spurs,Everton,26,0,0,0,0,-1,0,0,0,0,0,0,0.4,1.8,1.3,1.0,False,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Southampton,11,0,0,0,0,1,0,0,0,0,0,0,0.7,0.2,0.3,6.0,True,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Sheffield Utd,12,0,0,0,0,3,0,0,0,0,0,0,0.5,0.8,4.5,0.0,True,1,4.0,2.0,2.0
+Erik Lamela,MID,Spurs,Leeds,23,0,0,1,0,2,0,0,0,0,0,0,2.2,2.6,1.5,18.0,False,1,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Erik Lamela,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0

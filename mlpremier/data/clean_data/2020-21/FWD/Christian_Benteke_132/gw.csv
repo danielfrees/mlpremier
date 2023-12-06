@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Christian Benteke,FWD,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Benteke,FWD,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Benteke,FWD,Crystal Palace,Everton,8,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,0.0,4.0,True,1
-Christian Benteke,FWD,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Benteke,FWD,Crystal Palace,Brighton,2,0,0,1,0,2,0,0,0,0,0,0,0.6,4.0,0.0,2.0,True,1
-Christian Benteke,FWD,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Benteke,FWD,Crystal Palace,Wolves,6,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1
-Christian Benteke,FWD,Crystal Palace,Leeds,5,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.3,2.0,True,1
-Christian Benteke,FWD,Crystal Palace,Burnley,13,0,0,0,0,-3,0,0,0,0,0,0,4.5,0.0,0.4,45.0,False,1
-Christian Benteke,FWD,Crystal Palace,Newcastle,24,0,0,2,0,1,0,0,0,0,0,0,3.2,6.0,1.3,25.0,True,1
-Christian Benteke,FWD,Crystal Palace,West Brom,90,2,0,1,0,50,0,0,0,0,0,0,22.1,83.0,45.1,93.0,False,13
-Christian Benteke,FWD,Crystal Palace,Spurs,90,0,0,1,0,1,0,0,0,0,0,0,9.3,15.4,13.8,64.0,True,2
-Christian Benteke,FWD,Crystal Palace,West Ham,69,1,0,1,0,11,0,1,0,0,0,0,8.8,24.8,12.3,51.0,False,3
-Christian Benteke,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Benteke,FWD,Crystal Palace,Aston Villa,90,0,0,3,0,2,0,0,0,0,0,0,2.9,1.6,13.2,14.0,False,2
-Christian Benteke,FWD,Crystal Palace,Leicester,90,0,0,1,0,1,0,0,0,0,0,0,1.4,3.8,0.9,9.0,True,2
-Christian Benteke,FWD,Crystal Palace,Sheffield Utd,47,0,1,0,0,9,0,0,0,0,0,0,0.9,0.0,3.3,7.0,True,4
-Christian Benteke,FWD,Crystal Palace,Arsenal,80,0,0,0,1,6,0,0,0,0,0,0,7.6,8.0,14.6,53.0,False,2
-Christian Benteke,FWD,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Benteke,FWD,Crystal Palace,West Ham,72,0,1,3,0,14,0,0,0,0,0,0,3.7,16.8,16.6,4.0,True,5
-Christian Benteke,FWD,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Benteke,FWD,Crystal Palace,Newcastle,17,0,0,0,0,1,0,0,0,0,0,0,0.5,1.2,2.1,2.0,False,1
-Christian Benteke,FWD,Crystal Palace,Leeds,14,0,0,0,0,3,0,0,0,0,0,0,2.3,5.4,0.4,17.0,False,1
-Christian Benteke,FWD,Crystal Palace,Burnley,75,0,0,3,0,5,0,0,0,0,0,0,9.4,17.4,5.1,71.0,True,2
-Christian Benteke,FWD,Crystal Palace,Brighton,15,1,0,0,0,30,0,0,0,0,0,0,5.1,32.2,0.3,18.0,False,8
-Christian Benteke,FWD,Crystal Palace,Fulham,90,0,0,0,1,4,0,0,0,0,0,0,1.4,2.8,3.1,8.0,True,2
-Christian Benteke,FWD,Crystal Palace,Man Utd,90,0,0,0,1,4,0,0,0,0,0,0,4.4,9.4,23.0,12.0,True,2
-Christian Benteke,FWD,Crystal Palace,Spurs,73,1,0,3,0,26,0,0,0,0,0,0,7.5,37.6,2.3,35.0,False,7
-Christian Benteke,FWD,Crystal Palace,West Brom,90,0,0,0,1,-1,0,0,0,0,0,0,7.3,18.2,4.5,50.0,True,2
-Christian Benteke,FWD,Crystal Palace,Everton,76,0,0,1,0,5,0,0,0,0,0,0,4.3,3.2,13.8,26.0,False,2
-Christian Benteke,FWD,Crystal Palace,Chelsea,90,1,0,4,0,34,0,0,0,0,0,0,8.1,38.0,7.8,35.0,True,8
-Christian Benteke,FWD,Crystal Palace,Leicester,90,0,0,2,0,6,0,0,0,0,0,0,3.4,3.0,2.4,29.0,False,2
-Christian Benteke,FWD,Crystal Palace,Man City,67,0,0,2,0,2,0,0,0,0,0,0,6.6,14.0,4.4,48.0,True,2
-Christian Benteke,FWD,Crystal Palace,Sheffield Utd,90,1,0,0,1,31,0,0,0,0,0,0,17.5,46.6,13.7,115.0,False,8
-Christian Benteke,FWD,Crystal Palace,Southampton,77,1,0,3,0,31,0,0,0,0,0,0,12.8,40.6,6.8,81.0,False,7
-Christian Benteke,FWD,Crystal Palace,Aston Villa,90,1,0,2,0,27,0,0,0,0,0,0,9.4,40.8,12.9,40.0,True,7
-Christian Benteke,FWD,Crystal Palace,Arsenal,78,1,0,1,0,27,1,0,0,0,0,0,11.8,38.6,11.8,68.0,True,6
-Christian Benteke,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Christian Benteke,FWD,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Everton,8,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,0.0,4.0,True,1,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Brighton,2,0,0,1,0,2,0,0,0,0,0,0,0.6,4.0,0.0,2.0,True,1,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Wolves,6,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.3,2.0,False,1,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Leeds,5,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.3,2.0,True,1,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Burnley,13,0,0,0,0,-3,0,0,0,0,0,0,4.5,0.0,0.4,45.0,False,1,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Newcastle,24,0,0,2,0,1,0,0,0,0,0,0,3.2,6.0,1.3,25.0,True,1,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,West Brom,90,2,0,1,0,50,0,0,0,0,0,0,22.1,83.0,45.1,93.0,False,13,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Spurs,90,0,0,1,0,1,0,0,0,0,0,0,9.3,15.4,13.8,64.0,True,2,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,West Ham,69,1,0,1,0,11,0,1,0,0,0,0,8.8,24.8,12.3,51.0,False,3,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Aston Villa,90,0,0,3,0,2,0,0,0,0,0,0,2.9,1.6,13.2,14.0,False,2,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Leicester,90,0,0,1,0,1,0,0,0,0,0,0,1.4,3.8,0.9,9.0,True,2,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Sheffield Utd,47,0,1,0,0,9,0,0,0,0,0,0,0.9,0.0,3.3,7.0,True,4,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Arsenal,80,0,0,0,1,6,0,0,0,0,0,0,7.6,8.0,14.6,53.0,False,2,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Christian Benteke,FWD,Crystal Palace,West Ham,72,0,1,3,0,14,0,0,0,0,0,0,3.7,16.8,16.6,4.0,True,5,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Newcastle,17,0,0,0,0,1,0,0,0,0,0,0,0.5,1.2,2.1,2.0,False,1,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Leeds,14,0,0,0,0,3,0,0,0,0,0,0,2.3,5.4,0.4,17.0,False,1,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Burnley,75,0,0,3,0,5,0,0,0,0,0,0,9.4,17.4,5.1,71.0,True,2,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Brighton,15,1,0,0,0,30,0,0,0,0,0,0,5.1,32.2,0.3,18.0,False,8,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Fulham,90,0,0,0,1,4,0,0,0,0,0,0,1.4,2.8,3.1,8.0,True,2,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Man Utd,90,0,0,0,1,4,0,0,0,0,0,0,4.4,9.4,23.0,12.0,True,2,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Spurs,73,1,0,3,0,26,0,0,0,0,0,0,7.5,37.6,2.3,35.0,False,7,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,West Brom,90,0,0,0,1,-1,0,0,0,0,0,0,7.3,18.2,4.5,50.0,True,2,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Everton,76,0,0,1,0,5,0,0,0,0,0,0,4.3,3.2,13.8,26.0,False,2,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Chelsea,90,1,0,4,0,34,0,0,0,0,0,0,8.1,38.0,7.8,35.0,True,8,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Leicester,90,0,0,2,0,6,0,0,0,0,0,0,3.4,3.0,2.4,29.0,False,2,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Man City,67,0,0,2,0,2,0,0,0,0,0,0,6.6,14.0,4.4,48.0,True,2,3.0,5.0,-2.0
+Christian Benteke,FWD,Crystal Palace,Sheffield Utd,90,1,0,0,1,31,0,0,0,0,0,0,17.5,46.6,13.7,115.0,False,8,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Southampton,77,1,0,3,0,31,0,0,0,0,0,0,12.8,40.6,6.8,81.0,False,7,3.0,2.0,1.0
+Christian Benteke,FWD,Crystal Palace,Aston Villa,90,1,0,2,0,27,0,0,0,0,0,0,9.4,40.8,12.9,40.0,True,7,3.0,3.0,0.0
+Christian Benteke,FWD,Crystal Palace,Arsenal,78,1,0,1,0,27,1,0,0,0,0,0,11.8,38.6,11.8,68.0,True,6,3.0,4.0,-1.0
+Christian Benteke,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

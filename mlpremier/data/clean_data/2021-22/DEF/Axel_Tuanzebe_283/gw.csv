@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Axel Tuanzebe,DEF,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Newcastle,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Axel Tuanzebe,DEF,Aston Villa,Brighton,90,0,0,1,0,14,0,0,0,0,0,0,3.9,21.8,0.2,17.0,True,2
-Axel Tuanzebe,DEF,Aston Villa,Crystal Palace,90,0,0,3,0,19,0,0,0,0,0,0,1.9,16.6,0.3,2.0,False,1
-Axel Tuanzebe,DEF,Aston Villa,Fulham,90,0,0,0,1,22,0,0,0,0,0,0,2.9,9.0,0.2,20.0,True,6
-Axel Tuanzebe,DEF,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Wolves,90,0,0,3,0,12,0,0,0,0,0,0,0.9,6.6,0.3,2.0,True,1
-Axel Tuanzebe,DEF,Aston Villa,Arsenal,45,0,0,2,0,7,0,0,0,0,0,0,1.1,11.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Southampton,90,0,0,1,0,3,1,0,0,0,0,0,0.8,6.2,0.0,2.0,False,1
-Axel Tuanzebe,DEF,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Leicester,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Axel Tuanzebe,DEF,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Sheffield Utd,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1
-Axel Tuanzebe,DEF,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Axel Tuanzebe,DEF,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Axel Tuanzebe,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Axel Tuanzebe,DEF,Aston Villa,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Newcastle,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Brentford,90,0,0,1,0,14,0,0,0,0,0,0,3.9,21.8,0.2,17.0,True,2,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Chelsea,90,0,0,3,0,19,0,0,0,0,0,0,1.9,16.6,0.3,2.0,False,1,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Everton,90,0,0,0,1,22,0,0,0,0,0,0,2.9,9.0,0.2,20.0,True,6,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Wolves,90,0,0,3,0,12,0,0,0,0,0,0,0.9,6.6,0.3,2.0,True,1,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Arsenal,45,0,0,2,0,7,0,0,0,0,0,0,1.1,11.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Southampton,90,0,0,1,0,3,1,0,0,0,0,0,0.8,6.2,0.0,2.0,False,1,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Axel Tuanzebe,DEF,Aston Villa,Leicester,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Axel Tuanzebe,DEF,Aston Villa,Norwich,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,1,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Axel Tuanzebe,DEF,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Axel Tuanzebe,DEF,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Axel Tuanzebe,DEF,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Axel Tuanzebe,DEF,Aston Villa,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Axel Tuanzebe,DEF,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

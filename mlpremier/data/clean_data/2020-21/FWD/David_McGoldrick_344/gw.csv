@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-David McGoldrick,FWD,Sheffield Utd,Wolves,19,0,0,0,0,2,0,0,0,0,0,0,1.2,0.8,2.7,8.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Aston Villa,30,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.2,0.0,False,1
-David McGoldrick,FWD,Sheffield Utd,Leeds,73,0,0,0,1,5,0,0,0,0,0,0,1.9,1.8,12.0,5.0,True,2
-David McGoldrick,FWD,Sheffield Utd,Arsenal,90,1,0,2,0,33,0,0,0,0,0,0,6.6,33.2,4.4,28.0,False,8
-David McGoldrick,FWD,Sheffield Utd,Fulham,63,0,0,0,1,4,0,0,0,0,0,0,0.9,0.0,2.1,9.0,True,2
-David McGoldrick,FWD,Sheffield Utd,Liverpool,14,0,0,0,0,2,0,0,0,0,0,0,2.5,1.4,13.8,10.0,False,1
-David McGoldrick,FWD,Sheffield Utd,Man City,9,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,1.3,0.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Chelsea,90,1,0,4,0,25,0,0,0,0,0,0,4.9,31.4,0.9,17.0,False,6
-David McGoldrick,FWD,Sheffield Utd,West Ham,90,0,0,1,0,6,0,0,0,0,0,0,1.8,3.2,6.5,8.0,True,2
-David McGoldrick,FWD,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David McGoldrick,FWD,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-David McGoldrick,FWD,Sheffield Utd,Southampton,42,0,0,2,0,4,0,0,0,0,0,0,1.9,5.6,13.3,0.0,False,1
-David McGoldrick,FWD,Sheffield Utd,Man Utd,90,2,0,3,0,56,0,0,0,0,0,0,21.0,84.0,28.1,98.0,True,13
-David McGoldrick,FWD,Sheffield Utd,Brighton,69,0,1,0,1,13,1,0,0,0,0,0,4.6,22.0,12.8,11.0,False,4
-David McGoldrick,FWD,Sheffield Utd,Everton,62,0,0,0,1,3,0,0,0,0,0,0,2.4,2.8,1.3,20.0,True,2
-David McGoldrick,FWD,Sheffield Utd,Burnley,90,0,0,1,0,2,0,0,0,0,0,0,5.6,5.2,6.7,44.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Crystal Palace,90,0,0,2,0,3,0,0,0,0,0,0,4.3,7.2,7.2,29.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Newcastle,90,0,0,0,1,3,1,0,0,0,0,0,5.4,7.4,10.1,36.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Spurs,90,1,0,3,0,28,0,0,0,0,0,0,11.3,42.0,18.8,52.0,True,7
-David McGoldrick,FWD,Sheffield Utd,Man Utd,79,0,0,1,0,2,0,0,0,0,0,0,1.0,0.2,5.8,4.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Man City,28,0,0,0,0,1,0,0,0,0,0,0,0.5,2.6,0.5,2.0,False,1
-David McGoldrick,FWD,Sheffield Utd,West Brom,90,0,0,1,0,10,1,0,0,0,0,0,4.4,16.0,5.5,22.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Chelsea,28,0,0,0,0,5,0,0,0,0,0,0,2.8,8.4,11.0,9.0,True,1
-David McGoldrick,FWD,Sheffield Utd,West Ham,90,0,0,3,0,3,0,0,0,0,0,0,11.3,15.0,16.5,81.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Fulham,16,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.0,0.8,0.0,False,0
-David McGoldrick,FWD,Sheffield Utd,Liverpool,55,0,0,1,0,3,0,0,0,0,0,0,3.4,5.4,1.3,27.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Aston Villa,72,1,0,0,1,24,1,0,0,0,0,0,13.7,34.6,29.6,73.0,True,5
-David McGoldrick,FWD,Sheffield Utd,Southampton,57,0,0,2,0,0,0,0,0,0,0,0,2.9,6.0,13.6,9.0,True,1
-David McGoldrick,FWD,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-David McGoldrick,FWD,Sheffield Utd,Leeds,90,0,0,2,0,8,1,0,0,0,0,0,3.9,6.8,28.3,4.0,False,1
-David McGoldrick,FWD,Sheffield Utd,Arsenal,63,0,0,1,0,3,0,0,0,0,0,0,3.6,3.4,0.5,32.0,True,2
-David McGoldrick,FWD,Sheffield Utd,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,5.7,9.8,3.4,44.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Brighton,90,1,0,0,1,36,1,0,0,0,0,0,9.1,46.6,4.1,40.0,True,8
-David McGoldrick,FWD,Sheffield Utd,Spurs,82,0,0,4,0,7,0,0,0,0,0,0,1.4,4.6,2.1,7.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Crystal Palace,90,0,0,2,0,0,0,0,0,0,0,0,3.0,1.4,2.4,26.0,True,2
-David McGoldrick,FWD,Sheffield Utd,Everton,90,0,0,0,1,1,0,0,0,0,0,0,4.0,6.8,4.6,29.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,5.2,7.8,33.8,10.0,False,2
-David McGoldrick,FWD,Sheffield Utd,Burnley,90,1,0,0,1,33,0,0,0,0,0,0,12.1,40.8,14.2,66.0,True,9
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+David McGoldrick,FWD,Sheffield Utd,Wolves,19,0,0,0,0,2,0,0,0,0,0,0,1.2,0.8,2.7,8.0,True,1,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Aston Villa,30,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.2,0.0,False,1,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Leeds,73,0,0,0,1,5,0,0,0,0,0,0,1.9,1.8,12.0,5.0,True,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Arsenal,90,1,0,2,0,33,0,0,0,0,0,0,6.6,33.2,4.4,28.0,False,8,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Fulham,63,0,0,0,1,4,0,0,0,0,0,0,0.9,0.0,2.1,9.0,True,2,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Liverpool,14,0,0,0,0,2,0,0,0,0,0,0,2.5,1.4,13.8,10.0,False,1,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Man City,9,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,1.3,0.0,True,1,2.0,5.0,-3.0
+David McGoldrick,FWD,Sheffield Utd,Chelsea,90,1,0,4,0,25,0,0,0,0,0,0,4.9,31.4,0.9,17.0,False,6,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,West Ham,90,0,0,1,0,6,0,0,0,0,0,0,1.8,3.2,6.5,8.0,True,2,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Southampton,42,0,0,2,0,4,0,0,0,0,0,0,1.9,5.6,13.3,0.0,False,1,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Man Utd,90,2,0,3,0,56,0,0,0,0,0,0,21.0,84.0,28.1,98.0,True,13,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Brighton,69,0,1,0,1,13,1,0,0,0,0,0,4.6,22.0,12.8,11.0,False,4,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Everton,62,0,0,0,1,3,0,0,0,0,0,0,2.4,2.8,1.3,20.0,True,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Burnley,90,0,0,1,0,2,0,0,0,0,0,0,5.6,5.2,6.7,44.0,False,2,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Crystal Palace,90,0,0,2,0,3,0,0,0,0,0,0,4.3,7.2,7.2,29.0,False,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Newcastle,90,0,0,0,1,3,1,0,0,0,0,0,5.4,7.4,10.1,36.0,True,1,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Spurs,90,1,0,3,0,28,0,0,0,0,0,0,11.3,42.0,18.8,52.0,True,7,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Man Utd,79,0,0,1,0,2,0,0,0,0,0,0,1.0,0.2,5.8,4.0,False,2,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Man City,28,0,0,0,0,1,0,0,0,0,0,0,0.5,2.6,0.5,2.0,False,1,2.0,5.0,-3.0
+David McGoldrick,FWD,Sheffield Utd,West Brom,90,0,0,1,0,10,1,0,0,0,0,0,4.4,16.0,5.5,22.0,True,1,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Chelsea,28,0,0,0,0,5,0,0,0,0,0,0,2.8,8.4,11.0,9.0,True,1,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,West Ham,90,0,0,3,0,3,0,0,0,0,0,0,11.3,15.0,16.5,81.0,False,2,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Fulham,16,0,0,0,0,-1,1,0,0,0,0,0,0.1,0.0,0.8,0.0,False,0,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Liverpool,55,0,0,1,0,3,0,0,0,0,0,0,3.4,5.4,1.3,27.0,True,1,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Aston Villa,72,1,0,0,1,24,1,0,0,0,0,0,13.7,34.6,29.6,73.0,True,5,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Southampton,57,0,0,2,0,0,0,0,0,0,0,0,2.9,6.0,13.6,9.0,True,1,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Leeds,90,0,0,2,0,8,1,0,0,0,0,0,3.9,6.8,28.3,4.0,False,1,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Arsenal,63,0,0,1,0,3,0,0,0,0,0,0,3.6,3.4,0.5,32.0,True,2,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,5.7,9.8,3.4,44.0,False,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Brighton,90,1,0,0,1,36,1,0,0,0,0,0,9.1,46.6,4.1,40.0,True,8,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Spurs,82,0,0,4,0,7,0,0,0,0,0,0,1.4,4.6,2.1,7.0,False,2,2.0,4.0,-2.0
+David McGoldrick,FWD,Sheffield Utd,Crystal Palace,90,0,0,2,0,0,0,0,0,0,0,0,3.0,1.4,2.4,26.0,True,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Everton,90,0,0,0,1,1,0,0,0,0,0,0,4.0,6.8,4.6,29.0,False,2,2.0,3.0,-1.0
+David McGoldrick,FWD,Sheffield Utd,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,5.2,7.8,33.8,10.0,False,2,2.0,2.0,0.0
+David McGoldrick,FWD,Sheffield Utd,Burnley,90,1,0,0,1,33,0,0,0,0,0,0,12.1,40.8,14.2,66.0,True,9,2.0,2.0,0.0

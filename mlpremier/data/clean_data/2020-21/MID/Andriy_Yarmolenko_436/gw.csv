@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Andriy Yarmolenko,MID,West Ham,Newcastle,23,0,0,1,0,-1,1,0,0,0,0,0,3.0,2.8,1.6,26.0,True,0
-Andriy Yarmolenko,MID,West Ham,Arsenal,7,0,0,1,0,4,0,0,0,0,0,0,0.7,2.2,4.7,0.0,False,1
-Andriy Yarmolenko,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Spurs,13,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,1
-Andriy Yarmolenko,MID,West Ham,Man City,38,0,0,0,0,1,0,0,0,0,0,0,1.2,0.0,10.3,3.0,True,1
-Andriy Yarmolenko,MID,West Ham,Liverpool,16,0,0,1,0,1,0,0,0,0,0,0,0.1,0.0,1.3,0.0,False,1
-Andriy Yarmolenko,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Crystal Palace,10,0,0,0,0,5,0,0,0,0,0,0,0.5,4.4,1.0,0.0,True,1
-Andriy Yarmolenko,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Brighton,45,0,0,1,0,6,0,0,0,0,0,0,3.6,9.2,16.8,10.0,True,1
-Andriy Yarmolenko,MID,West Ham,Southampton,71,0,0,0,1,5,1,0,0,0,0,0,2.3,6.0,6.9,10.0,False,2
-Andriy Yarmolenko,MID,West Ham,Everton,17,0,0,0,0,4,0,0,0,0,0,0,1.3,2.2,10.3,0.0,False,1
-Andriy Yarmolenko,MID,West Ham,Burnley,8,0,0,0,0,1,0,0,0,0,0,0,4.9,1.0,10.0,38.0,True,1
-Andriy Yarmolenko,MID,West Ham,West Brom,28,0,1,0,0,15,0,0,0,0,0,0,5.3,21.2,12.3,19.0,True,4
-Andriy Yarmolenko,MID,West Ham,Crystal Palace,7,0,0,1,0,1,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1
-Andriy Yarmolenko,MID,West Ham,Liverpool,28,0,0,2,0,3,0,0,0,0,0,0,0.2,0.4,1.3,0.0,True,1
-Andriy Yarmolenko,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Fulham,34,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.5,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Andriy Yarmolenko,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Everton,17,0,0,0,0,3,0,0,0,0,0,0,0.3,0.6,2.7,0.0,True,1
-Andriy Yarmolenko,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Andriy Yarmolenko,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Andriy Yarmolenko,MID,West Ham,Newcastle,23,0,0,1,0,-1,1,0,0,0,0,0,3.0,2.8,1.6,26.0,True,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Arsenal,7,0,0,1,0,4,0,0,0,0,0,0,0.7,2.2,4.7,0.0,False,1,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Spurs,13,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,1,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Man City,38,0,0,0,0,1,0,0,0,0,0,0,1.2,0.0,10.3,3.0,True,1,4.0,5.0,-1.0
+Andriy Yarmolenko,MID,West Ham,Liverpool,16,0,0,1,0,1,0,0,0,0,0,0,0.1,0.0,1.3,0.0,False,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Crystal Palace,10,0,0,0,0,5,0,0,0,0,0,0,0.5,4.4,1.0,0.0,True,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Brighton,45,0,0,1,0,6,0,0,0,0,0,0,3.6,9.2,16.8,10.0,True,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Southampton,71,0,0,0,1,5,1,0,0,0,0,0,2.3,6.0,6.9,10.0,False,2,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Everton,17,0,0,0,0,4,0,0,0,0,0,0,1.3,2.2,10.3,0.0,False,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Burnley,8,0,0,0,0,1,0,0,0,0,0,0,4.9,1.0,10.0,38.0,True,1,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,West Brom,28,0,1,0,0,15,0,0,0,0,0,0,5.3,21.2,12.3,19.0,True,4,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Crystal Palace,7,0,0,1,0,1,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Liverpool,28,0,0,2,0,3,0,0,0,0,0,0,0.2,0.4,1.3,0.0,True,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Fulham,34,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.5,0.0,False,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Andriy Yarmolenko,MID,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Andriy Yarmolenko,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Everton,17,0,0,0,0,3,0,0,0,0,0,0,0.3,0.6,2.7,0.0,True,1,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Andriy Yarmolenko,MID,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Andriy Yarmolenko,MID,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

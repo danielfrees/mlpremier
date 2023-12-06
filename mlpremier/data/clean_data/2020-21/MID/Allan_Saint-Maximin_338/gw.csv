@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Allan Saint-Maximin,MID,Newcastle,West Ham,74,0,0,0,1,7,0,0,0,0,0,0,1.2,3.8,2.8,5.0,False,3
-Allan Saint-Maximin,MID,Newcastle,Brighton,32,0,0,2,0,0,0,0,0,0,0,0,0.0,0.0,0.6,0.0,True,1
-Allan Saint-Maximin,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Burnley,72,1,1,1,0,42,0,0,0,0,0,0,12.1,60.2,37.4,23.0,True,12
-Allan Saint-Maximin,MID,Newcastle,Man Utd,90,0,0,4,0,15,0,0,0,0,0,0,5.7,18.4,25.3,13.0,True,2
-Allan Saint-Maximin,MID,Newcastle,Wolves,78,0,0,0,1,10,0,0,0,0,0,0,4.0,17.6,13.1,9.0,False,3
-Allan Saint-Maximin,MID,Newcastle,Everton,73,0,0,0,1,1,0,0,0,0,0,0,3.5,7.8,2.1,25.0,True,3
-Allan Saint-Maximin,MID,Newcastle,Southampton,90,0,0,2,0,6,0,0,0,0,0,0,1.6,9.8,6.4,0.0,False,2
-Allan Saint-Maximin,MID,Newcastle,Chelsea,73,0,0,2,0,5,0,0,0,0,0,0,1.9,3.0,11.8,4.0,True,2
-Allan Saint-Maximin,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Allan Saint-Maximin,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Allan Saint-Maximin,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Allan Saint-Maximin,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Allan Saint-Maximin,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Aston Villa,19,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,1.2,0.0,False,1
-Allan Saint-Maximin,MID,Newcastle,Leeds,26,0,0,0,0,0,0,0,0,0,0,0,2.4,3.6,10.6,10.0,True,1
-Allan Saint-Maximin,MID,Newcastle,Everton,23,0,0,0,0,3,0,0,0,0,0,0,0.4,3.6,0.3,0.0,False,1
-Allan Saint-Maximin,MID,Newcastle,Crystal Palace,27,0,0,0,0,-1,0,0,0,0,0,0,4.3,1.6,1.7,40.0,True,1
-Allan Saint-Maximin,MID,Newcastle,Southampton,66,0,2,2,0,33,0,0,0,0,0,0,7.2,43.2,22.6,6.0,True,8
-Allan Saint-Maximin,MID,Newcastle,Chelsea,71,0,0,2,0,8,0,0,0,0,0,0,5.9,9.4,27.8,22.0,False,2
-Allan Saint-Maximin,MID,Newcastle,Man Utd,76,1,0,3,0,23,0,0,0,0,0,0,9.2,41.8,0.7,49.0,False,7
-Allan Saint-Maximin,MID,Newcastle,Wolves,62,0,0,0,1,9,0,0,0,0,0,0,9.1,11.2,46.3,33.0,True,3
-Allan Saint-Maximin,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Allan Saint-Maximin,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Allan Saint-Maximin,MID,Newcastle,Spurs,19,0,0,0,0,4,0,0,0,0,0,0,1.4,3.6,10.6,0.0,True,1
-Allan Saint-Maximin,MID,Newcastle,Burnley,33,1,1,0,0,37,0,0,0,0,0,0,11.5,53.4,20.8,41.0,False,12
-Allan Saint-Maximin,MID,Newcastle,West Ham,63,0,1,0,1,20,0,0,0,0,0,0,12.9,18.2,51.5,59.0,True,6
-Allan Saint-Maximin,MID,Newcastle,Liverpool,90,0,0,1,0,11,0,0,0,0,0,0,4.8,14.2,28.0,6.0,False,2
-Allan Saint-Maximin,MID,Newcastle,Arsenal,90,0,0,2,0,11,0,0,0,0,0,0,3.9,12.4,3.0,24.0,True,2
-Allan Saint-Maximin,MID,Newcastle,Leicester,83,0,0,1,0,7,0,0,0,0,0,0,4.5,10.0,13.1,22.0,False,2
-Allan Saint-Maximin,MID,Newcastle,Man City,90,0,0,4,0,3,0,0,0,0,0,0,3.8,9.2,26.8,2.0,True,2
-Allan Saint-Maximin,MID,Newcastle,Sheffield Utd,70,0,0,0,1,20,0,0,0,0,0,0,4.0,16.2,16.3,7.0,True,3
-Allan Saint-Maximin,MID,Newcastle,Fulham,64,0,0,0,1,1,0,0,0,0,0,0,3.4,2.6,13.4,18.0,False,3
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Allan Saint-Maximin,MID,Newcastle,West Ham,74,0,0,0,1,7,0,0,0,0,0,0,1.2,3.8,2.8,5.0,False,3,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Brighton,32,0,0,2,0,0,0,0,0,0,0,0,0.0,0.0,0.6,0.0,True,1,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Burnley,72,1,1,1,0,42,0,0,0,0,0,0,12.1,60.2,37.4,23.0,True,12,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Man Utd,90,0,0,4,0,15,0,0,0,0,0,0,5.7,18.4,25.3,13.0,True,2,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Wolves,78,0,0,0,1,10,0,0,0,0,0,0,4.0,17.6,13.1,9.0,False,3,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Everton,73,0,0,0,1,1,0,0,0,0,0,0,3.5,7.8,2.1,25.0,True,3,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Southampton,90,0,0,2,0,6,0,0,0,0,0,0,1.6,9.8,6.4,0.0,False,2,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Chelsea,73,0,0,2,0,5,0,0,0,0,0,0,1.9,3.0,11.8,4.0,True,2,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Allan Saint-Maximin,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Aston Villa,19,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,1.2,0.0,False,1,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Leeds,26,0,0,0,0,0,0,0,0,0,0,0,2.4,3.6,10.6,10.0,True,1,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Everton,23,0,0,0,0,3,0,0,0,0,0,0,0.4,3.6,0.3,0.0,False,1,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Crystal Palace,27,0,0,0,0,-1,0,0,0,0,0,0,4.3,1.6,1.7,40.0,True,1,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Southampton,66,0,2,2,0,33,0,0,0,0,0,0,7.2,43.2,22.6,6.0,True,8,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Chelsea,71,0,0,2,0,8,0,0,0,0,0,0,5.9,9.4,27.8,22.0,False,2,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Man Utd,76,1,0,3,0,23,0,0,0,0,0,0,9.2,41.8,0.7,49.0,False,7,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Wolves,62,0,0,0,1,9,0,0,0,0,0,0,9.1,11.2,46.3,33.0,True,3,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Spurs,19,0,0,0,0,4,0,0,0,0,0,0,1.4,3.6,10.6,0.0,True,1,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Burnley,33,1,1,0,0,37,0,0,0,0,0,0,11.5,53.4,20.8,41.0,False,12,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,West Ham,63,0,1,0,1,20,0,0,0,0,0,0,12.9,18.2,51.5,59.0,True,6,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Liverpool,90,0,0,1,0,11,0,0,0,0,0,0,4.8,14.2,28.0,6.0,False,2,2.0,3.0,-1.0
+Allan Saint-Maximin,MID,Newcastle,Arsenal,90,0,0,2,0,11,0,0,0,0,0,0,3.9,12.4,3.0,24.0,True,2,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Leicester,83,0,0,1,0,7,0,0,0,0,0,0,4.5,10.0,13.1,22.0,False,2,2.0,4.0,-2.0
+Allan Saint-Maximin,MID,Newcastle,Man City,90,0,0,4,0,3,0,0,0,0,0,0,3.8,9.2,26.8,2.0,True,2,2.0,5.0,-3.0
+Allan Saint-Maximin,MID,Newcastle,Sheffield Utd,70,0,0,0,1,20,0,0,0,0,0,0,4.0,16.2,16.3,7.0,True,3,2.0,2.0,0.0
+Allan Saint-Maximin,MID,Newcastle,Fulham,64,0,0,0,1,1,0,0,0,0,0,0,3.4,2.6,13.4,18.0,False,3,2.0,2.0,0.0

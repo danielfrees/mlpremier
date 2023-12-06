@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Alphonse Areola,GK,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alphonse Areola,GK,Fulham,Leeds,90,0,0,4,0,17,0,0,0,3,0,0,2.4,24.4,0.0,0.0,False,1
-Alphonse Areola,GK,Fulham,Aston Villa,90,0,0,3,0,11,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,1
-Alphonse Areola,GK,Fulham,Wolves,90,0,0,1,0,17,0,0,0,4,0,0,2.6,26.2,0.0,0.0,False,3
-Alphonse Areola,GK,Fulham,Sheffield Utd,90,0,0,1,0,18,0,0,0,5,0,0,3.4,34.2,0.0,0.0,False,3
-Alphonse Areola,GK,Fulham,Crystal Palace,90,0,0,2,0,24,0,0,0,8,0,0,5.9,59.0,0.0,0.0,True,3
-Alphonse Areola,GK,Fulham,West Brom,90,0,0,0,1,22,0,0,0,1,0,0,1.0,10.4,0.0,0.0,True,6
-Alphonse Areola,GK,Fulham,West Ham,90,0,0,1,0,20,0,0,0,6,0,0,4.2,42.4,0.0,0.0,False,4
-Alphonse Areola,GK,Fulham,Everton,90,0,0,3,0,18,0,0,0,4,0,0,3.0,30.2,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Leicester,90,0,0,1,0,12,0,0,0,2,0,0,1.7,17.4,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Man City,90,0,0,2,0,16,0,0,0,4,0,0,3.4,34.2,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Liverpool,90,0,0,1,0,19,0,0,0,5,0,0,3.1,30.6,0.0,0.0,True,3
-Alphonse Areola,GK,Fulham,Brighton,90,0,0,0,1,29,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,9
-Alphonse Areola,GK,Fulham,Newcastle,90,0,0,1,0,15,0,0,0,4,0,0,3.0,29.8,0.0,0.0,False,3
-Alphonse Areola,GK,Fulham,Southampton,90,0,0,0,1,25,0,0,0,2,0,0,0.9,9.4,0.0,0.0,True,8
-Alphonse Areola,GK,Fulham,Spurs,90,0,0,1,0,19,0,0,0,5,0,0,3.4,34.0,0.0,0.0,False,3
-Alphonse Areola,GK,Fulham,Chelsea,90,0,0,1,0,20,0,0,0,5,0,0,3.7,37.2,0.0,0.0,True,3
-Alphonse Areola,GK,Fulham,Man Utd,90,0,0,2,0,10,0,0,0,3,0,0,1.8,17.8,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Brighton,90,0,0,0,1,33,0,0,0,5,0,0,3.8,38.2,0.0,0.0,False,10
-Alphonse Areola,GK,Fulham,West Brom,90,0,0,2,0,9,0,0,0,1,0,0,1.1,10.8,0.0,0.0,False,1
-Alphonse Areola,GK,Fulham,Leicester,90,0,0,2,0,13,0,0,0,3,0,0,2.4,24.0,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,West Ham,90,0,0,0,1,24,0,0,0,1,0,0,1.1,10.8,0.0,0.0,True,6
-Alphonse Areola,GK,Fulham,Everton,90,0,0,0,1,24,0,0,0,2,0,0,1.5,14.8,0.0,0.0,False,6
-Alphonse Areola,GK,Fulham,Burnley,90,0,0,1,0,13,0,0,0,2,0,0,1.3,13.0,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Sheffield Utd,90,0,0,0,1,23,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,6
-Alphonse Areola,GK,Fulham,Crystal Palace,90,0,0,0,1,21,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,6
-Alphonse Areola,GK,Fulham,Spurs,90,0,0,1,0,12,0,0,0,2,0,0,1.9,19.0,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Liverpool,90,0,0,0,1,29,0,0,0,3,0,0,2.4,24.2,0.0,0.0,False,8
-Alphonse Areola,GK,Fulham,Man City,90,0,0,3,0,16,0,0,0,4,0,0,3.5,34.6,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Leeds,90,0,0,2,0,12,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,1
-Alphonse Areola,GK,Fulham,Aston Villa,90,0,0,3,0,12,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,1
-Alphonse Areola,GK,Fulham,Wolves,90,0,0,1,0,8,0,0,0,2,0,0,1.5,14.6,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Arsenal,90,0,0,1,0,12,1,0,0,4,0,0,3.3,33.2,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Chelsea,90,0,0,2,0,14,0,0,0,3,0,0,2.8,28.0,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Burnley,90,0,0,2,0,16,0,0,0,3,0,0,2.8,28.4,0.0,0.0,True,2
-Alphonse Areola,GK,Fulham,Southampton,90,0,0,3,0,14,0,0,0,3,0,0,2.3,23.4,0.0,0.0,False,2
-Alphonse Areola,GK,Fulham,Man Utd,90,0,0,1,0,20,1,0,0,5,0,0,2.6,25.6,0.0,0.0,False,3
-Alphonse Areola,GK,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alphonse Areola,GK,Fulham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Leeds,90,0,0,4,0,17,0,0,0,3,0,0,2.4,24.4,0.0,0.0,False,1,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Aston Villa,90,0,0,3,0,11,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,1,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Wolves,90,0,0,1,0,17,0,0,0,4,0,0,2.6,26.2,0.0,0.0,False,3,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Sheffield Utd,90,0,0,1,0,18,0,0,0,5,0,0,3.4,34.2,0.0,0.0,False,3,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Crystal Palace,90,0,0,2,0,24,0,0,0,8,0,0,5.9,59.0,0.0,0.0,True,3,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,West Brom,90,0,0,0,1,22,0,0,0,1,0,0,1.0,10.4,0.0,0.0,True,6,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,West Ham,90,0,0,1,0,20,0,0,0,6,0,0,4.2,42.4,0.0,0.0,False,4,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Everton,90,0,0,3,0,18,0,0,0,4,0,0,3.0,30.2,0.0,0.0,True,2,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Leicester,90,0,0,1,0,12,0,0,0,2,0,0,1.7,17.4,0.0,0.0,False,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Man City,90,0,0,2,0,16,0,0,0,4,0,0,3.4,34.2,0.0,0.0,False,2,2.0,5.0,-3.0
+Alphonse Areola,GK,Fulham,Liverpool,90,0,0,1,0,19,0,0,0,5,0,0,3.1,30.6,0.0,0.0,True,3,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Brighton,90,0,0,0,1,29,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,9,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Newcastle,90,0,0,1,0,15,0,0,0,4,0,0,3.0,29.8,0.0,0.0,False,3,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Southampton,90,0,0,0,1,25,0,0,0,2,0,0,0.9,9.4,0.0,0.0,True,8,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Spurs,90,0,0,1,0,19,0,0,0,5,0,0,3.4,34.0,0.0,0.0,False,3,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Chelsea,90,0,0,1,0,20,0,0,0,5,0,0,3.7,37.2,0.0,0.0,True,3,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Man Utd,90,0,0,2,0,10,0,0,0,3,0,0,1.8,17.8,0.0,0.0,True,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Brighton,90,0,0,0,1,33,0,0,0,5,0,0,3.8,38.2,0.0,0.0,False,10,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,West Brom,90,0,0,2,0,9,0,0,0,1,0,0,1.1,10.8,0.0,0.0,False,1,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Leicester,90,0,0,2,0,13,0,0,0,3,0,0,2.4,24.0,0.0,0.0,True,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,West Ham,90,0,0,0,1,24,0,0,0,1,0,0,1.1,10.8,0.0,0.0,True,6,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Everton,90,0,0,0,1,24,0,0,0,2,0,0,1.5,14.8,0.0,0.0,False,6,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Burnley,90,0,0,1,0,13,0,0,0,2,0,0,1.3,13.0,0.0,0.0,False,2,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Sheffield Utd,90,0,0,0,1,23,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,6,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Crystal Palace,90,0,0,0,1,21,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,6,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Spurs,90,0,0,1,0,12,0,0,0,2,0,0,1.9,19.0,0.0,0.0,True,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Liverpool,90,0,0,0,1,29,0,0,0,3,0,0,2.4,24.2,0.0,0.0,False,8,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Man City,90,0,0,3,0,16,0,0,0,4,0,0,3.5,34.6,0.0,0.0,True,2,2.0,5.0,-3.0
+Alphonse Areola,GK,Fulham,Leeds,90,0,0,2,0,12,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,1,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Aston Villa,90,0,0,3,0,12,0,0,0,1,0,0,0.6,6.4,0.0,0.0,False,1,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Wolves,90,0,0,1,0,8,0,0,0,2,0,0,1.5,14.6,0.0,0.0,True,2,2.0,3.0,-1.0
+Alphonse Areola,GK,Fulham,Arsenal,90,0,0,1,0,12,1,0,0,4,0,0,3.3,33.2,0.0,0.0,False,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Chelsea,90,0,0,2,0,14,0,0,0,3,0,0,2.8,28.0,0.0,0.0,False,2,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Burnley,90,0,0,2,0,16,0,0,0,3,0,0,2.8,28.4,0.0,0.0,True,2,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Southampton,90,0,0,3,0,14,0,0,0,3,0,0,2.3,23.4,0.0,0.0,False,2,2.0,2.0,0.0
+Alphonse Areola,GK,Fulham,Man Utd,90,0,0,1,0,20,1,0,0,5,0,0,2.6,25.6,0.0,0.0,False,3,2.0,4.0,-2.0
+Alphonse Areola,GK,Fulham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0

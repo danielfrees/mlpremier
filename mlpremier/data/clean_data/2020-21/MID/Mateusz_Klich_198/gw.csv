@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Mateusz Klich,MID,Leeds,Liverpool,80,1,0,3,0,33,0,0,0,0,0,0,8.3,54.8,4.8,23.0,False,9
-Mateusz Klich,MID,Leeds,Fulham,90,1,1,3,0,36,1,0,0,0,0,0,9.3,56.8,16.8,19.0,True,9
-Mateusz Klich,MID,Leeds,Sheffield Utd,90,0,0,0,1,14,0,0,0,0,0,0,6.5,14.8,40.4,10.0,False,3
-Mateusz Klich,MID,Leeds,Man City,76,0,0,1,0,13,0,0,0,0,0,0,4.1,11.4,25.5,4.0,True,2
-Mateusz Klich,MID,Leeds,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,2.9,7.0,16.3,6.0,True,2
-Mateusz Klich,MID,Leeds,Aston Villa,90,0,1,0,1,18,1,0,0,0,0,0,10.3,30.0,41.5,31.0,False,5
-Mateusz Klich,MID,Leeds,Leicester,90,0,0,4,0,11,0,0,0,0,0,0,2.6,8.8,10.0,7.0,True,2
-Mateusz Klich,MID,Leeds,Crystal Palace,90,0,1,4,0,21,1,0,0,0,0,0,8.6,30.6,53.4,2.0,False,4
-Mateusz Klich,MID,Leeds,Arsenal,90,0,0,0,1,10,0,0,0,0,0,0,5.6,7.2,36.8,12.0,True,3
-Mateusz Klich,MID,Leeds,Everton,90,0,0,0,1,8,0,0,0,0,0,0,6.2,9.8,32.0,20.0,False,3
-Mateusz Klich,MID,Leeds,Chelsea,90,0,0,3,0,17,0,0,0,0,0,0,6.0,15.2,43.1,2.0,False,2
-Mateusz Klich,MID,Leeds,West Ham,90,1,0,2,0,27,0,0,0,0,0,0,7.3,38.0,6.9,28.0,True,8
-Mateusz Klich,MID,Leeds,Newcastle,88,0,1,2,0,20,1,0,0,0,0,0,9.4,21.8,51.3,21.0,True,4
-Mateusz Klich,MID,Leeds,Man Utd,45,0,0,4,0,5,0,0,0,0,0,0,3.5,6.2,27.1,2.0,False,1
-Mateusz Klich,MID,Leeds,Burnley,65,0,0,0,1,10,0,0,0,0,0,0,1.7,1.8,10.9,4.0,True,3
-Mateusz Klich,MID,Leeds,West Brom,57,0,1,0,0,21,0,0,0,0,0,0,6.5,24.6,40.6,0.0,False,4
-Mateusz Klich,MID,Leeds,Spurs,90,0,0,3,0,11,0,0,0,0,0,0,6.9,9.8,47.6,12.0,False,2
-Mateusz Klich,MID,Leeds,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,1.2,3.2,6.8,2.0,True,2
-Mateusz Klich,MID,Leeds,Newcastle,34,0,0,1,0,3,0,0,0,0,0,0,2.5,6.0,1.0,18.0,False,1
-Mateusz Klich,MID,Leeds,Leicester,69,0,0,0,1,4,1,0,0,0,0,0,1.9,5.2,12.0,2.0,False,2
-Mateusz Klich,MID,Leeds,Everton,68,0,0,2,0,7,0,0,0,0,0,0,2.7,4.2,6.7,16.0,True,2
-Mateusz Klich,MID,Leeds,Crystal Palace,90,0,0,0,1,14,0,0,0,0,0,0,4.4,13.4,30.8,0.0,True,3
-Mateusz Klich,MID,Leeds,Arsenal,45,0,0,3,0,2,0,0,0,0,0,0,0.2,0.0,1.5,3.0,False,1
-Mateusz Klich,MID,Leeds,Wolves,80,0,0,1,0,7,0,0,0,0,0,0,1.0,2.0,1.8,6.0,False,2
-Mateusz Klich,MID,Leeds,Southampton,58,0,0,0,0,5,0,0,0,0,0,0,0.3,2.0,0.8,0.0,True,1
-Mateusz Klich,MID,Leeds,Aston Villa,90,0,0,1,0,2,1,0,0,0,0,0,3.6,4.4,18.1,13.0,True,1
-Mateusz Klich,MID,Leeds,West Ham,45,0,0,2,0,1,0,0,0,0,0,0,1.9,4.2,12.3,2.0,False,1
-Mateusz Klich,MID,Leeds,Chelsea,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1
-Mateusz Klich,MID,Leeds,Fulham,13,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.3,1.0,False,1
-Mateusz Klich,MID,Leeds,Sheffield Utd,9,0,0,0,0,3,0,0,0,0,0,0,1.2,1.2,10.3,0.0,True,1
-Mateusz Klich,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateusz Klich,MID,Leeds,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,0.3,1.6,1.8,0.0,True,1
-Mateusz Klich,MID,Leeds,Man Utd,18,0,0,0,0,2,0,0,0,0,0,0,2.1,3.4,0.4,17.0,True,1
-Mateusz Klich,MID,Leeds,Brighton,90,0,0,2,0,14,0,0,0,0,0,0,2.0,10.8,8.6,1.0,False,2
-Mateusz Klich,MID,Leeds,Spurs,89,0,0,1,0,16,0,0,0,0,0,0,8.4,15.0,29.1,40.0,True,2
-Mateusz Klich,MID,Leeds,Burnley,75,1,0,0,1,27,0,0,0,0,0,0,6.2,39.4,13.7,9.0,False,8
-Mateusz Klich,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateusz Klich,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mateusz Klich,MID,Leeds,Liverpool,80,1,0,3,0,33,0,0,0,0,0,0,8.3,54.8,4.8,23.0,False,9,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Fulham,90,1,1,3,0,36,1,0,0,0,0,0,9.3,56.8,16.8,19.0,True,9,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Sheffield Utd,90,0,0,0,1,14,0,0,0,0,0,0,6.5,14.8,40.4,10.0,False,3,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Man City,76,0,0,1,0,13,0,0,0,0,0,0,4.1,11.4,25.5,4.0,True,2,3.0,5.0,-2.0
+Mateusz Klich,MID,Leeds,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,2.9,7.0,16.3,6.0,True,2,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Aston Villa,90,0,1,0,1,18,1,0,0,0,0,0,10.3,30.0,41.5,31.0,False,5,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Leicester,90,0,0,4,0,11,0,0,0,0,0,0,2.6,8.8,10.0,7.0,True,2,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Crystal Palace,90,0,1,4,0,21,1,0,0,0,0,0,8.6,30.6,53.4,2.0,False,4,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Arsenal,90,0,0,0,1,10,0,0,0,0,0,0,5.6,7.2,36.8,12.0,True,3,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Everton,90,0,0,0,1,8,0,0,0,0,0,0,6.2,9.8,32.0,20.0,False,3,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Chelsea,90,0,0,3,0,17,0,0,0,0,0,0,6.0,15.2,43.1,2.0,False,2,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,West Ham,90,1,0,2,0,27,0,0,0,0,0,0,7.3,38.0,6.9,28.0,True,8,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Newcastle,88,0,1,2,0,20,1,0,0,0,0,0,9.4,21.8,51.3,21.0,True,4,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Man Utd,45,0,0,4,0,5,0,0,0,0,0,0,3.5,6.2,27.1,2.0,False,1,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Burnley,65,0,0,0,1,10,0,0,0,0,0,0,1.7,1.8,10.9,4.0,True,3,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,West Brom,57,0,1,0,0,21,0,0,0,0,0,0,6.5,24.6,40.6,0.0,False,4,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Spurs,90,0,0,3,0,11,0,0,0,0,0,0,6.9,9.8,47.6,12.0,False,2,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,1.2,3.2,6.8,2.0,True,2,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Newcastle,34,0,0,1,0,3,0,0,0,0,0,0,2.5,6.0,1.0,18.0,False,1,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Leicester,69,0,0,0,1,4,1,0,0,0,0,0,1.9,5.2,12.0,2.0,False,2,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Everton,68,0,0,2,0,7,0,0,0,0,0,0,2.7,4.2,6.7,16.0,True,2,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Crystal Palace,90,0,0,0,1,14,0,0,0,0,0,0,4.4,13.4,30.8,0.0,True,3,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Arsenal,45,0,0,3,0,2,0,0,0,0,0,0,0.2,0.0,1.5,3.0,False,1,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Wolves,80,0,0,1,0,7,0,0,0,0,0,0,1.0,2.0,1.8,6.0,False,2,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Southampton,58,0,0,0,0,5,0,0,0,0,0,0,0.3,2.0,0.8,0.0,True,1,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Aston Villa,90,0,0,1,0,2,1,0,0,0,0,0,3.6,4.4,18.1,13.0,True,1,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,West Ham,45,0,0,2,0,1,0,0,0,0,0,0,1.9,4.2,12.3,2.0,False,1,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Chelsea,11,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Fulham,13,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.3,1.0,False,1,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Sheffield Utd,9,0,0,0,0,3,0,0,0,0,0,0,1.2,1.2,10.3,0.0,True,1,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Mateusz Klich,MID,Leeds,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,0.3,1.6,1.8,0.0,True,1,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Man Utd,18,0,0,0,0,2,0,0,0,0,0,0,2.1,3.4,0.4,17.0,True,1,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Brighton,90,0,0,2,0,14,0,0,0,0,0,0,2.0,10.8,8.6,1.0,False,2,3.0,3.0,0.0
+Mateusz Klich,MID,Leeds,Spurs,89,0,0,1,0,16,0,0,0,0,0,0,8.4,15.0,29.1,40.0,True,2,3.0,4.0,-1.0
+Mateusz Klich,MID,Leeds,Burnley,75,1,0,0,1,27,0,0,0,0,0,0,6.2,39.4,13.7,9.0,False,8,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Mateusz Klich,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0

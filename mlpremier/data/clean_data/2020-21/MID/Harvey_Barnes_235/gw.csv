@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Harvey Barnes,MID,Leicester,West Brom,90,0,0,0,1,8,0,0,0,0,0,0,10.2,18.0,18.3,66.0,False,3
-Harvey Barnes,MID,Leicester,Burnley,90,1,1,2,0,35,0,0,0,0,0,0,18.3,57.4,26.8,99.0,True,13
-Harvey Barnes,MID,Leicester,Man City,90,0,0,2,0,5,0,0,0,0,0,0,2.8,8.2,2.2,18.0,False,2
-Harvey Barnes,MID,Leicester,West Ham,90,0,0,3,0,6,0,0,0,0,0,0,1.9,1.6,4.9,12.0,True,2
-Harvey Barnes,MID,Leicester,Aston Villa,90,0,0,1,0,8,0,0,0,0,0,0,3.6,7.2,2.9,26.0,True,2
-Harvey Barnes,MID,Leicester,Arsenal,74,0,0,0,1,4,0,0,0,0,0,0,0.4,0.4,1.2,2.0,False,3
-Harvey Barnes,MID,Leicester,Leeds,70,1,0,1,0,22,0,0,0,0,0,0,8.0,41.8,1.4,37.0,False,8
-Harvey Barnes,MID,Leicester,Wolves,18,0,0,0,0,2,0,0,0,0,0,0,1.8,0.0,0.8,18.0,True,1
-Harvey Barnes,MID,Leicester,Liverpool,61,0,0,2,0,1,0,0,0,0,0,0,7.4,9.2,11.0,54.0,False,2
-Harvey Barnes,MID,Leicester,Fulham,45,1,0,0,0,18,0,0,0,0,0,0,6.7,35.0,12.6,19.0,True,6
-Harvey Barnes,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Brighton,28,0,0,0,0,3,0,0,0,0,0,0,2.7,9.4,11.1,6.0,True,1
-Harvey Barnes,MID,Leicester,Everton,90,0,0,2,0,5,0,0,0,0,0,0,1.5,6.2,3.0,6.0,True,2
-Harvey Barnes,MID,Leicester,Spurs,83,0,0,0,1,7,0,0,0,0,0,0,7.1,12.8,23.7,34.0,False,3
-Harvey Barnes,MID,Leicester,Man Utd,90,1,0,2,0,21,0,0,0,0,0,0,6.4,38.2,8.6,17.0,True,7
-Harvey Barnes,MID,Leicester,Crystal Palace,90,1,0,1,0,22,0,0,0,0,0,0,7.1,32.2,4.6,34.0,False,8
-Harvey Barnes,MID,Leicester,Newcastle,90,0,0,1,0,0,0,0,0,0,0,0,4.3,6.4,3.8,33.0,False,2
-Harvey Barnes,MID,Leicester,Southampton,90,1,0,0,1,25,0,0,0,0,0,0,15.5,45.4,27.2,82.0,True,9
-Harvey Barnes,MID,Leicester,Chelsea,90,0,1,0,1,16,0,0,0,0,0,0,5.2,24.0,24.3,4.0,True,6
-Harvey Barnes,MID,Leicester,Everton,90,0,1,1,0,19,0,0,0,0,0,0,13.5,37.6,53.9,43.0,False,6
-Harvey Barnes,MID,Leicester,Leeds,90,1,0,3,0,25,0,0,0,0,0,0,9.6,41.0,23.9,31.0,True,8
-Harvey Barnes,MID,Leicester,Fulham,75,0,0,0,1,4,0,0,0,0,0,0,5.2,1.6,10.9,39.0,False,3
-Harvey Barnes,MID,Leicester,Wolves,90,0,0,0,1,8,0,0,0,0,0,0,4.6,2.0,6.1,38.0,False,3
-Harvey Barnes,MID,Leicester,Liverpool,90,1,1,1,0,36,0,0,0,0,0,0,11.3,52.2,26.8,34.0,True,12
-Harvey Barnes,MID,Leicester,Aston Villa,90,1,1,1,0,46,0,0,0,0,0,0,16.5,66.4,47.3,51.0,False,13
-Harvey Barnes,MID,Leicester,Arsenal,50,0,0,2,0,2,0,0,0,0,0,0,1.1,2.2,1.7,7.0,True,1
-Harvey Barnes,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Harvey Barnes,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Harvey Barnes,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Harvey Barnes,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Harvey Barnes,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Harvey Barnes,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Harvey Barnes,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Harvey Barnes,MID,Leicester,West Brom,90,0,0,0,1,8,0,0,0,0,0,0,10.2,18.0,18.3,66.0,False,3,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Burnley,90,1,1,2,0,35,0,0,0,0,0,0,18.3,57.4,26.8,99.0,True,13,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Man City,90,0,0,2,0,5,0,0,0,0,0,0,2.8,8.2,2.2,18.0,False,2,4.0,5.0,-1.0
+Harvey Barnes,MID,Leicester,West Ham,90,0,0,3,0,6,0,0,0,0,0,0,1.9,1.6,4.9,12.0,True,2,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Aston Villa,90,0,0,1,0,8,0,0,0,0,0,0,3.6,7.2,2.9,26.0,True,2,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Arsenal,74,0,0,0,1,4,0,0,0,0,0,0,0.4,0.4,1.2,2.0,False,3,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Leeds,70,1,0,1,0,22,0,0,0,0,0,0,8.0,41.8,1.4,37.0,False,8,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Wolves,18,0,0,0,0,2,0,0,0,0,0,0,1.8,0.0,0.8,18.0,True,1,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Liverpool,61,0,0,2,0,1,0,0,0,0,0,0,7.4,9.2,11.0,54.0,False,2,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Fulham,45,1,0,0,0,18,0,0,0,0,0,0,6.7,35.0,12.6,19.0,True,6,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Brighton,28,0,0,0,0,3,0,0,0,0,0,0,2.7,9.4,11.1,6.0,True,1,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Everton,90,0,0,2,0,5,0,0,0,0,0,0,1.5,6.2,3.0,6.0,True,2,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Spurs,83,0,0,0,1,7,0,0,0,0,0,0,7.1,12.8,23.7,34.0,False,3,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Man Utd,90,1,0,2,0,21,0,0,0,0,0,0,6.4,38.2,8.6,17.0,True,7,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Crystal Palace,90,1,0,1,0,22,0,0,0,0,0,0,7.1,32.2,4.6,34.0,False,8,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Newcastle,90,0,0,1,0,0,0,0,0,0,0,0,4.3,6.4,3.8,33.0,False,2,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Southampton,90,1,0,0,1,25,0,0,0,0,0,0,15.5,45.4,27.2,82.0,True,9,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Chelsea,90,0,1,0,1,16,0,0,0,0,0,0,5.2,24.0,24.3,4.0,True,6,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Everton,90,0,1,1,0,19,0,0,0,0,0,0,13.5,37.6,53.9,43.0,False,6,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Leeds,90,1,0,3,0,25,0,0,0,0,0,0,9.6,41.0,23.9,31.0,True,8,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Fulham,75,0,0,0,1,4,0,0,0,0,0,0,5.2,1.6,10.9,39.0,False,3,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Wolves,90,0,0,0,1,8,0,0,0,0,0,0,4.6,2.0,6.1,38.0,False,3,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Liverpool,90,1,1,1,0,36,0,0,0,0,0,0,11.3,52.2,26.8,34.0,True,12,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Aston Villa,90,1,1,1,0,46,0,0,0,0,0,0,16.5,66.4,47.3,51.0,False,13,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Arsenal,50,0,0,2,0,2,0,0,0,0,0,0,1.1,2.2,1.7,7.0,True,1,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Harvey Barnes,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Harvey Barnes,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Harvey Barnes,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Harvey Barnes,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
