@@ -59,8 +59,13 @@ def generate_cnn_data(data_dir : str,
     :return: Tuple of DataFrames
         (1) DataFrame containing preprocessed data with columns as follows:
             'name' - name of the player
+            'avg_score' - avg score of the player, used to stratify skill for 
+                train/val/test split later
             'features' - DF containing window_size of data starting at some gw
             'target' - prediction value for the week following the 'features' window
+            'matchup_difficulty' - additional feature treated differently in the
+                CNN architecture since it is known for the upcoming week ahead of
+                time
         (2) DataFrame containing all player-weeks features combined for the full_data
     :rtype: Tuple(pd.DataFrame)
     """
@@ -94,29 +99,34 @@ def generate_cnn_data(data_dir : str,
                         ct_dropped_players += 1
                         continue
 
-                    #DROP USELESS FEATURES
                     features = player_data.copy()
                     #name used only for subsetting to training data when running pipeline transform
                     cols_to_keep = num_features + cat_features + ['name'] 
                     features = features.loc[:, cols_to_keep] 
-                    # FPL pts
-                    targets = player_data.iloc[:, -1].values
+                    targets = player_data['total_points'].values
+                    # matchup difficulty is treated separately, and has to be extracted separately
+                    try:
+                        difficulties = player_data['matchup_difficulty'].values
+                    except: 
+                        print(f"{player_data['name']} missing matchup difficulty info. Check data cleaning scripts.")
+                        raise Exception
 
                     # Create training samples using the specified window size
-                    X, y, player_names, avg_scores, seasons = [], [], [], [], []
+                    X, y, d, player_names, avg_scores, seasons = [], [], [], [], [], []
                     player_name = player_data['name'][0]
                     avg_score = player_data['total_points'].mean()
                     for i in range(len(player_data) - window_size):
                         X.append(features.iloc[i:i + window_size]) # get window of features
                         y.append(targets[i + window_size]) # get next weeks FPL points
+                        d.append(difficulties[i + window_size]) # get next weeks matchup difficulty
                         player_names.append(player_name)
                         avg_scores.append(avg_score)
                         seasons.append(season)
 
-                    all_windowed_data.extend(list(zip(player_names, avg_scores, seasons, X, y)))
+                    all_windowed_data.extend(list(zip(player_names, avg_scores, seasons, X, y, d)))
                     all_features.append(features)
 
-    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'season', 'features', 'target'])
+    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'season', 'features', 'target', 'match_difficulty'])
     combined_features_df =  pd.concat(all_features)
 
     if verbose:

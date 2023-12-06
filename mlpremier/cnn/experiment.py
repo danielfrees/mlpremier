@@ -40,13 +40,13 @@ def gridsearch_cnn(epochs: int = 200,
     POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
     WINDOW_SIZES = [3, 6, 9]
     KERNEL_SIZES = [1, 2, 3, 4]
-    NUM_FILTERS = [64, 128, 256]
-    NUM_DENSE = [64, 128, 256]
+    NUM_FILTERS = [64] #, 128, 256]
+    NUM_DENSE = [64]# , 128, 256]
     CONV_ACTIVATION = 'relu'
     DENSE_ACTIVATION = 'relu'
     DROP_LOW_PLAYTIME = [False, True]
     LOW_PLAYTIME_CUTOFF = [15]
-    AMT_NUM_FEATURES = ['ptsonly','small', 'medium', 'large'] #,'medium','large']
+    AMT_NUM_FEATURES = ['ptsonly'] #,'small', 'medium', 'large'] 
     NUM_FEATURES_DICT = {
         'GK': {
             'ptsonly': ['total_points'],
@@ -89,10 +89,10 @@ def gridsearch_cnn(epochs: int = 200,
         len(AMT_NUM_FEATURES) * len(OPTIMIZERS) * len(REGULARIZATIONS))
 
     for (season, position, window_size, kernel_size, num_filters, num_dense,
-        low_playtime_cutoff, amt_num_feature, 
+        drop_low_playtime, low_playtime_cutoff, amt_num_feature, 
         optimizer, regularization) in tqdm(itertools.product(
         SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
-        LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
+        DROP_LOW_PLAYTIME, LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
         OPTIMIZERS, REGULARIZATIONS), total=total_iterations):
 
         if kernel_size >= window_size:  #skip invalid configurations of kernel size
@@ -123,7 +123,7 @@ def gridsearch_cnn(epochs: int = 200,
                                         kernel_size=kernel_size,
                                         num_filters=num_filters,
                                         num_dense=num_dense,
-                                        drop_low_playtime=DROP_LOW_PLAYTIME,
+                                        drop_low_playtime=drop_low_playtime,
                                         low_playtime_cutoff=low_playtime_cutoff,
                                         num_features=num_features,
                                         regularization=regularization,

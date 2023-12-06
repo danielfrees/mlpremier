@@ -123,7 +123,7 @@ def plot_learning_curve(season,
 def eda_and_plot(features_df):
     """
     Perform Exploratory Data Analysis (EDA) on the given DataFrame and plots
-      histograms for numerical variables.
+    histograms for numerical variables.
 
     Parameters:
     - features_df (pd.DataFrame): The DataFrame containing features for analysis.
@@ -138,10 +138,19 @@ def eda_and_plot(features_df):
 
     # Plot histograms for numerical variables in a single row
     numerical_columns = features_df.select_dtypes(include=['int64', 'float64']).columns
-    plt.figure(figsize=(16, 4))
+    num_numerical_columns = len(numerical_columns)
     
+    # Define the number of subplots per row (adjust as needed)
+    subplots_per_row = 4
+
+    # Calculate the number of rows needed
+    num_rows = (num_numerical_columns + subplots_per_row - 1) // subplots_per_row
+
+    # Create subplots dynamically
+    plt.figure(figsize=(16, 4 * num_rows))
+
     for i, column in enumerate(numerical_columns, 1):
-        plt.subplot(1, 4, i)
+        plt.subplot(num_rows, subplots_per_row, i)
         features_df[column].plot(kind='hist', bins=20, edgecolor='black')
         plt.title(f'{column} Distribution')
         plt.xlabel(column)
@@ -152,12 +161,16 @@ def eda_and_plot(features_df):
 
 def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.csv'),
                         season: str = "['2020-21', '2021-22']",
-                        eval_top: int = 5):
+                        eval_top: int = 5, 
+                        **kwargs):
     """
     Visualizes and investigates the results of a gridsearch for best CNN hyperparams.
     """
     df = pd.read_csv(expt_res_path)
     df = df[df['season'].apply(lambda x: repr(x) == repr(season))]
+    # Filter by additional keyword arguments
+    for key, value in kwargs.items():
+        df = df[df[key] == value]
     df = df.sort_values(by='val_mse')
 
     # ======== Color MSE Results from Green (good) to Red (bad) =============
@@ -196,5 +209,8 @@ def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.
 
     print(f"\n{season} Mean Performance of Top {eval_top} Model by Position")
     display(performance_df)
+
+    print("\nAverage Performance:")
+    print(performance_df['test_mse'].mean())
     
     return hyperparams_df

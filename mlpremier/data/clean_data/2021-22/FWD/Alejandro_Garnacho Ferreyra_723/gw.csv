@@ -1,8 +1,0 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Alejandro Garnacho Ferreyra,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alejandro Garnacho Ferreyra,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alejandro Garnacho Ferreyra,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alejandro Garnacho Ferreyra,MID,Man Utd,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Alejandro Garnacho Ferreyra,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alejandro Garnacho Ferreyra,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alejandro Garnacho Ferreyra,MID,Man Utd,Everton,11,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
