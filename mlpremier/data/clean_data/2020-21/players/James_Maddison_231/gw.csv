@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-James Maddison,MID,Leicester,West Brom,15,0,0,0,0,4,0,0,0,0,0,0,1.5,2.8,12.3,0.0,False,1
-James Maddison,MID,Leicester,Burnley,28,0,0,1,0,3,0,0,0,0,0,0,1.1,0.0,11.2,0.0,True,1
-James Maddison,MID,Leicester,Man City,21,1,1,1,0,28,0,0,0,0,0,0,4.3,33.4,0.3,9.0,False,10
-James Maddison,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-James Maddison,MID,Leicester,Aston Villa,22,0,0,1,0,2,0,0,0,0,0,0,3.5,4.0,15.2,16.0,True,1
-James Maddison,MID,Leicester,Arsenal,84,0,0,0,1,5,1,0,0,0,0,0,2.0,0.0,6.8,16.0,False,2
-James Maddison,MID,Leicester,Leeds,27,0,1,0,0,12,0,0,0,0,0,0,2.5,4.4,18.3,2.0,False,4
-James Maddison,MID,Leicester,Wolves,71,0,0,0,1,10,0,0,0,0,0,0,6.3,13.6,29.2,20.0,True,3
-James Maddison,MID,Leicester,Liverpool,90,0,0,3,0,14,0,0,0,0,0,0,9.7,20.4,50.2,26.0,False,2
-James Maddison,MID,Leicester,Fulham,90,0,0,2,0,10,0,0,0,0,0,0,4.2,6.8,21.5,14.0,True,2
-James Maddison,MID,Leicester,Sheffield Utd,90,0,1,1,0,21,1,0,0,0,0,0,8.5,24.4,47.4,13.0,False,4
-James Maddison,MID,Leicester,Brighton,74,2,0,0,1,48,0,0,0,0,0,0,16.8,72.4,18.5,77.0,True,16
-James Maddison,MID,Leicester,Everton,90,0,0,2,0,15,0,0,0,0,0,0,9.1,17.6,62.1,11.0,True,2
-James Maddison,MID,Leicester,Spurs,90,0,0,0,1,9,0,0,0,0,0,0,10.1,15.8,63.8,21.0,False,3
-James Maddison,MID,Leicester,Man Utd,90,0,1,2,0,15,1,0,0,0,0,0,6.9,22.8,38.1,8.0,True,4
-James Maddison,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-James Maddison,MID,Leicester,Newcastle,78,1,0,0,1,27,0,0,0,0,0,0,9.5,36.6,37.3,21.0,False,10
-James Maddison,MID,Leicester,Southampton,76,1,0,0,1,25,0,0,0,0,0,0,9.4,36.8,36.7,20.0,True,9
-James Maddison,MID,Leicester,Chelsea,75,1,0,0,1,23,0,0,0,0,0,0,7.4,38.8,15.6,20.0,True,8
-James Maddison,MID,Leicester,Everton,90,0,0,1,0,12,0,0,0,0,0,0,9.2,18.6,17.8,56.0,False,2
-James Maddison,MID,Leicester,Leeds,90,0,1,3,0,14,0,0,0,0,0,0,6.5,19.2,32.9,13.0,True,5
-James Maddison,MID,Leicester,Fulham,90,0,2,0,1,36,0,0,0,0,0,0,11.3,48.8,51.6,13.0,False,11
-James Maddison,MID,Leicester,Wolves,90,0,0,0,1,4,1,0,0,0,0,0,10.2,13.8,19.3,69.0,False,2
-James Maddison,MID,Leicester,Liverpool,90,1,0,1,0,32,0,0,0,0,0,0,8.8,42.4,24.6,21.0,True,8
-James Maddison,MID,Leicester,Aston Villa,63,1,0,1,0,30,0,0,0,0,0,0,8.9,40.2,6.6,42.0,False,9
-James Maddison,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-James Maddison,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-James Maddison,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-James Maddison,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-James Maddison,MID,Leicester,Man City,18,0,0,1,0,2,0,0,0,0,0,0,2.2,2.2,1.4,18.0,True,1
-James Maddison,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-James Maddison,MID,Leicester,West Brom,71,0,0,0,1,16,0,0,0,0,0,0,7.9,13.8,49.6,16.0,True,3
-James Maddison,MID,Leicester,Crystal Palace,69,0,0,1,0,11,0,0,0,0,0,0,4.1,3.8,16.2,21.0,True,2
-James Maddison,MID,Leicester,Southampton,90,0,0,1,0,11,0,0,0,0,0,0,8.3,13.6,31.3,38.0,False,2
-James Maddison,MID,Leicester,Newcastle,76,0,0,4,0,19,0,0,0,0,0,0,10.0,12.8,28.7,58.0,True,2
-James Maddison,MID,Leicester,Man Utd,25,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,1.0,1.0,False,1
-James Maddison,MID,Leicester,Chelsea,59,0,0,1,0,3,0,0,0,0,0,0,0.3,1.2,2.1,0.0,False,1
-James Maddison,MID,Leicester,Spurs,61,0,0,1,0,9,0,0,0,0,0,0,1.8,7.4,2.7,8.0,True,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+James Maddison,MID,Leicester,West Brom,15,0,0,0,0,4,0,0,0,0,0,0,1.5,2.8,12.3,0.0,False,1,4.0,2.0,2.0
+James Maddison,MID,Leicester,Burnley,28,0,0,1,0,3,0,0,0,0,0,0,1.1,0.0,11.2,0.0,True,1,4.0,2.0,2.0
+James Maddison,MID,Leicester,Man City,21,1,1,1,0,28,0,0,0,0,0,0,4.3,33.4,0.3,9.0,False,10,4.0,5.0,-1.0
+James Maddison,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Maddison,MID,Leicester,Aston Villa,22,0,0,1,0,2,0,0,0,0,0,0,3.5,4.0,15.2,16.0,True,1,4.0,3.0,1.0
+James Maddison,MID,Leicester,Arsenal,84,0,0,0,1,5,1,0,0,0,0,0,2.0,0.0,6.8,16.0,False,2,4.0,4.0,0.0
+James Maddison,MID,Leicester,Leeds,27,0,1,0,0,12,0,0,0,0,0,0,2.5,4.4,18.3,2.0,False,4,4.0,3.0,1.0
+James Maddison,MID,Leicester,Wolves,71,0,0,0,1,10,0,0,0,0,0,0,6.3,13.6,29.2,20.0,True,3,4.0,3.0,1.0
+James Maddison,MID,Leicester,Liverpool,90,0,0,3,0,14,0,0,0,0,0,0,9.7,20.4,50.2,26.0,False,2,4.0,3.0,1.0
+James Maddison,MID,Leicester,Fulham,90,0,0,2,0,10,0,0,0,0,0,0,4.2,6.8,21.5,14.0,True,2,4.0,2.0,2.0
+James Maddison,MID,Leicester,Sheffield Utd,90,0,1,1,0,21,1,0,0,0,0,0,8.5,24.4,47.4,13.0,False,4,4.0,2.0,2.0
+James Maddison,MID,Leicester,Brighton,74,2,0,0,1,48,0,0,0,0,0,0,16.8,72.4,18.5,77.0,True,16,4.0,3.0,1.0
+James Maddison,MID,Leicester,Everton,90,0,0,2,0,15,0,0,0,0,0,0,9.1,17.6,62.1,11.0,True,2,4.0,3.0,1.0
+James Maddison,MID,Leicester,Spurs,90,0,0,0,1,9,0,0,0,0,0,0,10.1,15.8,63.8,21.0,False,3,4.0,4.0,0.0
+James Maddison,MID,Leicester,Man Utd,90,0,1,2,0,15,1,0,0,0,0,0,6.9,22.8,38.1,8.0,True,4,4.0,4.0,0.0
+James Maddison,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Maddison,MID,Leicester,Newcastle,78,1,0,0,1,27,0,0,0,0,0,0,9.5,36.6,37.3,21.0,False,10,4.0,2.0,2.0
+James Maddison,MID,Leicester,Southampton,76,1,0,0,1,25,0,0,0,0,0,0,9.4,36.8,36.7,20.0,True,9,4.0,2.0,2.0
+James Maddison,MID,Leicester,Chelsea,75,1,0,0,1,23,0,0,0,0,0,0,7.4,38.8,15.6,20.0,True,8,4.0,4.0,0.0
+James Maddison,MID,Leicester,Everton,90,0,0,1,0,12,0,0,0,0,0,0,9.2,18.6,17.8,56.0,False,2,4.0,3.0,1.0
+James Maddison,MID,Leicester,Leeds,90,0,1,3,0,14,0,0,0,0,0,0,6.5,19.2,32.9,13.0,True,5,4.0,3.0,1.0
+James Maddison,MID,Leicester,Fulham,90,0,2,0,1,36,0,0,0,0,0,0,11.3,48.8,51.6,13.0,False,11,4.0,2.0,2.0
+James Maddison,MID,Leicester,Wolves,90,0,0,0,1,4,1,0,0,0,0,0,10.2,13.8,19.3,69.0,False,2,4.0,3.0,1.0
+James Maddison,MID,Leicester,Liverpool,90,1,0,1,0,32,0,0,0,0,0,0,8.8,42.4,24.6,21.0,True,8,4.0,3.0,1.0
+James Maddison,MID,Leicester,Aston Villa,63,1,0,1,0,30,0,0,0,0,0,0,8.9,40.2,6.6,42.0,False,9,4.0,3.0,1.0
+James Maddison,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+James Maddison,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+James Maddison,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+James Maddison,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+James Maddison,MID,Leicester,Man City,18,0,0,1,0,2,0,0,0,0,0,0,2.2,2.2,1.4,18.0,True,1,4.0,5.0,-1.0
+James Maddison,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+James Maddison,MID,Leicester,West Brom,71,0,0,0,1,16,0,0,0,0,0,0,7.9,13.8,49.6,16.0,True,3,4.0,2.0,2.0
+James Maddison,MID,Leicester,Crystal Palace,69,0,0,1,0,11,0,0,0,0,0,0,4.1,3.8,16.2,21.0,True,2,4.0,3.0,1.0
+James Maddison,MID,Leicester,Southampton,90,0,0,1,0,11,0,0,0,0,0,0,8.3,13.6,31.3,38.0,False,2,4.0,2.0,2.0
+James Maddison,MID,Leicester,Newcastle,76,0,0,4,0,19,0,0,0,0,0,0,10.0,12.8,28.7,58.0,True,2,4.0,2.0,2.0
+James Maddison,MID,Leicester,Man Utd,25,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,1.0,1.0,False,1,4.0,4.0,0.0
+James Maddison,MID,Leicester,Chelsea,59,0,0,1,0,3,0,0,0,0,0,0,0.3,1.2,2.1,0.0,False,1,4.0,4.0,0.0
+James Maddison,MID,Leicester,Spurs,61,0,0,1,0,9,0,0,0,0,0,0,1.8,7.4,2.7,8.0,True,2,4.0,4.0,0.0

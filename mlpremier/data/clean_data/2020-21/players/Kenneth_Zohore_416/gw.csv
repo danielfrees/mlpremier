@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Kenneth Zohore,FWD,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kenneth Zohore,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kenneth Zohore,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kenneth Zohore,FWD,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Kenneth Zohore,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Kenneth Zohore,FWD,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kenneth Zohore,FWD,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kenneth Zohore,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kenneth Zohore,FWD,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0

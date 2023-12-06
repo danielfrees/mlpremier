@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Sébastien Haller,FWD,West Ham,Newcastle,23,0,0,1,0,2,0,0,0,0,0,0,4.1,2.4,10.7,28.0,True,1
-Sébastien Haller,FWD,West Ham,Arsenal,2,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Sébastien Haller,FWD,West Ham,Wolves,2,1,0,0,0,27,0,0,0,0,0,0,5.0,33.0,0.3,17.0,True,5
-Sébastien Haller,FWD,West Ham,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Sébastien Haller,FWD,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Man City,21,0,0,0,0,2,0,0,0,0,0,0,0.4,1.4,0.1,2.0,True,1
-Sébastien Haller,FWD,West Ham,Liverpool,73,0,0,1,0,5,0,0,0,0,0,0,0.5,3.4,1.5,0.0,False,2
-Sébastien Haller,FWD,West Ham,Fulham,90,0,0,0,1,4,0,0,0,0,0,0,5.0,8.2,11.8,30.0,True,2
-Sébastien Haller,FWD,West Ham,Sheffield Utd,90,1,0,0,1,36,0,0,0,0,0,0,15.5,46.6,33.2,75.0,False,9
-Sébastien Haller,FWD,West Ham,Aston Villa,45,0,0,0,0,2,0,0,0,0,0,0,0.2,0.4,1.2,0.0,True,1
-Sébastien Haller,FWD,West Ham,Man Utd,90,0,0,3,0,6,0,0,0,0,0,0,8.0,10.2,35.6,34.0,True,2
-Sébastien Haller,FWD,West Ham,Leeds,90,0,0,1,0,-1,0,0,0,0,0,0,11.5,18.4,2.8,94.0,False,2
-Sébastien Haller,FWD,West Ham,Crystal Palace,90,1,0,1,0,31,0,0,0,0,0,0,6.9,35.4,4.1,29.0,True,7
-Sébastien Haller,FWD,West Ham,Chelsea,90,0,0,3,0,-4,0,0,0,0,0,0,1.4,1.2,1.2,12.0,False,2
-Sébastien Haller,FWD,West Ham,Brighton,90,0,0,2,0,2,0,0,0,0,0,0,3.7,5.4,12.5,19.0,True,2
-Sébastien Haller,FWD,West Ham,Southampton,76,0,0,0,1,0,0,0,0,0,0,0,2.1,3.6,11.7,6.0,False,2
-Sébastien Haller,FWD,West Ham,Everton,58,0,0,0,0,-3,0,0,0,0,0,0,1.9,0.0,4.3,15.0,False,1
-Sébastien Haller,FWD,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Sébastien Haller,FWD,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Sébastien Haller,FWD,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Sébastien Haller,FWD,West Ham,Newcastle,23,0,0,1,0,2,0,0,0,0,0,0,4.1,2.4,10.7,28.0,True,1,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Arsenal,2,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Wolves,2,1,0,0,0,27,0,0,0,0,0,0,5.0,33.0,0.3,17.0,True,5,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Leicester,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Man City,21,0,0,0,0,2,0,0,0,0,0,0,0.4,1.4,0.1,2.0,True,1,4.0,5.0,-1.0
+Sébastien Haller,FWD,West Ham,Liverpool,73,0,0,1,0,5,0,0,0,0,0,0,0.5,3.4,1.5,0.0,False,2,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Fulham,90,0,0,0,1,4,0,0,0,0,0,0,5.0,8.2,11.8,30.0,True,2,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Sheffield Utd,90,1,0,0,1,36,0,0,0,0,0,0,15.5,46.6,33.2,75.0,False,9,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Aston Villa,45,0,0,0,0,2,0,0,0,0,0,0,0.2,0.4,1.2,0.0,True,1,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Man Utd,90,0,0,3,0,6,0,0,0,0,0,0,8.0,10.2,35.6,34.0,True,2,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Leeds,90,0,0,1,0,-1,0,0,0,0,0,0,11.5,18.4,2.8,94.0,False,2,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Crystal Palace,90,1,0,1,0,31,0,0,0,0,0,0,6.9,35.4,4.1,29.0,True,7,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Chelsea,90,0,0,3,0,-4,0,0,0,0,0,0,1.4,1.2,1.2,12.0,False,2,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Brighton,90,0,0,2,0,2,0,0,0,0,0,0,3.7,5.4,12.5,19.0,True,2,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Southampton,76,0,0,0,1,0,0,0,0,0,0,0,2.1,3.6,11.7,6.0,False,2,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Everton,58,0,0,0,0,-3,0,0,0,0,0,0,1.9,0.0,4.3,15.0,False,1,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Sébastien Haller,FWD,West Ham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Sébastien Haller,FWD,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Sébastien Haller,FWD,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Sébastien Haller,FWD,West Ham,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

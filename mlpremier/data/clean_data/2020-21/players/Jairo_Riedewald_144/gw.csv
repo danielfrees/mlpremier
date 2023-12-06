@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Jairo Riedewald,MID,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jairo Riedewald,MID,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jairo Riedewald,MID,Crystal Palace,Everton,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Chelsea,18,0,0,2,0,3,0,0,0,0,0,0,0.1,1.0,0.4,0.0,False,1
-Jairo Riedewald,MID,Crystal Palace,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,2.0,18.0,1.5,0.0,True,2
-Jairo Riedewald,MID,Crystal Palace,Fulham,84,1,0,0,1,28,0,0,0,0,0,0,7.4,43.4,13.3,17.0,False,9
-Jairo Riedewald,MID,Crystal Palace,Wolves,90,0,0,2,0,14,0,0,0,0,0,0,3.8,23.2,14.4,0.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Leeds,76,0,0,1,0,6,0,0,0,0,0,0,1.1,9.6,1.2,0.0,True,2
-Jairo Riedewald,MID,Crystal Palace,Burnley,66,0,0,1,0,9,0,0,0,0,0,0,6.3,10.6,32.3,20.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Newcastle,23,0,0,2,0,3,0,0,0,0,0,0,0.6,5.0,0.8,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,West Brom,17,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.8,0.0,False,1
-Jairo Riedewald,MID,Crystal Palace,Spurs,17,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jairo Riedewald,MID,Crystal Palace,Liverpool,15,0,0,2,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Aston Villa,21,0,0,1,0,3,0,0,0,0,0,0,1.8,1.0,11.0,6.0,False,1
-Jairo Riedewald,MID,Crystal Palace,Leicester,73,0,0,0,1,12,0,0,0,0,0,0,1.2,11.2,0.4,0.0,True,3
-Jairo Riedewald,MID,Crystal Palace,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jairo Riedewald,MID,Crystal Palace,Man City,22,0,0,1,0,4,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,1
-Jairo Riedewald,MID,Crystal Palace,West Ham,17,0,0,0,0,4,0,0,0,0,0,0,0.6,4.4,1.8,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Wolves,45,0,0,0,0,6,0,0,0,0,0,0,0.6,4.8,1.3,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Newcastle,90,1,0,1,0,35,0,0,0,0,0,0,6.6,43.2,13.5,9.0,False,10
-Jairo Riedewald,MID,Crystal Palace,Leeds,90,0,0,2,0,9,0,0,0,0,0,0,2.7,10.2,14.8,2.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Burnley,90,0,0,3,0,17,0,0,0,0,0,0,2.5,9.2,3.5,12.0,True,2
-Jairo Riedewald,MID,Crystal Palace,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.4,13.6,0.3,0.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Fulham,90,0,0,0,1,8,0,0,0,0,0,0,1.5,12.0,1.3,2.0,True,3
-Jairo Riedewald,MID,Crystal Palace,Man Utd,28,0,0,0,0,1,1,0,0,0,0,0,0.2,0.4,1.5,0.0,True,0
-Jairo Riedewald,MID,Crystal Palace,Spurs,90,0,0,4,0,7,1,0,0,0,0,0,0.7,3.6,2.5,1.0,False,1
-Jairo Riedewald,MID,Crystal Palace,West Brom,90,0,0,0,1,6,0,0,0,0,0,0,1.1,9.4,1.8,0.0,True,3
-Jairo Riedewald,MID,Crystal Palace,Everton,67,0,0,1,0,12,0,0,0,0,0,0,1.5,3.6,11.2,0.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Chelsea,58,0,0,3,0,3,0,0,0,0,0,0,0.5,3.8,1.2,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Leicester,84,0,0,2,0,3,1,0,0,0,0,0,0.7,2.4,2.1,2.0,False,1
-Jairo Riedewald,MID,Crystal Palace,Man City,59,0,0,2,0,4,0,0,0,0,0,0,2.7,5.8,12.3,9.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Sheffield Utd,19,0,0,0,0,4,0,0,0,0,0,0,1.2,4.0,1.8,6.0,False,1
-Jairo Riedewald,MID,Crystal Palace,Southampton,90,0,0,3,0,6,0,0,0,0,0,0,1.2,10.4,1.4,0.0,False,2
-Jairo Riedewald,MID,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jairo Riedewald,MID,Crystal Palace,Arsenal,8,0,0,2,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,True,1
-Jairo Riedewald,MID,Crystal Palace,Liverpool,90,0,0,2,0,5,1,0,0,0,0,0,1.8,4.8,11.3,2.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jairo Riedewald,MID,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Everton,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,1,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Chelsea,18,0,0,2,0,3,0,0,0,0,0,0,0.1,1.0,0.4,0.0,False,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Brighton,90,0,0,1,0,11,0,0,0,0,0,0,2.0,18.0,1.5,0.0,True,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Fulham,84,1,0,0,1,28,0,0,0,0,0,0,7.4,43.4,13.3,17.0,False,9,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Wolves,90,0,0,2,0,14,0,0,0,0,0,0,3.8,23.2,14.4,0.0,False,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Leeds,76,0,0,1,0,6,0,0,0,0,0,0,1.1,9.6,1.2,0.0,True,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Burnley,66,0,0,1,0,9,0,0,0,0,0,0,6.3,10.6,32.3,20.0,False,2,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Newcastle,23,0,0,2,0,3,0,0,0,0,0,0,0.6,5.0,0.8,0.0,True,1,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,West Brom,17,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.8,0.0,False,1,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Spurs,17,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Liverpool,15,0,0,2,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Aston Villa,21,0,0,1,0,3,0,0,0,0,0,0,1.8,1.0,11.0,6.0,False,1,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Leicester,73,0,0,0,1,12,0,0,0,0,0,0,1.2,11.2,0.4,0.0,True,3,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Man City,22,0,0,1,0,4,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,1,3.0,5.0,-2.0
+Jairo Riedewald,MID,Crystal Palace,West Ham,17,0,0,0,0,4,0,0,0,0,0,0,0.6,4.4,1.8,0.0,True,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Wolves,45,0,0,0,0,6,0,0,0,0,0,0,0.6,4.8,1.3,0.0,True,1,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Newcastle,90,1,0,1,0,35,0,0,0,0,0,0,6.6,43.2,13.5,9.0,False,10,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Leeds,90,0,0,2,0,9,0,0,0,0,0,0,2.7,10.2,14.8,2.0,False,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Burnley,90,0,0,3,0,17,0,0,0,0,0,0,2.5,9.2,3.5,12.0,True,2,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.4,13.6,0.3,0.0,False,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Fulham,90,0,0,0,1,8,0,0,0,0,0,0,1.5,12.0,1.3,2.0,True,3,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Man Utd,28,0,0,0,0,1,1,0,0,0,0,0,0.2,0.4,1.5,0.0,True,0,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Spurs,90,0,0,4,0,7,1,0,0,0,0,0,0.7,3.6,2.5,1.0,False,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,West Brom,90,0,0,0,1,6,0,0,0,0,0,0,1.1,9.4,1.8,0.0,True,3,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Everton,67,0,0,1,0,12,0,0,0,0,0,0,1.5,3.6,11.2,0.0,False,2,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Chelsea,58,0,0,3,0,3,0,0,0,0,0,0,0.5,3.8,1.2,0.0,True,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Leicester,84,0,0,2,0,3,1,0,0,0,0,0,0.7,2.4,2.1,2.0,False,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Man City,59,0,0,2,0,4,0,0,0,0,0,0,2.7,5.8,12.3,9.0,True,1,3.0,5.0,-2.0
+Jairo Riedewald,MID,Crystal Palace,Sheffield Utd,19,0,0,0,0,4,0,0,0,0,0,0,1.2,4.0,1.8,6.0,False,1,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Southampton,90,0,0,3,0,6,0,0,0,0,0,0,1.2,10.4,1.4,0.0,False,2,3.0,2.0,1.0
+Jairo Riedewald,MID,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jairo Riedewald,MID,Crystal Palace,Arsenal,8,0,0,2,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,True,1,3.0,4.0,-1.0
+Jairo Riedewald,MID,Crystal Palace,Liverpool,90,0,0,2,0,5,1,0,0,0,0,0,1.8,4.8,11.3,2.0,False,1,3.0,3.0,0.0

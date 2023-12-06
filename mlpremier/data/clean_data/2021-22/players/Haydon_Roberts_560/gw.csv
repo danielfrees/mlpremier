@@ -1,38 +1,38 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Haydon Roberts,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Haydon Roberts,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Haydon Roberts,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Haydon Roberts,DEF,Brighton,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Haydon Roberts,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Haydon Roberts,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Haydon Roberts,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Haydon Roberts,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Haydon Roberts,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Haydon Roberts,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Haydon Roberts,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0

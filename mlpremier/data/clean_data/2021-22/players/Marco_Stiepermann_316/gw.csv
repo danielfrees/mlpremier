@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Marco Stiepermann,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Marco Stiepermann,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Marco Stiepermann,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Marco Stiepermann,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Marco Stiepermann,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Marco Stiepermann,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Marco Stiepermann,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Marco Stiepermann,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Marco Stiepermann,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Marco Stiepermann,MID,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Marco Stiepermann,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Jack Stephens,DEF,Southampton,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,3.7,18.4,1.1,17.0,False,2
-Jack Stephens,DEF,Southampton,Spurs,90,0,0,5,0,11,1,0,0,0,0,0,1.1,10.4,0.8,0.0,True,-1
-Jack Stephens,DEF,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Aston Villa,45,0,0,3,0,10,0,0,0,0,0,0,1.2,11.6,0.1,0.0,False,0
-Jack Stephens,DEF,Southampton,Newcastle,90,0,0,0,1,29,0,0,0,0,0,0,4.2,13.0,24.8,4.0,True,7
-Jack Stephens,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Fulham,90,0,0,0,1,22,0,0,0,0,0,0,2.5,20.2,0.4,4.0,False,6
-Jack Stephens,DEF,Southampton,West Ham,90,0,0,0,1,30,0,0,0,0,0,0,4.8,36.0,11.8,0.0,True,9
-Jack Stephens,DEF,Southampton,Liverpool,90,0,0,0,1,34,0,0,0,0,0,0,5.6,45.6,10.0,0.0,True,8
-Jack Stephens,DEF,Southampton,Leicester,90,0,0,2,0,14,0,0,0,0,0,0,2.3,20.4,0.3,2.0,False,1
-Jack Stephens,DEF,Southampton,Arsenal,90,0,0,3,0,18,0,0,0,0,0,0,2.2,21.0,1.0,0.0,True,1
-Jack Stephens,DEF,Southampton,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,3.3,12.2,0.8,20.0,True,2
-Jack Stephens,DEF,Southampton,Man Utd,90,0,0,9,0,9,1,0,0,0,0,0,2.7,27.4,0.0,0.0,False,-3
-Jack Stephens,DEF,Southampton,Newcastle,80,0,0,3,0,13,0,0,0,0,0,0,1.4,11.6,2.6,0.0,False,1
-Jack Stephens,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Man City,62,0,0,5,0,8,0,0,0,0,0,0,1.1,3.4,3.6,4.0,False,0
-Jack Stephens,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jack Stephens,DEF,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jack Stephens,DEF,Southampton,Leicester,90,0,0,1,0,10,0,0,0,0,0,0,2.8,26.8,0.9,0.0,True,2
-Jack Stephens,DEF,Southampton,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,1.6,12.8,1.6,2.0,False,1
-Jack Stephens,DEF,Southampton,Crystal Palace,90,0,0,1,0,11,0,0,0,0,0,0,3.5,14.6,2.0,18.0,True,2
-Jack Stephens,DEF,Southampton,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,2.1,19.8,1.5,0.0,True,2
-Jack Stephens,DEF,Southampton,Leeds,90,0,0,2,0,17,0,0,0,0,0,0,8.1,25.8,22.3,33.0,True,1
-Jack Stephens,DEF,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jack Stephens,DEF,Southampton,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,3.7,18.4,1.1,17.0,False,2,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Spurs,90,0,0,5,0,11,1,0,0,0,0,0,1.1,10.4,0.8,0.0,True,-1,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Aston Villa,45,0,0,3,0,10,0,0,0,0,0,0,1.2,11.6,0.1,0.0,False,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Newcastle,90,0,0,0,1,29,0,0,0,0,0,0,4.2,13.0,24.8,4.0,True,7,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Jack Stephens,DEF,Southampton,Fulham,90,0,0,0,1,22,0,0,0,0,0,0,2.5,20.2,0.4,4.0,False,6,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,West Ham,90,0,0,0,1,30,0,0,0,0,0,0,4.8,36.0,11.8,0.0,True,9,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Liverpool,90,0,0,0,1,34,0,0,0,0,0,0,5.6,45.6,10.0,0.0,True,8,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Leicester,90,0,0,2,0,14,0,0,0,0,0,0,2.3,20.4,0.3,2.0,False,1,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Arsenal,90,0,0,3,0,18,0,0,0,0,0,0,2.2,21.0,1.0,0.0,True,1,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,3.3,12.2,0.8,20.0,True,2,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Man Utd,90,0,0,9,0,9,1,0,0,0,0,0,2.7,27.4,0.0,0.0,False,-3,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Newcastle,80,0,0,3,0,13,0,0,0,0,0,0,1.4,11.6,2.6,0.0,False,1,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Man City,62,0,0,5,0,8,0,0,0,0,0,0,1.1,3.4,3.6,4.0,False,0,2.0,5.0,-3.0
+Jack Stephens,DEF,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Leicester,90,0,0,1,0,10,0,0,0,0,0,0,2.8,26.8,0.9,0.0,True,2,2.0,4.0,-2.0
+Jack Stephens,DEF,Southampton,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,1.6,12.8,1.6,2.0,False,1,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Crystal Palace,90,0,0,1,0,11,0,0,0,0,0,0,3.5,14.6,2.0,18.0,True,2,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,2.1,19.8,1.5,0.0,True,2,2.0,2.0,0.0
+Jack Stephens,DEF,Southampton,Leeds,90,0,0,2,0,17,0,0,0,0,0,0,8.1,25.8,22.3,33.0,True,1,2.0,3.0,-1.0
+Jack Stephens,DEF,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

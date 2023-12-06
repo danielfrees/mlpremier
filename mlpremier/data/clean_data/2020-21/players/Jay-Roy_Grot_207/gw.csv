@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Jay-Roy Grot,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jay-Roy Grot,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jay-Roy Grot,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jay-Roy Grot,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Jay-Roy Grot,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Jay-Roy Grot,MID,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Jay-Roy Grot,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jay-Roy Grot,MID,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jay-Roy Grot,MID,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0

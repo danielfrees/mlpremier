@@ -1,1 +1,4 @@
 v4 + more hyperparameter options enabled
+
++ went back to v4 after determining that v5 with nonlinearity introduced by 2 dense units performed worse
+

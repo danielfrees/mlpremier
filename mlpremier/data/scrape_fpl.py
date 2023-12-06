@@ -220,6 +220,7 @@ def get_master_team_list(github_token: str,
 
     return
 
+
 def main():
     """
     Scrape, Clean, Store the requested FPL Data.
@@ -235,6 +236,11 @@ def main():
     dotenv_path = os.path.join(os.getcwd(), '.env')
     load_dotenv(dotenv_path)
 
+    FPL_REPO = os.path.join("vaastav", "Fantasy-Premier-League")
+    RETRIEVE = 'players'
+    GH_KEY = os.getenv('GITHUB_TOKEN', None)
+    assert GH_KEY is not None, "Github Key for Public Repo Access must be stored in .env"
+
     # Access the value of the 'season' option
     if args.season:
         seasons = args.season.split(',')
@@ -242,10 +248,6 @@ def main():
 
         for season in seasons:
             print(f"\n======= Downloading data for season: {season} =========")
-            FPL_REPO = os.path.join("vaastav", "Fantasy-Premier-League")
-            RETRIEVE = 'players'
-            GH_KEY = os.getenv('GITHUB_TOKEN', None)
-            assert GH_KEY is not None, "Github Key for Public Repo Access must be stored in .env"
 
             print("\n====== Identifying FPL Data to Download =====")
             csv_urls = identify_fpl_data(GH_KEY, FPL_REPO, season, RETRIEVE, verbose=True)

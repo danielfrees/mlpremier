@@ -1,0 +1,21 @@
+Using Best Architecture: v4
+
+More options for kernel size, num filters, and num dense. Options for both dropping 
+low playtime players, and not doing so 
+    -> Get the best model for FPL data as a whole by selecting low val MSE and report test MSE
+    -> Get best model for 'valuable' FPL data (excludingt benchwarmers)
+
+model = tf.keras.models.Sequential([
+        tf.keras.Input(shape=input_shape),
+        tf.keras.layers.Conv1D(filters=num_filters,
+                               kernel_size=kernel_size,
+                               activation=conv_activation,
+                               kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                             l2=regularization)),
+        tf.keras.layers.Flatten(),
+        tf.keras.layers.Dense(units=num_dense,
+                              activation=dense_activation, 
+                              kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
+                                                                             l2=regularization)),                                                                    
+        tf.keras.layers.Dense(units=1,activation='linear'),
+    ])

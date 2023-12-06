@@ -1,36 +1,36 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Newcastle,90,2,0,1,0,57,0,0,0,0,0,0,17.8,67.2,20.6,90.0,True,13
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Ham,90,1,0,1,0,22,0,0,0,0,0,0,18.7,45.0,7.1,135.0,False,6
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Aston Villa,90,0,0,1,0,7,0,0,0,0,0,0,5.8,4.0,13.0,41.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Fulham,33,0,0,1,0,2,0,0,0,0,0,0,2.2,1.4,12.6,8.0,True,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leicester,90,0,0,4,0,8,0,0,0,0,0,0,5.6,4.2,15.2,37.0,False,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Liverpool,90,0,0,5,0,-4,1,0,0,0,0,0,5.9,2.0,12.0,45.0,True,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Spurs,70,1,1,0,1,46,0,0,0,0,0,0,12.0,53.8,29.0,37.0,False,12
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Man City,90,0,0,2,0,0,1,0,0,0,0,0,2.9,8.8,2.7,17.0,True,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Brom,90,0,1,4,0,12,0,0,0,0,0,0,9.7,21.2,22.3,53.0,False,5
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Crystal Palace,26,0,0,1,0,-2,1,0,0,0,0,0,0.3,0.4,0.9,2.0,False,0
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Arsenal,87,2,0,2,0,53,0,0,0,0,0,0,14.9,71.0,2.9,75.0,True,13
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Everton,90,0,0,0,1,9,0,0,0,0,0,0,11.2,9.6,20.8,82.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Sheffield Utd,90,1,0,0,1,31,0,0,0,0,0,0,9.1,39.0,4.4,48.0,False,9
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Newcastle,90,0,0,1,0,1,1,0,0,0,0,0,4.2,0.0,5.2,37.0,False,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Chelsea,90,1,1,1,0,36,0,0,0,0,0,0,14.7,46.2,22.7,78.0,True,12
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,4.1,10.0,16.3,15.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brighton,70,0,0,0,1,5,0,0,0,0,0,0,5.4,3.0,3.7,47.0,False,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,8.4,12.4,28.4,43.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Chelsea,22,0,0,0,0,1,0,0,0,0,0,0,2.3,0.0,0.8,26.0,False,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Southampton,90,0,0,1,0,4,0,0,0,0,0,0,7.2,12.0,13.1,47.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Burnley,90,1,0,0,1,35,0,0,0,0,0,0,14.9,43.6,34.6,71.0,True,8
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leeds,84,0,0,2,0,-2,1,0,0,0,0,0,7.2,6.2,12.3,53.0,False,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Brom,90,0,0,0,1,-2,0,0,0,0,0,0,9.6,9.6,25.2,61.0,True,2
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Spurs,82,3,0,2,0,85,0,0,0,0,0,0,21.3,103.6,6.3,103.0,True,17
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Fulham,90,0,0,1,0,6,1,0,0,0,0,0,6.2,5.8,14.8,41.0,False,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Sheffield Utd,90,3,0,2,0,85,0,0,0,0,0,0,21.8,102.4,18.6,97.0,True,17
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Arsenal,90,1,0,3,0,31,1,0,0,0,0,0,10.5,36.0,24.2,45.0,False,7
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Crystal Palace,90,1,0,1,0,32,0,0,0,0,0,0,7.7,37.2,4.8,35.0,True,9
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brighton,90,1,0,0,1,36,0,0,0,0,0,0,10.0,44.8,21.6,34.0,True,7
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Burnley,90,0,0,4,0,-1,1,0,0,0,0,0,3.0,0.0,5.8,32.0,False,1
-Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Newcastle,90,2,0,1,0,57,0,0,0,0,0,0,17.8,67.2,20.6,90.0,True,13,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Ham,90,1,0,1,0,22,0,0,0,0,0,0,18.7,45.0,7.1,135.0,False,6,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Aston Villa,90,0,0,1,0,7,0,0,0,0,0,0,5.8,4.0,13.0,41.0,True,2,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Everton,33,0,0,1,0,2,0,0,0,0,0,0,2.2,1.4,12.6,8.0,True,1,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leicester,90,0,0,4,0,8,0,0,0,0,0,0,5.6,4.2,15.2,37.0,False,2,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Liverpool,90,0,0,5,0,-4,1,0,0,0,0,0,5.9,2.0,12.0,45.0,True,1,4.0,5.0,-1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Spurs,70,1,1,0,1,46,0,0,0,0,0,0,12.0,53.8,29.0,37.0,False,12,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Man City,90,0,0,2,0,0,1,0,0,0,0,0,2.9,8.8,2.7,17.0,True,1,4.0,5.0,-1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Watford,90,0,1,4,0,12,0,0,0,0,0,0,9.7,21.2,22.3,53.0,False,5,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Chelsea,26,0,0,1,0,-2,1,0,0,0,0,0,0.3,0.4,0.9,2.0,False,0,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Arsenal,87,2,0,2,0,53,0,0,0,0,0,0,14.9,71.0,2.9,75.0,True,13,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Crystal Palace,90,0,0,0,1,9,0,0,0,0,0,0,11.2,9.6,20.8,82.0,True,2,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Norwich,90,1,0,0,1,31,0,0,0,0,0,0,9.1,39.0,4.4,48.0,False,9,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Newcastle,90,0,0,1,0,1,1,0,0,0,0,0,4.2,0.0,5.2,37.0,False,1,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Burnley,90,1,1,1,0,36,0,0,0,0,0,0,14.7,46.2,22.7,78.0,True,12,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,4.1,10.0,16.3,15.0,True,2,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brentford,70,0,0,0,1,5,0,0,0,0,0,0,5.4,3.0,3.7,47.0,False,2,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,8.4,12.4,28.4,43.0,True,2,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Burnley,22,0,0,0,0,1,0,0,0,0,0,0,2.3,0.0,0.8,26.0,False,1,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Southampton,90,0,0,1,0,4,0,0,0,0,0,0,7.2,12.0,13.1,47.0,True,2,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brighton,90,1,0,0,1,35,0,0,0,0,0,0,14.9,43.6,34.6,71.0,True,8,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leeds,84,0,0,2,0,-2,1,0,0,0,0,0,7.2,6.2,12.3,53.0,False,1,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Watford,90,0,0,0,1,-2,0,0,0,0,0,0,9.6,9.6,25.2,61.0,True,2,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Spurs,82,3,0,2,0,85,0,0,0,0,0,0,21.3,103.6,6.3,103.0,True,17,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Everton,90,0,0,1,0,6,1,0,0,0,0,0,6.2,5.8,14.8,41.0,False,1,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Norwich,90,3,0,2,0,85,0,0,0,0,0,0,21.8,102.4,18.6,97.0,True,17,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Arsenal,90,1,0,3,0,31,1,0,0,0,0,0,10.5,36.0,24.2,45.0,False,7,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Chelsea,90,1,0,1,0,32,0,0,0,0,0,0,7.7,37.2,4.8,35.0,True,9,4.0,4.0,0.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brentford,90,1,0,0,1,36,0,0,0,0,0,0,10.0,44.8,21.6,34.0,True,7,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Brighton,90,0,0,4,0,-1,1,0,0,0,0,0,3.0,0.0,5.8,32.0,False,1,4.0,2.0,2.0
+Cristiano Ronaldo dos Santos Aveiro,FWD,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0

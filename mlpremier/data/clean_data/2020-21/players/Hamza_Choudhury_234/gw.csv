@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,True,1
-Hamza Choudhury,MID,Leicester,Aston Villa,12,0,0,1,0,5,0,0,0,0,0,0,0.4,2.8,0.8,0.0,True,1
-Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Crystal Palace,56,0,0,0,0,1,1,0,0,0,0,0,0.5,1.0,1.9,2.0,False,0
-Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Fulham,60,0,0,0,1,9,0,0,0,0,0,0,0.4,0.6,2.8,1.0,False,3
-Hamza Choudhury,MID,Leicester,Wolves,90,0,0,0,1,23,0,0,0,0,0,0,2.7,23.2,4.0,0.0,False,3
-Hamza Choudhury,MID,Leicester,Liverpool,3,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1
-Hamza Choudhury,MID,Leicester,Aston Villa,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Burnley,76,0,0,1,0,6,0,0,0,0,0,0,3.3,4.0,3.0,26.0,False,2
-Hamza Choudhury,MID,Leicester,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Hamza Choudhury,MID,Leicester,Man Utd,10,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.2,0.0,False,1
-Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Hamza Choudhury,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Hamza Choudhury,MID,Leicester,West Ham,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,True,1,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Aston Villa,12,0,0,1,0,5,0,0,0,0,0,0,0.4,2.8,0.8,0.0,True,1,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Crystal Palace,56,0,0,0,0,1,1,0,0,0,0,0,0.5,1.0,1.9,2.0,False,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Fulham,60,0,0,0,1,9,0,0,0,0,0,0,0.4,0.6,2.8,1.0,False,3,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Wolves,90,0,0,0,1,23,0,0,0,0,0,0,2.7,23.2,4.0,0.0,False,3,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Liverpool,3,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,1,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Aston Villa,2,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Burnley,76,0,0,1,0,6,0,0,0,0,0,0,3.3,4.0,3.0,26.0,False,2,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Hamza Choudhury,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Hamza Choudhury,MID,Leicester,Man Utd,10,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.2,0.0,False,1,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Hamza Choudhury,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

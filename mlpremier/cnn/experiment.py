@@ -15,6 +15,7 @@ from mlpremier.cnn.model import build_train_cnn
 from mlpremier.cnn.evaluate import eval_cnn, log_evals
 import tensorflow as tf
 import itertools
+from tqdm import tqdm
 
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
@@ -38,12 +39,12 @@ def gridsearch_cnn(epochs: int = 200,
     SEASONS = [['2020-21', '2021-22']]
     POSITIONS = ['GK', 'DEF', 'MID', 'FWD']
     WINDOW_SIZES = [3, 6, 9]
-    KERNEL_SIZES = [1, 2, 3]
-    NUM_FILTERS = [64, 128]
-    NUM_DENSE = [64, 128]
+    KERNEL_SIZES = [1, 2, 3, 4]
+    NUM_FILTERS = [64, 128, 256]
+    NUM_DENSE = [64, 128, 256]
     CONV_ACTIVATION = 'relu'
     DENSE_ACTIVATION = 'relu'
-    DROP_LOW_PLAYTIME = True
+    DROP_LOW_PLAYTIME = [False, True]
     LOW_PLAYTIME_CUTOFF = [15]
     AMT_NUM_FEATURES = ['ptsonly','small', 'medium', 'large'] #,'medium','large']
     NUM_FEATURES_DICT = {
@@ -82,12 +83,17 @@ def gridsearch_cnn(epochs: int = 200,
     # Loop through all combinations of parameters
     expt_results = []
 
+    total_iterations = (
+        len(SEASONS) * len(POSITIONS) * len(WINDOW_SIZES) * len(KERNEL_SIZES) *
+        len(NUM_FILTERS) * len(NUM_DENSE) * len(LOW_PLAYTIME_CUTOFF) *
+        len(AMT_NUM_FEATURES) * len(OPTIMIZERS) * len(REGULARIZATIONS))
+
     for (season, position, window_size, kernel_size, num_filters, num_dense,
         low_playtime_cutoff, amt_num_feature, 
-        optimizer, regularization) in itertools.product(
-        *SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
+        optimizer, regularization) in tqdm(itertools.product(
+        SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
         LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
-        OPTIMIZERS, REGULARIZATIONS):
+        OPTIMIZERS, REGULARIZATIONS), total=total_iterations):
 
         if kernel_size >= window_size:  #skip invalid configurations of kernel size
             continue
@@ -137,6 +143,7 @@ def gridsearch_cnn(epochs: int = 200,
                                         plot=False,
                                         standardize=STANDARDIZE)
         
+        expt_res['amt_num_features'] = amt_num_feature
         expt_results.append(expt_res)
 
     if verbose:

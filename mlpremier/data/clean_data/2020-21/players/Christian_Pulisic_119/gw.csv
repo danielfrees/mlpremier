@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Christian Pulisic,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Pulisic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Crystal Palace,7,0,0,0,0,7,0,0,0,0,0,0,0.6,5.4,0.3,0.0,True,1
-Christian Pulisic,MID,Chelsea,Southampton,86,0,0,2,0,6,0,0,0,0,0,0,5.3,12.4,12.2,28.0,True,2
-Christian Pulisic,MID,Chelsea,Man Utd,80,0,0,0,1,7,0,0,0,0,0,0,5.4,8.6,1.6,44.0,False,3
-Christian Pulisic,MID,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Pulisic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Spurs,16,0,0,0,0,3,0,0,0,0,0,0,0.5,0.2,0.8,4.0,True,1
-Christian Pulisic,MID,Chelsea,Leeds,60,1,0,0,1,24,0,0,0,0,0,0,12.8,40.4,2.9,85.0,True,8
-Christian Pulisic,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Wolves,90,0,0,2,0,12,0,0,0,0,0,0,4.3,11.2,19.6,12.0,False,2
-Christian Pulisic,MID,Chelsea,West Ham,83,0,1,0,1,12,0,0,0,0,0,0,7.7,9.4,26.6,41.0,True,6
-Christian Pulisic,MID,Chelsea,Arsenal,90,0,0,3,0,14,0,0,0,0,0,0,9.3,18.2,43.9,31.0,False,2
-Christian Pulisic,MID,Chelsea,Aston Villa,90,0,0,1,0,-4,0,0,0,0,0,0,6.2,0.6,5.8,56.0,True,2
-Christian Pulisic,MID,Chelsea,Man City,90,0,0,3,0,13,1,0,0,0,0,0,3.8,14.2,14.0,10.0,True,1
-Christian Pulisic,MID,Chelsea,Fulham,90,0,0,0,1,15,0,0,0,0,0,0,4.4,9.0,28.4,7.0,False,3
-Christian Pulisic,MID,Chelsea,Leicester,90,0,0,2,0,2,0,0,0,0,0,0,2.6,7.2,13.2,6.0,False,2
-Christian Pulisic,MID,Chelsea,Wolves,14,0,0,0,0,3,0,0,0,0,0,0,0.6,0.4,1.7,4.0,True,1
-Christian Pulisic,MID,Chelsea,Burnley,45,0,1,0,0,8,0,0,0,0,0,0,7.9,19.2,13.1,47.0,True,4
-Christian Pulisic,MID,Chelsea,Spurs,25,0,0,0,0,-2,1,0,0,0,0,0,0.4,0.0,2.0,3.0,False,0
-Christian Pulisic,MID,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Pulisic,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Christian Pulisic,MID,Chelsea,Man Utd,25,0,0,0,0,-1,0,0,0,0,0,0,0.2,0.0,4.2,1.0,True,1
-Christian Pulisic,MID,Chelsea,Liverpool,24,0,0,0,0,4,0,0,0,0,0,0,0.2,1.4,0.3,0.0,False,1
-Christian Pulisic,MID,Chelsea,Everton,1,0,0,0,0,4,0,0,0,0,0,0,1.3,2.4,10.3,0.0,True,1
-Christian Pulisic,MID,Chelsea,Leeds,67,0,0,0,1,3,0,0,0,0,0,0,6.4,8.0,16.5,39.0,False,3
-Christian Pulisic,MID,Chelsea,West Brom,45,1,0,2,0,21,0,0,0,0,0,0,6.9,36.6,13.0,19.0,True,6
-Christian Pulisic,MID,Chelsea,Crystal Palace,90,2,0,1,0,51,0,0,0,0,0,0,20.5,86.8,46.8,71.0,False,15
-Christian Pulisic,MID,Chelsea,Brighton,90,0,0,0,1,11,0,0,0,0,0,0,5.9,10.8,6.8,41.0,True,3
-Christian Pulisic,MID,Chelsea,West Ham,73,0,0,0,1,13,0,0,0,0,0,0,6.2,12.4,24.6,25.0,False,3
-Christian Pulisic,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Christian Pulisic,MID,Chelsea,Man City,90,0,0,1,0,9,0,0,0,0,0,0,1.4,3.4,4.4,6.0,False,2
-Christian Pulisic,MID,Chelsea,Arsenal,90,0,0,1,0,10,0,0,0,0,0,0,9.1,9.2,29.4,52.0,True,2
-Christian Pulisic,MID,Chelsea,Leicester,90,0,0,1,0,2,0,0,0,0,0,0,8.6,10.0,12.8,63.0,True,2
-Christian Pulisic,MID,Chelsea,Aston Villa,90,0,1,2,0,17,0,0,0,0,0,0,7.7,24.0,23.6,29.0,False,5
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Christian Pulisic,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Crystal Palace,7,0,0,0,0,7,0,0,0,0,0,0,0.6,5.4,0.3,0.0,True,1,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Southampton,86,0,0,2,0,6,0,0,0,0,0,0,5.3,12.4,12.2,28.0,True,2,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Man Utd,80,0,0,0,1,7,0,0,0,0,0,0,5.4,8.6,1.6,44.0,False,3,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Spurs,16,0,0,0,0,3,0,0,0,0,0,0,0.5,0.2,0.8,4.0,True,1,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Leeds,60,1,0,0,1,24,0,0,0,0,0,0,12.8,40.4,2.9,85.0,True,8,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Wolves,90,0,0,2,0,12,0,0,0,0,0,0,4.3,11.2,19.6,12.0,False,2,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,West Ham,83,0,1,0,1,12,0,0,0,0,0,0,7.7,9.4,26.6,41.0,True,6,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Arsenal,90,0,0,3,0,14,0,0,0,0,0,0,9.3,18.2,43.9,31.0,False,2,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Aston Villa,90,0,0,1,0,-4,0,0,0,0,0,0,6.2,0.6,5.8,56.0,True,2,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Man City,90,0,0,3,0,13,1,0,0,0,0,0,3.8,14.2,14.0,10.0,True,1,4.0,5.0,-1.0
+Christian Pulisic,MID,Chelsea,Fulham,90,0,0,0,1,15,0,0,0,0,0,0,4.4,9.0,28.4,7.0,False,3,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Leicester,90,0,0,2,0,2,0,0,0,0,0,0,2.6,7.2,13.2,6.0,False,2,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Wolves,14,0,0,0,0,3,0,0,0,0,0,0,0.6,0.4,1.7,4.0,True,1,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Burnley,45,0,1,0,0,8,0,0,0,0,0,0,7.9,19.2,13.1,47.0,True,4,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Spurs,25,0,0,0,0,-2,1,0,0,0,0,0,0.4,0.0,2.0,3.0,False,0,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Man Utd,25,0,0,0,0,-1,0,0,0,0,0,0,0.2,0.0,4.2,1.0,True,1,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Liverpool,24,0,0,0,0,4,0,0,0,0,0,0,0.2,1.4,0.3,0.0,False,1,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Everton,1,0,0,0,0,4,0,0,0,0,0,0,1.3,2.4,10.3,0.0,True,1,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Leeds,67,0,0,0,1,3,0,0,0,0,0,0,6.4,8.0,16.5,39.0,False,3,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,West Brom,45,1,0,2,0,21,0,0,0,0,0,0,6.9,36.6,13.0,19.0,True,6,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Crystal Palace,90,2,0,1,0,51,0,0,0,0,0,0,20.5,86.8,46.8,71.0,False,15,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,Brighton,90,0,0,0,1,11,0,0,0,0,0,0,5.9,10.8,6.8,41.0,True,3,4.0,3.0,1.0
+Christian Pulisic,MID,Chelsea,West Ham,73,0,0,0,1,13,0,0,0,0,0,0,6.2,12.4,24.6,25.0,False,3,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Christian Pulisic,MID,Chelsea,Man City,90,0,0,1,0,9,0,0,0,0,0,0,1.4,3.4,4.4,6.0,False,2,4.0,5.0,-1.0
+Christian Pulisic,MID,Chelsea,Arsenal,90,0,0,1,0,10,0,0,0,0,0,0,9.1,9.2,29.4,52.0,True,2,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Leicester,90,0,0,1,0,2,0,0,0,0,0,0,8.6,10.0,12.8,63.0,True,2,4.0,4.0,0.0
+Christian Pulisic,MID,Chelsea,Aston Villa,90,0,1,2,0,17,0,0,0,0,0,0,7.7,24.0,23.6,29.0,False,5,4.0,3.0,1.0

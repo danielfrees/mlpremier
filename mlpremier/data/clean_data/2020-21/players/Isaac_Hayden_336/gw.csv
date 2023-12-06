@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Isaac Hayden,MID,Newcastle,West Ham,90,0,0,0,1,12,1,0,0,0,0,0,1.5,12.8,2.0,0.0,False,2
-Isaac Hayden,MID,Newcastle,Brighton,90,0,0,3,0,9,0,0,0,0,0,0,2.8,5.0,12.8,10.0,True,2
-Isaac Hayden,MID,Newcastle,Spurs,90,0,0,1,0,7,1,0,0,0,0,0,1.8,17.2,0.7,0.0,False,1
-Isaac Hayden,MID,Newcastle,Burnley,90,0,0,1,0,6,0,0,0,0,0,0,2.4,9.2,1.9,13.0,True,2
-Isaac Hayden,MID,Newcastle,Man Utd,48,0,0,1,0,7,0,0,0,0,0,0,2.1,10.4,10.4,0.0,True,1
-Isaac Hayden,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,Everton,7,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1
-Isaac Hayden,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,Chelsea,90,0,0,2,0,6,1,0,0,0,0,0,1.4,2.0,12.3,0.0,True,1
-Isaac Hayden,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,West Brom,90,0,0,1,0,15,0,0,0,0,0,0,2.5,20.8,0.0,4.0,True,2
-Isaac Hayden,MID,Newcastle,Leeds,90,0,0,5,0,2,1,0,0,0,0,0,3.3,11.4,0.7,21.0,False,1
-Isaac Hayden,MID,Newcastle,Fulham,45,0,0,0,0,13,0,0,0,0,0,0,1.9,14.2,0.5,4.0,True,1
-Isaac Hayden,MID,Newcastle,Man City,90,0,0,2,0,11,0,0,0,0,0,0,1.9,5.4,11.3,2.0,False,2
-Isaac Hayden,MID,Newcastle,Liverpool,90,0,0,0,1,1,1,0,0,0,0,0,1.1,7.4,0.6,3.0,True,2
-Isaac Hayden,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Sheffield Utd,90,0,0,1,0,0,1,0,0,0,0,0,3.7,13.4,1.2,22.0,False,1
-Isaac Hayden,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,Aston Villa,90,0,0,2,0,9,0,0,0,0,0,0,1.9,14.8,2.2,2.0,False,2
-Isaac Hayden,MID,Newcastle,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,2.5,14.0,11.0,0.0,True,2
-Isaac Hayden,MID,Newcastle,Everton,90,0,0,0,1,18,0,0,0,0,0,0,4.7,18.8,2.0,26.0,False,3
-Isaac Hayden,MID,Newcastle,Crystal Palace,90,0,0,2,0,12,0,0,0,0,0,0,1.7,10.2,6.3,0.0,True,2
-Isaac Hayden,MID,Newcastle,Southampton,90,0,0,2,0,10,0,0,0,0,0,0,1.3,13.0,0.3,0.0,True,2
-Isaac Hayden,MID,Newcastle,Chelsea,90,0,0,2,0,18,0,0,0,0,0,0,5.5,30.2,16.7,8.0,False,2
-Isaac Hayden,MID,Newcastle,Man Utd,90,0,0,3,0,7,1,0,0,0,0,0,0.7,5.6,0.9,0.0,False,1
-Isaac Hayden,MID,Newcastle,Wolves,90,0,0,1,0,6,1,0,0,0,0,0,3.0,7.2,4.9,18.0,True,1
-Isaac Hayden,MID,Newcastle,West Brom,90,0,0,0,1,7,0,0,0,0,0,0,2.9,8.2,3.1,18.0,False,3
-Isaac Hayden,MID,Newcastle,Aston Villa,87,0,0,1,0,15,0,0,0,0,0,0,3.6,22.2,13.7,0.0,True,2
-Isaac Hayden,MID,Newcastle,Brighton,45,0,0,0,0,4,0,0,0,0,0,0,1.1,4.6,2.0,4.0,False,1
-Isaac Hayden,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Isaac Hayden,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Isaac Hayden,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Isaac Hayden,MID,Newcastle,West Ham,90,0,0,0,1,12,1,0,0,0,0,0,1.5,12.8,2.0,0.0,False,2,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Brighton,90,0,0,3,0,9,0,0,0,0,0,0,2.8,5.0,12.8,10.0,True,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Spurs,90,0,0,1,0,7,1,0,0,0,0,0,1.8,17.2,0.7,0.0,False,1,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Burnley,90,0,0,1,0,6,0,0,0,0,0,0,2.4,9.2,1.9,13.0,True,2,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Man Utd,48,0,0,1,0,7,0,0,0,0,0,0,2.1,10.4,10.4,0.0,True,1,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Everton,7,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,1,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Chelsea,90,0,0,2,0,6,1,0,0,0,0,0,1.4,2.0,12.3,0.0,True,1,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,West Brom,90,0,0,1,0,15,0,0,0,0,0,0,2.5,20.8,0.0,4.0,True,2,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Leeds,90,0,0,5,0,2,1,0,0,0,0,0,3.3,11.4,0.7,21.0,False,1,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Fulham,45,0,0,0,0,13,0,0,0,0,0,0,1.9,14.2,0.5,4.0,True,1,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Man City,90,0,0,2,0,11,0,0,0,0,0,0,1.9,5.4,11.3,2.0,False,2,2.0,5.0,-3.0
+Isaac Hayden,MID,Newcastle,Liverpool,90,0,0,0,1,1,1,0,0,0,0,0,1.1,7.4,0.6,3.0,True,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Sheffield Utd,90,0,0,1,0,0,1,0,0,0,0,0,3.7,13.4,1.2,22.0,False,1,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Aston Villa,90,0,0,2,0,9,0,0,0,0,0,0,1.9,14.8,2.2,2.0,False,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,2.5,14.0,11.0,0.0,True,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Everton,90,0,0,0,1,18,0,0,0,0,0,0,4.7,18.8,2.0,26.0,False,3,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Crystal Palace,90,0,0,2,0,12,0,0,0,0,0,0,1.7,10.2,6.3,0.0,True,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Southampton,90,0,0,2,0,10,0,0,0,0,0,0,1.3,13.0,0.3,0.0,True,2,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Chelsea,90,0,0,2,0,18,0,0,0,0,0,0,5.5,30.2,16.7,8.0,False,2,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Man Utd,90,0,0,3,0,7,1,0,0,0,0,0,0.7,5.6,0.9,0.0,False,1,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Wolves,90,0,0,1,0,6,1,0,0,0,0,0,3.0,7.2,4.9,18.0,True,1,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,West Brom,90,0,0,0,1,7,0,0,0,0,0,0,2.9,8.2,3.1,18.0,False,3,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Aston Villa,87,0,0,1,0,15,0,0,0,0,0,0,3.6,22.2,13.7,0.0,True,2,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Brighton,45,0,0,0,0,4,0,0,0,0,0,0,1.1,4.6,2.0,4.0,False,1,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Isaac Hayden,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Isaac Hayden,MID,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Isaac Hayden,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Isaac Hayden,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

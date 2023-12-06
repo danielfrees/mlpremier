@@ -9,6 +9,7 @@ import seaborn as sns
 import os
 from pandas.plotting import table
 from IPython.display import display
+from typing import Union, List
 
 
 def eval_cnn(season, position, model, 
@@ -49,7 +50,6 @@ def log_evals(log_file, eval_data_list, verbose=False):
                'val_mse', 'test_mse', 'train_mae', 
                'val_mae', 'test_mae'] + list(eval_data_list[0].keys())[8:]
 
-    # Check if the log_file parent directory exists, if not, create it
     log_dir = os.path.dirname(log_file)
     if not os.path.exists(log_dir):
         os.makedirs(log_dir)
@@ -61,16 +61,12 @@ def log_evals(log_file, eval_data_list, verbose=False):
     else:
         log_df = pd.DataFrame(columns=COLUMNS)
 
-    # Create a DataFrame from the list of eval_cnn dicts
     eval_df = pd.DataFrame(eval_data_list, columns=COLUMNS)
-
-    # Concatenate the evaluation DataFrame with the log DataFrame
     log_df = pd.concat([log_df, eval_df], ignore_index=True)
 
     if verbose:
         print(f"Logging experiment results to {log_file}.")
 
-    # Save the updated DataFrame back to the CSV file
     log_df.to_csv(log_file, index=False)
 
     return
@@ -155,19 +151,22 @@ def eda_and_plot(features_df):
     plt.show()
 
 def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.csv'),
+                        season: str = "['2020-21', '2021-22']",
                         eval_top: int = 5):
     """
     Visualizes and investigates the results of a gridsearch for best CNN hyperparams.
     """
     df = pd.read_csv(expt_res_path)
+    df = df[df['season'].apply(lambda x: repr(x) == repr(season))]
     df = df.sort_values(by='val_mse')
 
     # ======== Color MSE Results from Green (good) to Red (bad) =============
     mse_columns = df.filter(like='mse')
     color_range = [mse_columns.min().min(), mse_columns.max().max()]
     cmap = sns.color_palette("RdYlGn_r", as_cmap=True)  # green good red bad
-    sns.heatmap(mse_columns, cmap=cmap, vmin=color_range[0], vmax=color_range[1])
-    plt.title("CNN FPL Experiments, sorted by Val MSE")
+    heatmap = sns.heatmap(mse_columns, cmap=cmap, vmin=color_range[0], vmax=color_range[1])
+    heatmap.set_yticklabels(heatmap.get_yticklabels(), size=5)
+    plt.title(f"{season} CNN FPL Experiments, sorted by Val MSE")
     plt.ylabel("Experiment Index")
     plt.show()
 
@@ -191,12 +190,11 @@ def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.
     performance_df = performance_df.T
 
     # Print or display the tables
-    print("\nMode Best Hyperparameters for Each Position")
+    print(f"\n{season} Mode Best Hyperparameters for Each Position")
     print(f"Via Top {eval_top} Models by Position")
     display(hyperparams_df)
 
-    print(f"\nMean Performance of Top {eval_top} Model by Position")
+    print(f"\n{season} Mean Performance of Top {eval_top} Model by Position")
     display(performance_df)
     
-    return
-
+    return hyperparams_df

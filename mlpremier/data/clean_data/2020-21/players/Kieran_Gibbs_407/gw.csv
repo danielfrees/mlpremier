@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Kieran Gibbs,DEF,West Brom,Leicester,90,0,0,3,0,12,0,0,0,0,0,0,0.8,6.4,1.7,0.0,True,1
-Kieran Gibbs,DEF,West Brom,Everton,45,0,0,5,0,-1,0,1,0,0,0,0,1.5,1.0,11.5,2.0,False,-4
-Kieran Gibbs,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Newcastle,45,0,0,1,0,9,0,0,0,0,0,0,1.1,7.2,1.7,2.0,False,1
-Kieran Gibbs,DEF,West Brom,Man City,90,0,0,1,0,10,1,0,0,0,0,0,1.7,16.2,0.6,0.0,False,1
-Kieran Gibbs,DEF,West Brom,Aston Villa,90,0,0,3,0,12,0,0,0,0,0,0,1.5,13.8,0.7,0.0,True,1
-Kieran Gibbs,DEF,West Brom,Liverpool,90,0,0,1,0,13,0,0,0,0,0,0,2.1,20.6,0.1,0.0,False,2
-Kieran Gibbs,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Wolves,90,0,0,2,0,8,0,0,0,0,0,0,2.3,17.8,1.1,4.0,False,1
-Kieran Gibbs,DEF,West Brom,West Ham,90,0,0,2,0,20,0,0,0,0,0,0,4.3,14.2,27.2,2.0,False,1
-Kieran Gibbs,DEF,West Brom,Man City,90,0,0,5,0,11,0,0,0,0,0,0,1.9,18.2,0.8,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Fulham,90,0,0,2,0,13,0,0,0,0,0,0,3.6,16.6,19.7,0.0,True,1
-Kieran Gibbs,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kieran Gibbs,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kieran Gibbs,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kieran Gibbs,DEF,West Brom,Leicester,90,0,0,3,0,12,0,0,0,0,0,0,0.8,6.4,1.7,0.0,True,1,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Everton,45,0,0,5,0,-1,0,1,0,0,0,0,1.5,1.0,11.5,2.0,False,-4,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Newcastle,45,0,0,1,0,9,0,0,0,0,0,0,1.1,7.2,1.7,2.0,False,1,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Man City,90,0,0,1,0,10,1,0,0,0,0,0,1.7,16.2,0.6,0.0,False,1,2.0,5.0,-3.0
+Kieran Gibbs,DEF,West Brom,Aston Villa,90,0,0,3,0,12,0,0,0,0,0,0,1.5,13.8,0.7,0.0,True,1,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Liverpool,90,0,0,1,0,13,0,0,0,0,0,0,2.1,20.6,0.1,0.0,False,2,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Wolves,90,0,0,2,0,8,0,0,0,0,0,0,2.3,17.8,1.1,4.0,False,1,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,West Ham,90,0,0,2,0,20,0,0,0,0,0,0,4.3,14.2,27.2,2.0,False,1,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Man City,90,0,0,5,0,11,0,0,0,0,0,0,1.9,18.2,0.8,0.0,True,0,2.0,5.0,-3.0
+Kieran Gibbs,DEF,West Brom,Fulham,90,0,0,2,0,13,0,0,0,0,0,0,3.6,16.6,19.7,0.0,True,1,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Kieran Gibbs,DEF,West Brom,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Kieran Gibbs,DEF,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Kieran Gibbs,DEF,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0

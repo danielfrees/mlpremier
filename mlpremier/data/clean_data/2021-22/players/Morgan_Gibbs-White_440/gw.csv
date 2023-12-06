@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Morgan Gibbs-White,MID,Wolves,Leicester,4,0,0,0,0,2,0,0,0,0,0,0,2.0,0.0,0.4,20.0,False,1
-Morgan Gibbs-White,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Man Utd,3,0,0,0,0,-2,1,0,0,0,0,0,0.1,0.0,0.3,4.0,True,0
-Morgan Gibbs-White,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Morgan Gibbs-White,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Morgan Gibbs-White,MID,Wolves,Leicester,4,0,0,0,0,2,0,0,0,0,0,0,2.0,0.0,0.4,20.0,False,1,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Man Utd,3,0,0,0,0,-2,1,0,0,0,0,0,0.1,0.0,0.3,4.0,True,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Morgan Gibbs-White,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Morgan Gibbs-White,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Morgan Gibbs-White,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Morgan Gibbs-White,MID,Wolves,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Morgan Gibbs-White,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

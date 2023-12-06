@@ -65,6 +65,8 @@ def create_player_meta_csv(season:str,
                 df = pd.read_csv(csv_path, encoding='latin-1')
                 df = df.loc[:,['name', 'position', 'team']]
                 meta_data_list.append(df)
+            except: 
+                print(df)
             
 
     # Concatenate all gw metadata (we do this because players may transfer
@@ -97,7 +99,7 @@ def reorder_and_limit_gwdata_cols(df: pd.DataFrame) -> pd.DataFrame:
     """
     df = df.copy()
     # Define the desired column order
-    desired_cols = ['name', 'position', 'team', 'opponent_team', 'minutes', 
+    desired_cols = ['name', 'position', 'team', 'opponent_team',  'minutes', 
                     'goals_scored', 'assists', 'goals_conceded', 'clean_sheets', 
                     'bps', 'yellow_cards', 'red_cards', 'own_goals', 'saves', 
                     'penalties_missed', 'penalties_saved', 'ict_index', 
@@ -109,7 +111,7 @@ def reorder_and_limit_gwdata_cols(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-def fill_in_opponent_team(df: pd.DataFrame, season: str = '2020-21') -> pd.DataFrame:
+def add_opponent_team_and_matchup_difficulty(df: pd.DataFrame, season: str) -> pd.DataFrame:
     """ 
     Fills in the actual opponent team name from the team ID.
 
@@ -125,14 +127,21 @@ def fill_in_opponent_team(df: pd.DataFrame, season: str = '2020-21') -> pd.DataF
     master_team_list = pd.read_csv(MASTER_TEAM_LIST_PATH)
 
     # Create a mapping dictionary using both 'season' and 'team' columns
-    mapping_df = master_team_list[(master_team_list['season'] == season)][['team', 'team_name']]
+    mapping_df = master_team_list[(master_team_list['season'] == season)][['team', 'team_name', 'team_difficulty']]
+    #print(mapping_df)
     team_mapping = dict(list(zip(mapping_df['team'], mapping_df['team_name'])))
     #print(team_mapping)
-
+    diff_mapping = dict(list(zip(mapping_df['team_name'], mapping_df['team_difficulty'])))
+    #print(diff_mapping)
     # Map the opponent_team column using the created mapping
     df['opponent_team'] = df['opponent_team'].apply(lambda team: team_mapping[team])
+
+    df['team_difficulty'] = df['team'].apply(lambda team: diff_mapping[team])
+    df['opponent_difficulty'] = df['opponent_team'].apply(lambda team: diff_mapping[team])
+    df['matchup_difficulty'] = df['team_difficulty'] - df['opponent_difficulty']
     
     return df
+
 
 def clean_player_data(season: str, 
                     save_dir: str = os.path.join('clean_data'),
@@ -198,7 +207,7 @@ def clean_player_data(season: str,
             player_gw_df = reorder_and_limit_gwdata_cols(player_gw_df)
 
             #Fill in Opponent Team
-            player_gw_df = fill_in_opponent_team(player_gw_df)
+            player_gw_df = add_opponent_team_and_matchup_difficulty(player_gw_df, season)
 
             # Save the updated player_gw_df to the appropriate path
             full_save_dir = os.path.join(save_dir, season, 'players', player_name)
@@ -264,6 +273,31 @@ def organize_data_by_pos(data_dir: str,
 
     return
 
+MASTER_TEAM_LIST_PATH = os.path.join('clean_data', 'master_team_list.csv')
+FIXTURE_PATH = os.path.join('fixtures', 'full_fixture_difficulty.csv')
+
+def append_team_difficulty():
+    """ 
+    Add team difficulty to master team list.
+    """
+    # Load DataFrames
+    team_list_df = pd.read_csv(MASTER_TEAM_LIST_PATH)
+    fixture_df = pd.read_csv(FIXTURE_PATH)
+
+    # Remove '20' prefix from team_list_df['season']
+    fixture_df['season'] = fixture_df['season'].apply(lambda x: "20" + x.replace('_', '-'))
+
+    merged_df = pd.merge(team_list_df, fixture_df, left_on=['season', 'team'], right_on=['season', 'team_a'], how='left')
+    merged_df = merged_df.drop(columns=['team_a', 'team_h', 'team_h_difficulty'])
+    merged_df = merged_df.rename(columns={'team_a_difficulty': 'team_difficulty'})
+
+    merged_df = merged_df.drop_duplicates()
+    merged_df.tail(20)
+
+    merged_df.to_csv(MASTER_TEAM_LIST_PATH, index=False)
+
+    return
+
 
 def main():
     """
@@ -272,6 +306,8 @@ def main():
     parser = argparse.ArgumentParser(description='General preprocessing and Cleaning of FPL Data.')
     parser.add_argument('-s', '--season', type=str, help='Comma-separated list of seasons')
     parser.add_argument('-o', '--organize', action='store_true', default=False, help='Organize by positions')
+    parser.add_argument('-d', '--difficulty', action='store_true', default=False, help='Add team difficulties to master team list.')
+
     args = parser.parse_args()
 
     # Load .env file from dir where script is called
@@ -290,6 +326,8 @@ def main():
     
     if args.organize:
         organize_data_by_pos('clean_data', verbose=True)
+    if args.difficulty:
+        append_team_difficulty()
 
     print("Done. Quitting.")
 

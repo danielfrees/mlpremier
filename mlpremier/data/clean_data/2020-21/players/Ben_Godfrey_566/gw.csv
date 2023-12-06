@@ -1,35 +1,35 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Ben Godfrey,DEF,Everton,Liverpool,59,0,0,1,0,8,0,0,0,0,0,0,3.1,20.4,10.4,0.0,True,1
-Ben Godfrey,DEF,Everton,Southampton,90,0,0,2,0,12,0,0,0,0,0,0,1.3,11.0,1.5,0.0,False,1
-Ben Godfrey,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ben Godfrey,DEF,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ben Godfrey,DEF,Everton,Fulham,90,0,0,2,0,11,0,0,0,0,0,0,1.3,8.6,4.8,0.0,False,1
-Ben Godfrey,DEF,Everton,Leeds,90,0,0,1,0,12,0,0,0,0,0,0,2.6,24.8,1.1,0.0,True,2
-Ben Godfrey,DEF,Everton,Burnley,90,0,0,1,0,24,0,0,0,0,0,0,2.8,25.0,2.5,0.0,False,2
-Ben Godfrey,DEF,Everton,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,1.5,14.2,1.0,0.0,True,7
-Ben Godfrey,DEF,Everton,Leicester,90,0,0,0,1,17,1,0,0,0,0,0,0.9,7.8,1.6,0.0,False,5
-Ben Godfrey,DEF,Everton,Arsenal,90,0,0,1,0,17,0,0,0,0,0,0,2.8,20.6,5.5,2.0,True,2
-Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,0,1,22,1,0,0,0,0,0,3.2,12.2,2.3,17.0,False,5
-Ben Godfrey,DEF,Everton,West Ham,90,0,0,1,0,10,1,0,0,0,0,0,1.4,8.0,5.7,0.0,True,1
-Ben Godfrey,DEF,Everton,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,1.5,13.8,1.4,0.0,False,2
-Ben Godfrey,DEF,Everton,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,2.9,28.2,0.8,0.0,True,2
-Ben Godfrey,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ben Godfrey,DEF,Everton,Leeds,90,0,1,1,0,21,1,0,0,0,0,0,5.2,35.2,10.8,6.0,False,4
-Ben Godfrey,DEF,Everton,Man Utd,90,0,0,3,0,13,0,0,0,0,0,0,1.3,10.2,0.6,2.0,False,1
-Ben Godfrey,DEF,Everton,Fulham,90,0,0,2,0,13,0,0,0,0,0,0,3.9,20.0,1.2,18.0,True,1
-Ben Godfrey,DEF,Everton,Man City,90,0,0,3,0,9,0,0,0,0,0,0,2.5,23.6,0.9,0.0,True,1
-Ben Godfrey,DEF,Everton,Liverpool,90,0,0,0,1,23,0,0,0,0,0,0,2.3,20.6,0.1,2.0,False,6
-Ben Godfrey,DEF,Everton,Southampton,90,0,0,0,1,26,0,0,0,0,0,0,3.2,13.2,0.4,18.0,True,6
-Ben Godfrey,DEF,Everton,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,4.3,33.6,0.9,8.0,False,6
-Ben Godfrey,DEF,Everton,Chelsea,90,0,0,2,0,7,0,0,1,0,0,0,1.0,9.4,0.8,0.0,False,-1
-Ben Godfrey,DEF,Everton,Burnley,90,0,0,2,0,19,0,0,0,0,0,0,3.5,33.2,1.3,0.0,True,1
-Ben Godfrey,DEF,Everton,Crystal Palace,14,0,0,1,0,5,0,0,0,0,0,0,0.4,2.2,0.2,2.0,True,1
-Ben Godfrey,DEF,Everton,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,2.7,23.6,0.8,3.0,False,6
-Ben Godfrey,DEF,Everton,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,5.3,30.6,1.3,21.0,True,1
-Ben Godfrey,DEF,Everton,Arsenal,90,0,0,0,1,32,0,0,0,0,0,0,2.9,29.0,0.2,0.0,False,9
-Ben Godfrey,DEF,Everton,Aston Villa,90,0,0,2,0,13,0,0,0,0,0,0,2.6,26.2,0.1,0.0,True,1
-Ben Godfrey,DEF,Everton,West Ham,90,0,1,0,1,35,0,0,0,0,0,0,4.8,34.8,13.2,0.0,False,12
-Ben Godfrey,DEF,Everton,Aston Villa,90,0,0,0,1,24,0,0,0,0,0,0,4.6,13.0,0.2,33.0,False,6
-Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,1,0,14,0,0,0,0,0,0,4.2,28.4,1.3,12.0,True,2
-Ben Godfrey,DEF,Everton,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,3.5,16.2,11.1,8.0,True,6
-Ben Godfrey,DEF,Everton,Man City,90,0,0,5,0,12,0,0,0,0,0,0,1.3,12.8,0.3,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ben Godfrey,DEF,Everton,Liverpool,59,0,0,1,0,8,0,0,0,0,0,0,3.1,20.4,10.4,0.0,True,1,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Southampton,90,0,0,2,0,12,0,0,0,0,0,0,1.3,11.0,1.5,0.0,False,1,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Fulham,90,0,0,2,0,11,0,0,0,0,0,0,1.3,8.6,4.8,0.0,False,1,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Leeds,90,0,0,1,0,12,0,0,0,0,0,0,2.6,24.8,1.1,0.0,True,2,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Burnley,90,0,0,1,0,24,0,0,0,0,0,0,2.8,25.0,2.5,0.0,False,2,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,1.5,14.2,1.0,0.0,True,7,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Leicester,90,0,0,0,1,17,1,0,0,0,0,0,0.9,7.8,1.6,0.0,False,5,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Arsenal,90,0,0,1,0,17,0,0,0,0,0,0,2.8,20.6,5.5,2.0,True,2,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,0,1,22,1,0,0,0,0,0,3.2,12.2,2.3,17.0,False,5,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,West Ham,90,0,0,1,0,10,1,0,0,0,0,0,1.4,8.0,5.7,0.0,True,1,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Wolves,90,0,0,1,0,8,0,0,0,0,0,0,1.5,13.8,1.4,0.0,False,2,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,2.9,28.2,0.8,0.0,True,2,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Leeds,90,0,1,1,0,21,1,0,0,0,0,0,5.2,35.2,10.8,6.0,False,4,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Man Utd,90,0,0,3,0,13,0,0,0,0,0,0,1.3,10.2,0.6,2.0,False,1,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Fulham,90,0,0,2,0,13,0,0,0,0,0,0,3.9,20.0,1.2,18.0,True,1,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Man City,90,0,0,3,0,9,0,0,0,0,0,0,2.5,23.6,0.9,0.0,True,1,3.0,5.0,-2.0
+Ben Godfrey,DEF,Everton,Liverpool,90,0,0,0,1,23,0,0,0,0,0,0,2.3,20.6,0.1,2.0,False,6,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Southampton,90,0,0,0,1,26,0,0,0,0,0,0,3.2,13.2,0.4,18.0,True,6,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,4.3,33.6,0.9,8.0,False,6,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Chelsea,90,0,0,2,0,7,0,0,1,0,0,0,1.0,9.4,0.8,0.0,False,-1,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Burnley,90,0,0,2,0,19,0,0,0,0,0,0,3.5,33.2,1.3,0.0,True,1,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Crystal Palace,14,0,0,1,0,5,0,0,0,0,0,0,0.4,2.2,0.2,2.0,True,1,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,2.7,23.6,0.8,3.0,False,6,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,5.3,30.6,1.3,21.0,True,1,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Arsenal,90,0,0,0,1,32,0,0,0,0,0,0,2.9,29.0,0.2,0.0,False,9,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Aston Villa,90,0,0,2,0,13,0,0,0,0,0,0,2.6,26.2,0.1,0.0,True,1,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,West Ham,90,0,1,0,1,35,0,0,0,0,0,0,4.8,34.8,13.2,0.0,False,12,3.0,4.0,-1.0
+Ben Godfrey,DEF,Everton,Aston Villa,90,0,0,0,1,24,0,0,0,0,0,0,4.6,13.0,0.2,33.0,False,6,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,1,0,14,0,0,0,0,0,0,4.2,28.4,1.3,12.0,True,2,3.0,2.0,1.0
+Ben Godfrey,DEF,Everton,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,3.5,16.2,11.1,8.0,True,6,3.0,3.0,0.0
+Ben Godfrey,DEF,Everton,Man City,90,0,0,5,0,12,0,0,0,0,0,0,1.3,12.8,0.3,0.0,False,0,3.0,5.0,-2.0

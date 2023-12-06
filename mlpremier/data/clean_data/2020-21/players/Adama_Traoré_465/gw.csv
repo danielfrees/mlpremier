@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Adama Traoré,MID,Wolves,Sheffield Utd,90,0,0,0,1,6,0,0,0,0,0,0,3.2,12.8,1.8,17.0,False,3
-Adama Traoré,MID,Wolves,Man City,90,0,0,3,0,17,0,0,0,0,0,0,6.7,25.6,39.2,2.0,True,2
-Adama Traoré,MID,Wolves,West Ham,61,0,0,2,0,9,0,0,0,0,0,0,1.6,7.8,8.3,0.0,False,2
-Adama Traoré,MID,Wolves,Fulham,8,0,0,0,0,3,0,0,0,0,0,0,0.4,4.0,0.1,0.0,True,1
-Adama Traoré,MID,Wolves,Leeds,25,0,0,0,0,5,0,0,0,0,0,0,1.4,3.4,10.3,0.0,False,1
-Adama Traoré,MID,Wolves,Newcastle,22,0,0,1,0,4,0,0,0,0,0,0,1.9,4.2,10.8,4.0,True,1
-Adama Traoré,MID,Wolves,Crystal Palace,14,0,0,0,0,2,0,0,0,0,0,0,2.4,3.0,0.0,21.0,True,1
-Adama Traoré,MID,Wolves,Leicester,30,0,0,0,0,3,0,0,0,0,0,0,0.7,1.6,3.8,2.0,False,1
-Adama Traoré,MID,Wolves,Southampton,90,0,0,1,0,5,1,0,0,0,0,0,3.7,12.4,11.9,13.0,True,1
-Adama Traoré,MID,Wolves,Arsenal,90,0,0,1,0,6,1,0,0,0,0,0,5.1,6.8,36.0,8.0,False,1
-Adama Traoré,MID,Wolves,Liverpool,90,0,0,4,0,10,0,0,0,0,0,0,6.9,13.0,43.5,12.0,False,2
-Adama Traoré,MID,Wolves,Aston Villa,90,0,0,1,0,6,1,0,0,0,0,0,5.5,11.6,26.6,17.0,True,1
-Adama Traoré,MID,Wolves,Chelsea,29,0,0,0,0,0,0,0,0,0,0,0,2.1,0.4,0.7,20.0,True,1
-Adama Traoré,MID,Wolves,Burnley,30,0,0,0,0,9,0,0,0,0,0,0,6.0,15.4,44.9,0.0,False,1
-Adama Traoré,MID,Wolves,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,3.8,7.0,25.4,6.0,True,2
-Adama Traoré,MID,Wolves,Man Utd,90,0,0,1,0,6,0,0,0,0,0,0,5.4,7.0,23.1,24.0,False,2
-Adama Traoré,MID,Wolves,Brighton,90,0,1,3,0,28,0,0,0,0,0,0,5.8,22.0,30.2,6.0,False,5
-Adama Traoré,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Adama Traoré,MID,Wolves,West Brom,90,0,0,3,0,12,0,0,0,0,0,0,9.0,18.0,38.8,33.0,True,2
-Adama Traoré,MID,Wolves,Chelsea,89,0,0,0,1,8,0,0,0,0,0,0,1.7,6.4,10.8,0.0,False,3
-Adama Traoré,MID,Wolves,Crystal Palace,27,0,0,0,0,3,0,0,0,0,0,0,1.0,4.4,1.4,4.0,False,1
-Adama Traoré,MID,Wolves,Arsenal,90,0,0,1,0,11,0,0,0,0,0,0,2.9,11.6,17.2,0.0,True,2
-Adama Traoré,MID,Wolves,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,8.2,17.4,38.6,26.0,True,3
-Adama Traoré,MID,Wolves,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,3.9,11.0,13.5,14.0,False,2
-Adama Traoré,MID,Wolves,Leeds,90,0,1,0,1,7,0,0,0,0,0,0,3.6,4.4,14.8,17.0,True,6
-Adama Traoré,MID,Wolves,Newcastle,90,0,0,1,0,26,0,0,0,0,0,0,13.6,32.0,51.9,52.0,False,4
-Adama Traoré,MID,Wolves,Man City,90,0,0,4,0,10,0,0,0,0,0,0,4.2,8.6,2.9,30.0,False,2
-Adama Traoré,MID,Wolves,Aston Villa,90,0,0,0,1,5,0,0,0,0,0,0,2.0,6.8,13.5,0.0,False,3
-Adama Traoré,MID,Wolves,Liverpool,90,0,0,1,0,10,0,0,0,0,0,0,6.5,15.2,32.3,17.0,True,2
-Adama Traoré,MID,Wolves,West Ham,90,0,1,3,0,25,0,0,0,0,0,0,6.7,30.0,18.0,19.0,True,6
-Adama Traoré,MID,Wolves,Fulham,90,1,0,0,1,19,0,0,0,0,0,0,5.5,32.0,2.9,20.0,False,8
-Adama Traoré,MID,Wolves,Sheffield Utd,90,0,1,0,1,16,0,0,0,0,0,0,12.2,23.2,48.3,50.0,True,6
-Adama Traoré,MID,Wolves,Burnley,90,0,0,4,0,5,1,0,0,0,0,0,6.4,6.6,33.8,24.0,True,1
-Adama Traoré,MID,Wolves,West Brom,90,0,0,1,0,0,0,0,0,0,0,0,8.0,13.4,26.8,40.0,False,2
-Adama Traoré,MID,Wolves,Brighton,29,1,0,0,0,27,0,0,0,0,0,0,11.4,38.6,12.8,63.0,True,8
-Adama Traoré,MID,Wolves,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,6.3,12.6,34.3,16.0,False,2
-Adama Traoré,MID,Wolves,Everton,90,0,0,1,0,9,0,0,0,0,0,0,7.0,21.0,7.2,42.0,False,2
-Adama Traoré,MID,Wolves,Man Utd,26,0,0,1,0,4,0,0,0,0,0,0,4.5,4.2,14.6,26.0,True,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Adama Traoré,MID,Wolves,Sheffield Utd,90,0,0,0,1,6,0,0,0,0,0,0,3.2,12.8,1.8,17.0,False,3,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Man City,90,0,0,3,0,17,0,0,0,0,0,0,6.7,25.6,39.2,2.0,True,2,3.0,5.0,-2.0
+Adama Traoré,MID,Wolves,West Ham,61,0,0,2,0,9,0,0,0,0,0,0,1.6,7.8,8.3,0.0,False,2,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Fulham,8,0,0,0,0,3,0,0,0,0,0,0,0.4,4.0,0.1,0.0,True,1,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Leeds,25,0,0,0,0,5,0,0,0,0,0,0,1.4,3.4,10.3,0.0,False,1,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Newcastle,22,0,0,1,0,4,0,0,0,0,0,0,1.9,4.2,10.8,4.0,True,1,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Crystal Palace,14,0,0,0,0,2,0,0,0,0,0,0,2.4,3.0,0.0,21.0,True,1,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Leicester,30,0,0,0,0,3,0,0,0,0,0,0,0.7,1.6,3.8,2.0,False,1,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Southampton,90,0,0,1,0,5,1,0,0,0,0,0,3.7,12.4,11.9,13.0,True,1,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Arsenal,90,0,0,1,0,6,1,0,0,0,0,0,5.1,6.8,36.0,8.0,False,1,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Liverpool,90,0,0,4,0,10,0,0,0,0,0,0,6.9,13.0,43.5,12.0,False,2,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Aston Villa,90,0,0,1,0,6,1,0,0,0,0,0,5.5,11.6,26.6,17.0,True,1,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Chelsea,29,0,0,0,0,0,0,0,0,0,0,0,2.1,0.4,0.7,20.0,True,1,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Burnley,30,0,0,0,0,9,0,0,0,0,0,0,6.0,15.4,44.9,0.0,False,1,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Spurs,90,0,0,1,0,7,0,0,0,0,0,0,3.8,7.0,25.4,6.0,True,2,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Man Utd,90,0,0,1,0,6,0,0,0,0,0,0,5.4,7.0,23.1,24.0,False,2,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Brighton,90,0,1,3,0,28,0,0,0,0,0,0,5.8,22.0,30.2,6.0,False,5,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,West Brom,90,0,0,3,0,12,0,0,0,0,0,0,9.0,18.0,38.8,33.0,True,2,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Chelsea,89,0,0,0,1,8,0,0,0,0,0,0,1.7,6.4,10.8,0.0,False,3,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Crystal Palace,27,0,0,0,0,3,0,0,0,0,0,0,1.0,4.4,1.4,4.0,False,1,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Arsenal,90,0,0,1,0,11,0,0,0,0,0,0,2.9,11.6,17.2,0.0,True,2,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,8.2,17.4,38.6,26.0,True,3,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,3.9,11.0,13.5,14.0,False,2,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Leeds,90,0,1,0,1,7,0,0,0,0,0,0,3.6,4.4,14.8,17.0,True,6,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Newcastle,90,0,0,1,0,26,0,0,0,0,0,0,13.6,32.0,51.9,52.0,False,4,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Man City,90,0,0,4,0,10,0,0,0,0,0,0,4.2,8.6,2.9,30.0,False,2,3.0,5.0,-2.0
+Adama Traoré,MID,Wolves,Aston Villa,90,0,0,0,1,5,0,0,0,0,0,0,2.0,6.8,13.5,0.0,False,3,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Liverpool,90,0,0,1,0,10,0,0,0,0,0,0,6.5,15.2,32.3,17.0,True,2,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,West Ham,90,0,1,3,0,25,0,0,0,0,0,0,6.7,30.0,18.0,19.0,True,6,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Fulham,90,1,0,0,1,19,0,0,0,0,0,0,5.5,32.0,2.9,20.0,False,8,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Sheffield Utd,90,0,1,0,1,16,0,0,0,0,0,0,12.2,23.2,48.3,50.0,True,6,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Burnley,90,0,0,4,0,5,1,0,0,0,0,0,6.4,6.6,33.8,24.0,True,1,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,West Brom,90,0,0,1,0,0,0,0,0,0,0,0,8.0,13.4,26.8,40.0,False,2,3.0,2.0,1.0
+Adama Traoré,MID,Wolves,Brighton,29,1,0,0,0,27,0,0,0,0,0,0,11.4,38.6,12.8,63.0,True,8,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,6.3,12.6,34.3,16.0,False,2,3.0,4.0,-1.0
+Adama Traoré,MID,Wolves,Everton,90,0,0,1,0,9,0,0,0,0,0,0,7.0,21.0,7.2,42.0,False,2,3.0,3.0,0.0
+Adama Traoré,MID,Wolves,Man Utd,26,0,0,1,0,4,0,0,0,0,0,0,4.5,4.2,14.6,26.0,True,1,3.0,4.0,-1.0

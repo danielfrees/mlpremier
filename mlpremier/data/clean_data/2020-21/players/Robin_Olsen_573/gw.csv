@@ -1,35 +1,35 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Robin Olsen,GK,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Newcastle,90,0,0,2,0,11,0,0,0,2,0,0,1.9,18.8,0.0,0.0,False,1
-Robin Olsen,GK,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Leicester,90,0,0,0,1,25,0,0,0,2,0,0,1.7,17.0,0.0,0.0,False,6
-Robin Olsen,GK,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Leeds,90,0,0,1,0,16,1,0,0,6,0,0,4.4,43.6,0.0,0.0,False,3
-Robin Olsen,GK,Everton,Man Utd,90,0,0,3,0,13,0,0,0,2,0,0,2.1,21.4,0.0,0.0,False,1
-Robin Olsen,GK,Everton,Fulham,90,0,0,2,0,8,0,0,0,1,0,0,0.4,3.6,0.0,0.0,True,1
-Robin Olsen,GK,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Crystal Palace,90,0,0,1,0,19,0,0,0,5,0,0,3.5,35.0,0.0,0.0,True,3
-Robin Olsen,GK,Everton,Brighton,90,0,0,0,1,27,0,0,0,3,0,0,2.7,27.0,0.0,0.0,False,10
-Robin Olsen,GK,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Robin Olsen,GK,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Robin Olsen,GK,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Robin Olsen,GK,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Newcastle,90,0,0,2,0,11,0,0,0,2,0,0,1.9,18.8,0.0,0.0,False,1,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Leicester,90,0,0,0,1,25,0,0,0,2,0,0,1.7,17.0,0.0,0.0,False,6,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Leeds,90,0,0,1,0,16,1,0,0,6,0,0,4.4,43.6,0.0,0.0,False,3,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Man Utd,90,0,0,3,0,13,0,0,0,2,0,0,2.1,21.4,0.0,0.0,False,1,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Fulham,90,0,0,2,0,8,0,0,0,1,0,0,0.4,3.6,0.0,0.0,True,1,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Robin Olsen,GK,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Crystal Palace,90,0,0,1,0,19,0,0,0,5,0,0,3.5,35.0,0.0,0.0,True,3,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Brighton,90,0,0,0,1,27,0,0,0,3,0,0,2.7,27.0,0.0,0.0,False,10,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Robin Olsen,GK,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Robin Olsen,GK,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Robin Olsen,GK,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0

@@ -1,37 +1,37 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Cengiz Ünder,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,West Ham,35,0,0,1,0,2,0,0,0,0,0,0,1.0,2.6,3.3,4.0,True,1
-Cengiz Ünder,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Arsenal,15,0,1,0,0,16,0,0,0,0,0,0,3.5,20.0,11.3,4.0,False,4
-Cengiz Ünder,MID,Leicester,Leeds,19,0,1,0,0,19,0,0,0,0,0,0,4.4,21.2,20.8,2.0,False,4
-Cengiz Ünder,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Liverpool,28,0,0,1,0,3,0,0,0,0,0,0,1.8,3.6,6.1,8.0,False,1
-Cengiz Ünder,MID,Leicester,Fulham,45,0,0,0,0,8,0,0,0,0,0,0,4.6,10.8,25.3,10.0,True,1
-Cengiz Ünder,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Everton,61,0,0,1,0,6,0,0,0,0,0,0,3.7,8.8,3.1,25.0,True,2
-Cengiz Ünder,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Everton,22,0,0,0,0,3,0,0,0,0,0,0,4.9,3.2,11.6,34.0,False,1
-Cengiz Ünder,MID,Leicester,Leeds,11,0,0,1,0,2,0,0,0,0,0,0,0.2,0.6,0.4,1.0,True,1
-Cengiz Ünder,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Arsenal,39,0,0,1,0,3,0,0,0,0,0,0,0.8,2.6,5.6,0.0,True,1
-Cengiz Ünder,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Cengiz Ünder,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Cengiz Ünder,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Cengiz Ünder,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Cengiz Ünder,MID,Leicester,West Ham,35,0,0,1,0,2,0,0,0,0,0,0,1.0,2.6,3.3,4.0,True,1,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Arsenal,15,0,1,0,0,16,0,0,0,0,0,0,3.5,20.0,11.3,4.0,False,4,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Leeds,19,0,1,0,0,19,0,0,0,0,0,0,4.4,21.2,20.8,2.0,False,4,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Liverpool,28,0,0,1,0,3,0,0,0,0,0,0,1.8,3.6,6.1,8.0,False,1,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Fulham,45,0,0,0,0,8,0,0,0,0,0,0,4.6,10.8,25.3,10.0,True,1,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Everton,61,0,0,1,0,6,0,0,0,0,0,0,3.7,8.8,3.1,25.0,True,2,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Everton,22,0,0,0,0,3,0,0,0,0,0,0,4.9,3.2,11.6,34.0,False,1,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Leeds,11,0,0,1,0,2,0,0,0,0,0,0,0.2,0.6,0.4,1.0,True,1,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Arsenal,39,0,0,1,0,3,0,0,0,0,0,0,0.8,2.6,5.6,0.0,True,1,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Cengiz Ünder,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Cengiz Ünder,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Cengiz Ünder,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Cengiz Ünder,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

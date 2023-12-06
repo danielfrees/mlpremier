@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Fernando Luiz Rosa,DEF,Man City,Wolves,90,0,0,1,0,11,0,0,0,0,0,0,2.4,15.4,4.8,4.0,False,2
-Fernando Luiz Rosa,DEF,Man City,Leicester,50,0,0,1,0,6,0,0,0,0,0,0,4.9,15.6,8.0,25.0,True,1
-Fernando Luiz Rosa,DEF,Man City,Leeds,13,0,0,0,0,5,0,0,0,0,0,0,0.4,2.4,0.3,1.0,False,1
-Fernando Luiz Rosa,DEF,Man City,Arsenal,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1
-Fernando Luiz Rosa,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Burnley,45,0,0,0,0,8,0,0,0,0,0,0,0.6,1.0,1.3,4.0,True,1
-Fernando Luiz Rosa,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Man Utd,90,0,0,0,1,23,1,0,0,0,0,0,1.9,6.8,3.2,9.0,False,5
-Fernando Luiz Rosa,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Newcastle,33,0,0,0,0,10,0,0,0,0,0,0,1.0,6.0,3.5,0.0,True,1
-Fernando Luiz Rosa,DEF,Man City,Chelsea,15,0,0,1,0,3,0,0,0,0,0,0,0.3,2.2,0.5,0.0,False,1
-Fernando Luiz Rosa,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Crystal Palace,90,0,0,0,1,26,0,0,0,0,0,0,2.1,10.4,8.1,2.0,True,6
-Fernando Luiz Rosa,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,4.5,19.2,17.3,8.0,True,8
-Fernando Luiz Rosa,DEF,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Fernando Luiz Rosa,DEF,Man City,Arsenal,90,0,0,0,1,32,0,0,0,0,0,0,4.1,26.2,13.1,2.0,False,9
-Fernando Luiz Rosa,DEF,Man City,West Ham,90,0,0,1,0,12,1,0,0,0,0,0,3.7,18.4,19.0,0.0,True,1
-Fernando Luiz Rosa,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Southampton,90,0,0,2,0,11,1,0,0,0,0,0,2.6,10.6,12.7,3.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Fulham,23,0,0,0,0,3,0,0,0,0,0,0,0.4,2.0,1.6,0.0,False,1
-Fernando Luiz Rosa,DEF,Man City,Leicester,90,0,0,0,1,16,1,0,0,0,0,0,1.0,7.2,3.0,0.0,False,5
-Fernando Luiz Rosa,DEF,Man City,Leeds,90,0,0,2,0,13,1,0,0,0,0,0,12.7,24.4,61.3,41.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Fernando Luiz Rosa,DEF,Man City,Crystal Palace,66,0,0,0,1,30,0,0,0,0,0,0,2.3,18.2,4.6,0.0,False,6
-Fernando Luiz Rosa,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Fernando Luiz Rosa,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Fernando Luiz Rosa,DEF,Man City,Brighton,34,0,0,2,0,2,1,0,0,0,0,0,2.2,9.8,10.5,2.0,False,-1
-Fernando Luiz Rosa,DEF,Man City,Everton,90,0,2,0,1,57,0,0,0,0,0,0,10.5,52.8,47.6,5.0,True,15
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Fernando Luiz Rosa,DEF,Man City,Wolves,90,0,0,1,0,11,0,0,0,0,0,0,2.4,15.4,4.8,4.0,False,2,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Leicester,50,0,0,1,0,6,0,0,0,0,0,0,4.9,15.6,8.0,25.0,True,1,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Leeds,13,0,0,0,0,5,0,0,0,0,0,0,0.4,2.4,0.3,1.0,False,1,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Arsenal,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Burnley,45,0,0,0,0,8,0,0,0,0,0,0,0.6,1.0,1.3,4.0,True,1,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Man Utd,90,0,0,0,1,23,1,0,0,0,0,0,1.9,6.8,3.2,9.0,False,5,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Newcastle,33,0,0,0,0,10,0,0,0,0,0,0,1.0,6.0,3.5,0.0,True,1,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Chelsea,15,0,0,1,0,3,0,0,0,0,0,0,0.3,2.2,0.5,0.0,False,1,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Crystal Palace,90,0,0,0,1,26,0,0,0,0,0,0,2.1,10.4,8.1,2.0,True,6,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,4.5,19.2,17.3,8.0,True,8,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Arsenal,90,0,0,0,1,32,0,0,0,0,0,0,4.1,26.2,13.1,2.0,False,9,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,West Ham,90,0,0,1,0,12,1,0,0,0,0,0,3.7,18.4,19.0,0.0,True,1,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Southampton,90,0,0,2,0,11,1,0,0,0,0,0,2.6,10.6,12.7,3.0,True,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Fulham,23,0,0,0,0,3,0,0,0,0,0,0,0.4,2.0,1.6,0.0,False,1,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Leicester,90,0,0,0,1,16,1,0,0,0,0,0,1.0,7.2,3.0,0.0,False,5,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Leeds,90,0,0,2,0,13,1,0,0,0,0,0,12.7,24.4,61.3,41.0,True,0,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Crystal Palace,66,0,0,0,1,30,0,0,0,0,0,0,2.3,18.2,4.6,0.0,False,6,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Fernando Luiz Rosa,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Fernando Luiz Rosa,DEF,Man City,Brighton,34,0,0,2,0,2,1,0,0,0,0,0,2.2,9.8,10.5,2.0,False,-1,5.0,3.0,2.0
+Fernando Luiz Rosa,DEF,Man City,Everton,90,0,2,0,1,57,0,0,0,0,0,0,10.5,52.8,47.6,5.0,True,15,5.0,3.0,2.0

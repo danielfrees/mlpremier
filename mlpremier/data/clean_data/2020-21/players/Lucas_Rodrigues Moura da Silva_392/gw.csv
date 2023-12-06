@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Lucas Rodrigues Moura da Silva,MID,Spurs,Everton,90,0,0,1,0,-1,0,0,0,0,0,0,4.4,2.8,5.8,35.0,True,2
-Lucas Rodrigues Moura da Silva,MID,Spurs,Southampton,60,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,2
-Lucas Rodrigues Moura da Silva,MID,Spurs,Newcastle,78,1,0,0,1,26,0,0,0,0,0,0,14.1,39.4,19.9,82.0,True,9
-Lucas Rodrigues Moura da Silva,MID,Spurs,Man Utd,45,0,0,0,0,-2,0,0,0,0,0,0,0.3,0.0,3.2,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,West Ham,10,0,0,3,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Burnley,56,0,0,0,0,1,0,0,0,0,0,0,1.7,1.4,11.7,4.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,West Brom,12,0,0,0,0,4,0,0,0,0,0,0,0.6,5.4,0.8,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Man City,17,0,0,0,0,2,0,0,0,0,0,0,0.4,3.2,1.1,0.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Arsenal,2,0,0,0,0,2,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Liverpool,32,0,0,1,0,6,0,0,0,0,0,0,0.6,5.8,0.5,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Leicester,41,0,0,1,0,5,0,0,0,0,0,0,2.2,10.2,7.5,4.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Leeds,12,0,0,0,0,3,0,0,0,0,0,0,0.4,2.4,1.7,0.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Sheffield Utd,3,0,0,0,0,4,0,0,0,0,0,0,0.5,2.4,3.0,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Brighton,29,0,0,0,0,0,0,0,0,0,0,0,2.4,2.2,1.8,20.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Chelsea,21,0,0,0,0,4,0,0,0,0,0,0,0.8,2.8,2.3,3.0,True,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,West Brom,90,0,1,0,1,18,0,0,0,0,0,0,5.1,20.8,23.9,6.0,True,6
-Lucas Rodrigues Moura da Silva,MID,Spurs,Man City,45,0,0,1,0,2,0,0,0,0,0,0,0.2,0.0,0.4,2.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,West Ham,90,1,0,2,0,20,0,0,0,0,0,0,9.5,43.6,12.6,39.0,False,8
-Lucas Rodrigues Moura da Silva,MID,Spurs,Burnley,65,1,0,0,1,27,0,0,0,0,0,0,8.7,42.2,4.4,40.0,True,8
-Lucas Rodrigues Moura da Silva,MID,Spurs,Fulham,23,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.3,4.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,2.6,14.0,5.8,6.0,True,2
-Lucas Rodrigues Moura da Silva,MID,Spurs,Arsenal,90,0,1,2,0,20,0,0,0,0,0,0,6.1,30.4,28.6,2.0,False,5
-Lucas Rodrigues Moura da Silva,MID,Spurs,Aston Villa,90,0,1,0,1,30,0,0,0,0,0,0,10.2,40.6,55.2,6.0,False,9
-Lucas Rodrigues Moura da Silva,MID,Spurs,Newcastle,63,0,0,1,0,7,0,0,0,0,0,0,0.9,5.6,2.9,0.0,False,2
-Lucas Rodrigues Moura da Silva,MID,Spurs,Man Utd,81,0,1,2,0,15,0,0,0,0,0,0,5.7,25.8,11.1,20.0,True,5
-Lucas Rodrigues Moura da Silva,MID,Spurs,Everton,26,0,0,0,0,6,0,0,0,0,0,0,3.4,6.2,27.7,0.0,False,1
-Lucas Rodrigues Moura da Silva,MID,Spurs,Southampton,90,0,1,1,0,10,0,0,0,0,0,0,4.5,7.4,12.5,25.0,True,5
-Lucas Rodrigues Moura da Silva,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Leeds,23,0,0,1,0,0,1,0,0,0,0,0,1.2,0.8,11.2,0.0,False,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Lucas Rodrigues Moura da Silva,MID,Spurs,Leicester,22,0,0,0,0,5,0,0,0,0,0,0,0.5,2.8,2.1,0.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Lucas Rodrigues Moura da Silva,MID,Spurs,Everton,90,0,0,1,0,-1,0,0,0,0,0,0,4.4,2.8,5.8,35.0,True,2,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Southampton,60,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,2,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Newcastle,78,1,0,0,1,26,0,0,0,0,0,0,14.1,39.4,19.9,82.0,True,9,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Man Utd,45,0,0,0,0,-2,0,0,0,0,0,0,0.3,0.0,3.2,0.0,False,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,West Ham,10,0,0,3,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Burnley,56,0,0,0,0,1,0,0,0,0,0,0,1.7,1.4,11.7,4.0,False,1,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,West Brom,12,0,0,0,0,4,0,0,0,0,0,0,0.6,5.4,0.8,0.0,False,1,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Man City,17,0,0,0,0,2,0,0,0,0,0,0,0.4,3.2,1.1,0.0,True,1,4.0,5.0,-1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Arsenal,2,0,0,0,0,2,0,0,0,0,0,0,0.4,4.2,0.0,0.0,True,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Liverpool,32,0,0,1,0,6,0,0,0,0,0,0,0.6,5.8,0.5,0.0,False,1,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Leicester,41,0,0,1,0,5,0,0,0,0,0,0,2.2,10.2,7.5,4.0,True,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Leeds,12,0,0,0,0,3,0,0,0,0,0,0,0.4,2.4,1.7,0.0,True,1,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Sheffield Utd,3,0,0,0,0,4,0,0,0,0,0,0,0.5,2.4,3.0,0.0,False,1,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Brighton,29,0,0,0,0,0,0,0,0,0,0,0,2.4,2.2,1.8,20.0,False,1,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Chelsea,21,0,0,0,0,4,0,0,0,0,0,0,0.8,2.8,2.3,3.0,True,1,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,West Brom,90,0,1,0,1,18,0,0,0,0,0,0,5.1,20.8,23.9,6.0,True,6,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Man City,45,0,0,1,0,2,0,0,0,0,0,0,0.2,0.0,0.4,2.0,False,1,4.0,5.0,-1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,West Ham,90,1,0,2,0,20,0,0,0,0,0,0,9.5,43.6,12.6,39.0,False,8,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Burnley,65,1,0,0,1,27,0,0,0,0,0,0,8.7,42.2,4.4,40.0,True,8,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Fulham,23,0,0,0,0,2,0,0,0,0,0,0,0.3,0.0,0.3,4.0,False,1,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Crystal Palace,90,0,0,1,0,12,0,0,0,0,0,0,2.6,14.0,5.8,6.0,True,2,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Arsenal,90,0,1,2,0,20,0,0,0,0,0,0,6.1,30.4,28.6,2.0,False,5,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Aston Villa,90,0,1,0,1,30,0,0,0,0,0,0,10.2,40.6,55.2,6.0,False,9,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Newcastle,63,0,0,1,0,7,0,0,0,0,0,0,0.9,5.6,2.9,0.0,False,2,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Man Utd,81,0,1,2,0,15,0,0,0,0,0,0,5.7,25.8,11.1,20.0,True,5,4.0,4.0,0.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Everton,26,0,0,0,0,6,0,0,0,0,0,0,3.4,6.2,27.7,0.0,False,1,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Southampton,90,0,1,1,0,10,0,0,0,0,0,0,4.5,7.4,12.5,25.0,True,5,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Leeds,23,0,0,1,0,0,1,0,0,0,0,0,1.2,0.8,11.2,0.0,False,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Lucas Rodrigues Moura da Silva,MID,Spurs,Leicester,22,0,0,0,0,5,0,0,0,0,0,0,0.5,2.8,2.1,0.0,False,1,4.0,4.0,0.0

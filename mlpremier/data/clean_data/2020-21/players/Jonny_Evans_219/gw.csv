@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Jonny Evans,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jonny Evans,DEF,Leicester,Man City,79,0,0,1,0,6,0,0,0,0,0,0,1.3,12.4,0.2,0.0,False,2
-Jonny Evans,DEF,Leicester,West Ham,90,0,0,3,0,11,1,0,0,0,0,0,1.9,18.2,1.1,0.0,True,0
-Jonny Evans,DEF,Leicester,Aston Villa,90,0,0,1,0,10,1,0,0,0,0,0,2.0,19.2,0.3,0.0,True,1
-Jonny Evans,DEF,Leicester,Arsenal,90,0,0,0,1,21,1,0,0,0,0,0,1.2,11.8,0.6,0.0,False,5
-Jonny Evans,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Wolves,90,0,0,0,1,18,1,0,0,0,0,0,2.3,13.6,3.2,6.0,True,5
-Jonny Evans,DEF,Leicester,Liverpool,90,0,0,3,0,7,0,0,1,0,0,0,0.6,5.6,0.6,0.0,False,-1
-Jonny Evans,DEF,Leicester,Fulham,90,0,0,2,0,14,0,0,0,0,0,0,2.0,16.2,2.2,2.0,True,1
-Jonny Evans,DEF,Leicester,Sheffield Utd,90,0,0,1,0,19,0,0,0,0,0,0,4.4,30.2,11.8,2.0,False,2
-Jonny Evans,DEF,Leicester,Brighton,90,0,0,0,1,25,1,0,0,0,0,0,1.1,10.8,0.3,0.0,True,5
-Jonny Evans,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jonny Evans,DEF,Leicester,Spurs,90,0,0,0,1,24,0,0,0,0,0,0,1.0,9.0,0.5,0.0,False,6
-Jonny Evans,DEF,Leicester,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,1.8,11.0,0.8,6.0,True,1
-Jonny Evans,DEF,Leicester,Crystal Palace,90,0,1,1,0,32,0,0,0,0,0,0,6.9,37.6,31.8,0.0,False,8
-Jonny Evans,DEF,Leicester,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,1.4,13.4,0.4,0.0,False,2
-Jonny Evans,DEF,Leicester,Southampton,90,0,0,0,1,25,0,0,0,0,0,0,2.0,17.2,0.5,2.0,True,7
-Jonny Evans,DEF,Leicester,Chelsea,90,0,0,0,1,25,0,0,0,0,0,0,3.7,19.6,0.7,17.0,True,7
-Jonny Evans,DEF,Leicester,Everton,76,0,0,1,0,14,0,0,0,0,0,0,1.5,11.0,1.8,2.0,False,2
-Jonny Evans,DEF,Leicester,Leeds,90,0,0,3,0,14,0,0,0,0,0,0,3.2,12.0,10.9,9.0,True,1
-Jonny Evans,DEF,Leicester,Fulham,90,0,0,0,1,31,0,0,0,0,0,0,2.6,25.2,0.3,0.0,False,7
-Jonny Evans,DEF,Leicester,Wolves,90,0,0,0,1,25,1,0,0,0,0,0,2.2,20.8,1.3,0.0,False,6
-Jonny Evans,DEF,Leicester,Liverpool,90,0,0,1,0,12,1,0,0,0,0,0,2.0,19.8,0.1,0.0,True,1
-Jonny Evans,DEF,Leicester,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,3.1,15.8,10.9,4.0,False,2
-Jonny Evans,DEF,Leicester,Arsenal,68,0,0,3,0,12,0,0,0,0,0,0,0.4,3.6,0.1,0.0,True,1
-Jonny Evans,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.9,21.2,0.9,7.0,True,6
-Jonny Evans,DEF,Leicester,Man City,90,0,0,2,0,13,0,0,0,0,0,0,1.6,9.6,0.3,6.0,True,1
-Jonny Evans,DEF,Leicester,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,1.6,14.6,0.9,0.0,False,1
-Jonny Evans,DEF,Leicester,West Brom,90,1,0,0,1,47,0,0,0,0,0,0,9.2,47.8,10.7,33.0,True,15
-Jonny Evans,DEF,Leicester,Crystal Palace,90,0,1,1,0,23,0,0,0,0,0,0,6.6,32.2,31.8,2.0,True,5
-Jonny Evans,DEF,Leicester,Southampton,90,1,0,1,0,26,0,0,0,0,0,0,7.4,53.0,4.0,17.0,False,10
-Jonny Evans,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jonny Evans,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jonny Evans,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jonny Evans,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Man City,79,0,0,1,0,6,0,0,0,0,0,0,1.3,12.4,0.2,0.0,False,2,4.0,5.0,-1.0
+Jonny Evans,DEF,Leicester,West Ham,90,0,0,3,0,11,1,0,0,0,0,0,1.9,18.2,1.1,0.0,True,0,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Aston Villa,90,0,0,1,0,10,1,0,0,0,0,0,2.0,19.2,0.3,0.0,True,1,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Arsenal,90,0,0,0,1,21,1,0,0,0,0,0,1.2,11.8,0.6,0.0,False,5,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Wolves,90,0,0,0,1,18,1,0,0,0,0,0,2.3,13.6,3.2,6.0,True,5,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Liverpool,90,0,0,3,0,7,0,0,1,0,0,0,0.6,5.6,0.6,0.0,False,-1,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Fulham,90,0,0,2,0,14,0,0,0,0,0,0,2.0,16.2,2.2,2.0,True,1,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Sheffield Utd,90,0,0,1,0,19,0,0,0,0,0,0,4.4,30.2,11.8,2.0,False,2,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Brighton,90,0,0,0,1,25,1,0,0,0,0,0,1.1,10.8,0.3,0.0,True,5,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Spurs,90,0,0,0,1,24,0,0,0,0,0,0,1.0,9.0,0.5,0.0,False,6,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Man Utd,90,0,0,2,0,15,0,0,0,0,0,0,1.8,11.0,0.8,6.0,True,1,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Crystal Palace,90,0,1,1,0,32,0,0,0,0,0,0,6.9,37.6,31.8,0.0,False,8,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,1.4,13.4,0.4,0.0,False,2,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Southampton,90,0,0,0,1,25,0,0,0,0,0,0,2.0,17.2,0.5,2.0,True,7,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Chelsea,90,0,0,0,1,25,0,0,0,0,0,0,3.7,19.6,0.7,17.0,True,7,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Everton,76,0,0,1,0,14,0,0,0,0,0,0,1.5,11.0,1.8,2.0,False,2,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Leeds,90,0,0,3,0,14,0,0,0,0,0,0,3.2,12.0,10.9,9.0,True,1,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Fulham,90,0,0,0,1,31,0,0,0,0,0,0,2.6,25.2,0.3,0.0,False,7,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Wolves,90,0,0,0,1,25,1,0,0,0,0,0,2.2,20.8,1.3,0.0,False,6,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Liverpool,90,0,0,1,0,12,1,0,0,0,0,0,2.0,19.8,0.1,0.0,True,1,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,3.1,15.8,10.9,4.0,False,2,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Arsenal,68,0,0,3,0,12,0,0,0,0,0,0,0.4,3.6,0.1,0.0,True,1,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.9,21.2,0.9,7.0,True,6,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Man City,90,0,0,2,0,13,0,0,0,0,0,0,1.6,9.6,0.3,6.0,True,1,4.0,5.0,-1.0
+Jonny Evans,DEF,Leicester,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,1.6,14.6,0.9,0.0,False,1,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,West Brom,90,1,0,0,1,47,0,0,0,0,0,0,9.2,47.8,10.7,33.0,True,15,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Crystal Palace,90,0,1,1,0,23,0,0,0,0,0,0,6.6,32.2,31.8,2.0,True,5,4.0,3.0,1.0
+Jonny Evans,DEF,Leicester,Southampton,90,1,0,1,0,26,0,0,0,0,0,0,7.4,53.0,4.0,17.0,False,10,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Jonny Evans,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Jonny Evans,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0

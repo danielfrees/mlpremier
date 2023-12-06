@@ -1,0 +1,5 @@
+v4 + Updated the model to have 2 dense layers to learn more complex functions of 
+flattened filter results -> output.
+
+Performed slightly worse across the board. May not have enough data to take advantage
+of the added complexity in the model hypothesis space. 

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Juan Mata,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Juan Mata,MID,Man Utd,Fulham,26,0,0,0,0,4,0,0,0,0,0,0,1.9,6.4,6.9,6.0,False,1
-Juan Mata,MID,Man Utd,Sheffield Utd,16,0,0,0,0,5,0,0,0,0,0,0,3.5,3.4,9.8,22.0,True,1
-Juan Mata,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Juan Mata,MID,Man Utd,Arsenal,6,0,0,0,0,7,0,0,0,0,0,0,0.6,4.8,1.4,0.0,False,1
-Juan Mata,MID,Man Utd,Crystal Palace,11,0,0,0,0,1,0,0,0,0,0,0,0.3,2.4,0.6,0.0,True,1
-Juan Mata,MID,Man Utd,Brighton,74,0,0,0,1,13,0,0,0,0,0,0,1.2,1.8,5.7,4.0,True,3
-Juan Mata,MID,Man Utd,Burnley,69,0,0,4,0,16,0,0,0,0,0,0,6.5,12.2,27.7,25.0,False,2
-Juan Mata,MID,Man Utd,Everton,28,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Juan Mata,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Juan Mata,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,5.0,-1.0
+Juan Mata,MID,Man Utd,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Juan Mata,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Juan Mata,MID,Man Utd,Everton,26,0,0,0,0,4,0,0,0,0,0,0,1.9,6.4,6.9,6.0,False,1,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Norwich,16,0,0,0,0,5,0,0,0,0,0,0,3.5,3.4,9.8,22.0,True,1,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Juan Mata,MID,Man Utd,Arsenal,6,0,0,0,0,7,0,0,0,0,0,0,0.6,4.8,1.4,0.0,False,1,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Chelsea,11,0,0,0,0,1,0,0,0,0,0,0,0.3,2.4,0.6,0.0,True,1,4.0,4.0,0.0
+Juan Mata,MID,Man Utd,Brentford,74,0,0,0,1,13,0,0,0,0,0,0,1.2,1.8,5.7,4.0,True,3,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Brighton,69,0,0,4,0,16,0,0,0,0,0,0,6.5,12.2,27.7,25.0,False,2,4.0,2.0,2.0
+Juan Mata,MID,Man Utd,Crystal Palace,28,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,4.0,2.0,2.0

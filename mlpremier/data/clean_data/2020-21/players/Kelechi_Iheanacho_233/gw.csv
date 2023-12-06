@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Kelechi Iheanacho,FWD,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Man City,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Kelechi Iheanacho,FWD,Leicester,West Ham,26,0,0,1,0,7,0,0,0,0,0,0,4.1,3.2,15.3,22.0,True,1
-Kelechi Iheanacho,FWD,Leicester,Aston Villa,70,0,0,0,1,3,0,0,0,0,0,0,3.5,5.4,22.5,7.0,True,2
-Kelechi Iheanacho,FWD,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Fulham,20,0,0,0,0,1,0,0,0,0,0,0,5.6,0.0,0.8,56.0,True,1
-Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,21,0,0,0,0,4,0,0,0,0,0,0,2.3,1.4,1.9,20.0,False,1
-Kelechi Iheanacho,FWD,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Everton,17,0,0,0,0,5,0,0,0,0,0,0,2.2,3.6,10.5,8.0,True,1
-Kelechi Iheanacho,FWD,Leicester,Spurs,2,0,0,0,0,0,0,0,0,0,0,0,0.3,0.2,0.8,2.0,False,1
-Kelechi Iheanacho,FWD,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Crystal Palace,71,0,0,1,0,-8,0,0,0,0,1,0,4.5,1.0,1.8,42.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Kelechi Iheanacho,FWD,Leicester,Chelsea,2,0,0,0,0,2,0,0,0,0,0,0,0.3,2.0,0.5,0.0,True,1
-Kelechi Iheanacho,FWD,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Fulham,90,1,0,0,1,25,0,0,0,0,0,0,8.5,33.8,14.0,37.0,False,6
-Kelechi Iheanacho,FWD,Leicester,Wolves,60,0,0,0,1,5,0,0,0,0,0,0,5.2,1.4,34.2,16.0,False,2
-Kelechi Iheanacho,FWD,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Kelechi Iheanacho,FWD,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Kelechi Iheanacho,FWD,Leicester,Arsenal,90,0,0,3,0,-3,0,0,0,0,0,0,3.8,0.0,4.8,37.0,True,2
-Kelechi Iheanacho,FWD,Leicester,Burnley,66,1,0,1,0,30,0,0,0,0,0,0,7.9,32.2,21.9,25.0,False,9
-Kelechi Iheanacho,FWD,Leicester,Brighton,90,1,0,1,0,31,0,0,0,0,0,0,7.6,35.8,15.3,25.0,False,9
-Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,90,3,0,0,1,93,0,0,0,0,0,0,26.7,118.6,38.8,110.0,True,17
-Kelechi Iheanacho,FWD,Leicester,Man City,71,0,0,1,0,10,0,0,0,0,0,0,2.0,5.8,12.0,2.0,True,2
-Kelechi Iheanacho,FWD,Leicester,West Ham,90,2,0,3,0,56,0,0,0,0,0,0,16.7,69.4,20.4,77.0,False,13
-Kelechi Iheanacho,FWD,Leicester,West Brom,90,1,0,0,1,30,0,0,0,0,0,0,14.9,44.6,10.9,93.0,True,6
-Kelechi Iheanacho,FWD,Leicester,Crystal Palace,90,1,1,1,0,48,0,0,0,0,0,0,14.9,59.0,55.3,35.0,True,12
-Kelechi Iheanacho,FWD,Leicester,Southampton,90,0,1,1,0,9,0,0,0,0,0,0,8.4,19.4,27.7,37.0,False,5
-Kelechi Iheanacho,FWD,Leicester,Newcastle,90,1,0,4,0,36,1,0,0,0,0,0,14.4,50.0,39.5,54.0,True,7
-Kelechi Iheanacho,FWD,Leicester,Man Utd,90,0,0,1,0,6,0,0,0,0,0,0,10.5,9.6,31.8,64.0,False,2
-Kelechi Iheanacho,FWD,Leicester,Chelsea,30,1,0,1,0,27,0,0,0,0,0,0,7.7,38.4,13.6,25.0,False,6
-Kelechi Iheanacho,FWD,Leicester,Spurs,90,0,0,4,0,2,0,0,0,0,0,0,4.5,5.4,19.3,20.0,True,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Kelechi Iheanacho,FWD,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Man City,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,4.0,5.0,-1.0
+Kelechi Iheanacho,FWD,Leicester,West Ham,26,0,0,1,0,7,0,0,0,0,0,0,4.1,3.2,15.3,22.0,True,1,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Aston Villa,70,0,0,0,1,3,0,0,0,0,0,0,3.5,5.4,22.5,7.0,True,2,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Fulham,20,0,0,0,0,1,0,0,0,0,0,0,5.6,0.0,0.8,56.0,True,1,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,21,0,0,0,0,4,0,0,0,0,0,0,2.3,1.4,1.9,20.0,False,1,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Everton,17,0,0,0,0,5,0,0,0,0,0,0,2.2,3.6,10.5,8.0,True,1,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Spurs,2,0,0,0,0,0,0,0,0,0,0,0,0.3,0.2,0.8,2.0,False,1,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Crystal Palace,71,0,0,1,0,-8,0,0,0,0,1,0,4.5,1.0,1.8,42.0,False,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Chelsea,2,0,0,0,0,2,0,0,0,0,0,0,0.3,2.0,0.5,0.0,True,1,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Fulham,90,1,0,0,1,25,0,0,0,0,0,0,8.5,33.8,14.0,37.0,False,6,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Wolves,60,0,0,0,1,5,0,0,0,0,0,0,5.2,1.4,34.2,16.0,False,2,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Arsenal,90,0,0,3,0,-3,0,0,0,0,0,0,3.8,0.0,4.8,37.0,True,2,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Burnley,66,1,0,1,0,30,0,0,0,0,0,0,7.9,32.2,21.9,25.0,False,9,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Brighton,90,1,0,1,0,31,0,0,0,0,0,0,7.6,35.8,15.3,25.0,False,9,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,90,3,0,0,1,93,0,0,0,0,0,0,26.7,118.6,38.8,110.0,True,17,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Man City,71,0,0,1,0,10,0,0,0,0,0,0,2.0,5.8,12.0,2.0,True,2,4.0,5.0,-1.0
+Kelechi Iheanacho,FWD,Leicester,West Ham,90,2,0,3,0,56,0,0,0,0,0,0,16.7,69.4,20.4,77.0,False,13,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,West Brom,90,1,0,0,1,30,0,0,0,0,0,0,14.9,44.6,10.9,93.0,True,6,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Crystal Palace,90,1,1,1,0,48,0,0,0,0,0,0,14.9,59.0,55.3,35.0,True,12,4.0,3.0,1.0
+Kelechi Iheanacho,FWD,Leicester,Southampton,90,0,1,1,0,9,0,0,0,0,0,0,8.4,19.4,27.7,37.0,False,5,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Newcastle,90,1,0,4,0,36,1,0,0,0,0,0,14.4,50.0,39.5,54.0,True,7,4.0,2.0,2.0
+Kelechi Iheanacho,FWD,Leicester,Man Utd,90,0,0,1,0,6,0,0,0,0,0,0,10.5,9.6,31.8,64.0,False,2,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Chelsea,30,1,0,1,0,27,0,0,0,0,0,0,7.7,38.4,13.6,25.0,False,6,4.0,4.0,0.0
+Kelechi Iheanacho,FWD,Leicester,Spurs,90,0,0,4,0,2,0,0,0,0,0,0,4.5,5.4,19.3,20.0,True,2,4.0,4.0,0.0

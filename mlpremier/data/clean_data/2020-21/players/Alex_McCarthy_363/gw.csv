@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Alex McCarthy,GK,Southampton,Crystal Palace,90,0,0,1,0,17,0,0,0,2,0,0,2.3,22.6,0.0,0.0,False,2
-Alex McCarthy,GK,Southampton,Spurs,90,0,0,5,0,9,0,0,0,1,0,0,1.3,12.8,0.0,0.0,True,0
-Alex McCarthy,GK,Southampton,Burnley,90,0,0,0,1,26,0,0,0,2,0,0,1.5,14.6,0.0,0.0,False,6
-Alex McCarthy,GK,Southampton,West Brom,90,0,0,0,1,28,0,0,0,3,0,0,2.0,20.0,0.0,0.0,True,9
-Alex McCarthy,GK,Southampton,Chelsea,90,0,0,3,0,10,0,0,0,2,0,0,2.0,20.2,0.0,0.0,False,1
-Alex McCarthy,GK,Southampton,Everton,90,0,0,0,1,23,0,0,0,2,0,0,1.5,15.0,0.0,0.0,True,6
-Alex McCarthy,GK,Southampton,Aston Villa,90,0,0,3,0,24,0,0,0,7,0,0,5.4,54.0,0.0,0.0,False,3
-Alex McCarthy,GK,Southampton,Newcastle,90,0,0,0,1,23,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,6
-Alex McCarthy,GK,Southampton,Wolves,90,0,0,1,0,24,0,0,0,8,0,0,5.9,59.0,0.0,0.0,False,7
-Alex McCarthy,GK,Southampton,Man Utd,90,0,0,3,0,17,0,0,0,3,0,0,2.3,23.2,0.0,0.0,True,2
-Alex McCarthy,GK,Southampton,Brighton,90,0,0,1,0,12,1,0,0,3,0,0,2.7,26.6,0.0,0.0,False,2
-Alex McCarthy,GK,Southampton,Sheffield Utd,90,0,0,0,1,19,0,0,0,0,0,0,0.4,3.8,0.0,0.0,True,6
-Alex McCarthy,GK,Southampton,Arsenal,90,0,0,1,0,16,0,0,0,4,0,0,3.1,30.8,0.0,0.0,False,3
-Alex McCarthy,GK,Southampton,Man City,90,0,0,1,0,17,0,0,0,4,0,0,2.4,24.4,0.0,0.0,True,3
-Alex McCarthy,GK,Southampton,Fulham,90,0,0,0,1,24,0,0,0,1,0,0,1.2,11.6,0.0,0.0,False,6
-Alex McCarthy,GK,Southampton,West Ham,90,0,0,0,1,29,0,0,0,3,0,0,2.8,27.6,0.0,0.0,True,9
-Alex McCarthy,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alex McCarthy,GK,Southampton,Leicester,90,0,0,2,0,14,0,0,0,2,0,0,2.0,20.4,0.0,0.0,False,1
-Alex McCarthy,GK,Southampton,Arsenal,90,0,0,3,0,9,0,0,0,1,0,0,1.2,12.2,0.0,0.0,True,1
-Alex McCarthy,GK,Southampton,Aston Villa,90,0,0,1,0,14,0,0,0,3,0,0,2.7,27.4,0.0,0.0,True,3
-Alex McCarthy,GK,Southampton,Man Utd,90,0,0,9,0,20,0,0,0,6,0,0,3.3,33.2,0.0,0.0,False,0
-Alex McCarthy,GK,Southampton,Newcastle,90,0,0,3,0,12,0,0,0,1,0,0,1.2,12.0,0.0,0.0,False,1
-Alex McCarthy,GK,Southampton,Wolves,90,0,0,2,0,12,0,0,0,2,0,0,1.6,16.4,0.0,0.0,True,1
-Alex McCarthy,GK,Southampton,Chelsea,90,0,0,1,0,9,1,0,0,2,0,0,1.3,13.4,0.0,0.0,True,1
-Alex McCarthy,GK,Southampton,Leeds,90,0,0,3,0,18,0,0,0,4,0,0,3.6,36.4,0.0,0.0,False,2
-Alex McCarthy,GK,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alex McCarthy,GK,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alex McCarthy,GK,Southampton,Man City,90,0,0,5,0,19,0,0,0,5,0,0,3.9,39.4,0.0,0.0,False,1
-Alex McCarthy,GK,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alex McCarthy,GK,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alex McCarthy,GK,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alex McCarthy,GK,Southampton,Spurs,90,0,0,2,0,11,0,0,0,1,0,0,0.7,7.0,0.0,0.0,False,1
-Alex McCarthy,GK,Southampton,Leicester,90,0,0,1,0,25,0,0,0,8,0,0,5.4,54.2,0.0,0.0,True,5
-Alex McCarthy,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Alex McCarthy,GK,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Alex McCarthy,GK,Southampton,Fulham,90,0,0,1,0,12,0,0,0,2,0,0,1.6,16.0,0.0,0.0,True,2
-Alex McCarthy,GK,Southampton,Leeds,90,0,0,2,0,18,0,0,0,5,0,0,3.7,36.8,0.0,0.0,True,2
-Alex McCarthy,GK,Southampton,West Ham,90,0,0,3,0,16,0,0,0,4,0,0,3.1,31.4,0.0,0.0,False,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Alex McCarthy,GK,Southampton,Crystal Palace,90,0,0,1,0,17,0,0,0,2,0,0,2.3,22.6,0.0,0.0,False,2,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Spurs,90,0,0,5,0,9,0,0,0,1,0,0,1.3,12.8,0.0,0.0,True,0,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Burnley,90,0,0,0,1,26,0,0,0,2,0,0,1.5,14.6,0.0,0.0,False,6,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,West Brom,90,0,0,0,1,28,0,0,0,3,0,0,2.0,20.0,0.0,0.0,True,9,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Chelsea,90,0,0,3,0,10,0,0,0,2,0,0,2.0,20.2,0.0,0.0,False,1,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Everton,90,0,0,0,1,23,0,0,0,2,0,0,1.5,15.0,0.0,0.0,True,6,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Aston Villa,90,0,0,3,0,24,0,0,0,7,0,0,5.4,54.0,0.0,0.0,False,3,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Newcastle,90,0,0,0,1,23,0,0,0,2,0,0,1.9,18.8,0.0,0.0,True,6,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Wolves,90,0,0,1,0,24,0,0,0,8,0,0,5.9,59.0,0.0,0.0,False,7,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Man Utd,90,0,0,3,0,17,0,0,0,3,0,0,2.3,23.2,0.0,0.0,True,2,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Brighton,90,0,0,1,0,12,1,0,0,3,0,0,2.7,26.6,0.0,0.0,False,2,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Sheffield Utd,90,0,0,0,1,19,0,0,0,0,0,0,0.4,3.8,0.0,0.0,True,6,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Arsenal,90,0,0,1,0,16,0,0,0,4,0,0,3.1,30.8,0.0,0.0,False,3,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Man City,90,0,0,1,0,17,0,0,0,4,0,0,2.4,24.4,0.0,0.0,True,3,2.0,5.0,-3.0
+Alex McCarthy,GK,Southampton,Fulham,90,0,0,0,1,24,0,0,0,1,0,0,1.2,11.6,0.0,0.0,False,6,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,West Ham,90,0,0,0,1,29,0,0,0,3,0,0,2.8,27.6,0.0,0.0,True,9,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Leicester,90,0,0,2,0,14,0,0,0,2,0,0,2.0,20.4,0.0,0.0,False,1,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Arsenal,90,0,0,3,0,9,0,0,0,1,0,0,1.2,12.2,0.0,0.0,True,1,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Aston Villa,90,0,0,1,0,14,0,0,0,3,0,0,2.7,27.4,0.0,0.0,True,3,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Man Utd,90,0,0,9,0,20,0,0,0,6,0,0,3.3,33.2,0.0,0.0,False,0,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Newcastle,90,0,0,3,0,12,0,0,0,1,0,0,1.2,12.0,0.0,0.0,False,1,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Wolves,90,0,0,2,0,12,0,0,0,2,0,0,1.6,16.4,0.0,0.0,True,1,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Chelsea,90,0,0,1,0,9,1,0,0,2,0,0,1.3,13.4,0.0,0.0,True,1,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Leeds,90,0,0,3,0,18,0,0,0,4,0,0,3.6,36.4,0.0,0.0,False,2,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Man City,90,0,0,5,0,19,0,0,0,5,0,0,3.9,39.4,0.0,0.0,False,1,2.0,5.0,-3.0
+Alex McCarthy,GK,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Spurs,90,0,0,2,0,11,0,0,0,1,0,0,0.7,7.0,0.0,0.0,False,1,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Leicester,90,0,0,1,0,25,0,0,0,8,0,0,5.4,54.2,0.0,0.0,True,5,2.0,4.0,-2.0
+Alex McCarthy,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,Fulham,90,0,0,1,0,12,0,0,0,2,0,0,1.6,16.0,0.0,0.0,True,2,2.0,2.0,0.0
+Alex McCarthy,GK,Southampton,Leeds,90,0,0,2,0,18,0,0,0,5,0,0,3.7,36.8,0.0,0.0,True,2,2.0,3.0,-1.0
+Alex McCarthy,GK,Southampton,West Ham,90,0,0,3,0,16,0,0,0,4,0,0,3.1,31.4,0.0,0.0,False,2,2.0,4.0,-2.0

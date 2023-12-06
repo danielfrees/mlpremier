@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Ben White,DEF,Brighton,Chelsea,78,0,0,3,0,16,0,0,0,0,0,0,1.5,14.2,0.8,0.0,True,1
-Ben White,DEF,Brighton,Newcastle,90,0,0,0,1,21,0,0,0,0,0,0,1.7,12.8,3.8,0.0,False,6
-Ben White,DEF,Brighton,Man Utd,90,0,0,3,0,14,1,0,0,0,0,0,4.2,22.6,17.0,2.0,True,0
-Ben White,DEF,Brighton,Everton,90,0,0,4,0,13,0,0,0,0,0,0,2.9,25.4,3.1,0.0,False,0
-Ben White,DEF,Brighton,Crystal Palace,90,0,0,1,0,10,0,0,0,0,0,0,2.4,14.0,3.6,6.0,False,2
-Ben White,DEF,Brighton,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,1.6,12.0,1.8,2.0,True,2
-Ben White,DEF,Brighton,Spurs,90,0,0,2,0,12,0,0,0,0,0,0,1.7,15.6,1.3,0.0,False,1
-Ben White,DEF,Brighton,Burnley,90,0,0,0,1,27,0,0,0,0,0,0,1.5,11.8,3.2,0.0,True,6
-Ben White,DEF,Brighton,Aston Villa,90,0,0,1,0,8,0,0,0,0,0,0,1.4,13.8,0.4,0.0,False,2
-Ben White,DEF,Brighton,Liverpool,90,0,0,1,0,11,1,0,0,0,0,0,4.2,21.8,20.6,0.0,True,1
-Ben White,DEF,Brighton,Southampton,80,0,0,2,0,7,0,0,0,0,0,0,0.4,3.6,0.2,0.0,True,1
-Ben White,DEF,Brighton,Leicester,90,0,0,3,0,16,0,0,0,0,0,0,2.0,18.0,2.1,0.0,False,1
-Ben White,DEF,Brighton,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.2,18.2,1.8,2.0,False,6
-Ben White,DEF,Brighton,Sheffield Utd,71,0,0,1,0,11,0,0,0,0,0,0,0.7,3.2,3.8,0.0,True,2
-Ben White,DEF,Brighton,West Ham,90,0,0,2,0,14,0,0,0,0,0,0,2.5,12.8,12.5,0.0,False,1
-Ben White,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ben White,DEF,Brighton,Wolves,90,0,0,3,0,12,0,0,0,0,0,0,2.5,10.2,14.3,0.0,True,1
-Ben White,DEF,Brighton,Man City,90,0,0,1,0,14,0,0,0,0,0,0,0.9,6.4,2.2,0.0,False,2
-Ben White,DEF,Brighton,Leeds,90,0,0,0,1,20,0,0,0,0,0,0,3.6,8.0,2.3,26.0,False,6
-Ben White,DEF,Brighton,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,3.1,14.4,12.3,4.0,True,8
-Ben White,DEF,Brighton,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,5.0,16.6,12.5,21.0,True,6
-Ben White,DEF,Brighton,Liverpool,90,0,0,0,1,22,0,0,0,0,0,0,0.9,4.4,0.7,4.0,False,6
-Ben White,DEF,Brighton,Burnley,90,0,0,1,0,10,0,0,0,0,0,0,2.0,19.2,0.5,0.0,False,2
-Ben White,DEF,Brighton,Aston Villa,90,0,0,0,1,25,0,0,0,0,0,0,0.9,7.6,0.9,0.0,True,6
-Ben White,DEF,Brighton,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.6,14.6,3.8,18.0,True,1
-Ben White,DEF,Brighton,West Brom,83,0,0,1,0,14,0,0,0,0,0,0,1.4,13.2,0.8,0.0,False,2
-Ben White,DEF,Brighton,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,1.2,9.8,0.1,2.0,True,1
-Ben White,DEF,Brighton,Southampton,90,0,0,1,0,7,0,0,0,0,0,0,0.8,8.0,0.1,0.0,False,2
-Ben White,DEF,Brighton,Newcastle,90,0,0,0,1,27,0,0,0,0,0,0,1.4,11.2,2.7,0.0,True,6
-Ben White,DEF,Brighton,Man Utd,90,0,0,2,0,13,1,0,0,0,0,0,3.2,13.4,0.4,18.0,False,0
-Ben White,DEF,Brighton,Everton,90,0,0,0,1,27,0,0,0,0,0,0,3.6,21.8,12.2,2.0,True,9
-Ben White,DEF,Brighton,Chelsea,90,0,0,0,1,8,0,1,0,0,0,0,0.5,4.0,0.8,0.0,False,3
-Ben White,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ben White,DEF,Brighton,Leeds,90,0,0,0,1,20,0,0,0,0,0,0,1.5,5.6,1.8,8.0,True,6
-Ben White,DEF,Brighton,Wolves,90,0,0,2,0,8,0,0,0,0,0,0,2.1,17.2,1.8,2.0,False,1
-Ben White,DEF,Brighton,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,2.7,25.6,0.9,0.0,True,2
-Ben White,DEF,Brighton,Man City,90,0,0,2,0,13,0,0,0,0,0,0,5.7,18.0,2.9,36.0,True,1
-Ben White,DEF,Brighton,Arsenal,90,0,0,2,0,18,0,0,0,0,0,0,2.2,19.6,2.5,0.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ben White,DEF,Brighton,Chelsea,78,0,0,3,0,16,0,0,0,0,0,0,1.5,14.2,0.8,0.0,True,1,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Newcastle,90,0,0,0,1,21,0,0,0,0,0,0,1.7,12.8,3.8,0.0,False,6,3.0,2.0,1.0
+Ben White,DEF,Brighton,Man Utd,90,0,0,3,0,14,1,0,0,0,0,0,4.2,22.6,17.0,2.0,True,0,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Everton,90,0,0,4,0,13,0,0,0,0,0,0,2.9,25.4,3.1,0.0,False,0,3.0,3.0,0.0
+Ben White,DEF,Brighton,Crystal Palace,90,0,0,1,0,10,0,0,0,0,0,0,2.4,14.0,3.6,6.0,False,2,3.0,3.0,0.0
+Ben White,DEF,Brighton,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,1.6,12.0,1.8,2.0,True,2,3.0,2.0,1.0
+Ben White,DEF,Brighton,Spurs,90,0,0,2,0,12,0,0,0,0,0,0,1.7,15.6,1.3,0.0,False,1,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Burnley,90,0,0,0,1,27,0,0,0,0,0,0,1.5,11.8,3.2,0.0,True,6,3.0,2.0,1.0
+Ben White,DEF,Brighton,Aston Villa,90,0,0,1,0,8,0,0,0,0,0,0,1.4,13.8,0.4,0.0,False,2,3.0,3.0,0.0
+Ben White,DEF,Brighton,Liverpool,90,0,0,1,0,11,1,0,0,0,0,0,4.2,21.8,20.6,0.0,True,1,3.0,3.0,0.0
+Ben White,DEF,Brighton,Southampton,80,0,0,2,0,7,0,0,0,0,0,0,0.4,3.6,0.2,0.0,True,1,3.0,2.0,1.0
+Ben White,DEF,Brighton,Leicester,90,0,0,3,0,16,0,0,0,0,0,0,2.0,18.0,2.1,0.0,False,1,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.2,18.2,1.8,2.0,False,6,3.0,2.0,1.0
+Ben White,DEF,Brighton,Sheffield Utd,71,0,0,1,0,11,0,0,0,0,0,0,0.7,3.2,3.8,0.0,True,2,3.0,2.0,1.0
+Ben White,DEF,Brighton,West Ham,90,0,0,2,0,14,0,0,0,0,0,0,2.5,12.8,12.5,0.0,False,1,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Wolves,90,0,0,3,0,12,0,0,0,0,0,0,2.5,10.2,14.3,0.0,True,1,3.0,3.0,0.0
+Ben White,DEF,Brighton,Man City,90,0,0,1,0,14,0,0,0,0,0,0,0.9,6.4,2.2,0.0,False,2,3.0,5.0,-2.0
+Ben White,DEF,Brighton,Leeds,90,0,0,0,1,20,0,0,0,0,0,0,3.6,8.0,2.3,26.0,False,6,3.0,3.0,0.0
+Ben White,DEF,Brighton,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,3.1,14.4,12.3,4.0,True,8,3.0,2.0,1.0
+Ben White,DEF,Brighton,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,5.0,16.6,12.5,21.0,True,6,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Liverpool,90,0,0,0,1,22,0,0,0,0,0,0,0.9,4.4,0.7,4.0,False,6,3.0,3.0,0.0
+Ben White,DEF,Brighton,Burnley,90,0,0,1,0,10,0,0,0,0,0,0,2.0,19.2,0.5,0.0,False,2,3.0,2.0,1.0
+Ben White,DEF,Brighton,Aston Villa,90,0,0,0,1,25,0,0,0,0,0,0,0.9,7.6,0.9,0.0,True,6,3.0,3.0,0.0
+Ben White,DEF,Brighton,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.6,14.6,3.8,18.0,True,1,3.0,3.0,0.0
+Ben White,DEF,Brighton,West Brom,83,0,0,1,0,14,0,0,0,0,0,0,1.4,13.2,0.8,0.0,False,2,3.0,2.0,1.0
+Ben White,DEF,Brighton,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,1.2,9.8,0.1,2.0,True,1,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Southampton,90,0,0,1,0,7,0,0,0,0,0,0,0.8,8.0,0.1,0.0,False,2,3.0,2.0,1.0
+Ben White,DEF,Brighton,Newcastle,90,0,0,0,1,27,0,0,0,0,0,0,1.4,11.2,2.7,0.0,True,6,3.0,2.0,1.0
+Ben White,DEF,Brighton,Man Utd,90,0,0,2,0,13,1,0,0,0,0,0,3.2,13.4,0.4,18.0,False,0,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Everton,90,0,0,0,1,27,0,0,0,0,0,0,3.6,21.8,12.2,2.0,True,9,3.0,3.0,0.0
+Ben White,DEF,Brighton,Chelsea,90,0,0,0,1,8,0,1,0,0,0,0,0.5,4.0,0.8,0.0,False,3,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ben White,DEF,Brighton,Leeds,90,0,0,0,1,20,0,0,0,0,0,0,1.5,5.6,1.8,8.0,True,6,3.0,3.0,0.0
+Ben White,DEF,Brighton,Wolves,90,0,0,2,0,8,0,0,0,0,0,0,2.1,17.2,1.8,2.0,False,1,3.0,3.0,0.0
+Ben White,DEF,Brighton,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,2.7,25.6,0.9,0.0,True,2,3.0,4.0,-1.0
+Ben White,DEF,Brighton,Man City,90,0,0,2,0,13,0,0,0,0,0,0,5.7,18.0,2.9,36.0,True,1,3.0,5.0,-2.0
+Ben White,DEF,Brighton,Arsenal,90,0,0,2,0,18,0,0,0,0,0,0,2.2,19.6,2.5,0.0,False,1,3.0,4.0,-1.0

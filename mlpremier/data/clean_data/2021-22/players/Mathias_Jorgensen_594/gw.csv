@@ -1,36 +1,36 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Mathias Jorgensen,DEF,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Wolves,8,0,0,0,0,4,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1
-Mathias Jorgensen,DEF,Brentford,Liverpool,47,0,0,2,0,4,0,0,0,0,0,0,0.9,8.8,0.4,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,West Ham,90,0,0,1,0,3,1,0,0,0,0,0,0.7,6.4,0.7,0.0,False,1
-Mathias Jorgensen,DEF,Brentford,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,5.2,19.8,30.0,2.0,True,2
-Mathias Jorgensen,DEF,Brentford,Leicester,90,1,0,2,0,19,1,0,0,0,0,0,11.0,47.0,11.5,51.0,True,6
-Mathias Jorgensen,DEF,Brentford,Chelsea,90,0,0,3,0,10,0,0,0,0,0,0,1.6,12.0,2.0,2.0,False,1
-Mathias Jorgensen,DEF,Brentford,Sheffield Utd,11,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Mathias Jorgensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,West Ham,90,0,0,0,1,27,0,0,0,0,0,0,1.5,12.2,0.3,2.0,True,6
-Mathias Jorgensen,DEF,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mathias Jorgensen,DEF,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mathias Jorgensen,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mathias Jorgensen,DEF,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Wolves,8,0,0,0,0,4,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Liverpool,47,0,0,2,0,4,0,0,0,0,0,0,0.9,8.8,0.4,0.0,True,0,2.0,5.0,-3.0
+Mathias Jorgensen,DEF,Brentford,West Ham,90,0,0,1,0,3,1,0,0,0,0,0,0.7,6.4,0.7,0.0,False,1,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,5.2,19.8,30.0,2.0,True,2,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Leicester,90,1,0,2,0,19,1,0,0,0,0,0,11.0,47.0,11.5,51.0,True,6,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Burnley,90,0,0,3,0,10,0,0,0,0,0,0,1.6,12.0,2.0,2.0,False,1,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Norwich,11,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Mathias Jorgensen,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Mathias Jorgensen,DEF,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Mathias Jorgensen,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,West Ham,90,0,0,0,1,27,0,0,0,0,0,0,1.5,12.2,0.3,2.0,True,6,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Mathias Jorgensen,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Mathias Jorgensen,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Mathias Jorgensen,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0

@@ -1,34 +1,34 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Daniel N'Lundulu,FWD,Southampton,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Sheffield Utd,6,0,0,0,0,2,0,0,0,0,0,0,0.3,0.4,0.1,2.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Man City,8,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1
-Daniel N'Lundulu,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Liverpool,13,0,0,0,0,1,0,0,0,0,0,0,0.5,1.0,0.4,4.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Leicester,29,0,0,1,0,3,0,0,0,0,0,0,1.7,0.2,11.0,6.0,False,1
-Daniel N'Lundulu,FWD,Southampton,Arsenal,16,0,0,0,0,2,0,0,0,0,0,0,0.4,1.2,0.5,2.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Newcastle,9,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1
-Daniel N'Lundulu,FWD,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Chelsea,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Everton,13,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1
-Daniel N'Lundulu,FWD,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Brighton,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Leicester,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Daniel N'Lundulu,FWD,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Daniel N'Lundulu,FWD,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Daniel N'Lundulu,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Daniel N'Lundulu,FWD,Southampton,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Sheffield Utd,6,0,0,0,0,2,0,0,0,0,0,0,0.3,0.4,0.1,2.0,True,1,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Man City,8,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,1,2.0,5.0,-3.0
+Daniel N'Lundulu,FWD,Southampton,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,1,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Liverpool,13,0,0,0,0,1,0,0,0,0,0,0,0.5,1.0,0.4,4.0,True,1,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Leicester,29,0,0,1,0,3,0,0,0,0,0,0,1.7,0.2,11.0,6.0,False,1,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Arsenal,16,0,0,0,0,2,0,0,0,0,0,0,0.4,1.2,0.5,2.0,True,1,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Newcastle,9,0,0,0,0,3,0,0,0,0,0,0,0.2,0.0,0.0,2.0,False,1,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Chelsea,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Everton,13,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,False,1,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Daniel N'Lundulu,FWD,Southampton,Brighton,3,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Leicester,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,4.0,-2.0
+Daniel N'Lundulu,FWD,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Daniel N'Lundulu,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Daniel N'Lundulu,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0

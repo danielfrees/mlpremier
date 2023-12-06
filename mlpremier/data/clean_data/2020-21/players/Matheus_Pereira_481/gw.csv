@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Matheus Pereira,MID,West Brom,Leicester,90,0,0,3,0,9,0,0,0,0,0,0,4.9,8.6,14.7,26.0,True,2
-Matheus Pereira,MID,West Brom,Everton,70,1,1,5,0,33,0,0,0,0,0,0,7.8,55.0,12.0,11.0,False,10
-Matheus Pereira,MID,West Brom,Chelsea,90,0,1,2,0,21,0,0,0,0,0,0,5.7,28.8,28.3,0.0,True,5
-Matheus Pereira,MID,West Brom,Southampton,90,0,0,2,0,9,0,0,0,0,0,0,3.6,7.2,18.3,10.0,False,2
-Matheus Pereira,MID,West Brom,Burnley,87,0,0,0,1,15,0,0,0,0,0,0,10.9,15.2,59.3,34.0,True,3
-Matheus Pereira,MID,West Brom,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,2.9,4.4,17.0,8.0,False,2
-Matheus Pereira,MID,West Brom,Fulham,55,0,0,2,0,1,0,0,0,0,0,0,1.2,1.4,0.8,10.0,False,1
-Matheus Pereira,MID,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Matheus Pereira,MID,West Brom,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,3.8,10.8,25.8,1.0,False,2
-Matheus Pereira,MID,West Brom,Sheffield Utd,90,0,0,0,1,17,1,0,0,0,0,0,16.8,22.8,123.9,21.0,True,2
-Matheus Pereira,MID,West Brom,Crystal Palace,33,0,0,5,0,-4,0,1,0,0,0,0,4.6,3.4,23.1,19.0,True,-2
-Matheus Pereira,MID,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Matheus Pereira,MID,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Matheus Pereira,MID,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Matheus Pereira,MID,West Brom,Liverpool,17,0,1,0,0,17,0,0,0,0,0,0,3.7,22.2,14.5,0.0,False,4
-Matheus Pereira,MID,West Brom,Leeds,29,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,4.1,0.0,True,1
-Matheus Pereira,MID,West Brom,Arsenal,90,0,0,4,0,17,0,0,0,0,0,0,4.8,13.4,33.0,2.0,True,2
-Matheus Pereira,MID,West Brom,Wolves,81,2,0,2,0,48,0,0,0,0,0,0,13.9,74.0,24.4,41.0,False,15
-Matheus Pereira,MID,West Brom,West Ham,90,1,0,2,0,29,0,0,0,0,0,0,5.6,37.2,3.5,15.0,False,9
-Matheus Pereira,MID,West Brom,Man City,90,0,0,5,0,10,0,0,0,0,0,0,2.5,10.0,15.3,0.0,True,2
-Matheus Pereira,MID,West Brom,Fulham,90,1,1,2,0,35,0,0,0,0,0,0,6.2,36.8,7.1,18.0,True,13
-Matheus Pereira,MID,West Brom,Sheffield Utd,90,0,0,2,0,1,1,0,0,0,0,0,4.4,6.6,20.9,16.0,False,1
-Matheus Pereira,MID,West Brom,Spurs,10,0,0,0,0,3,0,0,0,0,0,0,1.4,3.8,10.5,0.0,False,1
-Matheus Pereira,MID,West Brom,Man Utd,90,0,0,1,0,8,0,0,0,0,0,0,4.4,5.6,34.8,4.0,True,2
-Matheus Pereira,MID,West Brom,Burnley,90,0,0,0,1,6,0,0,0,0,0,0,9.8,14.4,21.7,62.0,False,3
-Matheus Pereira,MID,West Brom,Brighton,78,0,0,0,1,6,0,0,0,0,0,0,3.2,8.4,21.7,2.0,True,3
-Matheus Pereira,MID,West Brom,Everton,90,0,0,1,0,13,0,0,0,0,0,0,5.2,10.0,7.0,35.0,True,2
-Matheus Pereira,MID,West Brom,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,6.9,13.4,32.1,23.0,True,3
-Matheus Pereira,MID,West Brom,Crystal Palace,62,0,0,1,0,10,0,0,0,0,0,0,5.2,9.8,32.7,9.0,False,2
-Matheus Pereira,MID,West Brom,Chelsea,90,2,2,2,0,69,0,0,0,0,0,0,22.1,114.4,40.8,66.0,False,21
-Matheus Pereira,MID,West Brom,Southampton,90,1,0,0,1,32,0,0,0,0,0,0,12.4,45.2,22.8,56.0,True,9
-Matheus Pereira,MID,West Brom,Leicester,72,0,0,3,0,8,0,0,0,0,0,0,1.6,2.0,11.8,2.0,False,2
-Matheus Pereira,MID,West Brom,Aston Villa,90,1,0,2,0,31,0,0,0,0,0,0,12.8,46.8,51.3,30.0,False,10
-Matheus Pereira,MID,West Brom,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,4.7,7.4,29.8,10.0,True,2
-Matheus Pereira,MID,West Brom,Arsenal,90,1,0,3,0,33,0,0,0,0,0,0,13.2,39.8,43.4,49.0,False,7
-Matheus Pereira,MID,West Brom,Liverpool,90,0,1,2,0,21,0,0,0,0,0,0,10.0,26.2,61.9,12.0,True,5
-Matheus Pereira,MID,West Brom,West Ham,90,1,0,3,0,23,0,0,0,0,0,0,11.3,39.0,5.3,69.0,True,7
-Matheus Pereira,MID,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Matheus Pereira,MID,West Brom,Leicester,90,0,0,3,0,9,0,0,0,0,0,0,4.9,8.6,14.7,26.0,True,2,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Everton,70,1,1,5,0,33,0,0,0,0,0,0,7.8,55.0,12.0,11.0,False,10,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Chelsea,90,0,1,2,0,21,0,0,0,0,0,0,5.7,28.8,28.3,0.0,True,5,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Southampton,90,0,0,2,0,9,0,0,0,0,0,0,3.6,7.2,18.3,10.0,False,2,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Burnley,87,0,0,0,1,15,0,0,0,0,0,0,10.9,15.2,59.3,34.0,True,3,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,2.9,4.4,17.0,8.0,False,2,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Fulham,55,0,0,2,0,1,0,0,0,0,0,0,1.2,1.4,0.8,10.0,False,1,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,3.8,10.8,25.8,1.0,False,2,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Sheffield Utd,90,0,0,0,1,17,1,0,0,0,0,0,16.8,22.8,123.9,21.0,True,2,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Crystal Palace,33,0,0,5,0,-4,0,1,0,0,0,0,4.6,3.4,23.1,19.0,True,-2,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Matheus Pereira,MID,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Liverpool,17,0,1,0,0,17,0,0,0,0,0,0,3.7,22.2,14.5,0.0,False,4,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Leeds,29,0,0,1,0,1,0,0,0,0,0,0,0.4,0.0,4.1,0.0,True,1,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Arsenal,90,0,0,4,0,17,0,0,0,0,0,0,4.8,13.4,33.0,2.0,True,2,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Wolves,81,2,0,2,0,48,0,0,0,0,0,0,13.9,74.0,24.4,41.0,False,15,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,West Ham,90,1,0,2,0,29,0,0,0,0,0,0,5.6,37.2,3.5,15.0,False,9,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Man City,90,0,0,5,0,10,0,0,0,0,0,0,2.5,10.0,15.3,0.0,True,2,2.0,5.0,-3.0
+Matheus Pereira,MID,West Brom,Fulham,90,1,1,2,0,35,0,0,0,0,0,0,6.2,36.8,7.1,18.0,True,13,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Sheffield Utd,90,0,0,2,0,1,1,0,0,0,0,0,4.4,6.6,20.9,16.0,False,1,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Spurs,10,0,0,0,0,3,0,0,0,0,0,0,1.4,3.8,10.5,0.0,False,1,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Man Utd,90,0,0,1,0,8,0,0,0,0,0,0,4.4,5.6,34.8,4.0,True,2,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Burnley,90,0,0,0,1,6,0,0,0,0,0,0,9.8,14.4,21.7,62.0,False,3,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Brighton,78,0,0,0,1,6,0,0,0,0,0,0,3.2,8.4,21.7,2.0,True,3,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Everton,90,0,0,1,0,13,0,0,0,0,0,0,5.2,10.0,7.0,35.0,True,2,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Newcastle,90,0,0,0,1,13,0,0,0,0,0,0,6.9,13.4,32.1,23.0,True,3,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Crystal Palace,62,0,0,1,0,10,0,0,0,0,0,0,5.2,9.8,32.7,9.0,False,2,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Chelsea,90,2,2,2,0,69,0,0,0,0,0,0,22.1,114.4,40.8,66.0,False,21,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Southampton,90,1,0,0,1,32,0,0,0,0,0,0,12.4,45.2,22.8,56.0,True,9,2.0,2.0,0.0
+Matheus Pereira,MID,West Brom,Leicester,72,0,0,3,0,8,0,0,0,0,0,0,1.6,2.0,11.8,2.0,False,2,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Aston Villa,90,1,0,2,0,31,0,0,0,0,0,0,12.8,46.8,51.3,30.0,False,10,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,4.7,7.4,29.8,10.0,True,2,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,Arsenal,90,1,0,3,0,33,0,0,0,0,0,0,13.2,39.8,43.4,49.0,False,7,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Liverpool,90,0,1,2,0,21,0,0,0,0,0,0,10.0,26.2,61.9,12.0,True,5,2.0,3.0,-1.0
+Matheus Pereira,MID,West Brom,West Ham,90,1,0,3,0,23,0,0,0,0,0,0,11.3,39.0,5.3,69.0,True,7,2.0,4.0,-2.0
+Matheus Pereira,MID,West Brom,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0

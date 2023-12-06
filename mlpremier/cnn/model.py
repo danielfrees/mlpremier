@@ -39,7 +39,7 @@ def create_cnn(input_shape: Tuple,
         tf.keras.layers.Dense(units=num_dense,
                               activation=dense_activation, 
                               kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
-                                                                             l2=regularization)),
+                                                                             l2=regularization)),                                                                    
         tf.keras.layers.Dense(units=1,activation='linear'),
     ])
 
@@ -84,7 +84,9 @@ def build_train_cnn(data_dir: str,
               tolerance: float = 1e-5,
               patience: int = 40, 
               plot: bool = False, 
-              standardize: bool = True):
+              standardize: bool = True,
+              test_size: float = 0.15, 
+              val_size: float = 0.3):
     
     # =========== Generate CNN Dataset  ============
     # == for Desired Season, Posn, Window Size =====
@@ -100,6 +102,8 @@ def build_train_cnn(data_dir: str,
                          verbose = verbose)
     X_train, y_train, X_val, y_val, X_test, y_test = split_preprocess_cnn_data(df, 
                                                             features_df, 
+                                                            test_size=test_size,
+                                                            val_size=val_size,
                                                             num_features=num_features,
                                                             cat_features=cat_features,
                                                             standardize=standardize,
@@ -135,12 +139,14 @@ def build_train_cnn(data_dir: str,
                             epochs=epochs, 
                             batch_size=batch_size,
                             validation_data=(X_val, y_val),
-                            callbacks = [early_stop]) 
+                            callbacks = [early_stop],
+                            verbose = 0) 
     else:
         history = model.fit(X_train, y_train, 
                             epochs=epochs, 
                             batch_size=batch_size,
-                            validation_data=(X_val, y_val)) 
+                            validation_data=(X_val, y_val),
+                            verbose = 0) 
     
 
     # ============= Evaluate the Model ==============

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Mateo Kovacic,MID,Chelsea,Everton,90,0,1,0,1,24,0,0,0,0,0,0,5.7,24.6,28.5,4.0,True,6
-Mateo Kovacic,MID,Chelsea,Arsenal,71,0,0,0,1,8,0,0,0,0,0,0,2.2,2.4,14.8,5.0,False,3
-Mateo Kovacic,MID,Chelsea,Liverpool,45,0,0,0,0,4,0,0,0,0,0,0,2.9,10.4,1.2,17.0,False,1
-Mateo Kovacic,MID,Chelsea,Aston Villa,90,1,1,0,1,42,0,0,0,0,0,0,9.6,60.8,17.5,18.0,True,13
-Mateo Kovacic,MID,Chelsea,Spurs,90,0,1,0,1,19,0,0,0,0,0,0,9.3,41.8,15.8,35.0,False,6
-Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,15,0,0,0,0,0,0,3.1,17.6,5.2,8.0,True,2
-Mateo Kovacic,MID,Chelsea,Southampton,72,0,0,1,0,14,0,0,0,0,0,0,4.2,18.4,23.3,0.0,True,2
-Mateo Kovacic,MID,Chelsea,Brighton,64,0,0,0,1,7,1,0,0,0,0,0,2.8,6.4,10.5,11.0,False,2
-Mateo Kovacic,MID,Chelsea,Sheffield Utd,90,0,2,0,1,49,0,0,0,0,0,0,12.9,55.4,72.3,1.0,True,11
-Mateo Kovacic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateo Kovacic,MID,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateo Kovacic,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,Wolves,25,0,0,0,0,7,0,0,0,0,0,0,0.8,5.2,2.5,0.0,False,1
-Mateo Kovacic,MID,Chelsea,Aston Villa,27,0,0,0,0,7,0,0,0,0,0,0,2.1,7.6,11.8,2.0,False,1
-Mateo Kovacic,MID,Chelsea,Burnley,90,0,0,1,0,8,1,0,0,0,0,0,1.9,8.0,7.9,3.0,True,1
-Mateo Kovacic,MID,Chelsea,Liverpool,90,1,0,2,0,42,0,0,0,0,0,0,8.5,53.0,5.3,27.0,True,10
-Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,17,1,0,0,0,0,0,2.8,11.4,16.6,0.0,False,1
-Mateo Kovacic,MID,Chelsea,Burnley,10,0,0,0,0,3,0,0,0,0,0,0,1.5,2.0,12.3,1.0,False,1
-Mateo Kovacic,MID,Chelsea,Spurs,90,0,0,0,1,10,0,0,0,0,0,0,3.6,12.2,23.8,0.0,True,3
-Mateo Kovacic,MID,Chelsea,Everton,16,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.3,0.0,False,1
-Mateo Kovacic,MID,Chelsea,Chelsea,20,0,0,0,0,1,0,0,0,0,0,0,0.4,1.4,2.3,0.0,False,1
-Mateo Kovacic,MID,Chelsea,Sheffield Utd,85,0,0,1,0,14,0,0,0,0,0,0,2.4,3.0,20.4,1.0,False,2
-Mateo Kovacic,MID,Chelsea,Newcastle,27,0,0,0,0,0,1,0,0,0,0,0,0.6,2.8,2.9,0.0,True,0
-Mateo Kovacic,MID,Chelsea,Brighton,26,0,0,1,0,7,0,0,0,0,0,0,3.7,3.0,25.3,9.0,True,1
-Mateo Kovacic,MID,Chelsea,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,6.4,33.2,31.2,0.0,False,3
-Mateo Kovacic,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Mateo Kovacic,MID,Chelsea,Fulham,45,0,0,1,0,12,0,0,0,0,0,0,7.1,10.8,24.8,35.0,False,1
-Mateo Kovacic,MID,Chelsea,Wolves,90,0,0,2,0,17,0,0,0,0,0,0,6.3,16.6,29.3,17.0,True,2
-Mateo Kovacic,MID,Chelsea,Leeds,29,0,0,0,0,0,0,0,0,0,0,0,0.5,0.0,1.6,4.0,False,1
-Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Mateo Kovacic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Mateo Kovacic,MID,Chelsea,Crystal Palace,90,0,1,0,1,24,0,0,0,0,0,0,5.7,24.6,28.5,4.0,True,6,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Arsenal,71,0,0,0,1,8,0,0,0,0,0,0,2.2,2.4,14.8,5.0,False,3,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,Liverpool,45,0,0,0,0,4,0,0,0,0,0,0,2.9,10.4,1.2,17.0,False,1,4.0,5.0,-1.0
+Mateo Kovacic,MID,Chelsea,Aston Villa,90,1,1,0,1,42,0,0,0,0,0,0,9.6,60.8,17.5,18.0,True,13,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Spurs,90,0,1,0,1,19,0,0,0,0,0,0,9.3,41.8,15.8,35.0,False,6,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,15,0,0,0,0,0,0,3.1,17.6,5.2,8.0,True,2,4.0,5.0,-1.0
+Mateo Kovacic,MID,Chelsea,Southampton,72,0,0,1,0,14,0,0,0,0,0,0,4.2,18.4,23.3,0.0,True,2,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Brentford,64,0,0,0,1,7,1,0,0,0,0,0,2.8,6.4,10.5,11.0,False,2,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Norwich,90,0,2,0,1,49,0,0,0,0,0,0,12.9,55.4,72.3,1.0,True,11,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Wolves,25,0,0,0,0,7,0,0,0,0,0,0,0.8,5.2,2.5,0.0,False,1,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Aston Villa,27,0,0,0,0,7,0,0,0,0,0,0,2.1,7.6,11.8,2.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Brighton,90,0,0,1,0,8,1,0,0,0,0,0,1.9,8.0,7.9,3.0,True,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Liverpool,90,1,0,2,0,42,0,0,0,0,0,0,8.5,53.0,5.3,27.0,True,10,4.0,5.0,-1.0
+Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,17,1,0,0,0,0,0,2.8,11.4,16.6,0.0,False,1,4.0,5.0,-1.0
+Mateo Kovacic,MID,Chelsea,Brighton,10,0,0,0,0,3,0,0,0,0,0,0,1.5,2.0,12.3,1.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Spurs,90,0,0,0,1,10,0,0,0,0,0,0,3.6,12.2,23.8,0.0,True,3,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,Crystal Palace,16,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.3,0.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Burnley,20,0,0,0,0,1,0,0,0,0,0,0,0.4,1.4,2.3,0.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Norwich,85,0,0,1,0,14,0,0,0,0,0,0,2.4,3.0,20.4,1.0,False,2,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Newcastle,27,0,0,0,0,0,1,0,0,0,0,0,0.6,2.8,2.9,0.0,True,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Brentford,26,0,0,1,0,7,0,0,0,0,0,0,3.7,3.0,25.3,9.0,True,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,6.4,33.2,31.2,0.0,False,3,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Mateo Kovacic,MID,Chelsea,Everton,45,0,0,1,0,12,0,0,0,0,0,0,7.1,10.8,24.8,35.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Wolves,90,0,0,2,0,17,0,0,0,0,0,0,6.3,16.6,29.3,17.0,True,2,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Leeds,29,0,0,0,0,0,0,0,0,0,0,0,0.5,0.0,1.6,4.0,False,1,4.0,2.0,2.0
+Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,3.0,1.0
+Mateo Kovacic,MID,Chelsea,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

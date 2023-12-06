@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Nampalys Mendy,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nampalys Mendy,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nampalys Mendy,MID,Leicester,Leeds,14,0,0,0,0,3,0,0,0,0,0,0,0.4,3.4,0.3,0.0,True,1
-Nampalys Mendy,MID,Leicester,Arsenal,60,0,0,2,0,10,0,0,0,0,0,0,1.7,14.2,2.5,0.0,False,2
-Nampalys Mendy,MID,Leicester,Brighton,90,0,0,1,0,13,0,0,0,0,0,0,0.7,4.2,2.7,0.0,True,2
-Nampalys Mendy,MID,Leicester,Man Utd,90,0,0,1,0,19,0,0,0,0,0,0,2.3,11.0,12.3,0.0,False,2
-Nampalys Mendy,MID,Leicester,Everton,90,0,0,1,0,14,0,0,0,0,0,0,0.7,5.6,1.8,0.0,True,2
-Nampalys Mendy,MID,Leicester,Newcastle,90,0,0,2,0,10,1,0,0,0,0,0,1.1,7.0,3.8,0.0,False,1
-Nampalys Mendy,MID,Leicester,Fulham,83,0,0,0,1,9,0,0,0,0,0,0,1.0,5.4,4.6,0.0,False,3
-Nampalys Mendy,MID,Leicester,Aston Villa,90,0,0,0,1,8,1,0,0,0,0,0,0.8,5.8,2.1,0.0,True,2
-Nampalys Mendy,MID,Leicester,Spurs,90,0,0,3,0,13,0,0,0,0,0,0,1.0,5.2,4.6,0.0,False,2
-Nampalys Mendy,MID,Leicester,Fulham,65,0,0,2,0,9,1,0,0,0,0,0,1.6,4.2,4.6,7.0,True,1
-Nampalys Mendy,MID,Leicester,Sheffield Utd,45,0,0,0,0,11,0,0,0,0,0,0,0.5,3.2,1.8,0.0,True,1
-Nampalys Mendy,MID,Leicester,West Brom,45,0,0,1,0,9,0,0,0,0,0,0,0.3,2.2,0.8,0.0,False,1
-Nampalys Mendy,MID,Leicester,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,1.5,14.0,0.8,0.0,False,2
-Nampalys Mendy,MID,Leicester,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nampalys Mendy,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Nampalys Mendy,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Nampalys Mendy,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Nampalys Mendy,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Nampalys Mendy,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Leeds,14,0,0,0,0,3,0,0,0,0,0,0,0.4,3.4,0.3,0.0,True,1,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Arsenal,60,0,0,2,0,10,0,0,0,0,0,0,1.7,14.2,2.5,0.0,False,2,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Brentford,90,0,0,1,0,13,0,0,0,0,0,0,0.7,4.2,2.7,0.0,True,2,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Man Utd,90,0,0,1,0,19,0,0,0,0,0,0,2.3,11.0,12.3,0.0,False,2,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,0.7,5.6,1.8,0.0,True,2,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Newcastle,90,0,0,2,0,10,1,0,0,0,0,0,1.1,7.0,3.8,0.0,False,1,3.0,3.0,0.0
+Nampalys Mendy,MID,Leicester,Everton,83,0,0,0,1,9,0,0,0,0,0,0,1.0,5.4,4.6,0.0,False,3,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Aston Villa,90,0,0,0,1,8,1,0,0,0,0,0,0.8,5.8,2.1,0.0,True,2,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Spurs,90,0,0,3,0,13,0,0,0,0,0,0,1.0,5.2,4.6,0.0,False,2,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Everton,65,0,0,2,0,9,1,0,0,0,0,0,1.6,4.2,4.6,7.0,True,1,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Norwich,45,0,0,0,0,11,0,0,0,0,0,0,0.5,3.2,1.8,0.0,True,1,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Watford,45,0,0,1,0,9,0,0,0,0,0,0,0.3,2.2,0.8,0.0,False,1,3.0,2.0,1.0
+Nampalys Mendy,MID,Leicester,Chelsea,90,0,0,1,0,14,0,0,0,0,0,0,1.5,14.0,0.8,0.0,False,2,3.0,4.0,-1.0
+Nampalys Mendy,MID,Leicester,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,3.0,3.0,0.0

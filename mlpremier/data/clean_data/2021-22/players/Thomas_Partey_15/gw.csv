@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Thomas Partey,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Sheffield Utd,28,0,0,0,0,0,1,0,0,0,0,0,0.6,1.6,0.7,4.0,True,0
-Thomas Partey,MID,Arsenal,Chelsea,74,0,0,0,1,14,0,0,0,0,0,0,4.8,12.6,15.3,20.0,False,3
-Thomas Partey,MID,Arsenal,Spurs,90,0,0,1,0,8,0,0,0,0,0,0,5.1,20.4,22.6,8.0,True,2
-Thomas Partey,MID,Arsenal,Burnley,90,0,0,0,1,9,1,0,0,0,0,0,2.3,3.8,15.7,3.0,False,2
-Thomas Partey,MID,Arsenal,Everton,80,0,0,2,0,13,0,0,0,0,0,0,3.0,5.8,13.7,10.0,True,2
-Thomas Partey,MID,Arsenal,Aston Villa,90,1,0,1,0,28,0,0,0,0,0,0,12.3,39.4,6.8,77.0,True,8
-Thomas Partey,MID,Arsenal,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,2.2,10.8,1.9,9.0,False,3
-Thomas Partey,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,Liverpool,83,0,0,4,0,17,0,0,0,0,0,0,2.5,16.2,2.0,7.0,False,2
-Thomas Partey,MID,Arsenal,Newcastle,84,0,0,0,1,15,0,0,0,0,0,0,2.8,14.2,3.9,10.0,True,3
-Thomas Partey,MID,Arsenal,Man Utd,90,0,0,3,0,14,0,0,0,0,0,0,2.2,9.0,5.1,8.0,False,2
-Thomas Partey,MID,Arsenal,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,2.0,12.4,6.3,1.0,False,2
-Thomas Partey,MID,Arsenal,Southampton,90,0,0,0,1,13,0,0,0,0,0,0,3.9,11.6,25.9,1.0,True,3
-Thomas Partey,MID,Arsenal,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,3.1,8.0,6.9,16.0,True,3
-Thomas Partey,MID,Arsenal,Leeds,90,0,0,1,0,21,0,0,0,0,0,0,5.1,17.2,7.5,26.0,False,2
-Thomas Partey,MID,Arsenal,Sheffield Utd,74,0,0,0,1,11,1,0,0,0,0,0,2.8,7.4,13.6,7.0,False,2
-Thomas Partey,MID,Arsenal,Man City,90,0,0,2,0,13,0,0,0,0,0,0,3.6,21.8,12.1,2.0,True,2
-Thomas Partey,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,Wolves,90,0,0,0,1,10,1,0,0,0,0,0,5.3,16.8,1.7,34.0,False,2
-Thomas Partey,MID,Arsenal,Brighton,90,0,1,1,0,25,0,0,0,0,0,0,10.6,29.4,26.9,50.0,True,5
-Thomas Partey,MID,Arsenal,Wolves,90,0,0,1,0,19,0,0,0,0,0,0,5.5,11.2,37.8,6.0,True,2
-Thomas Partey,MID,Arsenal,West Brom,90,0,0,2,0,13,0,0,0,0,0,0,3.1,13.2,15.6,2.0,False,2
-Thomas Partey,MID,Arsenal,Leicester,90,1,1,0,1,40,0,0,0,0,0,0,12.7,47.2,11.7,68.0,True,14
-Thomas Partey,MID,Arsenal,Liverpool,90,0,0,2,0,19,0,0,0,0,0,0,3.4,15.6,2.6,16.0,True,2
-Thomas Partey,MID,Arsenal,Aston Villa,90,0,0,0,1,10,1,0,0,0,0,0,3.8,14.0,16.8,7.0,False,2
-Thomas Partey,MID,Arsenal,Everton,74,0,0,3,0,5,1,0,0,0,0,0,0.3,0.0,2.4,2.0,False,1
-Thomas Partey,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Thomas Partey,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Thomas Partey,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Thomas Partey,MID,Arsenal,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,5.0,-1.0
+Thomas Partey,MID,Arsenal,Norwich,28,0,0,0,0,0,1,0,0,0,0,0,0.6,1.6,0.7,4.0,True,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Burnley,74,0,0,0,1,14,0,0,0,0,0,0,4.8,12.6,15.3,20.0,False,3,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Spurs,90,0,0,1,0,8,0,0,0,0,0,0,5.1,20.4,22.6,8.0,True,2,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,Brighton,90,0,0,0,1,9,1,0,0,0,0,0,2.3,3.8,15.7,3.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Crystal Palace,80,0,0,2,0,13,0,0,0,0,0,0,3.0,5.8,13.7,10.0,True,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Aston Villa,90,1,0,1,0,28,0,0,0,0,0,0,12.3,39.4,6.8,77.0,True,8,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,2.2,10.8,1.9,9.0,False,3,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Liverpool,83,0,0,4,0,17,0,0,0,0,0,0,2.5,16.2,2.0,7.0,False,2,4.0,5.0,-1.0
+Thomas Partey,MID,Arsenal,Newcastle,84,0,0,0,1,15,0,0,0,0,0,0,2.8,14.2,3.9,10.0,True,3,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Man Utd,90,0,0,3,0,14,0,0,0,0,0,0,2.2,9.0,5.1,8.0,False,2,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,Everton,90,0,0,2,0,7,0,0,0,0,0,0,2.0,12.4,6.3,1.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Southampton,90,0,0,0,1,13,0,0,0,0,0,0,3.9,11.6,25.9,1.0,True,3,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,3.1,8.0,6.9,16.0,True,3,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Leeds,90,0,0,1,0,21,0,0,0,0,0,0,5.1,17.2,7.5,26.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Norwich,74,0,0,0,1,11,1,0,0,0,0,0,2.8,7.4,13.6,7.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Man City,90,0,0,2,0,13,0,0,0,0,0,0,3.6,21.8,12.1,2.0,True,2,4.0,5.0,-1.0
+Thomas Partey,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Wolves,90,0,0,0,1,10,1,0,0,0,0,0,5.3,16.8,1.7,34.0,False,2,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Brentford,90,0,1,1,0,25,0,0,0,0,0,0,10.6,29.4,26.9,50.0,True,5,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Wolves,90,0,0,1,0,19,0,0,0,0,0,0,5.5,11.2,37.8,6.0,True,2,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Watford,90,0,0,2,0,13,0,0,0,0,0,0,3.1,13.2,15.6,2.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Leicester,90,1,1,0,1,40,0,0,0,0,0,0,12.7,47.2,11.7,68.0,True,14,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Liverpool,90,0,0,2,0,19,0,0,0,0,0,0,3.4,15.6,2.6,16.0,True,2,4.0,5.0,-1.0
+Thomas Partey,MID,Arsenal,Aston Villa,90,0,0,0,1,10,1,0,0,0,0,0,3.8,14.0,16.8,7.0,False,2,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Crystal Palace,74,0,0,3,0,5,1,0,0,0,0,0,0.3,0.0,2.4,2.0,False,1,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0
+Thomas Partey,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,4.0,0.0
+Thomas Partey,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,4.0,3.0,1.0
+Thomas Partey,MID,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,4.0,2.0,2.0

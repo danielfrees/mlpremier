@@ -1,35 +1,35 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Karlan Grant,FWD,West Brom,Burnley,72,0,0,0,1,5,0,0,0,0,0,0,2.6,1.8,12.4,12.0,True,2
-Karlan Grant,FWD,West Brom,Brighton,83,1,0,1,0,31,0,0,0,0,0,0,7.4,38.0,10.8,25.0,False,9
-Karlan Grant,FWD,West Brom,Fulham,90,0,0,2,0,2,0,0,0,0,0,0,2.7,4.6,1.6,21.0,False,2
-Karlan Grant,FWD,West Brom,Spurs,83,0,0,0,1,0,0,0,0,0,0,0,1.7,0.0,3.9,14.0,True,2
-Karlan Grant,FWD,West Brom,Man Utd,61,0,0,1,0,5,0,0,0,0,0,0,2.4,4.4,0.8,19.0,False,2
-Karlan Grant,FWD,West Brom,Sheffield Utd,74,0,0,0,1,7,0,0,0,0,0,0,7.4,9.6,11.8,53.0,True,2
-Karlan Grant,FWD,West Brom,Crystal Palace,61,0,0,3,0,6,0,0,0,0,0,0,3.6,8.6,2.7,25.0,True,2
-Karlan Grant,FWD,West Brom,Newcastle,45,0,0,1,0,2,0,0,0,0,0,0,1.3,0.0,1.8,12.0,False,1
-Karlan Grant,FWD,West Brom,Man City,69,0,0,1,0,3,0,0,0,0,0,0,2.3,2.0,2.2,19.0,False,2
-Karlan Grant,FWD,West Brom,Aston Villa,82,0,0,1,0,2,1,0,0,0,0,0,1.4,3.2,6.4,4.0,True,1
-Karlan Grant,FWD,West Brom,Liverpool,77,0,0,1,0,2,0,0,0,0,0,0,3.2,5.2,0.8,26.0,False,2
-Karlan Grant,FWD,West Brom,Leeds,60,0,0,4,0,5,0,0,0,0,0,0,0.5,1.8,1.3,2.0,True,2
-Karlan Grant,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Man City,63,0,0,5,0,6,0,0,0,0,0,0,0.8,3.0,1.2,4.0,True,2
-Karlan Grant,FWD,West Brom,Fulham,66,0,0,1,0,7,0,0,0,0,0,0,2.8,6.6,2.4,19.0,True,2
-Karlan Grant,FWD,West Brom,Sheffield Utd,22,0,0,1,0,3,0,0,0,0,0,0,0.3,0.0,0.8,2.0,False,1
-Karlan Grant,FWD,West Brom,Spurs,68,0,0,2,0,6,0,0,0,0,0,0,0.6,3.2,0.8,2.0,False,2
-Karlan Grant,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Newcastle,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,1.0,0.0,True,1
-Karlan Grant,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Leicester,17,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,1
-Karlan Grant,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Karlan Grant,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Karlan Grant,FWD,West Brom,Liverpool,8,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1
-Karlan Grant,FWD,West Brom,West Ham,5,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Karlan Grant,FWD,West Brom,Leeds,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.2,0.0,False,1
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Karlan Grant,FWD,West Brom,Burnley,72,0,0,0,1,5,0,0,0,0,0,0,2.6,1.8,12.4,12.0,True,2,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Brighton,83,1,0,1,0,31,0,0,0,0,0,0,7.4,38.0,10.8,25.0,False,9,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Fulham,90,0,0,2,0,2,0,0,0,0,0,0,2.7,4.6,1.6,21.0,False,2,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Spurs,83,0,0,0,1,0,0,0,0,0,0,0,1.7,0.0,3.9,14.0,True,2,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Man Utd,61,0,0,1,0,5,0,0,0,0,0,0,2.4,4.4,0.8,19.0,False,2,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Sheffield Utd,74,0,0,0,1,7,0,0,0,0,0,0,7.4,9.6,11.8,53.0,True,2,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Crystal Palace,61,0,0,3,0,6,0,0,0,0,0,0,3.6,8.6,2.7,25.0,True,2,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Newcastle,45,0,0,1,0,2,0,0,0,0,0,0,1.3,0.0,1.8,12.0,False,1,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Man City,69,0,0,1,0,3,0,0,0,0,0,0,2.3,2.0,2.2,19.0,False,2,2.0,5.0,-3.0
+Karlan Grant,FWD,West Brom,Aston Villa,82,0,0,1,0,2,1,0,0,0,0,0,1.4,3.2,6.4,4.0,True,1,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Liverpool,77,0,0,1,0,2,0,0,0,0,0,0,3.2,5.2,0.8,26.0,False,2,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Leeds,60,0,0,4,0,5,0,0,0,0,0,0,0.5,1.8,1.3,2.0,True,2,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Man City,63,0,0,5,0,6,0,0,0,0,0,0,0.8,3.0,1.2,4.0,True,2,2.0,5.0,-3.0
+Karlan Grant,FWD,West Brom,Fulham,66,0,0,1,0,7,0,0,0,0,0,0,2.8,6.6,2.4,19.0,True,2,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Sheffield Utd,22,0,0,1,0,3,0,0,0,0,0,0,0.3,0.0,0.8,2.0,False,1,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Spurs,68,0,0,2,0,6,0,0,0,0,0,0,0.6,3.2,0.8,2.0,False,2,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Newcastle,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,1.0,0.0,True,1,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Karlan Grant,FWD,West Brom,Leicester,17,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,1,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Liverpool,8,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,1,2.0,3.0,-1.0
+Karlan Grant,FWD,West Brom,West Ham,5,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,4.0,-2.0
+Karlan Grant,FWD,West Brom,Leeds,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.2,0.0,False,1,2.0,3.0,-1.0

@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Bobby Decordova-Reid,FWD,Fulham,Arsenal,15,0,0,0,0,4,0,0,0,0,0,0,0.2,0.0,0.4,2.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,Leeds,32,1,0,0,0,28,0,0,0,0,0,0,5.2,34.6,0.5,17.0,False,5
-Bobby Decordova-Reid,FWD,Fulham,Aston Villa,77,0,0,3,0,2,1,0,0,0,0,0,4.0,2.0,9.9,28.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,Wolves,80,0,0,1,0,11,0,0,0,0,0,0,0.9,5.0,3.9,0.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Bobby Decordova-Reid,FWD,Fulham,Crystal Palace,16,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,West Brom,84,1,0,0,1,28,1,0,0,0,0,0,8.9,32.8,2.3,54.0,True,7
-Bobby Decordova-Reid,FWD,Fulham,West Ham,82,0,0,0,1,11,0,0,0,0,0,0,6.3,8.8,15.5,39.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Everton,57,1,0,3,0,28,1,0,0,0,0,0,9.5,38.2,16.8,40.0,True,4
-Bobby Decordova-Reid,FWD,Fulham,Leicester,90,0,1,1,0,17,0,0,0,0,0,0,1.9,14.2,3.2,2.0,False,5
-Bobby Decordova-Reid,FWD,Fulham,Man City,70,0,0,2,0,5,0,0,0,0,0,0,1.0,8.0,1.8,0.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Liverpool,90,1,0,1,0,32,0,0,0,0,0,0,8.6,48.8,5.7,31.0,True,9
-Bobby Decordova-Reid,FWD,Fulham,Brighton,61,0,0,0,1,7,0,0,0,0,0,0,0.7,5.4,1.9,0.0,True,2
-Bobby Decordova-Reid,FWD,Fulham,Newcastle,90,0,0,1,0,2,0,0,0,0,0,0,1.0,1.0,2.5,6.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Southampton,82,0,0,0,1,0,1,0,0,0,0,0,0.3,0.2,1.0,2.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,Spurs,90,0,0,1,0,17,0,0,0,0,0,0,4.4,9.8,16.3,18.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Chelsea,82,0,0,1,0,6,1,0,0,0,0,0,3.0,14.2,13.6,2.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Bobby Decordova-Reid,FWD,Fulham,Brighton,90,0,0,0,1,13,0,0,0,0,0,0,4.0,14.6,12.5,13.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,West Brom,71,1,0,2,0,25,0,0,0,0,0,0,7.7,33.8,12.3,31.0,False,7
-Bobby Decordova-Reid,FWD,Fulham,Leicester,19,0,0,0,0,2,0,0,0,0,0,0,2.3,1.4,2.0,20.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,West Ham,82,0,0,0,1,10,0,0,0,0,0,0,5.0,12.0,13.8,24.0,True,2
-Bobby Decordova-Reid,FWD,Fulham,Everton,90,0,0,0,1,6,0,0,0,0,0,0,6.2,5.8,24.3,32.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Burnley,66,0,0,1,0,6,0,0,0,0,0,0,0.8,2.4,1.1,4.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,True,1
-Bobby Decordova-Reid,FWD,Fulham,Crystal Palace,65,0,0,0,1,12,0,0,0,0,0,0,3.6,9.2,16.5,10.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Bobby Decordova-Reid,FWD,Fulham,Liverpool,90,0,0,0,1,6,0,0,0,0,0,0,2.4,7.0,12.7,4.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Bobby Decordova-Reid,FWD,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Bobby Decordova-Reid,FWD,Fulham,Aston Villa,90,0,0,3,0,-1,1,0,0,0,0,0,4.2,8.6,0.6,33.0,False,1
-Bobby Decordova-Reid,FWD,Fulham,Wolves,90,0,0,1,0,3,0,0,0,0,0,0,0.6,0.0,4.0,3.0,True,2
-Bobby Decordova-Reid,FWD,Fulham,Arsenal,90,0,0,1,0,3,1,0,0,0,0,0,1.7,8.4,0.8,8.0,False,1
-Bobby Decordova-Reid,FWD,Fulham,Chelsea,90,0,0,2,0,6,0,0,0,0,0,0,5.7,8.0,3.3,46.0,False,2
-Bobby Decordova-Reid,FWD,Fulham,Burnley,65,0,0,2,0,3,0,0,0,0,0,0,2.2,2.4,13.8,6.0,True,2
-Bobby Decordova-Reid,FWD,Fulham,Southampton,90,0,1,3,0,21,0,0,0,0,0,0,6.3,21.0,15.8,26.0,False,5
-Bobby Decordova-Reid,FWD,Fulham,Man Utd,90,0,1,1,0,18,0,0,0,0,0,0,3.7,20.8,16.3,0.0,False,5
-Bobby Decordova-Reid,FWD,Fulham,Newcastle,90,0,0,2,0,8,0,0,0,0,0,0,1.7,6.0,8.5,2.0,True,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Bobby Decordova-Reid,FWD,Fulham,Arsenal,15,0,0,0,0,4,0,0,0,0,0,0,0.2,0.0,0.4,2.0,True,1,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Leeds,32,1,0,0,0,28,0,0,0,0,0,0,5.2,34.6,0.5,17.0,False,5,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Aston Villa,77,0,0,3,0,2,1,0,0,0,0,0,4.0,2.0,9.9,28.0,True,1,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Wolves,80,0,0,1,0,11,0,0,0,0,0,0,0.9,5.0,3.9,0.0,False,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Crystal Palace,16,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,1,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,West Brom,84,1,0,0,1,28,1,0,0,0,0,0,8.9,32.8,2.3,54.0,True,7,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,West Ham,82,0,0,0,1,11,0,0,0,0,0,0,6.3,8.8,15.5,39.0,False,2,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Everton,57,1,0,3,0,28,1,0,0,0,0,0,9.5,38.2,16.8,40.0,True,4,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Leicester,90,0,1,1,0,17,0,0,0,0,0,0,1.9,14.2,3.2,2.0,False,5,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Man City,70,0,0,2,0,5,0,0,0,0,0,0,1.0,8.0,1.8,0.0,False,2,2.0,5.0,-3.0
+Bobby Decordova-Reid,FWD,Fulham,Liverpool,90,1,0,1,0,32,0,0,0,0,0,0,8.6,48.8,5.7,31.0,True,9,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Brighton,61,0,0,0,1,7,0,0,0,0,0,0,0.7,5.4,1.9,0.0,True,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Newcastle,90,0,0,1,0,2,0,0,0,0,0,0,1.0,1.0,2.5,6.0,False,2,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Southampton,82,0,0,0,1,0,1,0,0,0,0,0,0.3,0.2,1.0,2.0,True,1,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Spurs,90,0,0,1,0,17,0,0,0,0,0,0,4.4,9.8,16.3,18.0,False,2,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Chelsea,82,0,0,1,0,6,1,0,0,0,0,0,3.0,14.2,13.6,2.0,True,1,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Brighton,90,0,0,0,1,13,0,0,0,0,0,0,4.0,14.6,12.5,13.0,False,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,West Brom,71,1,0,2,0,25,0,0,0,0,0,0,7.7,33.8,12.3,31.0,False,7,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Leicester,19,0,0,0,0,2,0,0,0,0,0,0,2.3,1.4,2.0,20.0,True,1,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,West Ham,82,0,0,0,1,10,0,0,0,0,0,0,5.0,12.0,13.8,24.0,True,2,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Everton,90,0,0,0,1,6,0,0,0,0,0,0,6.2,5.8,24.3,32.0,False,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Burnley,66,0,0,1,0,6,0,0,0,0,0,0,0.8,2.4,1.1,4.0,False,2,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Sheffield Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,True,1,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Crystal Palace,65,0,0,0,1,12,0,0,0,0,0,0,3.6,9.2,16.5,10.0,False,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Liverpool,90,0,0,0,1,6,0,0,0,0,0,0,2.4,7.0,12.7,4.0,False,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Bobby Decordova-Reid,FWD,Fulham,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Aston Villa,90,0,0,3,0,-1,1,0,0,0,0,0,4.2,8.6,0.6,33.0,False,1,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Wolves,90,0,0,1,0,3,0,0,0,0,0,0,0.6,0.0,4.0,3.0,True,2,2.0,3.0,-1.0
+Bobby Decordova-Reid,FWD,Fulham,Arsenal,90,0,0,1,0,3,1,0,0,0,0,0,1.7,8.4,0.8,8.0,False,1,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Chelsea,90,0,0,2,0,6,0,0,0,0,0,0,5.7,8.0,3.3,46.0,False,2,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Burnley,65,0,0,2,0,3,0,0,0,0,0,0,2.2,2.4,13.8,6.0,True,2,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Southampton,90,0,1,3,0,21,0,0,0,0,0,0,6.3,21.0,15.8,26.0,False,5,2.0,2.0,0.0
+Bobby Decordova-Reid,FWD,Fulham,Man Utd,90,0,1,1,0,18,0,0,0,0,0,0,3.7,20.8,16.3,0.0,False,5,2.0,4.0,-2.0
+Bobby Decordova-Reid,FWD,Fulham,Newcastle,90,0,0,2,0,8,0,0,0,0,0,0,1.7,6.0,8.5,2.0,True,2,2.0,2.0,0.0

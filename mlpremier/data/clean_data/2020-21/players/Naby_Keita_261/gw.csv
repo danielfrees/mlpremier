@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Naby Keita,MID,Liverpool,Leeds,57,0,0,2,0,2,0,0,0,0,0,0,3.5,6.6,4.6,24.0,True,1
-Naby Keita,MID,Liverpool,Chelsea,63,0,0,0,1,14,0,0,0,0,0,0,1.4,7.8,3.8,2.0,False,3
-Naby Keita,MID,Liverpool,Arsenal,78,0,0,1,0,11,0,0,0,0,0,0,3.9,2.8,14.3,22.0,True,2
-Naby Keita,MID,Liverpool,Aston Villa,45,0,0,4,0,6,0,0,0,0,0,0,4.8,0.4,3.1,44.0,False,1
-Naby Keita,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Leicester,52,0,0,0,0,7,0,0,0,0,0,0,4.0,8.2,12.5,19.0,True,1
-Naby Keita,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Wolves,9,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1
-Naby Keita,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Crystal Palace,90,0,0,0,1,18,0,0,0,0,0,0,3.4,18.2,16.1,0.0,False,3
-Naby Keita,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Sheffield Utd,10,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.8,0.0,False,1
-Naby Keita,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Fulham,90,0,0,1,0,10,1,0,0,0,0,0,4.7,15.0,24.4,8.0,True,1
-Naby Keita,MID,Liverpool,Wolves,23,0,0,0,0,5,0,0,0,0,0,0,3.2,10.8,20.8,0.0,False,1
-Naby Keita,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Naby Keita,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Naby Keita,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Naby Keita,MID,Liverpool,Leeds,57,0,0,2,0,2,0,0,0,0,0,0,3.5,6.6,4.6,24.0,True,1,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Chelsea,63,0,0,0,1,14,0,0,0,0,0,0,1.4,7.8,3.8,2.0,False,3,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Arsenal,78,0,0,1,0,11,0,0,0,0,0,0,3.9,2.8,14.3,22.0,True,2,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Aston Villa,45,0,0,4,0,6,0,0,0,0,0,0,4.8,0.4,3.1,44.0,False,1,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Naby Keita,MID,Liverpool,Leicester,52,0,0,0,0,7,0,0,0,0,0,0,4.0,8.2,12.5,19.0,True,1,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Wolves,9,0,0,0,0,2,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,1,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Crystal Palace,90,0,0,0,1,18,0,0,0,0,0,0,3.4,18.2,16.1,0.0,False,3,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Naby Keita,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Sheffield Utd,10,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.8,0.0,False,1,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Fulham,90,0,0,1,0,10,1,0,0,0,0,0,4.7,15.0,24.4,8.0,True,1,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Wolves,23,0,0,0,0,5,0,0,0,0,0,0,3.2,10.8,20.8,0.0,False,1,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Naby Keita,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Naby Keita,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Naby Keita,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0

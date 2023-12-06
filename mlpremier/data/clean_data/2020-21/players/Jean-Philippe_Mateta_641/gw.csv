@@ -1,20 +1,20 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Jean-Philippe Mateta,FWD,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Leeds,64,0,0,2,0,8,0,0,0,0,0,0,2.1,9.2,11.9,0.0,False,2
-Jean-Philippe Mateta,FWD,Crystal Palace,Burnley,14,0,0,0,0,2,0,0,0,0,0,0,2.8,1.0,0.8,26.0,True,1
-Jean-Philippe Mateta,FWD,Crystal Palace,Brighton,74,1,0,1,0,25,0,0,0,0,0,0,6.7,31.2,2.7,33.0,False,8
-Jean-Philippe Mateta,FWD,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Spurs,16,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.1,4.0,False,1
-Jean-Philippe Mateta,FWD,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Everton,13,0,0,0,0,5,0,0,0,0,0,0,2.2,5.2,0.1,17.0,False,1
-Jean-Philippe Mateta,FWD,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Man City,22,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Jean-Philippe Mateta,FWD,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Southampton,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1
-Jean-Philippe Mateta,FWD,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Jean-Philippe Mateta,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Jean-Philippe Mateta,FWD,Crystal Palace,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Leeds,64,0,0,2,0,8,0,0,0,0,0,0,2.1,9.2,11.9,0.0,False,2,3.0,3.0,0.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Burnley,14,0,0,0,0,2,0,0,0,0,0,0,2.8,1.0,0.8,26.0,True,1,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Brighton,74,1,0,1,0,25,0,0,0,0,0,0,6.7,31.2,2.7,33.0,False,8,3.0,3.0,0.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Spurs,16,0,0,1,0,1,0,0,0,0,0,0,0.2,0.0,0.1,4.0,False,1,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Everton,13,0,0,0,0,5,0,0,0,0,0,0,2.2,5.2,0.1,17.0,False,1,3.0,3.0,0.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Man City,22,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,5.0,-2.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Southampton,12,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,1,3.0,2.0,1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Jean-Philippe Mateta,FWD,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0

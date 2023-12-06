@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Ciaran Clark,DEF,Newcastle,West Ham,90,0,0,4,0,12,0,0,0,0,0,0,5.6,16.6,11.6,28.0,True,0
-Ciaran Clark,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Man Utd,83,0,0,3,0,13,0,0,0,0,0,0,2.5,10.6,10.8,4.0,False,1
-Ciaran Clark,DEF,Newcastle,Leeds,90,0,0,1,0,9,0,0,0,0,0,0,2.4,15.4,0.4,8.0,True,2
-Ciaran Clark,DEF,Newcastle,West Brom,90,0,0,1,0,7,0,0,0,0,0,0,3.0,15.4,0.5,14.0,False,2
-Ciaran Clark,DEF,Newcastle,Wolves,90,0,0,2,0,14,1,0,0,0,0,0,1.9,16.6,0.6,2.0,False,0
-Ciaran Clark,DEF,Newcastle,Spurs,90,0,0,3,0,11,1,0,0,0,0,0,2.6,21.8,0.2,4.0,True,0
-Ciaran Clark,DEF,Newcastle,Everton,90,0,0,1,0,10,0,0,0,0,0,0,2.0,13.8,0.0,6.0,False,2
-Ciaran Clark,DEF,Newcastle,Crystal Palace,90,0,0,3,0,17,0,0,0,0,0,0,4.8,29.6,14.2,4.0,True,1
-Ciaran Clark,DEF,Newcastle,Burnley,90,0,1,1,0,22,0,0,0,0,0,0,4.2,27.4,10.8,4.0,False,6
-Ciaran Clark,DEF,Newcastle,Brighton,90,0,0,3,0,13,0,0,0,0,0,0,3.1,11.2,0.6,19.0,True,1
-Ciaran Clark,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Sheffield Utd,8,0,0,1,0,-7,0,1,0,0,0,0,0.0,0.0,0.2,2.0,True,-2
-Ciaran Clark,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Man City,90,0,0,4,0,6,0,0,0,0,0,0,0.8,8.4,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Leeds,21,0,0,0,0,4,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1
-Ciaran Clark,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Ciaran Clark,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Ciaran Clark,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Ciaran Clark,DEF,Newcastle,West Ham,90,0,0,4,0,12,0,0,0,0,0,0,5.6,16.6,11.6,28.0,True,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Man Utd,83,0,0,3,0,13,0,0,0,0,0,0,2.5,10.6,10.8,4.0,False,1,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Leeds,90,0,0,1,0,9,0,0,0,0,0,0,2.4,15.4,0.4,8.0,True,2,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Watford,90,0,0,1,0,7,0,0,0,0,0,0,3.0,15.4,0.5,14.0,False,2,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Wolves,90,0,0,2,0,14,1,0,0,0,0,0,1.9,16.6,0.6,2.0,False,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Spurs,90,0,0,3,0,11,1,0,0,0,0,0,2.6,21.8,0.2,4.0,True,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Crystal Palace,90,0,0,1,0,10,0,0,0,0,0,0,2.0,13.8,0.0,6.0,False,2,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Chelsea,90,0,0,3,0,17,0,0,0,0,0,0,4.8,29.6,14.2,4.0,True,1,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Brighton,90,0,1,1,0,22,0,0,0,0,0,0,4.2,27.4,10.8,4.0,False,6,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Brentford,90,0,0,3,0,13,0,0,0,0,0,0,3.1,11.2,0.6,19.0,True,1,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Norwich,8,0,0,1,0,-7,0,1,0,0,0,0,0.0,0.0,0.2,2.0,True,-2,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Ciaran Clark,DEF,Newcastle,Man City,90,0,0,4,0,6,0,0,0,0,0,0,0.8,8.4,0.0,0.0,True,0,3.0,5.0,-2.0
+Ciaran Clark,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Leeds,21,0,0,0,0,4,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,1,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Brentford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Ciaran Clark,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Ciaran Clark,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Ciaran Clark,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Ciaran Clark,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Ciaran Clark,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0

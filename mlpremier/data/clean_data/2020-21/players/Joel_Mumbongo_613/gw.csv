@@ -1,26 +1,26 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Joel Mumbongo,FWD,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Chelsea,14,0,0,1,0,1,0,0,0,0,0,0,0.1,0.0,1.2,0.0,False,1
-Joel Mumbongo,FWD,Burnley,Man City,13,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,West Brom,9,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Joel Mumbongo,FWD,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Joel Mumbongo,FWD,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Joel Mumbongo,FWD,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Joel Mumbongo,FWD,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Joel Mumbongo,FWD,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Chelsea,14,0,0,1,0,1,0,0,0,0,0,0,0.1,0.0,1.2,0.0,False,1,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Man City,13,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,5.0,-3.0
+Joel Mumbongo,FWD,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,West Brom,9,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,Newcastle,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Joel Mumbongo,FWD,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Joel Mumbongo,FWD,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,3.0,-1.0
+Joel Mumbongo,FWD,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0

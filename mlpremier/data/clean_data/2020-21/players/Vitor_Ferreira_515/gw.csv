@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Vitor Ferreira,MID,Wolves,Sheffield Utd,4,0,0,0,0,4,0,0,0,0,0,0,0.2,1.2,0.8,0.0,False,1
-Vitor Ferreira,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,West Ham,17,0,0,1,0,4,0,0,0,0,0,0,2.0,7.4,12.1,0.0,False,1
-Vitor Ferreira,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Southampton,5,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1
-Vitor Ferreira,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,2.0,0.0,False,1
-Vitor Ferreira,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Chelsea,1,0,1,0,0,13,0,0,0,0,0,0,3.0,19.2,10.3,0.0,True,4
-Vitor Ferreira,MID,Wolves,Burnley,14,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,0.0,False,1
-Vitor Ferreira,MID,Wolves,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1
-Vitor Ferreira,MID,Wolves,Man Utd,54,0,0,0,0,6,0,0,0,0,0,0,1.3,3.4,2.7,7.0,False,1
-Vitor Ferreira,MID,Wolves,Brighton,63,0,0,2,0,13,0,0,0,0,0,0,3.3,1.6,13.8,18.0,False,2
-Vitor Ferreira,MID,Wolves,Everton,4,0,0,0,0,3,0,0,0,0,0,0,0.3,1.2,1.4,0.0,True,1
-Vitor Ferreira,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Crystal Palace,22,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.7,0.0,False,1
-Vitor Ferreira,MID,Wolves,Arsenal,28,0,0,0,0,1,0,0,0,0,0,0,3.7,5.2,26.1,6.0,True,1
-Vitor Ferreira,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Vitor Ferreira,MID,Wolves,West Ham,18,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,1.2,0.0,True,1
-Vitor Ferreira,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Vitor Ferreira,MID,Wolves,Sheffield Utd,18,0,0,0,0,3,0,0,0,0,0,0,1.3,2.8,10.1,0.0,True,1
-Vitor Ferreira,MID,Wolves,Burnley,21,0,0,1,0,5,0,0,0,0,0,0,0.6,3.0,0.5,2.0,True,1
-Vitor Ferreira,MID,Wolves,West Brom,80,0,0,1,0,17,0,0,0,0,0,0,9.4,18.8,61.8,13.0,False,2
-Vitor Ferreira,MID,Wolves,Brighton,76,0,0,1,0,10,0,0,0,0,0,0,3.7,4.6,17.2,15.0,True,2
-Vitor Ferreira,MID,Wolves,Spurs,62,0,0,2,0,14,0,0,0,0,0,0,3.6,10.0,14.5,11.0,False,2
-Vitor Ferreira,MID,Wolves,Everton,10,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,1.1,0.0,False,1
-Vitor Ferreira,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Vitor Ferreira,MID,Wolves,Sheffield Utd,4,0,0,0,0,4,0,0,0,0,0,0,0.2,1.2,0.8,0.0,False,1,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,5.0,-2.0
+Vitor Ferreira,MID,Wolves,West Ham,17,0,0,1,0,4,0,0,0,0,0,0,2.0,7.4,12.1,0.0,False,1,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Southampton,5,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.6,0.0,True,1,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Liverpool,11,0,0,0,0,3,0,0,0,0,0,0,0.3,0.8,2.0,0.0,False,1,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Chelsea,1,0,1,0,0,13,0,0,0,0,0,0,3.0,19.2,10.3,0.0,True,4,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Burnley,14,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,0.8,0.0,False,1,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,1,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Man Utd,54,0,0,0,0,6,0,0,0,0,0,0,1.3,3.4,2.7,7.0,False,1,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Brighton,63,0,0,2,0,13,0,0,0,0,0,0,3.3,1.6,13.8,18.0,False,2,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Everton,4,0,0,0,0,3,0,0,0,0,0,0,0.3,1.2,1.4,0.0,True,1,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Crystal Palace,22,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.7,0.0,False,1,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Arsenal,28,0,0,0,0,1,0,0,0,0,0,0,3.7,5.2,26.1,6.0,True,1,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,5.0,-2.0
+Vitor Ferreira,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,West Ham,18,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,1.2,0.0,True,1,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Sheffield Utd,18,0,0,0,0,3,0,0,0,0,0,0,1.3,2.8,10.1,0.0,True,1,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Burnley,21,0,0,1,0,5,0,0,0,0,0,0,0.6,3.0,0.5,2.0,True,1,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,West Brom,80,0,0,1,0,17,0,0,0,0,0,0,9.4,18.8,61.8,13.0,False,2,3.0,2.0,1.0
+Vitor Ferreira,MID,Wolves,Brighton,76,0,0,1,0,10,0,0,0,0,0,0,3.7,4.6,17.2,15.0,True,2,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Spurs,62,0,0,2,0,14,0,0,0,0,0,0,3.6,10.0,14.5,11.0,False,2,3.0,4.0,-1.0
+Vitor Ferreira,MID,Wolves,Everton,10,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,1.1,0.0,False,1,3.0,3.0,0.0
+Vitor Ferreira,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,4.0,-1.0

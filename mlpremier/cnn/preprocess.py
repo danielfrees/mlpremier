@@ -125,6 +125,7 @@ def generate_cnn_data(data_dir : str,
         print(f"Generated windowed dataframe for CNN of shape: {windowed_df.shape}.")
         print(f"Generated combined features dataframe for preprocessing of shape: {combined_features_df.shape}.\n")
         print(f"========== EDA ==========")
+        # Distributions and EDA based on player-weeks (ie for DEF: ~38 gameweeks * 400 players)
         eda_and_plot(combined_features_df)
         print(f"========== Done Generating CNN Data ==========\n")
     
@@ -214,6 +215,8 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
 
 def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
                     combined_features_df: pd.DataFrame,
+                    test_size: float = 0.15, 
+                    val_size: float = 0.3, 
                     standardize: bool = True,
                     num_features: List[str] = STANDARD_NUM_FEATURES,
                     cat_features: List[str] = STANDARD_CAT_FEATURES,
@@ -287,14 +290,14 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     # We split by player so no windows of player performance (which overlap)
     # Can possibly be shared across splits. Necessary to avoid data leakage.
     players_train, players_test = train_test_split(players, 
-                                                   test_size=0.15, 
+                                                   test_size=test_size, 
                                                    shuffle=True,
                                                    stratify=skills)
 
     train_skills = list(players_scores[players_scores['name'].isin(players_train)]['skill'])
     # Further split 30% of training data for validation
     players_train, players_val = train_test_split(players_train, 
-                                                  test_size=0.3, 
+                                                  test_size=val_size, 
                                                   shuffle=True,
                                                   stratify=train_skills)
     

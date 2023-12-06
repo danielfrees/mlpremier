@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Phil Foden,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Foden,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Foden,MID,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,Southampton,18,0,0,0,0,1,0,0,0,0,0,0,3.1,4.0,5.5,21.0,True,1
-Phil Foden,MID,Man City,Crystal Palace,86,0,0,0,1,12,0,0,0,0,0,0,7.2,10.0,58.3,4.0,False,3
-Phil Foden,MID,Man City,Liverpool,90,1,0,2,0,18,0,0,0,0,0,0,13.0,45.4,22.3,62.0,False,7
-Phil Foden,MID,Man City,Chelsea,90,0,1,0,1,16,0,0,0,0,0,0,6.7,8.6,10.1,48.0,True,6
-Phil Foden,MID,Man City,Burnley,90,2,1,1,0,61,0,0,0,0,0,0,26.5,91.4,25.3,148.0,False,18
-Phil Foden,MID,Man City,Everton,90,0,0,2,0,3,0,0,0,0,0,0,4.4,6.2,33.4,4.0,True,2
-Phil Foden,MID,Man City,Man Utd,90,0,0,0,1,9,0,0,0,0,0,0,5.6,6.8,34.7,14.0,False,3
-Phil Foden,MID,Man City,Fulham,57,0,0,0,0,13,0,0,0,0,0,0,3.3,3.2,21.4,8.0,True,1
-Phil Foden,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Foden,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,West Brom,74,0,1,1,0,35,0,0,0,0,0,0,12.1,32.8,58.8,29.0,False,7
-Phil Foden,MID,Man City,Wolves,34,0,0,0,0,5,0,0,0,0,0,0,6.0,6.8,17.7,35.0,True,1
-Phil Foden,MID,Man City,Leeds,90,1,1,0,1,46,0,0,0,0,0,0,18.0,62.2,66.3,51.0,True,12
-Phil Foden,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,Leicester,19,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,2.2,0.0,True,1
-Phil Foden,MID,Man City,Brighton,90,1,0,0,1,32,0,0,0,0,0,0,10.4,37.6,23.0,43.0,False,11
-Phil Foden,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,Crystal Palace,87,0,0,0,1,11,0,0,0,0,0,0,2.6,3.6,14.6,8.0,True,3
-Phil Foden,MID,Man City,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,10.8,16.2,39.2,53.0,False,2
-Phil Foden,MID,Man City,Brighton,70,0,0,0,1,10,0,0,0,0,0,0,4.6,4.0,33.5,8.0,True,3
-Phil Foden,MID,Man City,Sheffield Utd,81,1,0,0,1,30,0,0,0,0,0,0,13.6,40.6,14.8,81.0,False,8
-Phil Foden,MID,Man City,Spurs,90,0,0,3,0,14,0,0,0,0,0,0,6.5,7.6,25.5,32.0,True,2
-Phil Foden,MID,Man City,Fulham,90,1,0,0,1,21,1,0,0,0,0,0,11.2,34.0,11.1,67.0,False,7
-Phil Foden,MID,Man City,Man Utd,90,0,0,1,0,5,0,0,0,0,0,0,5.5,5.2,10.6,39.0,True,2
-Phil Foden,MID,Man City,Everton,90,0,0,0,1,4,0,0,0,0,0,0,4.3,3.2,9.5,30.0,False,3
-Phil Foden,MID,Man City,Chelsea,63,0,0,0,1,5,0,0,0,0,0,0,7.5,5.4,28.6,41.0,False,3
-Phil Foden,MID,Man City,Liverpool,90,0,0,2,0,8,0,0,0,0,0,0,2.6,6.8,7.4,12.0,True,2
-Phil Foden,MID,Man City,Burnley,90,1,0,0,1,30,0,0,0,0,0,0,10.3,42.0,29.9,31.0,True,10
-Phil Foden,MID,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Phil Foden,MID,Man City,Leeds,79,0,2,0,1,33,0,0,0,0,0,0,10.1,39.6,47.8,14.0,False,9
-Phil Foden,MID,Man City,Newcastle,27,1,0,0,0,21,0,0,0,0,0,0,6.0,33.4,1.7,25.0,True,6
-Phil Foden,MID,Man City,Wolves,80,0,0,1,0,6,0,0,0,0,0,0,3.6,6.4,17.2,12.0,False,2
-Phil Foden,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Phil Foden,MID,Man City,Aston Villa,90,0,0,2,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Phil Foden,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Phil Foden,MID,Man City,Norwich,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Phil Foden,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,4.0,1.0
+Phil Foden,MID,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Phil Foden,MID,Man City,Southampton,18,0,0,0,0,1,0,0,0,0,0,0,3.1,4.0,5.5,21.0,True,1,5.0,3.0,2.0
+Phil Foden,MID,Man City,Chelsea,86,0,0,0,1,12,0,0,0,0,0,0,7.2,10.0,58.3,4.0,False,3,5.0,4.0,1.0
+Phil Foden,MID,Man City,Liverpool,90,1,0,2,0,18,0,0,0,0,0,0,13.0,45.4,22.3,62.0,False,7,5.0,5.0,0.0
+Phil Foden,MID,Man City,Burnley,90,0,1,0,1,16,0,0,0,0,0,0,6.7,8.6,10.1,48.0,True,6,5.0,2.0,3.0
+Phil Foden,MID,Man City,Brighton,90,2,1,1,0,61,0,0,0,0,0,0,26.5,91.4,25.3,148.0,False,18,5.0,2.0,3.0
+Phil Foden,MID,Man City,Crystal Palace,90,0,0,2,0,3,0,0,0,0,0,0,4.4,6.2,33.4,4.0,True,2,5.0,2.0,3.0
+Phil Foden,MID,Man City,Man Utd,90,0,0,0,1,9,0,0,0,0,0,0,5.6,6.8,34.7,14.0,False,3,5.0,4.0,1.0
+Phil Foden,MID,Man City,Everton,57,0,0,0,0,13,0,0,0,0,0,0,3.3,3.2,21.4,8.0,True,1,5.0,2.0,3.0
+Phil Foden,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,3.0,2.0
+Phil Foden,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,2.0,3.0
+Phil Foden,MID,Man City,Watford,74,0,1,1,0,35,0,0,0,0,0,0,12.1,32.8,58.8,29.0,False,7,5.0,2.0,3.0
+Phil Foden,MID,Man City,Wolves,34,0,0,0,0,5,0,0,0,0,0,0,6.0,6.8,17.7,35.0,True,1,5.0,3.0,2.0
+Phil Foden,MID,Man City,Leeds,90,1,1,0,1,46,0,0,0,0,0,0,18.0,62.2,66.3,51.0,True,12,5.0,2.0,3.0
+Phil Foden,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Phil Foden,MID,Man City,Leicester,19,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,2.2,0.0,True,1,5.0,3.0,2.0
+Phil Foden,MID,Man City,Brentford,90,1,0,0,1,32,0,0,0,0,0,0,10.4,37.6,23.0,43.0,False,11,5.0,2.0,3.0
+Phil Foden,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,4.0,1.0
+Phil Foden,MID,Man City,Chelsea,87,0,0,0,1,11,0,0,0,0,0,0,2.6,3.6,14.6,8.0,True,3,5.0,4.0,1.0
+Phil Foden,MID,Man City,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,10.8,16.2,39.2,53.0,False,2,5.0,3.0,2.0
+Phil Foden,MID,Man City,Brentford,70,0,0,0,1,10,0,0,0,0,0,0,4.6,4.0,33.5,8.0,True,3,5.0,2.0,3.0
+Phil Foden,MID,Man City,Norwich,81,1,0,0,1,30,0,0,0,0,0,0,13.6,40.6,14.8,81.0,False,8,5.0,2.0,3.0
+Phil Foden,MID,Man City,Spurs,90,0,0,3,0,14,0,0,0,0,0,0,6.5,7.6,25.5,32.0,True,2,5.0,4.0,1.0
+Phil Foden,MID,Man City,Everton,90,1,0,0,1,21,1,0,0,0,0,0,11.2,34.0,11.1,67.0,False,7,5.0,2.0,3.0
+Phil Foden,MID,Man City,Man Utd,90,0,0,1,0,5,0,0,0,0,0,0,5.5,5.2,10.6,39.0,True,2,5.0,4.0,1.0
+Phil Foden,MID,Man City,Crystal Palace,90,0,0,0,1,4,0,0,0,0,0,0,4.3,3.2,9.5,30.0,False,3,5.0,2.0,3.0
+Phil Foden,MID,Man City,Burnley,63,0,0,0,1,5,0,0,0,0,0,0,7.5,5.4,28.6,41.0,False,3,5.0,2.0,3.0
+Phil Foden,MID,Man City,Liverpool,90,0,0,2,0,8,0,0,0,0,0,0,2.6,6.8,7.4,12.0,True,2,5.0,5.0,0.0
+Phil Foden,MID,Man City,Brighton,90,1,0,0,1,30,0,0,0,0,0,0,10.3,42.0,29.9,31.0,True,10,5.0,2.0,3.0
+Phil Foden,MID,Man City,Watford,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,5.0,2.0,3.0
+Phil Foden,MID,Man City,Leeds,79,0,2,0,1,33,0,0,0,0,0,0,10.1,39.6,47.8,14.0,False,9,5.0,2.0,3.0
+Phil Foden,MID,Man City,Newcastle,27,1,0,0,0,21,0,0,0,0,0,0,6.0,33.4,1.7,25.0,True,6,5.0,3.0,2.0
+Phil Foden,MID,Man City,Wolves,80,0,0,1,0,6,0,0,0,0,0,0,3.6,6.4,17.2,12.0,False,2,5.0,3.0,2.0
+Phil Foden,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,5.0,3.0,2.0
+Phil Foden,MID,Man City,Aston Villa,90,0,0,2,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2,5.0,2.0,3.0

@@ -1,37 +1,37 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Nélson Cabral Semedo,DEF,Wolves,West Ham,72,0,0,3,0,14,0,0,0,0,0,0,2.1,11.4,3.4,6.0,False,1
-Nélson Cabral Semedo,DEF,Wolves,Fulham,77,0,0,0,1,21,0,0,0,0,0,0,4.2,12.0,9.5,20.0,True,6
-Nélson Cabral Semedo,DEF,Wolves,Leeds,90,0,0,0,1,24,0,0,0,0,0,0,1.4,13.8,0.2,0.0,False,6
-Nélson Cabral Semedo,DEF,Wolves,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,4.7,16.8,28.3,2.0,True,2
-Nélson Cabral Semedo,DEF,Wolves,Crystal Palace,90,0,0,0,1,34,0,0,0,0,0,0,6.0,29.2,24.4,6.0,True,8
-Nélson Cabral Semedo,DEF,Wolves,Leicester,90,0,0,1,0,8,0,0,0,0,0,0,4.3,9.8,29.7,3.0,False,2
-Nélson Cabral Semedo,DEF,Wolves,Southampton,90,0,0,1,0,17,0,0,0,0,0,0,4.7,23.0,16.8,7.0,True,2
-Nélson Cabral Semedo,DEF,Wolves,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,3.7,20.6,12.2,4.0,False,2
-Nélson Cabral Semedo,DEF,Wolves,Liverpool,90,0,0,4,0,6,0,0,1,0,0,0,1.3,9.0,3.9,0.0,False,-2
-Nélson Cabral Semedo,DEF,Wolves,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,4.9,27.2,12.3,9.0,True,2
-Nélson Cabral Semedo,DEF,Wolves,Chelsea,90,0,0,1,0,12,1,0,0,0,0,0,4.1,25.0,3.2,13.0,True,1
-Nélson Cabral Semedo,DEF,Wolves,Burnley,90,0,0,2,0,6,0,0,0,0,0,0,2.4,10.8,3.3,10.0,False,1
-Nélson Cabral Semedo,DEF,Wolves,Spurs,90,0,0,1,0,10,1,0,0,0,0,0,4.1,17.6,19.6,4.0,True,1
-Nélson Cabral Semedo,DEF,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Nélson Cabral Semedo,DEF,Wolves,Brighton,90,0,1,3,0,21,1,0,0,0,0,0,4.5,29.6,13.5,2.0,False,3
-Nélson Cabral Semedo,DEF,Wolves,Everton,90,0,0,2,0,20,1,0,0,0,0,0,4.2,23.2,14.6,4.0,True,0
-Nélson Cabral Semedo,DEF,Wolves,West Brom,90,0,0,3,0,17,0,0,0,0,0,0,4.6,20.8,4.8,20.0,True,1
-Nélson Cabral Semedo,DEF,Wolves,Chelsea,90,0,0,0,1,23,0,0,0,0,0,0,1.1,10.8,0.1,0.0,False,6
-Nélson Cabral Semedo,DEF,Wolves,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,4.2,19.6,13.3,9.0,False,2
-Nélson Cabral Semedo,DEF,Wolves,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,3.0,12.4,8.9,9.0,True,2
-Nélson Cabral Semedo,DEF,Wolves,Leicester,90,0,0,0,1,25,0,0,0,0,0,0,2.5,12.0,3.3,10.0,True,7
-Nélson Cabral Semedo,DEF,Wolves,Southampton,90,0,1,1,0,15,0,0,0,0,0,0,4.1,8.4,12.3,20.0,False,5
-Nélson Cabral Semedo,DEF,Wolves,Leeds,90,0,0,0,1,23,0,0,0,0,0,0,8.8,22.0,23.0,43.0,True,7
-Nélson Cabral Semedo,DEF,Wolves,Newcastle,84,0,0,1,0,10,0,0,0,0,0,0,1.6,7.2,5.1,4.0,False,2
-Nélson Cabral Semedo,DEF,Wolves,Man City,90,0,0,4,0,8,0,0,0,0,0,0,1.7,15.6,1.1,0.0,False,0
-Nélson Cabral Semedo,DEF,Wolves,Aston Villa,90,0,0,0,1,19,0,0,0,0,0,0,0.9,3.2,3.9,2.0,False,6
-Nélson Cabral Semedo,DEF,Wolves,Liverpool,83,0,0,1,0,9,0,0,0,0,0,0,6.5,10.0,17.8,37.0,True,2
-Nélson Cabral Semedo,DEF,Wolves,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,4.2,19.8,19.8,2.0,True,1
-Nélson Cabral Semedo,DEF,Wolves,Fulham,90,0,0,0,1,32,0,0,0,0,0,0,8.0,47.4,32.6,0.0,False,9
-Nélson Cabral Semedo,DEF,Wolves,Sheffield Utd,90,0,0,0,1,21,0,0,0,0,0,0,3.1,14.0,13.3,4.0,True,6
-Nélson Cabral Semedo,DEF,Wolves,Burnley,57,0,0,3,0,6,0,0,0,0,0,0,2.0,4.8,14.4,1.0,True,0
-Nélson Cabral Semedo,DEF,Wolves,West Brom,90,0,1,1,0,29,0,0,0,0,0,0,6.4,24.0,14.8,25.0,False,8
-Nélson Cabral Semedo,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Nélson Cabral Semedo,DEF,Wolves,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,1.1,9.0,2.0,0.0,False,1
-Nélson Cabral Semedo,DEF,Wolves,Everton,90,0,0,1,0,8,1,0,0,0,0,0,1.8,12.4,3.9,2.0,False,1
-Nélson Cabral Semedo,DEF,Wolves,Man Utd,90,1,0,2,0,25,0,0,0,0,0,0,8.5,42.8,23.6,19.0,True,8
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Nélson Cabral Semedo,DEF,Wolves,West Ham,72,0,0,3,0,14,0,0,0,0,0,0,2.1,11.4,3.4,6.0,False,1,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Fulham,77,0,0,0,1,21,0,0,0,0,0,0,4.2,12.0,9.5,20.0,True,6,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Leeds,90,0,0,0,1,24,0,0,0,0,0,0,1.4,13.8,0.2,0.0,False,6,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,4.7,16.8,28.3,2.0,True,2,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Crystal Palace,90,0,0,0,1,34,0,0,0,0,0,0,6.0,29.2,24.4,6.0,True,8,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Leicester,90,0,0,1,0,8,0,0,0,0,0,0,4.3,9.8,29.7,3.0,False,2,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Southampton,90,0,0,1,0,17,0,0,0,0,0,0,4.7,23.0,16.8,7.0,True,2,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,3.7,20.6,12.2,4.0,False,2,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Liverpool,90,0,0,4,0,6,0,0,1,0,0,0,1.3,9.0,3.9,0.0,False,-2,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,4.9,27.2,12.3,9.0,True,2,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Chelsea,90,0,0,1,0,12,1,0,0,0,0,0,4.1,25.0,3.2,13.0,True,1,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Burnley,90,0,0,2,0,6,0,0,0,0,0,0,2.4,10.8,3.3,10.0,False,1,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Spurs,90,0,0,1,0,10,1,0,0,0,0,0,4.1,17.6,19.6,4.0,True,1,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Brighton,90,0,1,3,0,21,1,0,0,0,0,0,4.5,29.6,13.5,2.0,False,3,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Everton,90,0,0,2,0,20,1,0,0,0,0,0,4.2,23.2,14.6,4.0,True,0,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,West Brom,90,0,0,3,0,17,0,0,0,0,0,0,4.6,20.8,4.8,20.0,True,1,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Chelsea,90,0,0,0,1,23,0,0,0,0,0,0,1.1,10.8,0.1,0.0,False,6,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,4.2,19.6,13.3,9.0,False,2,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,3.0,12.4,8.9,9.0,True,2,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Leicester,90,0,0,0,1,25,0,0,0,0,0,0,2.5,12.0,3.3,10.0,True,7,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Southampton,90,0,1,1,0,15,0,0,0,0,0,0,4.1,8.4,12.3,20.0,False,5,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Leeds,90,0,0,0,1,23,0,0,0,0,0,0,8.8,22.0,23.0,43.0,True,7,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Newcastle,84,0,0,1,0,10,0,0,0,0,0,0,1.6,7.2,5.1,4.0,False,2,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Man City,90,0,0,4,0,8,0,0,0,0,0,0,1.7,15.6,1.1,0.0,False,0,3.0,5.0,-2.0
+Nélson Cabral Semedo,DEF,Wolves,Aston Villa,90,0,0,0,1,19,0,0,0,0,0,0,0.9,3.2,3.9,2.0,False,6,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Liverpool,83,0,0,1,0,9,0,0,0,0,0,0,6.5,10.0,17.8,37.0,True,2,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,4.2,19.8,19.8,2.0,True,1,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Fulham,90,0,0,0,1,32,0,0,0,0,0,0,8.0,47.4,32.6,0.0,False,9,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Sheffield Utd,90,0,0,0,1,21,0,0,0,0,0,0,3.1,14.0,13.3,4.0,True,6,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Burnley,57,0,0,3,0,6,0,0,0,0,0,0,2.0,4.8,14.4,1.0,True,0,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,West Brom,90,0,1,1,0,29,0,0,0,0,0,0,6.4,24.0,14.8,25.0,False,8,3.0,2.0,1.0
+Nélson Cabral Semedo,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Spurs,90,0,0,2,0,14,0,0,0,0,0,0,1.1,9.0,2.0,0.0,False,1,3.0,4.0,-1.0
+Nélson Cabral Semedo,DEF,Wolves,Everton,90,0,0,1,0,8,1,0,0,0,0,0,1.8,12.4,3.9,2.0,False,1,3.0,3.0,0.0
+Nélson Cabral Semedo,DEF,Wolves,Man Utd,90,1,0,2,0,25,0,0,0,0,0,0,8.5,42.8,23.6,19.0,True,8,3.0,4.0,-1.0

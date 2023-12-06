@@ -1,39 +1,39 @@
-name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points
-Enda Stevens,DEF,Sheffield Utd,Wolves,90,0,0,2,0,13,0,0,0,0,0,0,2.6,13.2,6.9,6.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,1.4,13.2,0.3,0.0,False,2
-Enda Stevens,DEF,Sheffield Utd,Leeds,90,0,0,1,0,19,0,0,0,0,0,0,4.1,29.8,1.8,9.0,True,2
-Enda Stevens,DEF,Sheffield Utd,Arsenal,90,0,0,2,0,13,0,0,0,0,0,0,3.1,16.2,4.6,10.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Fulham,90,0,0,1,0,9,0,0,0,0,0,0,3.7,15.4,2.6,19.0,True,2
-Enda Stevens,DEF,Sheffield Utd,Liverpool,90,0,0,2,0,9,1,0,0,0,0,0,4.7,24.6,12.9,9.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Man City,90,0,0,1,0,19,0,0,0,0,0,0,2.0,16.4,1.8,2.0,True,2
-Enda Stevens,DEF,Sheffield Utd,Chelsea,90,0,0,4,0,14,0,0,0,0,0,0,1.2,11.6,0.8,0.0,False,0
-Enda Stevens,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Enda Stevens,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Enda Stevens,DEF,Sheffield Utd,Southampton,90,0,0,3,0,4,1,0,0,0,0,0,2.8,9.8,16.1,2.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Man Utd,90,0,0,3,0,8,0,0,0,0,0,0,1.8,12.4,3.3,2.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.9,14.4,0.9,4.0,False,2
-Enda Stevens,DEF,Sheffield Utd,Everton,90,0,0,1,0,11,0,0,0,0,0,0,3.6,12.0,12.4,12.0,True,2
-Enda Stevens,DEF,Sheffield Utd,Burnley,90,0,0,1,0,16,1,0,0,0,0,0,3.1,13.4,15.5,2.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Crystal Palace,90,0,0,2,0,12,0,0,0,0,0,0,1.7,14.0,2.9,0.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Enda Stevens,DEF,Sheffield Utd,Spurs,90,0,0,3,0,10,0,0,0,0,0,0,4.8,7.8,18.3,22.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0
-Enda Stevens,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Enda Stevens,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0
-Enda Stevens,DEF,Sheffield Utd,West Ham,90,0,0,3,0,12,0,0,0,0,0,0,3.8,14.0,22.0,2.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Fulham,90,0,0,1,0,3,0,0,0,0,0,0,2.7,8.6,1.7,17.0,False,2
-Enda Stevens,DEF,Sheffield Utd,Liverpool,90,0,0,2,0,9,0,0,0,0,0,0,2.6,7.0,12.9,6.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Aston Villa,90,0,0,0,1,22,0,0,0,0,0,0,2.9,14.8,11.8,2.0,True,6
-Enda Stevens,DEF,Sheffield Utd,Southampton,90,0,0,2,0,7,0,0,0,0,0,0,3.2,5.0,16.3,11.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Leicester,90,0,0,5,0,9,0,0,0,0,0,0,3.8,23.0,15.1,0.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Leeds,90,0,0,2,0,10,0,0,0,0,0,0,1.7,15.6,1.6,0.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Arsenal,90,0,0,3,0,8,0,0,0,0,0,0,5.2,27.6,22.3,2.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Wolves,90,0,0,1,0,5,1,0,0,0,0,0,6.2,17.2,8.2,37.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Brighton,90,0,0,0,1,18,1,0,0,0,0,0,0.9,7.2,1.6,0.0,True,5
-Enda Stevens,DEF,Sheffield Utd,Spurs,90,0,0,4,0,10,0,0,0,0,0,0,3.5,15.2,11.5,8.0,False,0
-Enda Stevens,DEF,Sheffield Utd,Crystal Palace,90,0,0,2,0,9,0,0,0,0,0,0,4.0,21.4,18.9,0.0,True,1
-Enda Stevens,DEF,Sheffield Utd,Everton,90,0,0,0,1,22,0,0,0,0,0,0,2.3,5.4,13.8,4.0,False,6
-Enda Stevens,DEF,Sheffield Utd,Newcastle,90,0,0,1,0,10,1,0,0,0,0,0,2.4,6.4,15.6,2.0,False,1
-Enda Stevens,DEF,Sheffield Utd,Burnley,90,0,1,0,1,30,0,0,0,0,0,0,5.9,30.8,20.1,8.0,True,11
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,total_points,team_difficulty,opponent_difficulty,matchup_difficulty
+Enda Stevens,DEF,Sheffield Utd,Wolves,90,0,0,2,0,13,0,0,0,0,0,0,2.6,13.2,6.9,6.0,True,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,1.4,13.2,0.3,0.0,False,2,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Leeds,90,0,0,1,0,19,0,0,0,0,0,0,4.1,29.8,1.8,9.0,True,2,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Arsenal,90,0,0,2,0,13,0,0,0,0,0,0,3.1,16.2,4.6,10.0,False,1,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Fulham,90,0,0,1,0,9,0,0,0,0,0,0,3.7,15.4,2.6,19.0,True,2,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Liverpool,90,0,0,2,0,9,1,0,0,0,0,0,4.7,24.6,12.9,9.0,False,0,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Man City,90,0,0,1,0,19,0,0,0,0,0,0,2.0,16.4,1.8,2.0,True,2,2.0,5.0,-3.0
+Enda Stevens,DEF,Sheffield Utd,Chelsea,90,0,0,4,0,14,0,0,0,0,0,0,1.2,11.6,0.8,0.0,False,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Southampton,90,0,0,3,0,4,1,0,0,0,0,0,2.8,9.8,16.1,2.0,False,0,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Man Utd,90,0,0,3,0,8,0,0,0,0,0,0,1.8,12.4,3.3,2.0,True,1,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.9,14.4,0.9,4.0,False,2,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Everton,90,0,0,1,0,11,0,0,0,0,0,0,3.6,12.0,12.4,12.0,True,2,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Burnley,90,0,0,1,0,16,1,0,0,0,0,0,3.1,13.4,15.5,2.0,False,1,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Crystal Palace,90,0,0,2,0,12,0,0,0,0,0,0,1.7,14.0,2.9,0.0,False,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Spurs,90,0,0,3,0,10,0,0,0,0,0,0,4.8,7.8,18.3,22.0,True,1,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,0,2.0,5.0,-3.0
+Enda Stevens,DEF,Sheffield Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,West Ham,90,0,0,3,0,12,0,0,0,0,0,0,3.8,14.0,22.0,2.0,False,1,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Fulham,90,0,0,1,0,3,0,0,0,0,0,0,2.7,8.6,1.7,17.0,False,2,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Liverpool,90,0,0,2,0,9,0,0,0,0,0,0,2.6,7.0,12.9,6.0,True,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Aston Villa,90,0,0,0,1,22,0,0,0,0,0,0,2.9,14.8,11.8,2.0,True,6,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Southampton,90,0,0,2,0,7,0,0,0,0,0,0,3.2,5.0,16.3,11.0,True,1,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Leicester,90,0,0,5,0,9,0,0,0,0,0,0,3.8,23.0,15.1,0.0,False,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Leeds,90,0,0,2,0,10,0,0,0,0,0,0,1.7,15.6,1.6,0.0,False,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Arsenal,90,0,0,3,0,8,0,0,0,0,0,0,5.2,27.6,22.3,2.0,True,1,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Wolves,90,0,0,1,0,5,1,0,0,0,0,0,6.2,17.2,8.2,37.0,False,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Brighton,90,0,0,0,1,18,1,0,0,0,0,0,0.9,7.2,1.6,0.0,True,5,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Spurs,90,0,0,4,0,10,0,0,0,0,0,0,3.5,15.2,11.5,8.0,False,0,2.0,4.0,-2.0
+Enda Stevens,DEF,Sheffield Utd,Crystal Palace,90,0,0,2,0,9,0,0,0,0,0,0,4.0,21.4,18.9,0.0,True,1,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Everton,90,0,0,0,1,22,0,0,0,0,0,0,2.3,5.4,13.8,4.0,False,6,2.0,3.0,-1.0
+Enda Stevens,DEF,Sheffield Utd,Newcastle,90,0,0,1,0,10,1,0,0,0,0,0,2.4,6.4,15.6,2.0,False,1,2.0,2.0,0.0
+Enda Stevens,DEF,Sheffield Utd,Burnley,90,0,1,0,1,30,0,0,0,0,0,0,5.9,30.8,20.1,8.0,True,11,2.0,2.0,0.0
