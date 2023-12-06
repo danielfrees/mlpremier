@@ -45,7 +45,7 @@ def gridsearch_cnn(epochs: int = 200,
     DENSE_ACTIVATION = 'relu'
     DROP_LOW_PLAYTIME = True
     LOW_PLAYTIME_CUTOFF = [15]
-    AMT_NUM_FEATURES = ['ptsonly','small'] #,'medium','large']
+    AMT_NUM_FEATURES = ['ptsonly','small', 'medium', 'large'] #,'medium','large']
     NUM_FEATURES_DICT = {
         'GK': {
             'ptsonly': ['total_points'],
