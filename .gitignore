@@ -5,6 +5,9 @@ __pycache__/
 
 # too large to store on GH
 mlpremier/cnn/results/gridsearch/gridsearch_v9.csv
+mlpremier/deprecated/gridsearch_v9_nopipelineincluded.csv
+mlpremier/cnn/results/gridsearch/gridsearch_v10.csv
+mlpremier/cnn/results/gridsearch/gridsearch_v11.csv
 
 # C extensions
 *.so
