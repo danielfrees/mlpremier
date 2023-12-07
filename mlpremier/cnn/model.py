@@ -85,6 +85,7 @@ def generate_datasets(data_dir: str,
               cat_features: List[str] = STANDARD_CAT_FEATURES, 
               test_size: float = 0.15, 
               val_size: float = 0.3, 
+              stratify_by: str = 'skill',
               standardize: bool = True,
               verbose: bool = False):
     
@@ -103,16 +104,18 @@ def generate_datasets(data_dir: str,
     
     (X_train, d_train, y_train, 
      X_val, d_val, y_val, 
-     X_test, d_test, y_test) = split_preprocess_cnn_data(df, 
+     X_test, d_test, y_test, pipeline) = split_preprocess_cnn_data(df, 
                                                             features_df, 
                                                             test_size=test_size,
                                                             val_size=val_size,
+                                                            stratify_by=stratify_by, 
                                                             num_features=num_features,
                                                             cat_features=cat_features,
                                                             standardize=standardize,
+                                                            return_pipeline=True,
                                                             verbose=verbose)
     
-    return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test
+    return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test, pipeline  #return split data and stdscale pipe
 
 def build_train_cnn(X_train, d_train, y_train,
                     X_val, d_val, y_val,
@@ -239,7 +242,7 @@ def build_train_cnn(X_train, d_train, y_train,
             show_trainable=False
         )
 
-    return model, expt_res
+    return model, expt_res #return model, results
 
 def full_cnn_pipeline(data_dir: str, 
                     season: str, 
@@ -269,18 +272,23 @@ def full_cnn_pipeline(data_dir: str,
                     draw_model: bool = False, 
                     standardize: bool = True,
                     test_size: float = 0.15, 
-                    val_size: float = 0.3):
+                    val_size: float = 0.3,
+                    stratify_by: str = 'skill' 
+                    ):
     
     # Generate datasets
 
     (X_train, d_train, y_train, 
      X_val, d_val, y_val, 
-     X_test, d_test, y_test) = generate_datasets(data_dir=data_dir,
+     X_test, d_test, y_test, pipeline) = generate_datasets(data_dir=data_dir,
                                 season=season,
                                 position=position, 
                                 window_size=window_size,
                                 num_features=num_features,
                                 cat_features=cat_features,
+                                stratify_by=stratify_by,
+                                test_size=test_size,
+                                val_size=val_size,
                                 drop_low_playtime=drop_low_playtime,
                                 low_playtime_cutoff=low_playtime_cutoff,
                                 verbose=verbose)

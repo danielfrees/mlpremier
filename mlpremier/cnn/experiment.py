@@ -49,9 +49,10 @@ def gridsearch_cnn(experiment_name: str = 'gridsearch',
     CONV_ACTIVATION = 'relu'
     DENSE_ACTIVATION = 'relu'
     DROP_LOW_PLAYTIME = [False, True]
-    LOW_PLAYTIME_CUTOFF = [15]
+    LOW_PLAYTIME_CUTOFF = [1e-6]   # drop players who never play
     AMT_NUM_FEATURES = ['ptsonly'] #,'small', 'medium', 'large'] 
     CAT_FEATURES = STANDARD_CAT_FEATURES
+    STRATIFY_BY = ['skill', 'stdev'] 
     OPTIMIZERS = ['adam'] #, 'sgd'
     REGULARIZATIONS = [0.01]  #L1 L2 reg strength
     TOLERANCE = 1e-4 #early stopping tolderance 
@@ -64,15 +65,15 @@ def gridsearch_cnn(experiment_name: str = 'gridsearch',
     total_iterations = (
         len(SEASONS) * len(POSITIONS) * len(WINDOW_SIZES) * len(KERNEL_SIZES) *
         len(NUM_FILTERS) * len(NUM_DENSE) * len(DROP_LOW_PLAYTIME) * 
-        len(LOW_PLAYTIME_CUTOFF) *  len(AMT_NUM_FEATURES) * len(OPTIMIZERS) 
-        * len(REGULARIZATIONS))
+        len(LOW_PLAYTIME_CUTOFF) *  len(AMT_NUM_FEATURES) * len(STRATIFY_BY) * 
+        len(OPTIMIZERS) * len(REGULARIZATIONS))
     
 
     for (season, position, window_size, kernel_size, num_filters, num_dense,
-        drop_low_playtime, low_playtime_cutoff, amt_num_feature, 
+        drop_low_playtime, low_playtime_cutoff, amt_num_feature, stratify_by,
         optimizer, regularization) in tqdm(itertools.product(
         SEASONS, POSITIONS, WINDOW_SIZES, KERNEL_SIZES, NUM_FILTERS, NUM_DENSE,
-        DROP_LOW_PLAYTIME, LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, 
+        DROP_LOW_PLAYTIME, LOW_PLAYTIME_CUTOFF, AMT_NUM_FEATURES, STRATIFY_BY,
         OPTIMIZERS, REGULARIZATIONS), total=total_iterations):
 
         if kernel_size >= window_size:  #skip invalid configurations of kernel size
@@ -98,15 +99,16 @@ def gridsearch_cnn(experiment_name: str = 'gridsearch',
         # Run the experiment for the current set of hyperparameters
         (X_train, d_train, y_train, 
         X_val, d_val, y_val, 
-        X_test, d_test, y_test) = generate_datasets(data_dir=DATA_DIR,
-                                    season=season,
-                                    position=position, 
-                                    window_size=window_size,
-                                    num_features=num_features,
-                                    cat_features=CAT_FEATURES,
-                                    drop_low_playtime=drop_low_playtime,
-                                    low_playtime_cutoff=low_playtime_cutoff,
-                                    verbose=verbose)
+        X_test, d_test, y_test, pipeline) = generate_datasets(data_dir=DATA_DIR,
+                                            season=season,
+                                            position=position, 
+                                            window_size=window_size,
+                                            num_features=num_features,
+                                            cat_features=CAT_FEATURES,
+                                            stratify_by=stratify_by,
+                                            drop_low_playtime=drop_low_playtime,
+                                            low_playtime_cutoff=low_playtime_cutoff,
+                                            verbose=verbose)
     
         #call build_train_cnn passing on all params 
         model, expt_res = build_train_cnn(
@@ -147,6 +149,7 @@ def gridsearch_cnn(experiment_name: str = 'gridsearch',
                         'X_test': X_test, 'd_test': d_test, 'y_test': y_test}
         serialized_dataset = pickle.dumps(dataset_info)
         expt_res['dataset'] = serialized_dataset
+        expt_res['pipeline'] = pickle.dumps(pipeline)
         expt_results.append(expt_res)
 
     if verbose:

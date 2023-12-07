@@ -61,6 +61,8 @@ def generate_cnn_data(data_dir : str,
             'name' - name of the player
             'avg_score' - avg score of the player, used to stratify skill for 
                 train/val/test split later
+            'stdev_score' - standard deviation socre of the player, used to stratify skill
+            for the train/val/test split later
             'features' - DF containing window_size of data starting at some gw
             'target' - prediction value for the week following the 'features' window
             'matchup_difficulty' - additional feature treated differently in the
@@ -112,21 +114,23 @@ def generate_cnn_data(data_dir : str,
                         raise Exception
 
                     # Create training samples using the specified window size
-                    X, y, d, player_names, avg_scores, seasons = [], [], [], [], [], []
+                    X, y, d, player_names, avg_scores, stdev_scores, seasons = [], [], [], [], [], [], []
                     player_name = player_data['name'][0]
                     avg_score = player_data['total_points'].mean()
+                    stdev_score = player_data['total_points'].std()
                     for i in range(len(player_data) - window_size):
                         X.append(features.iloc[i:i + window_size]) # get window of features
                         y.append(targets[i + window_size]) # get next weeks FPL points
                         d.append(difficulties[i + window_size]) # get next weeks matchup difficulty
                         player_names.append(player_name)
                         avg_scores.append(avg_score)
+                        stdev_scores.append(stdev_score)
                         seasons.append(season)
 
-                    all_windowed_data.extend(list(zip(player_names, avg_scores, seasons, X, y, d)))
+                    all_windowed_data.extend(list(zip(player_names, avg_scores, stdev_scores, seasons, X, y, d)))
                     all_features.append(features)
 
-    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'season', 'features', 'target', 'matchup_difficulty'])
+    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'stdev_score', 'season', 'features', 'target', 'matchup_difficulty'])
     combined_features_df =  pd.concat(all_features)
 
     if verbose:
@@ -138,7 +142,6 @@ def generate_cnn_data(data_dir : str,
         # Distributions and EDA based on player-weeks (ie for DEF: ~38 gameweeks * 400 players)
         eda_and_plot(combined_features_df)
         print(f"========== Done Generating CNN Data ==========\n")
-    
 
     return windowed_df, combined_features_df
 
@@ -149,6 +152,7 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
                          standardize: bool = True,
                          num_features: List[str] = STANDARD_NUM_FEATURES,
                          cat_features: List[str] = STANDARD_CAT_FEATURES,
+                         return_pipeline: bool = False,    #whether to return the pipeline fit on the train data as well
                          verbose: bool = False):
     """
     StandardScale and One Hot Encode the features in a DataFrame for preparation
@@ -220,6 +224,9 @@ def preprocess_cnn_data(windowed_df: pd.DataFrame,
 
     if verbose:
         print(f"========== Done Preprocessing CNN Data ==========\n")
+
+    if return_pipeline:
+        return df, pipeline
     return df
 
 
@@ -227,9 +234,11 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
                     combined_features_df: pd.DataFrame,
                     test_size: float = 0.15, 
                     val_size: float = 0.3, 
+                    stratify_by: str = 'skill', 
                     standardize: bool = True,
                     num_features: List[str] = STANDARD_NUM_FEATURES,
                     cat_features: List[str] = STANDARD_CAT_FEATURES,
+                    return_pipeline: bool = False,   #whether to return preprocess pipeline fit to train data
                     verbose: bool = False) -> Tuple[np.array]:
     """
     Split and preprocess CNN data into training, validation, and test sets. 
@@ -244,55 +253,66 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     :return: Tuple of features, difficulties, labels for training, validation, and test sets.
     :rtype: Tuple[np.array]
     """
+    if stratify_by not in ['skill', 'stdev']:
+        raise ValueError("Invalid value for 'stratify_by' parameter. Use 'skills' or 'stdev'.")
+    
     if verbose:
         print(f"========== Splitting CNN Data ==========\n")
+        print(f"=== Stratifying Split by : {stratify_by.capitalize()} ===")
 
-    df = windowed_df.copy()  #num examples * ['name', 'avg_score', 'season', 'features', 'target', 'matchup_difficulty''
+    df = windowed_df.copy()  #num examples * ['name', 'avg_score', 'stdev_score', 'season', 'features', 'target', 'matchup_difficulty''
     if verbose:
         print(f"Shape of windowed_df: {windowed_df.shape}")
         print(f"Shape of a given window (prior to preprocessing): {windowed_df.loc[0, 'features'].shape}")
     features_df = combined_features_df.copy()
 
-    players_scores = df.groupby('name')[['name', 'avg_score']].first()
+    
     num_players = len(df['name'].unique())
 
-    # ===== Generate Skill Quantization for Stratify =========
+
+    # ===== Generate Skill Quantization or Variability for Stratify =========
     # quantize average score performance into bins for the stratification
+    strat_vals = None
+    strat_col = {'skill': 'avg_score', 'stdev': 'stdev_score'}
+
+    players_strats = df.groupby('name')[['name', strat_col[stratify_by]]].first()
+
     quantiles = None
     bins=None
     labels=None
     if num_players > 120:
-        quantiles = np.percentile(players_scores['avg_score'], [10, 30, 50, 70, 90])
+        quantiles = np.percentile(players_strats[strat_col[stratify_by]], [10, 30, 50, 70, 90])
         bins = quantiles.tolist()
         bins = [-100] + bins 
-        labels = ['shite', 'bad', 'bad+', 'mid', 'great', 'all-star']
+        labels = [f"{stratify_by}_{i}" for i in range(1,7)]
         # Drop any quantiles that aren't unique - needed for highly modal dists.
         bins, labels = zip(*((b, l) for b, l in zip(bins, labels) if bins.count(b) == 1))
         bins = list(bins) + [100]
         labels = list(labels)
     else: #GKs
-        quantiles = np.percentile(players_scores['avg_score'], [80, 90])
+        quantiles = np.percentile(players_strats[strat_col[stratify_by]], [80, 90])
         bins = quantiles.tolist()
         bins = [-100] + bins 
-        labels = ['shite', 'mid', 'great']
+        labels = [f"{stratify_by}_{i}" for i in range(1,4)]
         # Drop any quantiles that aren't unique
         bins, labels = zip(*((b, l) for b, l in zip(bins, labels) if bins.count(b) == 1))
         bins = list(bins) + [100]
         labels = list(labels)
-    players_scores['skill'] = pd.cut(players_scores['avg_score'], 
-                                     bins=bins, 
-                                     labels=labels)
-    players = list(players_scores['name'])
-    skills = list(players_scores['skill'])
+    players_strats[stratify_by] = pd.cut(players_strats[strat_col[stratify_by]], 
+                                    bins=bins, 
+                                    labels=labels)
+    players = list(players_strats['name'])
+    strat_vals = list(players_strats[stratify_by])
 
     if verbose:
-        print(f"Skill Distribution of Players:\n")
-        skill_counts = players_scores['skill'].value_counts()
-        colors = plt.cm.get_cmap('tab10', len(skill_counts))
+        print(f"{stratify_by} Distribution of Players:\n")
+        strat_counts = players_strats[stratify_by].value_counts()
+        colors = plt.cm.get_cmap('tab10', len(strat_counts))
         plt.figure(figsize=(3, 3))
-        plt.pie(skill_counts, labels=skill_counts.index, autopct='%1.1f%%', colors=colors(range(len(skill_counts))))
-        plt.title('Distribution of Skills')
+        plt.pie(strat_counts, labels=strat_counts.index, autopct='%1.1f%%', colors=colors(range(len(strat_counts))))
+        plt.title(f'Distribution of {stratify_by.capitalize()}')
         plt.show()
+
 
 
     # ========= Stratified Train/Val/Test Split by Skill =========
@@ -303,22 +323,23 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     players_train, players_test = train_test_split(players, 
                                                    test_size=test_size, 
                                                    shuffle=True,
-                                                   stratify=skills)
+                                                   stratify=strat_vals)
 
-    train_skills = list(players_scores[players_scores['name'].isin(players_train)]['skill'])
+    train_strat_vals = list(players_strats[players_strats['name'].isin(players_train)][stratify_by])
     # Further split 30% of training data for validation
     players_train, players_val = train_test_split(players_train, 
                                                   test_size=val_size, 
                                                   shuffle=True,
-                                                  stratify=train_skills)
+                                                  stratify=train_strat_vals)
     
     # ================ Preprocess Data ==================
-    df = preprocess_cnn_data(df, 
+    df, pipeline = preprocess_cnn_data(df, 
                             features_df, 
                             train_players = players_train, 
                             standardize = standardize,
                             num_features = num_features, 
                             cat_features = cat_features,
+                            return_pipeline = True,
                             verbose = verbose)
 
     # ================ Generate train, val, test sets ====================
@@ -346,5 +367,7 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     if verbose: 
         print(f"========== Done Splitting CNN Data ==========\n")
 
+    if return_pipeline:
+        return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test, pipeline
     return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test
 
