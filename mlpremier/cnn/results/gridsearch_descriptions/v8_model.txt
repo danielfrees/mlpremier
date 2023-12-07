@@ -1,0 +1,5 @@
+v7 + reduced patience + increased regularization (10x -> 0.01), 
+
+because training overfits much more quickly after adding
+upcoming difficulty into the architecture
+

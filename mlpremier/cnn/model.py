@@ -4,6 +4,10 @@ Construct and train CNN models for the FPL Regression Task.
 import tensorflow as tf
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.callbacks import EarlyStopping 
+from tensorflow.keras import Input
+from tensorflow.keras.models import Sequential, Model
+from tensorflow.keras.layers import Flatten, Conv1D
+from tensorflow.keras.layers import Dense, Activation, Concatenate
 from mlpremier.cnn.preprocess import generate_cnn_data, split_preprocess_cnn_data
 from typing import Tuple, List
 import os
@@ -11,7 +15,8 @@ from mlpremier.cnn.evaluate import plot_learning_curve, eval_cnn, log_evals
 
 from config import STANDARD_CAT_FEATURES, STANDARD_NUM_FEATURES
 
-def create_cnn(input_shape: Tuple, 
+def create_cnn(X_input_shape: Tuple, 
+               d_input_shape: Tuple,
                kernel_size: int,
                num_filters: int,
                num_dense: int,
@@ -27,21 +32,32 @@ def create_cnn(input_shape: Tuple,
     if verbose:
         print("====== Building CNN Architecture ======")
 
+
     # ================= Set up Model Architecture ==================
-    model = tf.keras.models.Sequential([
-        tf.keras.Input(shape=input_shape),
-        tf.keras.layers.Conv1D(filters=num_filters,
-                               kernel_size=kernel_size,
-                               activation=conv_activation,
-                               kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
-                                                                             l2=regularization)),
-        tf.keras.layers.Flatten(),
-        tf.keras.layers.Dense(units=num_dense,
-                              activation=dense_activation, 
-                              kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization, 
-                                                                             l2=regularization)),                                                                    
-        tf.keras.layers.Dense(units=1,activation='linear'),
-    ])
+    X_input = Input(shape=X_input_shape)
+    convnet = Conv1D(filters=num_filters,
+                    kernel_size=kernel_size,
+                    activation=conv_activation,
+                    kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization,
+                                                                  l2=regularization))(X_input)
+    convnet = Flatten()(convnet)
+
+    # add extra input point on matchup difficulty after convolution
+    d_input = Input(shape=d_input_shape)
+
+    # using the Functional API to concatenate match difficulty and the convolutional flattened output
+    merged_layer = Concatenate(axis=-1)([convnet, d_input])
+
+    dense_layer = Dense(units=num_dense,
+                       activation=dense_activation,
+                       kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization,
+                                                                     l2=regularization))(merged_layer)
+
+    output_layer = Dense(units=1, activation='linear')(dense_layer)
+
+    # Create the model using the Functional API!!
+    model = Model(inputs=[X_input, d_input], outputs=output_layer)
+
 
     # ============= Set Optimizer and Compile Model =================
     if optimizer == 'sgd':
@@ -59,34 +75,18 @@ def create_cnn(input_shape: Tuple,
 
     return model
 
-def build_train_cnn(data_dir: str,
+def generate_datasets(data_dir: str,
               season: str, 
-              position: str,  
+              position: str, 
               window_size: int,
-              kernel_size: int,
-              num_filters: int,
-              num_dense: int,
-              batch_size: int = 50,
-              epochs: int = 500,  
               drop_low_playtime : bool = True,
               low_playtime_cutoff : int = 25,
               num_features: List[str] = STANDARD_NUM_FEATURES,
               cat_features: List[str] = STANDARD_CAT_FEATURES, 
-              conv_activation: str = 'relu',
-              dense_activation: str = 'relu',
-              optimizer: str = 'adam',
-              learning_rate: float = 0.001,
-              loss: str = 'mse',
-              metrics: List[str] = ['mae'],
-              verbose: bool = False,
-              regularization: float = 0.001,
-              early_stopping: bool = False,
-              tolerance: float = 1e-5,
-              patience: int = 40, 
-              plot: bool = False, 
-              standardize: bool = True,
               test_size: float = 0.15, 
-              val_size: float = 0.3):
+              val_size: float = 0.3, 
+              standardize: bool = True,
+              verbose: bool = False):
     
     # =========== Generate CNN Dataset  ============
     # == for Desired Season, Posn, Window Size =====
@@ -100,7 +100,10 @@ def build_train_cnn(data_dir: str,
                          drop_low_playtime=drop_low_playtime,
                          low_playtime_cutoff=low_playtime_cutoff,
                          verbose = verbose)
-    X_train, y_train, X_val, y_val, X_test, y_test = split_preprocess_cnn_data(df, 
+    
+    (X_train, d_train, y_train, 
+     X_val, d_val, y_val, 
+     X_test, d_test, y_test) = split_preprocess_cnn_data(df, 
                                                             features_df, 
                                                             test_size=test_size,
                                                             val_size=val_size,
@@ -108,11 +111,47 @@ def build_train_cnn(data_dir: str,
                                                             cat_features=cat_features,
                                                             standardize=standardize,
                                                             verbose=verbose)
+    
+    return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test
+
+def build_train_cnn(X_train, d_train, y_train,
+                    X_val, d_val, y_val,
+                    X_test, d_test, y_test,
+                    season: str, 
+                    position: str,  
+                    window_size: int,
+                    kernel_size: int,
+                    num_filters: int,
+                    num_dense: int,
+                    batch_size: int = 50,
+                    epochs: int = 500,  
+                    drop_low_playtime : bool = True,
+                    low_playtime_cutoff : int = 25,
+                    num_features: List[str] = STANDARD_NUM_FEATURES,
+                    cat_features: List[str] = STANDARD_CAT_FEATURES, 
+                    conv_activation: str = 'relu',
+                    dense_activation: str = 'relu',
+                    optimizer: str = 'adam',
+                    learning_rate: float = 0.001,
+                    loss: str = 'mse',
+                    metrics: List[str] = ['mae'],
+                    verbose: bool = False,
+                    regularization: float = 0.001,
+                    early_stopping: bool = False,
+                    tolerance: float = 1e-5,
+                    patience: int = 40, 
+                    plot: bool = False, 
+                    draw_model: bool = False, 
+                    standardize: bool = True):
 
     # X has shape (num_examples, window_size, features)
-    input_shape = (window_size, X_train.shape[2])  
+    X_input_shape = (window_size, X_train.shape[2])  
 
-    model = create_cnn(input_shape=input_shape, 
+    # difficulty has shape (num_examples, 1, )
+    d_input_shape = (1,)
+
+    model = create_cnn(X_input_shape=X_input_shape, 
+                       d_input_shape=d_input_shape,
                         kernel_size=kernel_size, 
                         num_filters=num_filters, 
                         num_dense=num_dense,
@@ -135,17 +174,17 @@ def build_train_cnn(data_dir: str,
     # =========== Run Model Fitting ==================
     history = None
     if early_stopping:
-        history = model.fit(X_train, y_train, 
+        history = model.fit([X_train, d_train], y_train, 
                             epochs=epochs, 
                             batch_size=batch_size,
-                            validation_data=(X_val, y_val),
+                            validation_data=([X_val, d_val], y_val),
                             callbacks = [early_stop],
                             verbose = 0) 
     else:
-        history = model.fit(X_train, y_train, 
+        history = model.fit([X_train, d_train], y_train, 
                             epochs=epochs, 
                             batch_size=batch_size,
-                            validation_data=(X_val, y_val),
+                            validation_data=([X_val, d_val], y_val),
                             verbose = 0) 
     
 
@@ -153,9 +192,9 @@ def build_train_cnn(data_dir: str,
     expt_res = eval_cnn(season=season,
             position=position,
             model=model,
-            X_train=X_train, y_train=y_train,
-            X_val=X_val, y_val=y_val,
-            X_test=X_test, y_test=y_test,
+            X_train=X_train, d_train=d_train, y_train=y_train,
+            X_val=X_val, d_val=d_val, y_val=y_val,
+            X_test=X_test, d_test=d_test, y_test=y_test,
             verbose=verbose,
             window_size=window_size,
             kernel_size=kernel_size, 
@@ -185,5 +224,98 @@ def build_train_cnn(data_dir: str,
                             position,
                             history, 
                             expt_res)
+    if draw_model:
+        tf.keras.utils.plot_model(
+            model,
+            to_file='model.png',
+            show_shapes=True,
+            show_dtype=False,
+            show_layer_names=True,
+            rankdir='TB',
+            expand_nested=False,
+            dpi=96,
+            layer_range=None,
+            show_layer_activations=False,
+            show_trainable=False
+        )
+
+    return model, expt_res
+
+def full_cnn_pipeline(data_dir: str, 
+                    season: str, 
+                    position: str,  
+                    window_size: int,
+                    kernel_size: int,
+                    num_filters: int,
+                    num_dense: int,
+                    batch_size: int = 50,
+                    epochs: int = 500,  
+                    drop_low_playtime : bool = True,
+                    low_playtime_cutoff : int = 25,
+                    num_features: List[str] = STANDARD_NUM_FEATURES,
+                    cat_features: List[str] = STANDARD_CAT_FEATURES, 
+                    conv_activation: str = 'relu',
+                    dense_activation: str = 'relu',
+                    optimizer: str = 'adam',
+                    learning_rate: float = 0.001,
+                    loss: str = 'mse',
+                    metrics: List[str] = ['mae'],
+                    verbose: bool = False,
+                    regularization: float = 0.001,
+                    early_stopping: bool = False,
+                    tolerance: float = 1e-5,
+                    patience: int = 40, 
+                    plot: bool = False, 
+                    draw_model: bool = False, 
+                    standardize: bool = True,
+                    test_size: float = 0.15, 
+                    val_size: float = 0.3):
+    
+    # Generate datasets
+
+    (X_train, d_train, y_train, 
+     X_val, d_val, y_val, 
+     X_test, d_test, y_test) = generate_datasets(data_dir=data_dir,
+                                season=season,
+                                position=position, 
+                                window_size=window_size,
+                                num_features=num_features,
+                                cat_features=cat_features,
+                                drop_low_playtime=drop_low_playtime,
+                                low_playtime_cutoff=low_playtime_cutoff,
+                                verbose=verbose)
+    
+    #call build_train_cnn passing on all params 
+    model, expt_res = build_train_cnn(
+        X_train=X_train, d_train=d_train, y_train=y_train,
+        X_val=X_val, d_val=d_val, y_val=y_val,
+        X_test=X_test, d_test=d_test, y_test=y_test,
+        season=season,
+        position=position,
+        window_size=window_size,
+        kernel_size=kernel_size,
+        num_filters=num_filters,
+        num_dense=num_dense,
+        batch_size=batch_size,
+        epochs=epochs,
+        drop_low_playtime=drop_low_playtime,
+        low_playtime_cutoff=low_playtime_cutoff,
+        num_features=num_features,
+        cat_features=cat_features,
+        conv_activation=conv_activation,
+        dense_activation=dense_activation,
+        optimizer=optimizer,
+        learning_rate=learning_rate,
+        loss=loss,
+        metrics=metrics,
+        verbose=verbose,
+        regularization=regularization,
+        early_stopping=early_stopping,
+        tolerance=tolerance,
+        patience=patience,
+        plot=plot,
+        draw_model=draw_model,
+        standardize=standardize
+    )
 
     return model, expt_res

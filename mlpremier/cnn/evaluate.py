@@ -10,21 +10,21 @@ import os
 from pandas.plotting import table
 from IPython.display import display
 from typing import Union, List
-
+import pickle
 
 def eval_cnn(season, position, model, 
-             X_train, y_train, 
-             X_val, y_val, 
-             X_test, y_test,
+             X_train, d_train, y_train, 
+             X_val, d_val, y_val, 
+             X_test, d_test, y_test,
              **hyperparameters) -> dict:
     """
     Evaluate the given model on the provided data. 
     Returns a dict of evaluation results and the hyperparameters used 
     for the model.
     """
-    train_mse, train_mae = model.evaluate(X_train, y_train, verbose=0)
-    val_mse, val_mae = model.evaluate(X_val, y_val, verbose=0)
-    test_mse, test_mae = model.evaluate(X_test, y_test, verbose=0)
+    train_mse, train_mae = model.evaluate([X_train, d_train], y_train, verbose=0)
+    val_mse, val_mae = model.evaluate([X_val, d_val], y_val, verbose=0)
+    test_mse, test_mae = model.evaluate([X_test, d_test], y_test, verbose=0)
 
     eval_data = {
         'season': season,
@@ -159,14 +159,20 @@ def eda_and_plot(features_df):
     plt.tight_layout()
     plt.show()
 
-def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.csv'),
+def gridsearch_analysis(expt_name: str = 'gridsearch', 
                         season: str = "['2020-21', '2021-22']",
                         eval_top: int = 5, 
+                        get_dataset: bool = False, #whether to return datasets for a closer look (not supported by pre-v9 gridsearch results)
                         **kwargs):
     """
     Visualizes and investigates the results of a gridsearch for best CNN hyperparams.
     """
-    df = pd.read_csv(expt_res_path)
+    DATA_DIR = os.path.join(os.getcwd(), '..', 'data', 'clean_data')
+
+    expt_res_path = os.path.join('results', 'gridsearch', f'{expt_name}.csv')
+
+    # =========== Get Gridsearch MSE + Hyperparams Results and Sort ========
+    df = pd.read_csv(expt_res_path)   # get the gridsearch MSE and hyperparams data
     df = df[df['season'].apply(lambda x: repr(x) == repr(season))]
     # Filter by additional keyword arguments
     for key, value in kwargs.items():
@@ -186,7 +192,7 @@ def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.
     # ========= Analyze Mode Params for Top  Models for Each Posn ===========
     positions = ['GK', 'DEF', 'MID', 'FWD']
 
-    hyperparams_df = pd.DataFrame()
+    best_params_df = pd.DataFrame()
     performance_df = pd.DataFrame()
 
     for position in positions:
@@ -196,21 +202,25 @@ def gridsearch_analysis(expt_res_path:str = os.path.join('results', 'gridsearch.
         top_hyperparams = top_models_filtered.mode().iloc[0]
         top_means = top_models.filter(like='mse').mean()
 
-        hyperparams_df[position] = top_hyperparams
+        best_params_df[position] = top_hyperparams
         performance_df[position] = top_means
 
-    hyperparams_df = hyperparams_df.T
+    best_params_df = best_params_df.T
     performance_df = performance_df.T
 
     # Print or display the tables
     print(f"\n{season} Mode Best Hyperparameters for Each Position")
     print(f"Via Top {eval_top} Models by Position")
-    display(hyperparams_df)
+    display(best_params_df)
 
     print(f"\n{season} Mean Performance of Top {eval_top} Model by Position")
     display(performance_df)
 
-    print("\nAverage Performance:")
+    print("\nAverage Val Performance:")
+    print(performance_df['val_mse'].mean())
+
+    print("\nAverage Test Performance:")
     print(performance_df['test_mse'].mean())
-    
-    return hyperparams_df
+
+    return best_params_df
+

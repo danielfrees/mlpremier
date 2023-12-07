@@ -1,0 +1,34 @@
+v4 + Upcoming Matchup Difficulty Concatentation
+(and Keras' Functional Model Architecture)
+
+
+Note also the gridsearch is run with fewer options:
+• realized that having extra filters and dense neurons was not helping
+• realized that modeling anything more than 'ptsonly' was having a negative effect
+   on generalizability to future data.
+
+
+# ================= Set up Model Architecture ==================
+X_input = Input(shape=X_input_shape)
+convnet = Conv1D(filters=num_filters,
+                kernel_size=kernel_size,
+                activation=conv_activation,
+                kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization,
+                                                                l2=regularization))(X_input)
+convnet = Flatten()(convnet)
+
+# add extra input point on matchup difficulty after convolution
+d_input = Input(shape=d_input_shape)
+
+# using the Functional API to concatenate match difficulty and the convolutional flattened output
+merged_layer = Concatenate(axis=-1)([convnet, d_input])
+
+dense_layer = Dense(units=num_dense,
+                    activation=dense_activation,
+                    kernel_regularizer=tf.keras.regularizers.L1L2(l1=regularization,
+                                                                    l2=regularization))(merged_layer)
+
+output_layer = Dense(units=1, activation='linear')(dense_layer)
+
+# Create the model using the Functional API!!
+model = Model(inputs=[X_input, d_input], outputs=output_layer)

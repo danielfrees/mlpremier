@@ -126,7 +126,7 @@ def generate_cnn_data(data_dir : str,
                     all_windowed_data.extend(list(zip(player_names, avg_scores, seasons, X, y, d)))
                     all_features.append(features)
 
-    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'season', 'features', 'target', 'match_difficulty'])
+    windowed_df = pd.DataFrame(all_windowed_data, columns=['name', 'avg_score', 'season', 'features', 'target', 'matchup_difficulty'])
     combined_features_df =  pd.concat(all_features)
 
     if verbose:
@@ -241,13 +241,13 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     :param pd.DataFrame combined_features_df: Input DataFrame of form output by 
         `generate_cnn_data`[1] containing all player-week features combined together.
 
-    :return: Tuple of features and labels for training, validation, and test sets.
+    :return: Tuple of features, difficulties, labels for training, validation, and test sets.
     :rtype: Tuple[np.array]
     """
     if verbose:
         print(f"========== Splitting CNN Data ==========\n")
 
-    df = windowed_df.copy()  #names, player-window df, target data
+    df = windowed_df.copy()  #num examples * ['name', 'avg_score', 'season', 'features', 'target', 'matchup_difficulty''
     if verbose:
         print(f"Shape of windowed_df: {windowed_df.shape}")
         print(f"Shape of a given window (prior to preprocessing): {windowed_df.loc[0, 'features'].shape}")
@@ -299,6 +299,7 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     # Split data into 85% train and 15% test 
     # We split by player so no windows of player performance (which overlap)
     # Can possibly be shared across splits. Necessary to avoid data leakage.
+    # We split out match difficulties separately, as d (a vector of same shape as y)
     players_train, players_test = train_test_split(players, 
                                                    test_size=test_size, 
                                                    shuffle=True,
@@ -334,6 +335,10 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     X_val = np.array(val_data['features'].tolist())
     X_test = np.array(test_data['features'].tolist())
 
+    d_train = np.array(train_data['matchup_difficulty'])
+    d_val = np.array(val_data['matchup_difficulty'])
+    d_test = np.array(test_data['matchup_difficulty'])
+
     y_train = np.array(train_data['target'])
     y_val = np.array(val_data['target'])
     y_test = np.array(test_data['target'])
@@ -341,5 +346,5 @@ def split_preprocess_cnn_data(windowed_df: pd.DataFrame,
     if verbose: 
         print(f"========== Done Splitting CNN Data ==========\n")
 
-    return X_train, y_train, X_val, y_val, X_test, y_test
+    return X_train, d_train, y_train, X_val, d_val, y_val, X_test, d_test, y_test
 
