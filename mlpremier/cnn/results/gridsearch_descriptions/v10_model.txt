@@ -1,0 +1,2 @@
+v9 + dropping only players who never play 
+

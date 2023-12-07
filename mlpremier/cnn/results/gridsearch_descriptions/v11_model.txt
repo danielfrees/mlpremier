@@ -1,0 +1,1 @@
+v10 + allow stratification by both stdev score ('stdev') and avg score ('skill')
