@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# too large to store on GH
+results/gridsearch/gridsearch_v9.csv
+
 # C extensions
 *.so
 
