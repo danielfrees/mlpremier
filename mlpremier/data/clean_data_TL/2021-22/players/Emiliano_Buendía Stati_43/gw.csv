@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Emiliano Buendía Stati,MID,Aston Villa,West Brom,71,0,0,3,0,6,0,0,0,0,0,0,2.0,4.2,5.3,10.0,False,2021-08-14T14:00:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Newcastle,85,0,0,0,1,6,1,0,0,0,0,0,5.0,11.6,36.2,2.0,True,2021-08-21T14:00:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Brighton,90,1,0,1,0,29,0,0,0,0,0,0,10.2,52.2,40.3,9.0,True,2021-08-28T14:00:00Z,10
+Emiliano Buendía Stati,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T16:30:00Z,0
+Emiliano Buendía Stati,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T16:30:00Z,0
+Emiliano Buendía Stati,MID,Aston Villa,Man Utd,12,0,0,0,0,3,0,0,0,0,0,0,1.5,1.2,11.3,2.0,False,2021-09-25T11:30:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Spurs,21,0,0,1,0,3,0,0,0,0,0,0,0.2,0.6,1.3,0.0,False,2021-10-03T13:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Wolves,73,0,0,0,1,18,0,0,0,0,0,0,4.1,6.0,27.8,7.0,True,2021-10-16T14:00:00Z,3
+Emiliano Buendía Stati,MID,Aston Villa,Arsenal,67,0,0,3,0,9,0,0,0,0,0,0,6.0,15.4,24.0,21.0,False,2021-10-22T19:00:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,West Ham,51,0,1,2,0,17,0,0,0,0,0,0,3.3,19.0,12.1,2.0,True,2021-10-31T16:30:00Z,4
+Emiliano Buendía Stati,MID,Aston Villa,Southampton,70,0,0,1,0,12,0,0,0,0,0,0,8.5,18.8,44.3,22.0,False,2021-11-05T20:00:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Burnley,73,0,0,0,1,7,0,0,0,0,0,0,1.3,2.2,2.5,8.0,True,2021-11-20T15:00:00Z,3
+Emiliano Buendía Stati,MID,Aston Villa,Everton,5,0,0,1,0,2,0,0,0,0,0,0,0.3,0.6,0.8,2.0,False,2021-11-27T15:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Man City,90,0,0,2,0,15,0,0,0,0,0,0,4.8,4.0,15.8,28.0,True,2021-12-01T20:15:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Leicester,77,0,1,1,0,19,0,0,0,0,0,0,4.3,21.6,13.1,8.0,True,2021-12-05T16:30:00Z,5
+Emiliano Buendía Stati,MID,Aston Villa,Liverpool,21,0,0,0,0,1,0,0,0,0,0,0,0.8,1.0,3.3,4.0,False,2021-12-11T15:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Sheffield Utd,82,0,0,0,1,8,0,0,0,0,0,0,8.2,16.0,31.8,34.0,False,2021-12-14T19:45:00Z,3
+Emiliano Buendía Stati,MID,Aston Villa,Crystal Palace,73,0,0,2,0,8,0,0,0,0,0,0,1.2,0.8,10.9,0.0,True,2021-12-26T17:30:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Brighton,90,0,1,2,0,19,0,0,0,0,0,0,13.9,28.6,52.8,58.0,False,2022-01-02T14:00:00Z,5
+Emiliano Buendía Stati,MID,Aston Villa,Man Utd,90,0,0,2,0,16,0,0,0,0,0,0,12.6,27.8,51.9,46.0,True,2022-01-15T17:30:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Fulham,90,1,0,0,1,27,0,0,0,0,0,0,11.0,59.4,1.8,49.0,False,2022-01-22T12:30:00Z,10
+Emiliano Buendía Stati,MID,Aston Villa,Leeds,58,0,0,2,0,6,0,0,0,0,0,0,0.8,6.2,1.1,1.0,True,2022-02-09T20:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Newcastle,71,0,0,1,0,9,0,0,0,0,0,0,3.4,5.4,15.0,14.0,False,2022-02-13T14:00:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,West Brom,70,0,0,0,1,15,0,0,0,0,0,0,9.4,16.6,60.9,16.0,True,2022-02-19T15:00:00Z,3
+Emiliano Buendía Stati,MID,Aston Villa,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:30:00Z,0
+Emiliano Buendía Stati,MID,Aston Villa,Southampton,9,0,0,0,0,3,0,0,0,0,0,0,0.7,0.2,0.4,6.0,True,2022-03-05T15:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Leeds,13,0,0,0,0,5,0,0,0,0,0,0,1.7,6.0,10.9,0.0,False,2022-03-10T19:45:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,West Ham,11,0,1,1,0,10,0,0,0,0,0,0,7.0,21.0,14.3,35.0,False,2022-03-13T14:00:00Z,4
+Emiliano Buendía Stati,MID,Aston Villa,Arsenal,68,0,0,1,0,6,0,0,0,0,0,0,2.3,7.4,13.8,2.0,True,2022-03-19T12:30:00Z,2
+Emiliano Buendía Stati,MID,Aston Villa,Wolves,16,0,0,0,0,4,0,0,0,0,0,0,3.3,5.6,21.3,6.0,False,2022-04-02T14:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Spurs,20,0,0,1,0,1,0,0,0,0,0,0,2.8,5.4,1.8,21.0,True,2022-04-09T16:30:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Leicester,11,0,0,0,0,5,0,0,0,0,0,0,1.7,4.0,11.8,1.0,False,2022-04-23T14:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Sheffield Utd,14,0,1,0,0,19,0,0,0,0,0,0,4.9,20.4,23.3,5.0,True,2022-04-30T14:00:00Z,4
+Emiliano Buendía Stati,MID,Aston Villa,Chelsea,79,1,1,0,1,34,0,0,0,0,0,0,8.7,47.8,17.0,22.0,False,2022-05-07T14:00:00Z,14
+Emiliano Buendía Stati,MID,Aston Villa,Liverpool,20,0,0,0,0,2,0,0,0,0,0,0,1.7,1.4,11.3,4.0,True,2022-05-10T19:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Everton,19,0,0,1,0,2,0,0,0,0,0,0,4.1,2.8,19.8,18.0,True,2022-05-15T13:00:00Z,1
+Emiliano Buendía Stati,MID,Aston Villa,Chelsea,90,1,0,1,0,22,0,0,0,0,0,0,15.6,38.2,49.3,68.0,True,2022-05-19T19:00:00Z,7
+Emiliano Buendía Stati,MID,Aston Villa,Man City,87,0,0,3,0,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

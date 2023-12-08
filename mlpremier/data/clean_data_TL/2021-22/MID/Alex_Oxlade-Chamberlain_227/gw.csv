@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Alex Oxlade-Chamberlain,MID,Liverpool,Sheffield Utd,60,0,0,0,1,3,0,0,0,0,0,0,0.7,0.0,5.3,4.0,False,2021-08-14T16:30:00Z,3
+Alex Oxlade-Chamberlain,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T11:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T16:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leeds,8,0,0,0,0,4,0,0,0,0,0,0,0.8,2.0,0.0,6.0,False,2021-09-12T15:30:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T16:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T15:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,West Brom,26,0,0,0,0,4,0,0,0,0,0,0,1.7,5.0,12.3,0.0,False,2021-10-16T11:30:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Man Utd,26,0,0,0,0,3,0,0,0,0,0,0,2.1,6.8,13.2,1.0,False,2021-10-24T15:30:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Burnley,70,0,1,2,0,27,0,0,0,0,0,0,7.0,29.4,29.8,11.0,True,2021-10-30T14:00:00Z,7
+Alex Oxlade-Chamberlain,MID,Liverpool,West Ham,68,0,0,2,0,10,0,0,0,0,0,0,2.7,9.0,5.7,12.0,False,2021-11-07T16:30:00Z,2
+Alex Oxlade-Chamberlain,MID,Liverpool,Arsenal,75,0,0,0,1,12,0,0,0,0,0,0,5.1,12.2,6.7,32.0,True,2021-11-20T17:30:00Z,3
+Alex Oxlade-Chamberlain,MID,Liverpool,Southampton,31,0,0,0,0,1,0,0,0,0,0,0,3.3,4.8,11.5,17.0,True,2021-11-27T15:00:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Fulham,7,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.7,0.0,False,2021-12-01T20:15:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Wolves,8,0,0,0,0,5,0,0,0,0,0,0,0.6,2.2,1.4,2.0,False,2021-12-04T15:00:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Aston Villa,57,0,0,0,0,1,0,0,0,0,0,0,1.5,3.4,2.8,9.0,True,2021-12-11T15:00:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Newcastle,73,0,0,1,0,14,0,0,0,0,0,0,2.5,4.0,13.8,7.0,True,2021-12-16T20:00:00Z,2
+Alex Oxlade-Chamberlain,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T16:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Leicester,54,0,0,0,0,8,0,0,0,0,0,0,1.7,7.2,7.6,2.0,False,2021-12-28T20:00:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Crystal Palace,21,0,0,0,0,3,0,0,0,0,0,0,0.2,0.6,1.3,0.0,False,2022-01-02T16:30:00Z,1
+Alex Oxlade-Chamberlain,MID,Liverpool,Brighton,73,1,0,0,1,23,0,0,0,0,0,0,10.8,38.6,39.9,29.0,True,2022-01-16T14:00:00Z,8
+Alex Oxlade-Chamberlain,MID,Liverpool,Everton,59,1,0,1,0,24,0,0,0,0,0,0,9.9,35.4,14.2,49.0,False,2022-01-23T14:00:00Z,6
+Alex Oxlade-Chamberlain,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-10T19:45:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-13T14:00:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Sheffield Utd,61,0,0,1,0,4,0,0,0,0,0,0,3.3,1.8,3.8,27.0,True,2022-02-19T15:00:00Z,2
+Alex Oxlade-Chamberlain,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:45:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T17:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T12:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T20:15:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T11:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T15:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-19T19:00:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T15:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T11:30:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T18:45:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-17T18:45:00Z,0
+Alex Oxlade-Chamberlain,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

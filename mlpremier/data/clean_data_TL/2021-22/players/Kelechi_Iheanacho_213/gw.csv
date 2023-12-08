@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kelechi Iheanacho,FWD,Leicester,Wolves,18,0,0,0,0,2,0,0,0,0,0,0,1.3,1.4,3.7,8.0,True,2021-08-14T14:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,West Ham,9,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2021-08-23T19:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,23,0,0,0,0,0,0,0,0,0,0,0,0.8,0.0,0.3,8.0,False,2021-08-28T14:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Man City,17,0,0,0,0,7,0,0,0,0,0,0,2.2,1.6,14.6,6.0,True,2021-09-11T14:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Burnley,15,0,0,0,0,4,0,0,0,0,0,0,1.5,2.0,10.8,2.0,False,2021-09-19T13:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Chelsea,28,0,1,0,0,14,0,0,0,0,0,0,6.3,20.6,13.8,29.0,True,2021-09-25T14:00:00Z,4
+Kelechi Iheanacho,FWD,Leicester,Everton,70,1,0,1,0,32,0,0,0,0,0,0,7.2,42.0,21.2,9.0,False,2021-10-03T13:00:00Z,9
+Kelechi Iheanacho,FWD,Leicester,Man Utd,76,0,1,1,0,12,0,0,0,0,0,0,8.7,23.8,15.3,48.0,True,2021-10-16T14:00:00Z,5
+Kelechi Iheanacho,FWD,Leicester,Brighton,90,0,0,1,0,6,0,0,0,0,0,0,3.3,7.0,23.0,3.0,False,2021-10-24T13:00:00Z,2
+Kelechi Iheanacho,FWD,Leicester,Arsenal,45,0,0,2,0,3,0,0,0,0,0,0,1.7,6.0,3.8,7.0,True,2021-10-30T11:30:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Crystal Palace,45,0,0,1,0,2,0,0,0,0,0,0,0.5,3.2,1.9,0.0,True,2021-11-20T12:30:00Z,1
+Kelechi Iheanacho,FWD,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Aston Villa,4,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.8,2.0,False,2021-12-05T16:30:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-12T14:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Man City,90,1,2,6,0,53,0,0,0,0,0,0,16.5,73.6,24.7,67.0,False,2021-12-26T15:00:00Z,15
+Kelechi Iheanacho,FWD,Leicester,Liverpool,55,0,0,0,0,2,0,0,0,0,0,0,3.6,1.6,12.3,22.0,True,2021-12-28T20:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-19T19:30:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Liverpool,30,0,0,1,0,1,0,0,0,0,0,0,0.8,0.0,0.8,8.0,False,2022-02-10T19:45:00Z,1
+Kelechi Iheanacho,FWD,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T16:30:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Wolves,17,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2022-02-20T16:30:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-01T19:45:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Leeds,29,0,1,0,0,10,0,0,0,0,0,0,3.4,20.6,11.5,2.0,True,2022-03-05T12:30:00Z,4
+Kelechi Iheanacho,FWD,Leicester,Arsenal,73,0,0,2,0,-1,1,0,0,0,0,0,1.5,1.8,1.7,11.0,False,2022-03-13T16:30:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Brighton,85,0,0,1,0,2,0,0,0,0,0,0,5.3,2.0,23.3,28.0,True,2022-03-20T14:00:00Z,2
+Kelechi Iheanacho,FWD,Leicester,Man Utd,90,1,0,1,0,29,0,0,0,0,0,0,7.7,35.2,14.3,27.0,False,2022-04-02T16:30:00Z,8
+Kelechi Iheanacho,FWD,Leicester,Everton,14,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2022-04-10T13:00:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Newcastle,12,0,0,1,0,3,0,0,0,0,0,0,3.4,0.0,0.0,34.0,False,2022-04-17T13:15:00Z,1
+Kelechi Iheanacho,FWD,Leicester,Fulham,76,0,1,0,1,14,0,0,0,0,0,0,4.4,1.2,10.9,32.0,False,2022-04-20T18:45:00Z,5
+Kelechi Iheanacho,FWD,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Spurs,90,1,0,3,0,29,0,0,0,0,0,0,5.0,35.2,4.8,10.0,False,2022-05-01T13:00:00Z,8
+Kelechi Iheanacho,FWD,Leicester,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,6.4,12.8,24.7,26.0,True,2022-05-08T13:00:00Z,2
+Kelechi Iheanacho,FWD,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:45:00Z,0
+Kelechi Iheanacho,FWD,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Kelechi Iheanacho,FWD,Leicester,Crystal Palace,62,0,0,1,0,7,0,0,0,0,0,0,0.5,0.4,3.6,1.0,False,2022-05-19T19:00:00Z,2
+Kelechi Iheanacho,FWD,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

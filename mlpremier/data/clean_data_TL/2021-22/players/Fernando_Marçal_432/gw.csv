@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Fernando Marçal,DEF,Wolves,Leicester,90,0,0,1,0,10,1,0,0,0,0,0,4.0,13.2,24.6,2.0,False,2021-08-14T14:00:00Z,1
+Fernando Marçal,DEF,Wolves,Spurs,90,0,0,1,0,19,0,0,0,0,0,0,4.4,19.0,22.3,3.0,True,2021-08-22T13:00:00Z,2
+Fernando Marçal,DEF,Wolves,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,2.1,18.2,2.8,0.0,True,2021-08-29T15:30:00Z,2
+Fernando Marçal,DEF,Wolves,West Brom,90,0,2,0,1,30,1,0,0,0,0,0,4.4,6.2,3.1,35.0,False,2021-09-11T14:00:00Z,13
+Fernando Marçal,DEF,Wolves,Brighton,71,0,0,2,0,6,0,0,0,0,0,0,0.2,0.0,4.0,4.0,True,2021-09-18T11:30:00Z,1
+Fernando Marçal,DEF,Wolves,Southampton,90,0,0,0,1,18,0,0,0,0,0,0,1.2,11.0,1.3,0.0,False,2021-09-26T13:00:00Z,6
+Fernando Marçal,DEF,Wolves,Newcastle,90,0,0,1,0,23,0,0,0,0,0,0,3.5,28.8,5.8,0.0,True,2021-10-02T14:00:00Z,3
+Fernando Marçal,DEF,Wolves,Aston Villa,73,0,0,2,0,6,0,0,0,0,0,0,0.8,5.0,3.1,0.0,False,2021-10-16T14:00:00Z,1
+Fernando Marçal,DEF,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Fernando Marçal,DEF,Wolves,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-01T20:00:00Z,0
+Fernando Marçal,DEF,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Fernando Marçal,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T12:30:00Z,0
+Fernando Marçal,DEF,Wolves,Burnley,90,0,0,0,1,23,0,0,0,0,0,0,1.9,15.6,1.4,2.0,False,2021-12-15T19:30:00Z,6
+Fernando Marçal,DEF,Wolves,Crystal Palace,90,0,0,0,1,21,0,0,0,0,0,0,2.5,13.4,5.4,6.0,True,2021-12-19T14:00:00Z,6
+Fernando Marçal,DEF,Wolves,Man Utd,90,0,0,0,1,20,0,0,0,0,0,0,1.3,4.8,2.3,6.0,False,2022-01-03T17:30:00Z,6
+Fernando Marçal,DEF,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Fernando Marçal,DEF,Wolves,Arsenal,62,0,0,1,0,7,0,0,0,0,0,0,2.5,3.6,1.1,20.0,True,2022-02-10T19:45:00Z,2
+Fernando Marçal,DEF,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-13T14:00:00Z,0
+Fernando Marçal,DEF,Wolves,Leicester,2,0,0,0,0,2,0,0,0,0,0,0,0.2,2.2,0.0,0.0,True,2022-02-20T16:30:00Z,1
+Fernando Marçal,DEF,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-24T19:45:00Z,0
+Fernando Marçal,DEF,Wolves,West Ham,75,0,0,1,0,21,0,0,0,0,0,0,7.0,19.4,38.8,12.0,False,2022-02-27T14:00:00Z,2
+Fernando Marçal,DEF,Wolves,Everton,90,0,0,2,0,16,0,0,0,0,0,0,8.7,31.8,25.8,29.0,True,2022-03-05T15:00:00Z,1
+Fernando Marçal,DEF,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Fernando Marçal,DEF,Wolves,Fulham,90,0,0,0,1,27,0,0,0,0,0,0,3.4,11.8,12.4,10.0,False,2022-03-13T14:00:00Z,7
+Fernando Marçal,DEF,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-18T20:00:00Z,0
+Fernando Marçal,DEF,Wolves,Aston Villa,90,0,1,1,0,16,1,0,0,0,0,0,3.9,20.8,16.1,2.0,True,2022-04-02T14:00:00Z,5
+Fernando Marçal,DEF,Wolves,Newcastle,85,0,0,1,0,19,0,0,0,0,0,0,4.3,22.4,17.0,4.0,False,2022-04-08T19:00:00Z,2
+Fernando Marçal,DEF,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Fernando Marçal,DEF,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Fernando Marçal,DEF,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Fernando Marçal,DEF,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T19:15:00Z,0
+Fernando Marçal,DEF,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Fernando Marçal,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

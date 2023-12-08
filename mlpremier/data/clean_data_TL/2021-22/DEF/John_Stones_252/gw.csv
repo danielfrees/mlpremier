@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+John Stones,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-15T15:30:00Z,0
+John Stones,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T14:00:00Z,0
+John Stones,DEF,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T11:30:00Z,0
+John Stones,DEF,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+John Stones,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+John Stones,DEF,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T11:30:00Z,0
+John Stones,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T15:30:00Z,0
+John Stones,DEF,Man City,Chelsea,90,0,0,0,1,24,0,0,0,0,0,0,0.7,6.8,0.5,0.0,True,2021-10-16T14:00:00Z,6
+John Stones,DEF,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T16:30:00Z,0
+John Stones,DEF,Man City,Everton,31,0,0,1,0,7,0,0,0,0,0,0,0.9,7.8,0.7,0.0,True,2021-10-30T14:00:00Z,1
+John Stones,DEF,Man City,Man Utd,90,0,0,0,1,22,0,0,0,0,0,0,1.5,10.2,1.1,4.0,False,2021-11-06T12:30:00Z,6
+John Stones,DEF,Man City,Fulham,90,0,0,0,1,29,0,0,0,0,0,0,2.6,21.4,4.6,0.0,True,2021-11-21T14:00:00Z,6
+John Stones,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+John Stones,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+John Stones,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T17:30:00Z,0
+John Stones,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T12:30:00Z,0
+John Stones,DEF,Man City,Leeds,90,1,0,0,1,30,0,0,0,0,0,0,9.8,46.2,1.8,50.0,True,2021-12-14T20:00:00Z,12
+John Stones,DEF,Man City,Newcastle,20,0,0,0,0,3,0,0,0,0,0,0,0.3,3.0,0.2,0.0,False,2021-12-19T14:00:00Z,1
+John Stones,DEF,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+John Stones,DEF,Man City,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T20:15:00Z,0
+John Stones,DEF,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T12:30:00Z,0
+John Stones,DEF,Man City,Crystal Palace,90,0,0,0,1,27,0,0,0,0,0,0,3.4,14.8,1.8,17.0,True,2022-01-15T12:30:00Z,7
+John Stones,DEF,Man City,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T17:30:00Z,0
+John Stones,DEF,Man City,Brighton,90,0,0,0,1,26,0,0,0,0,0,0,2.7,15.2,10.0,2.0,True,2022-02-09T19:45:00Z,6
+John Stones,DEF,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T17:30:00Z,0
+John Stones,DEF,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T17:30:00Z,0
+John Stones,DEF,Man City,Fulham,90,0,0,0,1,27,0,0,0,0,0,0,4.0,17.0,16.4,7.0,False,2022-02-26T17:30:00Z,8
+John Stones,DEF,Man City,Man Utd,90,0,0,1,0,14,0,0,0,0,0,0,3.1,15.4,11.4,4.0,True,2022-03-06T16:30:00Z,2
+John Stones,DEF,Man City,Everton,90,0,0,0,1,28,0,0,0,0,0,0,4.2,19.4,14.6,8.0,False,2022-03-14T20:00:00Z,7
+John Stones,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+John Stones,DEF,Man City,Liverpool,90,0,0,2,0,14,0,0,0,0,0,0,1.8,17.4,0.8,0.0,True,2022-04-10T15:30:00Z,1
+John Stones,DEF,Man City,Burnley,76,0,0,0,1,26,0,0,0,0,0,0,3.0,10.0,2.0,18.0,True,2022-04-20T19:00:00Z,6
+John Stones,DEF,Man City,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+John Stones,DEF,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T16:30:00Z,0
+John Stones,DEF,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T15:30:00Z,0
+John Stones,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T19:15:00Z,0
+John Stones,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+John Stones,DEF,Man City,Aston Villa,90,0,0,2,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

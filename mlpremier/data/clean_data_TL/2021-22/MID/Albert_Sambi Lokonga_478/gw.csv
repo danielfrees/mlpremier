@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Albert Sambi Lokonga,MID,Arsenal,Brighton,90,0,0,2,0,13,0,0,0,0,0,0,6.2,19.4,34.3,8.0,False,2021-08-13T19:00:00Z,2
+Albert Sambi Lokonga,MID,Arsenal,Crystal Palace,90,0,0,2,0,5,1,0,0,0,0,0,0.9,0.0,7.9,1.0,True,2021-08-22T15:30:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T11:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Sheffield Utd,61,0,0,0,1,21,0,0,0,0,0,0,3.9,24.4,6.7,8.0,True,2021-09-11T14:00:00Z,3
+Albert Sambi Lokonga,MID,Arsenal,Chelsea,29,0,0,0,0,9,0,0,0,0,0,0,3.0,18.2,11.3,0.0,False,2021-09-18T14:00:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Spurs,8,0,0,0,0,-1,1,0,0,0,0,0,0.6,5.6,0.3,0.0,True,2021-09-26T15:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Burnley,90,0,0,0,1,15,0,0,0,0,0,0,2.2,18.6,2.7,1.0,False,2021-10-02T16:30:00Z,3
+Albert Sambi Lokonga,MID,Arsenal,Everton,45,0,0,2,0,7,0,0,0,0,0,0,1.7,1.8,15.0,0.0,True,2021-10-18T19:00:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Aston Villa,72,0,0,0,1,9,1,0,0,0,0,0,5.0,7.0,25.3,18.0,True,2021-10-22T19:00:00Z,2
+Albert Sambi Lokonga,MID,Arsenal,Leicester,90,0,0,0,1,9,0,0,0,0,0,0,1.5,5.2,2.1,8.0,False,2021-10-30T11:30:00Z,3
+Albert Sambi Lokonga,MID,Arsenal,West Brom,90,0,0,0,1,6,1,0,0,0,0,0,2.7,8.0,2.7,16.0,True,2021-11-07T14:00:00Z,2
+Albert Sambi Lokonga,MID,Arsenal,Liverpool,52,0,0,2,0,5,0,0,0,0,0,0,1.4,6.0,0.8,7.0,False,2021-11-20T17:30:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Newcastle,90,0,0,0,1,26,0,0,0,0,0,0,9.7,26.0,70.5,0.0,True,2021-11-27T12:30:00Z,3
+Albert Sambi Lokonga,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T20:15:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-06T20:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Southampton,9,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,2021-12-11T15:00:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T20:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-18T17:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T12:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Chelsea,90,0,0,0,1,14,0,0,0,0,0,0,3.6,12.6,15.0,8.0,True,2022-01-23T14:00:00Z,3
+Albert Sambi Lokonga,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-10T19:45:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-24T19:45:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-06T14:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T16:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-16T20:15:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-19T12:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Everton,15,0,0,0,0,8,0,0,0,0,0,0,2.2,9.8,12.3,0.0,False,2022-04-04T19:00:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Burnley,90,0,0,2,0,7,1,0,0,0,0,0,3.2,9.8,13.9,8.0,True,2022-04-09T14:00:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,3.9,9.4,29.7,0.0,False,2022-04-16T14:00:00Z,2
+Albert Sambi Lokonga,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T18:45:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T11:30:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,West Ham,1,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.0,4.0,False,2022-05-01T15:30:00Z,1
+Albert Sambi Lokonga,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-12T18:45:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-16T19:00:00Z,0
+Albert Sambi Lokonga,MID,Arsenal,Fulham,27,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

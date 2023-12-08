@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Pierre-Emile Højbjerg,MID,Spurs,Man City,89,0,0,0,1,13,0,0,0,0,0,0,4.6,12.6,21.8,12.0,True,2021-08-15T15:30:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Wolves,90,0,0,0,1,16,1,0,0,0,0,0,3.7,14.2,3.1,20.0,False,2021-08-22T13:00:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,West Brom,90,0,0,0,1,18,0,0,0,0,0,0,5.8,27.8,21.4,9.0,True,2021-08-29T13:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Everton,90,0,0,3,0,17,0,0,0,0,0,0,3.8,22.8,13.2,2.0,False,2021-09-11T11:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Crystal Palace,90,0,0,3,0,14,0,0,0,0,0,0,1.9,16.0,2.5,0.0,True,2021-09-19T15:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Arsenal,90,0,0,3,0,18,0,0,0,0,0,0,3.1,23.0,8.3,0.0,False,2021-09-26T15:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Aston Villa,90,1,0,1,0,39,0,0,0,0,0,0,5.9,48.6,3.8,7.0,True,2021-10-03T13:00:00Z,10
+Pierre-Emile Højbjerg,MID,Spurs,Newcastle,90,0,1,2,0,25,0,0,0,0,0,0,7.6,46.2,22.6,7.0,False,2021-10-17T15:30:00Z,5
+Pierre-Emile Højbjerg,MID,Spurs,West Ham,90,0,0,1,0,17,0,0,0,0,0,0,3.2,19.8,5.0,7.0,False,2021-10-24T13:00:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Man Utd,90,0,0,3,0,9,0,0,0,0,0,0,2.3,15.2,5.3,2.0,True,2021-10-30T16:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Fulham,90,0,0,0,1,13,0,0,0,0,0,0,1.9,15.2,3.4,0.0,False,2021-11-07T14:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Leeds,90,1,0,1,0,30,0,0,0,0,0,0,7.3,44.0,3.6,25.0,True,2021-11-21T16:30:00Z,10
+Pierre-Emile Højbjerg,MID,Spurs,Brighton,90,0,0,0,1,12,0,0,0,0,0,0,6.7,11.0,14.0,42.0,True,2021-12-02T19:30:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Sheffield Utd,90,0,0,0,1,14,0,0,0,0,0,0,5.5,12.2,24.5,18.0,True,2021-12-05T14:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T16:30:00Z,0
+Pierre-Emile Højbjerg,MID,Spurs,Everton,78,0,0,0,1,18,0,0,0,0,0,0,2.2,14.4,7.9,0.0,True,2021-12-26T15:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,2.4,9.2,6.3,8.0,False,2021-12-28T15:00:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,West Brom,90,0,0,0,1,14,0,0,0,0,0,0,9.7,20.6,38.6,38.0,False,2022-01-01T15:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Leicester,90,0,0,2,0,12,0,0,0,0,0,0,6.2,14.6,7.8,40.0,False,2022-01-19T19:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.7,19.6,17.5,0.0,False,2022-01-23T16:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Southampton,59,0,1,1,0,20,0,0,0,0,0,0,2.1,7.2,11.3,2.0,True,2022-02-09T19:45:00Z,4
+Pierre-Emile Højbjerg,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Pierre-Emile Højbjerg,MID,Spurs,Man City,90,0,0,2,0,6,1,0,0,0,0,0,0.9,8.4,0.4,0.0,False,2022-02-19T17:30:00Z,1
+Pierre-Emile Højbjerg,MID,Spurs,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,2.8,21.2,5.1,2.0,False,2022-02-23T19:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Leeds,90,0,1,0,1,26,0,0,0,0,0,0,4.8,34.8,13.6,0.0,False,2022-02-26T12:30:00Z,6
+Pierre-Emile Højbjerg,MID,Spurs,Fulham,90,0,0,0,1,16,0,0,0,0,0,0,3.5,20.0,13.3,2.0,True,2022-03-07T20:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Man Utd,90,0,0,3,0,25,0,0,0,0,0,0,3.6,19.8,5.6,11.0,False,2022-03-12T17:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Burnley,90,0,0,0,1,20,0,0,0,0,0,0,5.8,29.2,27.8,1.0,False,2022-03-16T19:30:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,3.8,12.0,18.1,8.0,True,2022-03-20T16:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Newcastle,90,0,0,1,0,10,0,0,0,0,0,0,2.7,5.2,14.4,7.0,True,2022-04-03T15:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Aston Villa,90,0,0,0,1,13,1,0,0,0,0,0,4.3,16.0,2.8,24.0,False,2022-04-09T16:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Burnley,90,0,0,1,0,18,0,0,0,0,0,0,1.7,12.2,1.2,4.0,True,2022-04-16T11:30:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Brighton,90,0,0,0,1,18,0,0,0,0,0,0,4.3,22.2,17.1,4.0,False,2022-04-23T16:30:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Leicester,90,0,0,1,0,21,0,0,0,0,0,0,4.0,18.8,19.0,2.0,True,2022-05-01T13:00:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Liverpool,90,0,0,1,0,18,0,0,0,0,0,0,3.6,21.0,11.8,3.0,False,2022-05-07T18:45:00Z,2
+Pierre-Emile Højbjerg,MID,Spurs,Arsenal,90,0,0,0,1,18,0,0,0,0,0,0,3.7,21.6,15.3,0.0,True,2022-05-12T18:45:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Chelsea,90,0,0,0,1,15,0,0,0,0,0,0,2.8,13.4,6.2,8.0,True,2022-05-15T11:00:00Z,3
+Pierre-Emile Højbjerg,MID,Spurs,Sheffield Utd,90,0,0,0,1,17,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,3

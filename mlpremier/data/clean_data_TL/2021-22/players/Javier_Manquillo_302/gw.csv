@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Javier Manquillo,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-15T13:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Man Utd,76,1,0,2,0,21,0,0,0,0,0,0,6.3,40.6,4.9,17.0,False,2021-09-11T14:00:00Z,7
+Javier Manquillo,DEF,Newcastle,Leeds,80,0,0,1,0,15,0,0,0,0,0,0,2.2,21.2,0.4,0.0,True,2021-09-17T19:00:00Z,2
+Javier Manquillo,DEF,Newcastle,West Brom,90,0,0,1,0,3,1,0,0,0,0,0,2.1,18.0,0.8,2.0,False,2021-09-25T14:00:00Z,1
+Javier Manquillo,DEF,Newcastle,Wolves,69,0,1,2,0,16,1,0,0,0,0,0,2.7,15.6,11.7,0.0,False,2021-10-02T14:00:00Z,3
+Javier Manquillo,DEF,Newcastle,Spurs,90,0,1,3,0,31,0,0,0,0,0,0,5.6,39.4,14.5,2.0,True,2021-10-17T15:30:00Z,4
+Javier Manquillo,DEF,Newcastle,Everton,90,0,0,1,0,8,0,0,0,0,0,0,1.9,15.6,1.1,2.0,False,2021-10-23T14:00:00Z,2
+Javier Manquillo,DEF,Newcastle,Crystal Palace,90,0,0,3,0,10,0,0,0,0,0,0,4.3,14.8,10.8,17.0,True,2021-10-30T14:00:00Z,1
+Javier Manquillo,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T17:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T12:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Sheffield Utd,90,0,0,1,0,6,0,0,0,0,0,0,0.8,4.2,1.3,2.0,True,2021-11-30T19:30:00Z,2
+Javier Manquillo,DEF,Newcastle,Chelsea,90,0,0,0,1,21,1,0,0,0,0,0,1.2,10.6,0.9,0.0,True,2021-12-04T15:00:00Z,5
+Javier Manquillo,DEF,Newcastle,Leicester,90,0,0,4,0,7,1,0,0,0,0,0,3.3,7.8,3.2,22.0,False,2021-12-12T14:00:00Z,-1
+Javier Manquillo,DEF,Newcastle,Liverpool,90,0,0,3,0,18,0,0,0,0,0,0,1.6,16.0,0.4,0.0,False,2021-12-16T20:00:00Z,1
+Javier Manquillo,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T14:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Man Utd,90,0,0,1,0,11,1,0,0,0,0,0,2.3,12.0,11.1,0.0,True,2021-12-27T20:00:00Z,1
+Javier Manquillo,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Leeds,27,0,1,0,0,15,0,0,0,0,0,0,1.0,9.2,0.3,0.0,False,2022-01-22T15:00:00Z,4
+Javier Manquillo,DEF,Newcastle,Fulham,1,0,0,0,0,5,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,2022-02-08T19:45:00Z,1
+Javier Manquillo,DEF,Newcastle,Aston Villa,45,0,0,0,0,3,0,0,0,0,0,0,0.5,4.6,0.5,0.0,True,2022-02-13T14:00:00Z,1
+Javier Manquillo,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T12:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,1
+Javier Manquillo,DEF,Newcastle,Crystal Palace,90,0,0,1,0,4,0,0,0,0,0,0,0.7,5.8,0.8,0.0,False,2022-03-13T14:00:00Z,2
+Javier Manquillo,DEF,Newcastle,Fulham,1,0,0,1,0,3,0,0,0,0,0,0,0.2,0.6,1.1,0.0,False,2022-03-17T19:45:00Z,1
+Javier Manquillo,DEF,Newcastle,Spurs,58,0,0,3,0,6,0,0,0,0,0,0,0.7,5.2,1.6,0.0,False,2022-04-03T15:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-08T19:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-17T13:15:00Z,0
+Javier Manquillo,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Javier Manquillo,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T11:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T15:30:00Z,0
+Javier Manquillo,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-16T19:00:00Z,0
+Javier Manquillo,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

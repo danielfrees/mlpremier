@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Romelu Lukaku,FWD,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Arsenal,90,1,0,0,1,33,0,0,0,0,0,0,20.7,45.2,33.4,128.0,False,2021-08-22T15:30:00Z,8
+Romelu Lukaku,FWD,Chelsea,Liverpool,90,0,0,1,0,6,0,0,0,0,0,0,7.1,6.6,27.5,37.0,False,2021-08-28T16:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Aston Villa,90,2,0,0,1,58,0,0,0,0,0,0,11.5,76.2,2.3,36.0,True,2021-09-11T16:30:00Z,13
+Romelu Lukaku,FWD,Chelsea,Spurs,90,0,0,0,1,11,0,0,0,0,0,0,11.1,15.2,32.3,63.0,False,2021-09-19T15:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Man City,90,0,0,1,0,8,0,0,0,0,0,0,2.4,5.4,10.7,8.0,True,2021-09-25T11:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,2.6,0.0,13.5,13.0,True,2021-10-02T14:00:00Z,2
+Romelu Lukaku,FWD,Chelsea,Brighton,76,0,0,0,1,3,0,0,0,0,0,0,2.5,3.6,12.8,9.0,False,2021-10-16T16:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T11:30:00Z,0
+Romelu Lukaku,FWD,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T12:30:00Z,0
+Romelu Lukaku,FWD,Chelsea,Man Utd,8,0,0,0,0,4,0,0,0,0,0,0,1.8,3.0,10.5,4.0,True,2021-11-28T16:30:00Z,1
+Romelu Lukaku,FWD,Chelsea,West Brom,21,0,0,0,0,2,0,0,0,0,0,0,0.4,2.2,1.8,0.0,False,2021-12-01T19:30:00Z,1
+Romelu Lukaku,FWD,Chelsea,West Ham,45,0,0,2,0,0,0,0,0,0,0,0,1.2,0.0,3.5,10.0,False,2021-12-04T12:30:00Z,1
+Romelu Lukaku,FWD,Chelsea,Leeds,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-12-11T15:00:00Z,1
+Romelu Lukaku,FWD,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T19:45:00Z,0
+Romelu Lukaku,FWD,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T14:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Aston Villa,45,1,1,0,0,39,0,0,0,0,0,0,6.4,36.2,1.1,27.0,False,2021-12-26T17:30:00Z,10
+Romelu Lukaku,FWD,Chelsea,Burnley,90,1,0,1,0,26,0,0,0,0,0,0,12.2,41.6,25.5,55.0,True,2021-12-29T19:30:00Z,8
+Romelu Lukaku,FWD,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T16:30:00Z,0
+Romelu Lukaku,FWD,Chelsea,Man City,90,0,0,1,0,3,0,0,0,0,0,0,1.4,3.2,1.8,9.0,False,2022-01-15T12:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Burnley,79,0,0,1,0,7,0,0,0,0,0,0,6.6,8.4,21.0,37.0,False,2022-01-18T20:00:00Z,2
+Romelu Lukaku,FWD,Chelsea,Spurs,90,0,0,0,1,3,0,0,0,0,0,0,5.2,1.4,3.7,47.0,True,2022-01-23T16:30:00Z,2
+Romelu Lukaku,FWD,Chelsea,Everton,90,0,0,0,1,2,0,0,0,0,0,0,0.1,0.2,0.4,0.0,False,2022-02-19T15:00:00Z,2
+Romelu Lukaku,FWD,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Sheffield Utd,4,0,0,0,0,3,0,0,0,0,0,0,1.9,0.2,0.3,18.0,False,2022-03-10T19:30:00Z,1
+Romelu Lukaku,FWD,Chelsea,Newcastle,27,0,0,0,0,0,0,0,0,0,0,0,0.2,0.0,0.4,2.0,True,2022-03-13T14:00:00Z,1
+Romelu Lukaku,FWD,Chelsea,Brighton,25,0,0,1,0,3,0,0,0,0,0,0,1.1,4.0,2.7,4.0,True,2022-04-02T14:00:00Z,1
+Romelu Lukaku,FWD,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Arsenal,59,0,0,3,0,1,0,0,0,0,0,0,1.7,0.0,11.5,6.0,True,2022-04-20T18:45:00Z,1
+Romelu Lukaku,FWD,Chelsea,West Ham,14,0,0,0,0,6,0,0,0,0,0,0,3.6,4.0,10.0,22.0,True,2022-04-24T13:00:00Z,1
+Romelu Lukaku,FWD,Chelsea,Man Utd,20,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.3,0.0,False,2022-04-28T18:45:00Z,1
+Romelu Lukaku,FWD,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Romelu Lukaku,FWD,Chelsea,Wolves,90,2,0,1,0,52,0,0,0,0,0,0,18.5,76.2,35.4,73.0,True,2022-05-07T14:00:00Z,13
+Romelu Lukaku,FWD,Chelsea,Leeds,90,1,0,0,1,25,0,0,0,0,0,0,11.8,34.2,17.8,66.0,False,2022-05-11T18:30:00Z,6
+Romelu Lukaku,FWD,Chelsea,Leicester,77,0,0,1,0,5,1,0,0,0,0,0,5.1,0.0,21.8,30.0,True,2022-05-19T19:00:00Z,1
+Romelu Lukaku,FWD,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

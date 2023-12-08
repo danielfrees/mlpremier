@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Danny Ings,FWD,Aston Villa,West Brom,90,1,0,3,0,29,0,0,0,0,0,0,6.0,34.2,0.9,25.0,False,2021-08-14T14:00:00Z,7
+Danny Ings,FWD,Aston Villa,Newcastle,90,1,0,0,1,32,0,0,0,0,0,0,6.8,32.4,3.4,32.0,True,2021-08-21T14:00:00Z,8
+Danny Ings,FWD,Aston Villa,Brighton,90,0,1,1,0,14,1,0,0,0,0,0,6.1,22.4,11.3,27.0,True,2021-08-28T14:00:00Z,4
+Danny Ings,FWD,Aston Villa,Crystal Palace,68,0,0,2,0,6,0,0,0,0,0,0,2.8,0.0,3.3,26.0,False,2021-09-11T16:30:00Z,2
+Danny Ings,FWD,Aston Villa,Fulham,90,0,1,0,1,20,0,0,0,0,0,0,4.2,20.8,11.4,10.0,True,2021-09-18T16:30:00Z,5
+Danny Ings,FWD,Aston Villa,Man Utd,77,0,0,0,1,4,0,0,0,0,0,0,2.1,10.2,2.5,8.0,False,2021-09-25T11:30:00Z,2
+Danny Ings,FWD,Aston Villa,Spurs,88,0,0,2,0,6,0,0,0,0,0,0,4.4,6.6,0.7,37.0,False,2021-10-03T13:00:00Z,2
+Danny Ings,FWD,Aston Villa,Wolves,90,1,0,3,0,28,0,0,0,0,0,0,8.1,41.6,1.5,38.0,True,2021-10-16T14:00:00Z,7
+Danny Ings,FWD,Aston Villa,Arsenal,76,0,0,3,0,7,0,0,0,0,0,0,2.5,1.4,3.3,20.0,False,2021-10-22T19:00:00Z,2
+Danny Ings,FWD,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-31T16:30:00Z,0
+Danny Ings,FWD,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-05T20:00:00Z,0
+Danny Ings,FWD,Aston Villa,Burnley,65,0,0,0,1,6,0,0,0,0,0,0,0.5,0.0,1.5,4.0,True,2021-11-20T15:00:00Z,2
+Danny Ings,FWD,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T15:00:00Z,0
+Danny Ings,FWD,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T20:15:00Z,0
+Danny Ings,FWD,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T16:30:00Z,0
+Danny Ings,FWD,Aston Villa,Liverpool,16,0,0,0,0,2,0,0,0,0,0,0,2.5,0.4,0.5,24.0,False,2021-12-11T15:00:00Z,1
+Danny Ings,FWD,Aston Villa,Sheffield Utd,30,0,0,0,0,1,0,0,0,0,0,0,0.7,2.4,0.9,4.0,False,2021-12-14T19:45:00Z,1
+Danny Ings,FWD,Aston Villa,Crystal Palace,72,0,0,2,0,4,0,0,0,0,0,0,4.8,1.2,2.5,44.0,True,2021-12-26T17:30:00Z,2
+Danny Ings,FWD,Aston Villa,Brighton,90,1,0,2,0,31,0,0,0,0,0,0,15.1,49.4,22.8,79.0,False,2022-01-02T14:00:00Z,8
+Danny Ings,FWD,Aston Villa,Man Utd,75,0,0,2,0,6,0,0,0,0,0,0,1.0,3.2,3.1,4.0,True,2022-01-15T17:30:00Z,2
+Danny Ings,FWD,Aston Villa,Fulham,11,0,0,0,0,-4,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T12:30:00Z,0
+Danny Ings,FWD,Aston Villa,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T20:00:00Z,0
+Danny Ings,FWD,Aston Villa,Newcastle,18,0,0,0,0,5,0,0,0,0,0,0,0.9,2.2,0.3,6.0,False,2022-02-13T14:00:00Z,1
+Danny Ings,FWD,Aston Villa,West Brom,90,0,0,1,0,-3,0,0,0,0,0,0,4.2,0.0,12.1,32.0,True,2022-02-19T15:00:00Z,2
+Danny Ings,FWD,Aston Villa,Burnley,78,0,0,0,1,9,0,0,0,0,0,0,1.4,7.4,2.1,4.0,False,2022-02-26T15:30:00Z,2
+Danny Ings,FWD,Aston Villa,Southampton,70,1,2,0,1,52,0,0,0,0,0,0,13.4,74.4,21.9,38.0,True,2022-03-05T15:00:00Z,15
+Danny Ings,FWD,Aston Villa,Leeds,70,0,1,0,1,15,0,0,0,0,0,0,5.8,25.2,27.3,5.0,False,2022-03-10T19:45:00Z,5
+Danny Ings,FWD,Aston Villa,West Ham,68,0,0,0,1,8,0,0,0,0,0,0,4.3,6.2,13.4,23.0,False,2022-03-13T14:00:00Z,2
+Danny Ings,FWD,Aston Villa,Arsenal,8,0,0,0,0,1,0,0,0,0,0,0,0.7,0.0,0.3,10.0,True,2022-03-19T12:30:00Z,1
+Danny Ings,FWD,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Danny Ings,FWD,Aston Villa,Spurs,69,0,0,3,0,-2,1,0,0,0,0,0,13.0,6.8,21.8,101.0,True,2022-04-09T16:30:00Z,1
+Danny Ings,FWD,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Danny Ings,FWD,Aston Villa,Sheffield Utd,50,1,1,0,0,29,1,0,0,0,0,0,13.7,54.8,22.3,60.0,True,2022-04-30T14:00:00Z,8
+Danny Ings,FWD,Aston Villa,Chelsea,73,1,0,0,1,32,0,0,0,0,0,0,7.5,39.6,12.0,23.0,False,2022-05-07T14:00:00Z,8
+Danny Ings,FWD,Aston Villa,Liverpool,90,0,0,2,0,-3,0,0,0,0,0,0,4.3,3.6,6.8,33.0,True,2022-05-10T19:00:00Z,2
+Danny Ings,FWD,Aston Villa,Everton,70,0,0,0,1,4,0,0,0,0,0,0,1.4,1.2,0.7,12.0,True,2022-05-15T13:00:00Z,2
+Danny Ings,FWD,Aston Villa,Chelsea,12,0,0,0,0,2,0,0,0,0,0,0,2.1,1.0,0.3,20.0,True,2022-05-19T19:00:00Z,1
+Danny Ings,FWD,Aston Villa,Man City,7,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1

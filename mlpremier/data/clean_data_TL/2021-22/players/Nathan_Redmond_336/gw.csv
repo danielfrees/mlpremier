@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Nathan Redmond,MID,Southampton,Fulham,7,0,0,0,0,4,0,0,0,0,0,0,0.6,2.6,1.4,2.0,False,2021-08-14T14:00:00Z,1
+Nathan Redmond,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T13:00:00Z,0
+Nathan Redmond,MID,Southampton,Newcastle,32,0,0,1,0,4,0,0,0,0,0,0,3.2,8.2,23.3,0.0,False,2021-08-28T14:00:00Z,1
+Nathan Redmond,MID,Southampton,West Ham,90,0,0,0,1,9,0,0,0,0,0,0,4.4,6.8,12.8,24.0,True,2021-09-11T14:00:00Z,3
+Nathan Redmond,MID,Southampton,Man City,90,0,0,0,1,18,0,0,0,0,0,0,5.5,14.8,23.9,16.0,False,2021-09-18T14:00:00Z,3
+Nathan Redmond,MID,Southampton,Wolves,63,0,0,1,0,7,0,0,0,0,0,0,4.1,6.4,23.0,12.0,True,2021-09-26T13:00:00Z,2
+Nathan Redmond,MID,Southampton,Crystal Palace,86,0,0,2,0,9,0,0,0,0,0,0,1.6,6.4,3.7,6.0,False,2021-10-02T14:00:00Z,2
+Nathan Redmond,MID,Southampton,Leeds,90,0,1,0,1,30,0,0,0,0,0,0,15.1,37.0,85.4,29.0,True,2021-10-16T14:00:00Z,9
+Nathan Redmond,MID,Southampton,Chelsea,88,0,1,2,0,22,0,0,0,0,0,0,12.3,28.2,48.3,46.0,True,2021-10-23T14:00:00Z,5
+Nathan Redmond,MID,Southampton,West Brom,90,0,0,0,1,11,0,0,0,0,0,0,6.1,12.8,30.3,18.0,False,2021-10-30T14:00:00Z,3
+Nathan Redmond,MID,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-05T20:00:00Z,0
+Nathan Redmond,MID,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Nathan Redmond,MID,Southampton,Liverpool,45,0,0,1,0,3,0,0,0,0,0,0,0.6,3.6,0.8,2.0,False,2021-11-27T15:00:00Z,1
+Nathan Redmond,MID,Southampton,Leicester,90,0,1,2,0,21,0,0,0,0,0,0,7.8,24.2,33.5,20.0,True,2021-12-01T19:30:00Z,5
+Nathan Redmond,MID,Southampton,Burnley,90,0,1,1,0,21,0,0,0,0,0,0,5.7,25.4,27.5,4.0,True,2021-12-04T15:00:00Z,6
+Nathan Redmond,MID,Southampton,Arsenal,90,0,0,3,0,7,0,0,0,0,0,0,5.1,9.8,12.0,29.0,False,2021-12-11T15:00:00Z,2
+Nathan Redmond,MID,Southampton,Everton,90,0,0,2,0,5,0,0,0,0,0,0,2.0,5.0,9.1,6.0,False,2021-12-15T19:30:00Z,2
+Nathan Redmond,MID,Southampton,West Ham,90,0,0,2,0,16,0,0,0,0,0,0,6.2,19.0,29.1,14.0,False,2021-12-26T15:00:00Z,2
+Nathan Redmond,MID,Southampton,Spurs,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,2021-12-28T15:00:00Z,1
+Nathan Redmond,MID,Southampton,Brighton,64,0,0,1,0,5,0,0,0,0,0,0,2.6,3.6,18.3,4.0,True,2022-01-11T19:45:00Z,2
+Nathan Redmond,MID,Southampton,Wolves,90,0,1,3,0,22,0,0,0,0,0,0,3.1,5.6,17.6,8.0,False,2022-01-15T15:00:00Z,5
+Nathan Redmond,MID,Southampton,Man City,45,0,1,0,0,11,0,0,0,0,0,0,2.8,17.2,11.0,0.0,True,2022-01-22T17:30:00Z,4
+Nathan Redmond,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-09T19:45:00Z,0
+Nathan Redmond,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T12:30:00Z,0
+Nathan Redmond,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Nathan Redmond,MID,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-25T20:00:00Z,0
+Nathan Redmond,MID,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Nathan Redmond,MID,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Nathan Redmond,MID,Southampton,West Brom,16,0,0,0,0,5,0,0,0,0,0,0,3.1,7.2,15.0,9.0,True,2022-03-13T14:00:00Z,1
+Nathan Redmond,MID,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Nathan Redmond,MID,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T14:00:00Z,0
+Nathan Redmond,MID,Southampton,Arsenal,8,0,0,0,0,3,0,0,0,0,0,0,0.5,5.0,0.0,0.0,True,2022-04-16T14:00:00Z,1
+Nathan Redmond,MID,Southampton,Chelsea,24,0,0,0,0,8,0,0,0,0,0,0,2.8,4.4,21.9,2.0,False,2022-04-21T18:45:00Z,1
+Nathan Redmond,MID,Southampton,Burnley,90,0,0,2,0,11,0,0,0,0,0,0,4.5,13.6,23.1,8.0,False,2022-04-24T13:00:00Z,2
+Nathan Redmond,MID,Southampton,Everton,90,0,0,2,0,11,0,0,0,0,0,0,1.2,7.0,3.3,2.0,True,2022-04-30T14:00:00Z,2
+Nathan Redmond,MID,Southampton,Brighton,90,0,0,3,0,15,0,0,0,0,0,0,4.2,8.6,29.8,4.0,False,2022-05-07T14:00:00Z,2
+Nathan Redmond,MID,Southampton,Liverpool,90,1,0,2,0,27,0,0,0,0,0,0,7.4,47.8,2.3,24.0,True,2022-05-17T18:45:00Z,9
+Nathan Redmond,MID,Southampton,Leicester,82,0,0,3,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

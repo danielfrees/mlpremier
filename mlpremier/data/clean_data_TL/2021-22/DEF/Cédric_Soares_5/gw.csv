@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Cédric Soares,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-13T19:00:00Z,0
+Cédric Soares,DEF,Arsenal,Crystal Palace,90,0,0,2,0,15,0,0,0,0,0,0,3.8,17.0,20.8,0.0,True,2021-08-22T15:30:00Z,1
+Cédric Soares,DEF,Arsenal,Man City,90,0,0,5,0,1,1,0,0,0,0,0,0.5,4.4,1.0,0.0,False,2021-08-28T11:30:00Z,-1
+Cédric Soares,DEF,Arsenal,Sheffield Utd,8,0,0,0,0,5,0,0,0,0,0,0,2.5,9.4,14.3,1.0,True,2021-09-11T14:00:00Z,1
+Cédric Soares,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Cédric Soares,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-26T15:30:00Z,0
+Cédric Soares,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T16:30:00Z,0
+Cédric Soares,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-18T19:00:00Z,0
+Cédric Soares,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-22T19:00:00Z,0
+Cédric Soares,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T11:30:00Z,0
+Cédric Soares,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Cédric Soares,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T17:30:00Z,0
+Cédric Soares,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T12:30:00Z,0
+Cédric Soares,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T20:15:00Z,0
+Cédric Soares,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-06T20:00:00Z,0
+Cédric Soares,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Cédric Soares,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T20:00:00Z,0
+Cédric Soares,DEF,Arsenal,Leeds,26,0,0,1,0,4,0,0,0,0,0,0,0.5,0.6,4.4,0.0,False,2021-12-18T17:30:00Z,1
+Cédric Soares,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Cédric Soares,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T12:30:00Z,0
+Cédric Soares,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Cédric Soares,DEF,Arsenal,Wolves,90,0,0,0,1,23,0,0,0,0,0,0,2.7,15.0,10.1,2.0,False,2022-02-10T19:45:00Z,6
+Cédric Soares,DEF,Arsenal,Brighton,90,0,0,1,0,18,0,0,0,0,0,0,9.1,28.6,42.2,20.0,True,2022-02-19T15:00:00Z,2
+Cédric Soares,DEF,Arsenal,Wolves,75,0,0,1,0,14,0,0,0,0,0,0,0.7,3.8,2.7,0.0,True,2022-02-24T19:45:00Z,2
+Cédric Soares,DEF,Arsenal,West Brom,90,0,0,2,0,16,1,0,0,0,0,0,5.4,26.8,16.7,10.0,False,2022-03-06T14:00:00Z,0
+Cédric Soares,DEF,Arsenal,Leicester,90,0,0,0,1,24,0,0,0,0,0,0,3.4,11.8,2.3,20.0,True,2022-03-13T16:30:00Z,6
+Cédric Soares,DEF,Arsenal,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,1.6,12.2,3.0,1.0,True,2022-03-16T20:15:00Z,1
+Cédric Soares,DEF,Arsenal,Aston Villa,90,0,0,0,1,24,1,0,0,0,0,0,4.6,17.6,26.7,2.0,False,2022-03-19T12:30:00Z,5
+Cédric Soares,DEF,Arsenal,Everton,65,0,0,2,0,13,0,0,0,0,0,0,1.7,13.2,3.4,0.0,False,2022-04-04T19:00:00Z,1
+Cédric Soares,DEF,Arsenal,Burnley,90,0,0,2,0,20,0,0,0,0,0,0,8.2,21.8,51.7,8.0,True,2022-04-09T14:00:00Z,1
+Cédric Soares,DEF,Arsenal,Southampton,59,0,0,1,0,13,0,0,0,0,0,0,4.8,21.6,25.1,1.0,False,2022-04-16T14:00:00Z,1
+Cédric Soares,DEF,Arsenal,Crystal Palace,15,0,0,0,0,6,0,0,0,0,0,0,3.4,7.6,24.6,2.0,False,2022-04-20T18:45:00Z,1
+Cédric Soares,DEF,Arsenal,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.0,6.2,3.7,0.0,True,2022-04-23T11:30:00Z,2
+Cédric Soares,DEF,Arsenal,West Ham,12,0,0,0,0,2,0,0,0,0,0,0,0.1,1.2,0.1,0.0,False,2022-05-01T15:30:00Z,1
+Cédric Soares,DEF,Arsenal,Leeds,90,0,0,1,0,18,0,0,0,0,0,0,5.7,20.8,27.9,8.0,True,2022-05-08T13:00:00Z,2
+Cédric Soares,DEF,Arsenal,Spurs,90,0,0,3,0,7,0,0,0,0,0,0,2.4,0.6,23.5,0.0,False,2022-05-12T18:45:00Z,1
+Cédric Soares,DEF,Arsenal,Newcastle,51,0,0,2,0,2,0,0,0,0,0,0,0.9,5.8,2.3,1.0,False,2022-05-16T19:00:00Z,0
+Cédric Soares,DEF,Arsenal,Fulham,90,1,1,1,0,40,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,14

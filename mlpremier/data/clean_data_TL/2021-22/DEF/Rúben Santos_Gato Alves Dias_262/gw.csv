@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Rúben Santos Gato Alves Dias,DEF,Man City,Spurs,90,0,0,1,0,14,0,0,0,0,0,0,2.3,19.8,1.0,2.0,False,2021-08-15T15:30:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Sheffield Utd,90,0,1,0,1,38,0,0,0,0,0,0,6.6,37.4,28.7,0.0,True,2021-08-21T14:00:00Z,11
+Rúben Santos Gato Alves Dias,DEF,Man City,Arsenal,90,0,0,0,1,30,0,0,0,0,0,0,4.5,17.2,26.0,2.0,True,2021-08-28T11:30:00Z,6
+Rúben Santos Gato Alves Dias,DEF,Man City,Leicester,90,0,0,0,1,28,0,0,0,0,0,0,4.2,14.4,23.3,4.0,False,2021-09-11T14:00:00Z,7
+Rúben Santos Gato Alves Dias,DEF,Man City,Southampton,90,0,0,0,1,31,0,0,0,0,0,0,7.2,42.4,21.5,8.0,True,2021-09-18T14:00:00Z,8
+Rúben Santos Gato Alves Dias,DEF,Man City,Crystal Palace,90,0,0,0,1,24,1,0,0,0,0,0,5.7,19.6,1.5,36.0,False,2021-09-25T11:30:00Z,5
+Rúben Santos Gato Alves Dias,DEF,Man City,Liverpool,90,0,0,2,0,12,1,0,0,0,0,0,1.2,9.0,0.6,2.0,False,2021-10-03T15:30:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Chelsea,18,0,0,0,0,6,0,0,0,0,0,0,0.5,5.0,0.0,0.0,True,2021-10-16T14:00:00Z,1
+Rúben Santos Gato Alves Dias,DEF,Man City,Burnley,90,0,0,1,0,14,0,0,0,0,0,0,1.7,11.2,1.5,4.0,False,2021-10-23T16:30:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Everton,90,0,0,2,0,8,0,0,0,0,0,0,2.8,22.8,3.3,2.0,True,2021-10-30T14:00:00Z,1
+Rúben Santos Gato Alves Dias,DEF,Man City,Man Utd,90,0,0,0,1,28,0,0,0,0,0,0,2.4,21.6,2.4,0.0,False,2021-11-06T12:30:00Z,6
+Rúben Santos Gato Alves Dias,DEF,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-21T14:00:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,3.6,15.8,2.0,18.0,True,2021-11-28T14:00:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Aston Villa,90,1,0,1,0,28,0,0,0,0,0,0,6.4,51.8,1.1,11.0,False,2021-12-01T20:15:00Z,9
+Rúben Santos Gato Alves Dias,DEF,Man City,West Brom,90,0,0,1,0,13,0,0,0,0,0,0,3.6,20.8,12.8,2.0,False,2021-12-04T17:30:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Wolves,90,0,0,0,1,23,1,0,0,0,0,0,1.5,11.4,3.7,0.0,True,2021-12-11T12:30:00Z,5
+Rúben Santos Gato Alves Dias,DEF,Man City,Leeds,64,0,0,0,1,21,1,0,0,0,0,0,1.1,9.0,1.7,0.0,True,2021-12-14T20:00:00Z,5
+Rúben Santos Gato Alves Dias,DEF,Man City,Newcastle,69,1,0,0,1,34,0,0,0,0,0,0,7.9,40.6,1.4,37.0,False,2021-12-19T14:00:00Z,12
+Rúben Santos Gato Alves Dias,DEF,Man City,Leicester,90,0,1,3,0,26,0,0,0,0,0,0,6.7,35.4,13.3,18.0,True,2021-12-26T15:00:00Z,4
+Rúben Santos Gato Alves Dias,DEF,Man City,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,1.9,9.0,2.3,8.0,False,2021-12-29T20:15:00Z,6
+Rúben Santos Gato Alves Dias,DEF,Man City,Arsenal,90,0,0,1,0,10,0,0,0,0,0,0,3.5,19.6,3.6,12.0,False,2022-01-01T12:30:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T12:30:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Southampton,90,0,0,1,0,17,0,0,0,0,0,0,2.8,13.6,12.7,2.0,False,2022-01-22T17:30:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,2.8,13.0,12.8,2.0,True,2022-02-09T19:45:00Z,6
+Rúben Santos Gato Alves Dias,DEF,Man City,Sheffield Utd,90,0,1,0,1,36,1,0,0,0,0,0,6.5,28.8,12.0,24.0,False,2022-02-12T17:30:00Z,10
+Rúben Santos Gato Alves Dias,DEF,Man City,Spurs,90,0,0,3,0,15,0,0,0,0,0,0,2.2,8.2,5.0,9.0,True,2022-02-19T17:30:00Z,1
+Rúben Santos Gato Alves Dias,DEF,Man City,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.1,15.4,3.7,2.0,False,2022-02-26T17:30:00Z,7
+Rúben Santos Gato Alves Dias,DEF,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-06T16:30:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-14T20:00:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T15:30:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Burnley,45,0,0,0,0,9,0,0,0,0,0,0,0.8,6.6,1.2,0.0,True,2022-04-20T19:00:00Z,1
+Rúben Santos Gato Alves Dias,DEF,Man City,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,5.4,14.0,13.6,26.0,True,2022-04-23T14:00:00Z,2
+Rúben Santos Gato Alves Dias,DEF,Man City,Leeds,90,0,1,0,1,43,0,0,0,0,0,0,5.5,39.4,12.0,4.0,False,2022-04-30T16:30:00Z,12
+Rúben Santos Gato Alves Dias,DEF,Man City,Newcastle,45,0,1,0,0,14,0,0,0,0,0,0,4.2,8.4,0.5,33.0,True,2022-05-08T15:30:00Z,4
+Rúben Santos Gato Alves Dias,DEF,Man City,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T19:15:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Rúben Santos Gato Alves Dias,DEF,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

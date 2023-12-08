@@ -1,0 +1,30 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Tyler Morton,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Tyler Morton,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T16:30:00Z,0
+Tyler Morton,MID,Liverpool,Arsenal,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,True,2021-11-20T17:30:00Z,1
+Tyler Morton,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Tyler Morton,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+Tyler Morton,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Tyler Morton,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Tyler Morton,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T20:00:00Z,0
+Tyler Morton,MID,Liverpool,Spurs,59,0,0,1,0,1,1,0,0,0,0,0,0.5,2.4,2.3,0.0,False,2021-12-19T16:30:00Z,0
+Tyler Morton,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T20:00:00Z,0
+Tyler Morton,MID,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T16:30:00Z,0
+Tyler Morton,MID,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-16T14:00:00Z,0
+Tyler Morton,MID,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Tyler Morton,MID,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-10T19:45:00Z,0
+Tyler Morton,MID,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-13T14:00:00Z,0
+Tyler Morton,MID,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Tyler Morton,MID,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:45:00Z,0
+Tyler Morton,MID,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T17:30:00Z,0
+Tyler Morton,MID,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T12:30:00Z,0
+Tyler Morton,MID,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T20:15:00Z,0
+Tyler Morton,MID,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T11:30:00Z,0
+Tyler Morton,MID,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T15:30:00Z,0
+Tyler Morton,MID,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-19T19:00:00Z,0
+Tyler Morton,MID,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T15:30:00Z,0
+Tyler Morton,MID,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T11:30:00Z,0
+Tyler Morton,MID,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T18:45:00Z,0
+Tyler Morton,MID,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Tyler Morton,MID,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-17T18:45:00Z,0
+Tyler Morton,MID,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

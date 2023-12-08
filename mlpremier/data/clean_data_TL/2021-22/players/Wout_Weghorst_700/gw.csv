@@ -1,0 +1,22 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Wout Weghorst,FWD,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Wout Weghorst,FWD,Burnley,West Brom,90,0,0,0,1,6,0,0,0,0,0,0,3.1,3.2,2.0,26.0,True,2022-02-05T18:00:00Z,2
+Wout Weghorst,FWD,Burnley,Man Utd,90,0,1,1,0,16,0,0,0,0,0,0,5.8,25.8,12.7,19.0,True,2022-02-08T20:00:00Z,5
+Wout Weghorst,FWD,Burnley,Liverpool,74,0,0,1,0,4,0,0,0,0,0,0,4.7,6.2,21.3,19.0,True,2022-02-13T14:00:00Z,2
+Wout Weghorst,FWD,Burnley,Burnley,87,1,1,0,1,44,0,0,0,0,0,0,9.7,56.2,21.3,19.0,False,2022-02-19T15:00:00Z,12
+Wout Weghorst,FWD,Burnley,Spurs,88,0,0,0,1,-1,0,0,0,0,0,0,1.2,2.6,4.8,5.0,True,2022-02-23T19:30:00Z,2
+Wout Weghorst,FWD,Burnley,Everton,90,0,0,1,0,5,0,0,0,0,0,0,3.4,13.0,3.9,17.0,False,2022-02-26T15:00:00Z,2
+Wout Weghorst,FWD,Burnley,Leicester,90,0,0,2,0,-5,1,0,0,0,0,0,1.8,0.0,5.1,13.0,True,2022-03-01T19:45:00Z,1
+Wout Weghorst,FWD,Burnley,Crystal Palace,77,0,0,4,0,4,0,0,0,0,0,0,1.8,0.0,0.8,18.0,True,2022-03-05T15:00:00Z,2
+Wout Weghorst,FWD,Burnley,Brighton,66,0,0,0,1,6,0,0,0,0,0,0,0.3,0.6,2.4,0.0,False,2022-03-12T15:00:00Z,2
+Wout Weghorst,FWD,Burnley,Man City,80,0,0,2,0,-1,1,0,0,0,0,0,0.0,0.0,1.2,0.0,True,2022-04-02T14:00:00Z,1
+Wout Weghorst,FWD,Burnley,Fulham,79,0,0,2,0,4,0,0,0,0,0,0,2.0,1.6,11.3,7.0,True,2022-04-06T18:30:00Z,2
+Wout Weghorst,FWD,Burnley,Sheffield Utd,55,0,0,1,0,3,0,0,0,0,0,0,2.9,5.8,1.1,22.0,False,2022-04-10T13:00:00Z,1
+Wout Weghorst,FWD,Burnley,West Ham,90,1,0,1,0,30,1,0,0,0,0,0,9.7,42.0,14.3,41.0,False,2022-04-17T13:15:00Z,8
+Wout Weghorst,FWD,Burnley,Southampton,77,0,0,0,1,-2,0,0,0,0,0,0,5.2,5.4,12.7,34.0,True,2022-04-21T18:45:00Z,2
+Wout Weghorst,FWD,Burnley,Wolves,90,0,1,0,1,15,0,0,0,0,0,0,12.8,29.8,32.1,66.0,True,2022-04-24T13:00:00Z,5
+Wout Weghorst,FWD,Burnley,West Brom,59,0,0,1,0,2,0,0,0,0,0,0,2.0,1.2,7.1,12.0,False,2022-04-30T14:00:00Z,1
+Wout Weghorst,FWD,Burnley,Aston Villa,90,0,0,3,0,3,0,0,0,0,0,0,4.7,4.0,23.3,20.0,True,2022-05-07T14:00:00Z,2
+Wout Weghorst,FWD,Burnley,Spurs,12,0,0,0,0,3,0,0,0,0,0,0,1.5,1.0,10.3,4.0,False,2022-05-15T11:00:00Z,1
+Wout Weghorst,FWD,Burnley,Aston Villa,19,0,0,0,0,-1,0,0,0,0,0,0,2.3,4.6,0.3,18.0,False,2022-05-19T19:00:00Z,1
+Wout Weghorst,FWD,Burnley,Newcastle,45,0,0,1,0,-1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Vitaly Janelt,MID,Brentford,Arsenal,90,0,0,0,1,6,0,0,0,0,0,0,1.0,6.2,1.4,2.0,True,2021-08-13T19:00:00Z,3
+Vitaly Janelt,MID,Brentford,Everton,86,0,0,0,1,17,0,0,0,0,0,0,5.4,14.6,23.0,16.0,False,2021-08-21T14:00:00Z,3
+Vitaly Janelt,MID,Brentford,Aston Villa,88,0,0,1,0,14,1,0,0,0,0,0,3.4,12.4,21.7,0.0,False,2021-08-28T14:00:00Z,1
+Vitaly Janelt,MID,Brentford,Burnley,67,0,0,0,1,11,0,0,0,0,0,0,5.1,14.6,15.3,21.0,True,2021-09-11T14:00:00Z,3
+Vitaly Janelt,MID,Brentford,Wolves,90,0,0,0,1,8,0,0,0,0,0,0,6.3,20.2,24.8,18.0,False,2021-09-18T11:30:00Z,3
+Vitaly Janelt,MID,Brentford,Liverpool,90,1,0,3,0,32,0,0,0,0,0,0,10.9,49.0,26.7,33.0,True,2021-09-25T16:30:00Z,10
+Vitaly Janelt,MID,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+Vitaly Janelt,MID,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T16:30:00Z,0
+Vitaly Janelt,MID,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-24T13:00:00Z,0
+Vitaly Janelt,MID,Brentford,Chelsea,22,0,0,0,0,3,0,0,0,0,0,0,1.2,3.8,0.9,7.0,False,2021-10-30T14:00:00Z,1
+Vitaly Janelt,MID,Brentford,Sheffield Utd,45,0,0,2,0,3,0,0,0,0,0,0,0.8,6.2,1.4,0.0,True,2021-11-06T15:00:00Z,1
+Vitaly Janelt,MID,Brentford,Newcastle,88,0,0,3,0,8,0,0,0,0,0,0,1.8,16.6,1.6,0.0,False,2021-11-20T15:00:00Z,2
+Vitaly Janelt,MID,Brentford,Fulham,90,0,0,0,1,8,0,0,0,0,0,0,3.2,18.0,11.6,2.0,True,2021-11-28T14:00:00Z,3
+Vitaly Janelt,MID,Brentford,Spurs,69,0,0,2,0,11,0,0,0,0,0,0,2.1,7.6,11.3,2.0,False,2021-12-02T19:30:00Z,2
+Vitaly Janelt,MID,Brentford,Leeds,89,0,0,1,0,11,0,0,0,0,0,0,4.2,9.0,30.9,2.0,False,2021-12-05T14:00:00Z,2
+Vitaly Janelt,MID,Brentford,West Brom,90,0,0,1,0,16,1,0,0,0,0,0,10.5,33.6,30.7,41.0,True,2021-12-10T20:00:00Z,1
+Vitaly Janelt,MID,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T20:00:00Z,0
+Vitaly Janelt,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-29T20:15:00Z,0
+Vitaly Janelt,MID,Brentford,Aston Villa,10,0,0,0,0,3,0,0,0,0,0,0,0.6,5.4,0.3,0.0,True,2022-01-02T14:00:00Z,1
+Vitaly Janelt,MID,Brentford,Southampton,90,1,0,4,0,29,0,0,0,0,0,0,7.7,47.4,3.3,26.0,False,2022-01-11T19:45:00Z,9
+Vitaly Janelt,MID,Brentford,Liverpool,90,0,0,3,0,9,0,0,0,0,0,0,1.1,8.6,1.7,1.0,False,2022-01-16T14:00:00Z,2
+Vitaly Janelt,MID,Brentford,Man Utd,63,0,0,2,0,8,0,0,0,0,0,0,6.1,14.8,1.4,45.0,True,2022-01-19T20:00:00Z,2
+Vitaly Janelt,MID,Brentford,Wolves,90,0,0,2,0,10,0,0,0,0,0,0,3.7,11.4,25.5,0.0,True,2022-01-22T15:00:00Z,2
+Vitaly Janelt,MID,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-09T19:45:00Z,0
+Vitaly Janelt,MID,Brentford,Everton,60,0,0,0,1,4,0,0,0,0,0,0,2.1,0.0,2.8,20.0,True,2022-02-12T15:00:00Z,3
+Vitaly Janelt,MID,Brentford,Arsenal,46,0,0,2,0,3,0,0,0,0,0,0,1.5,2.2,4.7,8.0,False,2022-02-19T15:00:00Z,1
+Vitaly Janelt,MID,Brentford,Newcastle,90,0,0,2,0,4,1,0,0,0,0,0,3.4,11.6,3.8,19.0,True,2022-02-26T15:00:00Z,1
+Vitaly Janelt,MID,Brentford,Sheffield Utd,90,0,0,1,0,8,0,0,0,0,0,0,0.6,0.4,4.8,1.0,False,2022-03-05T15:00:00Z,2
+Vitaly Janelt,MID,Brentford,Chelsea,90,0,0,0,1,3,0,0,0,0,0,0,2.7,9.8,0.8,16.0,True,2022-03-12T15:00:00Z,3
+Vitaly Janelt,MID,Brentford,Leicester,55,0,0,2,0,1,0,0,0,0,0,0,2.9,5.6,1.6,22.0,False,2022-03-20T14:00:00Z,1
+Vitaly Janelt,MID,Brentford,Crystal Palace,81,2,0,1,0,48,0,0,0,0,0,0,14.0,72.0,11.3,57.0,False,2022-04-02T14:00:00Z,15
+Vitaly Janelt,MID,Brentford,West Ham,68,0,0,0,1,12,0,0,0,0,0,0,5.3,7.8,23.3,22.0,True,2022-04-10T13:00:00Z,3
+Vitaly Janelt,MID,Brentford,West Brom,73,0,0,1,0,5,0,0,0,0,0,0,0.9,0.0,2.4,8.0,False,2022-04-16T14:00:00Z,2
+Vitaly Janelt,MID,Brentford,Spurs,90,0,0,0,1,16,0,0,0,0,0,0,3.3,15.2,11.9,6.0,True,2022-04-23T16:30:00Z,3
+Vitaly Janelt,MID,Brentford,Man Utd,70,0,0,2,0,8,0,0,0,0,0,0,2.3,8.2,12.8,2.0,False,2022-05-02T19:00:00Z,2
+Vitaly Janelt,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Vitaly Janelt,MID,Brentford,Fulham,45,0,0,0,0,11,0,0,0,0,0,0,2.6,8.0,16.3,2.0,False,2022-05-15T15:30:00Z,1
+Vitaly Janelt,MID,Brentford,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kieran Dowell,MID,Norwich,Liverpool,4,0,0,0,0,5,0,0,0,0,0,0,2.9,4.2,20.8,4.0,True,2021-08-14T16:30:00Z,1
+Kieran Dowell,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Arsenal,61,0,0,0,1,6,0,0,0,0,0,0,2.1,7.0,3.8,10.0,False,2021-09-11T14:00:00Z,3
+Kieran Dowell,MID,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T11:30:00Z,0
+Kieran Dowell,MID,Norwich,Leeds,68,0,0,2,0,3,0,0,0,0,0,0,3.7,9.8,26.2,1.0,True,2021-10-31T14:00:00Z,2
+Kieran Dowell,MID,Norwich,Brighton,73,0,0,1,0,1,0,0,0,0,0,0,1.0,6.0,1.8,2.0,False,2021-11-06T15:00:00Z,2
+Kieran Dowell,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Kieran Dowell,MID,Norwich,Wolves,8,0,0,0,0,4,0,0,0,0,0,0,2.1,3.2,17.5,0.0,True,2021-11-27T15:00:00Z,1
+Kieran Dowell,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-30T19:30:00Z,0
+Kieran Dowell,MID,Norwich,Spurs,18,0,0,1,0,3,0,0,0,0,0,0,0.5,0.4,4.3,0.0,False,2021-12-05T14:00:00Z,1
+Kieran Dowell,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T17:30:00Z,0
+Kieran Dowell,MID,Norwich,Aston Villa,15,0,0,1,0,7,0,0,0,0,0,0,2.1,7.0,14.4,0.0,True,2021-12-14T19:45:00Z,1
+Kieran Dowell,MID,Norwich,Arsenal,65,0,0,2,0,2,0,0,0,0,0,0,0.0,0.0,0.8,0.0,True,2021-12-26T15:00:00Z,2
+Kieran Dowell,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T15:00:00Z,0
+Kieran Dowell,MID,Norwich,West Ham,25,0,0,1,0,1,0,0,0,0,0,0,0.3,0.0,2.2,4.0,False,2022-01-12T19:45:00Z,1
+Kieran Dowell,MID,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Kieran Dowell,MID,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-21T20:00:00Z,0
+Kieran Dowell,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Kieran Dowell,MID,Norwich,Man City,3,0,0,1,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,True,2022-02-12T17:30:00Z,1
+Kieran Dowell,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Kieran Dowell,MID,Norwich,Southampton,9,0,0,1,0,2,0,0,0,0,0,0,0.0,0.4,0.0,0.0,False,2022-02-25T20:00:00Z,1
+Kieran Dowell,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Kieran Dowell,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Kieran Dowell,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Kieran Dowell,MID,Norwich,Burnley,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,1
+Kieran Dowell,MID,Norwich,Chelsea,90,0,0,0,1,12,0,0,0,0,0,0,6.7,12.6,54.1,0.0,True,2022-04-10T13:00:00Z,3
+Kieran Dowell,MID,Norwich,Man Utd,73,1,1,2,0,39,0,0,0,0,0,0,12.0,53.8,30.4,36.0,False,2022-04-16T14:00:00Z,11
+Kieran Dowell,MID,Norwich,Newcastle,90,0,0,3,0,-1,0,0,0,0,0,0,2.7,9.8,2.3,15.0,True,2022-04-23T14:00:00Z,2
+Kieran Dowell,MID,Norwich,Aston Villa,90,0,0,2,0,7,0,0,0,0,0,0,3.2,9.0,18.7,4.0,False,2022-04-30T14:00:00Z,2
+Kieran Dowell,MID,Norwich,West Ham,70,0,0,4,0,7,0,0,0,0,0,0,1.4,3.0,7.2,4.0,True,2022-05-08T13:00:00Z,2
+Kieran Dowell,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Kieran Dowell,MID,Norwich,Wolves,82,0,0,1,0,12,0,0,0,0,0,0,4.6,7.4,38.5,0.0,False,2022-05-15T13:00:00Z,2
+Kieran Dowell,MID,Norwich,Spurs,60,0,0,2,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

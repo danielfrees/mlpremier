@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Marc Guéhi,DEF,Crystal Palace,Crystal Palace,90,0,0,3,0,14,0,0,0,0,0,0,2.8,13.8,11.9,2.0,False,2021-08-14T14:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Brighton,90,0,0,0,1,24,0,0,0,0,0,0,1.7,16.8,0.2,0.0,True,2021-08-21T14:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,West Ham,90,0,0,2,0,12,0,0,0,0,0,0,4.8,20.0,0.7,27.0,False,2021-08-28T14:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Spurs,90,0,0,0,1,28,0,0,0,0,0,0,1.4,13.4,0.7,0.0,True,2021-09-11T11:30:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Liverpool,90,0,0,3,0,13,0,0,0,0,0,0,2.9,28.4,0.6,0.0,False,2021-09-18T14:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Burnley,90,0,0,1,0,17,0,0,0,0,0,0,1.3,10.8,2.1,0.0,True,2021-09-27T19:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Leicester,90,0,0,2,0,13,0,0,0,0,0,0,1.1,10.4,0.7,0.0,True,2021-10-03T13:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Arsenal,90,0,0,2,0,16,0,0,0,0,0,0,1.8,14.4,2.1,1.0,False,2021-10-18T19:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Newcastle,90,0,0,1,0,17,0,0,0,0,0,0,4.8,26.2,4.5,17.0,True,2021-10-23T14:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Man City,90,0,0,0,1,21,0,0,0,0,0,0,2.0,15.4,0.3,4.0,False,2021-10-30T14:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Wolves,90,0,0,0,1,26,1,0,0,0,0,0,1.6,15.6,0.6,0.0,True,2021-11-06T15:00:00Z,7
+Marc Guéhi,DEF,Crystal Palace,Chelsea,90,1,0,3,0,26,0,0,0,0,0,0,9.0,54.2,1.3,34.0,False,2021-11-20T15:00:00Z,7
+Marc Guéhi,DEF,Crystal Palace,Aston Villa,90,1,0,2,0,33,0,0,0,0,0,0,9.0,51.2,1.4,37.0,True,2021-11-27T15:00:00Z,9
+Marc Guéhi,DEF,Crystal Palace,Leeds,90,0,0,1,0,2,1,0,0,0,0,0,0.6,5.6,0.6,0.0,False,2021-11-30T20:15:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Man Utd,90,0,0,1,0,10,1,0,0,0,0,0,2.6,25.4,0.1,0.0,False,2021-12-05T14:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Fulham,90,0,0,1,0,16,0,0,0,0,0,0,4.4,25.2,0.5,18.0,True,2021-12-12T16:30:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Southampton,90,0,0,2,0,13,1,0,0,0,0,0,1.5,14.4,0.3,0.0,True,2021-12-15T19:30:00Z,0
+Marc Guéhi,DEF,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Marc Guéhi,DEF,Crystal Palace,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,5.1,33.0,0.3,18.0,True,2021-12-28T15:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,West Ham,90,0,0,3,0,16,0,0,0,0,0,0,2.1,19.4,1.2,0.0,True,2022-01-01T17:30:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Burnley,90,0,0,1,0,15,0,0,0,0,0,0,2.0,15.0,0.8,4.0,False,2022-01-14T20:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Liverpool,90,0,0,3,0,20,0,0,0,0,0,0,2.2,21.2,0.7,0.0,True,2022-01-23T14:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,2.0,14.8,5.5,0.0,False,2022-02-09T19:45:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,0.8,6.8,1.3,0.0,False,2022-02-12T15:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Crystal Palace,90,0,0,1,0,18,0,0,0,0,0,0,6.2,13.0,10.8,38.0,True,2022-02-19T15:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,West Brom,90,0,0,1,0,18,0,0,0,0,0,0,2.1,19.4,1.3,0.0,False,2022-02-23T19:30:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,1.7,16.6,0.8,0.0,True,2022-02-26T15:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,2.3,16.8,0.5,6.0,False,2022-03-05T15:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Man City,90,0,0,0,1,23,0,0,0,0,0,0,3.1,18.4,10.5,2.0,True,2022-03-14T20:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Arsenal,90,0,0,0,1,23,0,0,0,0,0,0,1.7,16.6,0.6,0.0,True,2022-04-04T19:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Leicester,90,0,0,2,0,15,0,0,0,0,0,0,1.9,14.8,0.4,4.0,False,2022-04-10T13:00:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,5.5,29.2,2.2,24.0,False,2022-04-20T18:45:00Z,2
+Marc Guéhi,DEF,Crystal Palace,Leeds,90,0,0,0,1,25,0,0,0,0,0,0,4.2,9.6,10.3,22.0,True,2022-04-25T19:00:00Z,7
+Marc Guéhi,DEF,Crystal Palace,Southampton,90,0,0,1,0,17,0,0,0,0,0,0,2.6,25.0,0.5,0.0,False,2022-04-30T14:00:00Z,2
+Marc Guéhi,DEF,Crystal Palace,West Brom,72,0,0,0,1,21,0,0,0,0,0,0,3.7,13.0,0.2,24.0,True,2022-05-07T14:00:00Z,6
+Marc Guéhi,DEF,Crystal Palace,Aston Villa,90,0,1,1,0,29,0,0,0,0,0,0,5.5,25.6,21.8,8.0,False,2022-05-15T13:00:00Z,8
+Marc Guéhi,DEF,Crystal Palace,Fulham,90,0,0,3,0,18,0,0,0,0,0,0,3.1,31.2,0.2,0.0,False,2022-05-19T18:45:00Z,1
+Marc Guéhi,DEF,Crystal Palace,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

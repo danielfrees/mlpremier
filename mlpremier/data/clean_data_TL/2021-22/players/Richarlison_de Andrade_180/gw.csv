@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Richarlison de Andrade,FWD,Everton,Southampton,88,1,1,1,0,41,1,0,0,0,0,0,13.0,63.8,29.3,37.0,True,2021-08-14T14:00:00Z,11
+Richarlison de Andrade,FWD,Everton,Leeds,90,0,0,2,0,2,0,0,0,0,0,0,7.9,4.8,31.6,43.0,False,2021-08-21T14:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Burnley,90,0,0,0,1,-3,1,0,0,0,0,0,3.6,11.6,11.7,13.0,False,2021-08-28T14:00:00Z,1
+Richarlison de Andrade,FWD,Everton,Chelsea,80,0,0,1,0,6,0,0,0,0,0,0,2.9,6.2,2.3,20.0,True,2021-09-13T19:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T16:30:00Z,0
+Richarlison de Andrade,FWD,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Richarlison de Andrade,FWD,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T11:30:00Z,0
+Richarlison de Andrade,FWD,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-17T13:00:00Z,0
+Richarlison de Andrade,FWD,Everton,West Brom,30,1,0,4,0,25,1,0,0,0,0,0,7.7,39.2,14.5,23.0,True,2021-10-23T14:00:00Z,4
+Richarlison de Andrade,FWD,Everton,Wolves,90,0,0,2,0,0,0,0,0,0,0,0,6.2,3.4,11.3,47.0,False,2021-11-01T20:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Spurs,90,0,0,0,1,-2,1,0,0,0,0,0,1.6,0.0,2.2,16.0,True,2021-11-07T14:00:00Z,1
+Richarlison de Andrade,FWD,Everton,Man City,90,0,0,3,0,1,1,0,0,0,0,0,0.4,0.0,1.3,4.0,False,2021-11-21T14:00:00Z,1
+Richarlison de Andrade,FWD,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Richarlison de Andrade,FWD,Everton,Liverpool,90,0,1,4,0,16,0,0,0,0,0,0,4.8,23.6,11.3,13.0,True,2021-12-01T20:15:00Z,5
+Richarlison de Andrade,FWD,Everton,Arsenal,90,1,0,1,0,35,0,0,0,0,0,0,14.0,50.2,46.3,43.0,True,2021-12-06T20:00:00Z,9
+Richarlison de Andrade,FWD,Everton,Everton,57,0,0,1,0,-1,0,0,0,0,0,0,0.0,0.0,1.3,2.0,False,2021-12-12T16:30:00Z,1
+Richarlison de Andrade,FWD,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-16T19:45:00Z,0
+Richarlison de Andrade,FWD,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T14:00:00Z,0
+Richarlison de Andrade,FWD,Everton,Sheffield Utd,36,1,0,0,0,28,0,0,0,0,0,0,9.8,36.0,1.1,61.0,False,2022-01-15T15:00:00Z,7
+Richarlison de Andrade,FWD,Everton,Aston Villa,90,0,0,1,0,-1,0,0,0,0,0,0,3.7,0.6,2.4,34.0,True,2022-01-22T12:30:00Z,2
+Richarlison de Andrade,FWD,Everton,Newcastle,90,0,0,3,0,10,0,0,0,0,0,0,4.0,10.4,15.2,14.0,False,2022-02-08T19:45:00Z,2
+Richarlison de Andrade,FWD,Everton,Leeds,85,0,1,0,1,16,0,0,0,0,0,0,9.8,27.8,34.5,36.0,True,2022-02-12T15:00:00Z,5
+Richarlison de Andrade,FWD,Everton,Southampton,90,0,0,2,0,4,0,0,0,0,0,0,2.7,9.0,6.1,12.0,False,2022-02-19T15:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Man City,90,0,0,1,0,4,0,0,0,0,0,0,5.6,15.2,1.0,40.0,True,2022-02-26T17:30:00Z,2
+Richarlison de Andrade,FWD,Everton,Spurs,90,0,0,5,0,3,0,0,0,0,0,0,1.9,7.6,1.7,10.0,False,2022-03-07T20:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Wolves,90,0,0,1,0,0,0,0,0,0,0,0,3.2,4.2,1.7,26.0,True,2022-03-13T14:00:00Z,2
+Richarlison de Andrade,FWD,Everton,Newcastle,87,0,0,0,1,1,1,0,0,0,0,0,1.1,2.2,4.3,4.0,True,2022-03-17T19:45:00Z,1
+Richarlison de Andrade,FWD,Everton,West Ham,90,0,1,2,0,11,1,0,0,0,0,0,10.5,17.0,15.6,72.0,False,2022-04-03T13:00:00Z,4
+Richarlison de Andrade,FWD,Everton,Chelsea,90,2,0,3,0,70,0,0,0,0,0,0,25.0,101.4,37.8,111.0,False,2022-04-06T18:30:00Z,13
+Richarlison de Andrade,FWD,Everton,Man Utd,90,0,0,0,1,5,0,0,0,0,0,0,4.3,24.6,2.6,16.0,True,2022-04-09T11:30:00Z,2
+Richarlison de Andrade,FWD,Everton,Leicester,90,1,0,1,0,20,1,0,0,0,0,0,7.6,28.8,2.8,44.0,True,2022-04-20T18:45:00Z,7
+Richarlison de Andrade,FWD,Everton,Liverpool,90,0,0,2,0,5,1,0,0,0,0,0,6.1,13.0,20.8,27.0,False,2022-04-24T15:30:00Z,1
+Richarlison de Andrade,FWD,Everton,Crystal Palace,79,1,0,0,1,30,0,0,0,0,0,0,8.0,37.2,1.1,42.0,True,2022-05-01T13:00:00Z,8
+Richarlison de Andrade,FWD,Everton,Leicester,90,0,1,1,0,14,0,0,0,0,0,0,8.0,7.0,14.1,59.0,False,2022-05-08T13:00:00Z,5
+Richarlison de Andrade,FWD,Everton,West Brom,90,0,0,0,1,8,0,0,0,0,0,0,8.9,14.2,24.2,51.0,False,2022-05-11T18:45:00Z,2
+Richarlison de Andrade,FWD,Everton,Brighton,90,1,1,3,0,39,0,0,0,0,0,0,13.1,55.4,32.5,43.0,True,2022-05-15T15:30:00Z,12
+Richarlison de Andrade,FWD,Everton,Everton,90,1,0,2,0,26,0,0,0,0,0,0,8.5,37.0,1.1,47.0,True,2022-05-19T18:45:00Z,7
+Richarlison de Andrade,FWD,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

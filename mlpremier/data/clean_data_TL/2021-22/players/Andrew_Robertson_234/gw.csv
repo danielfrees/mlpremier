@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Andrew Robertson,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T16:30:00Z,0
+Andrew Robertson,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T11:30:00Z,0
+Andrew Robertson,DEF,Liverpool,Crystal Palace,85,0,0,1,0,12,0,0,0,0,0,0,8.8,17.8,56.7,13.0,True,2021-08-28T16:30:00Z,2
+Andrew Robertson,DEF,Liverpool,Leeds,90,0,0,0,1,30,0,0,0,0,0,0,7.0,16.8,46.8,6.0,False,2021-09-12T15:30:00Z,7
+Andrew Robertson,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Andrew Robertson,DEF,Liverpool,Brighton,90,0,1,3,0,19,1,0,0,0,0,0,6.1,27.0,25.0,9.0,False,2021-09-25T16:30:00Z,3
+Andrew Robertson,DEF,Liverpool,Man City,90,0,0,2,0,16,0,0,0,0,0,0,2.2,21.0,1.4,0.0,True,2021-10-03T15:30:00Z,1
+Andrew Robertson,DEF,Liverpool,West Brom,63,0,0,0,1,24,0,0,0,0,0,0,3.4,12.2,17.5,4.0,False,2021-10-16T11:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,3.3,19.8,9.0,4.0,False,2021-10-24T15:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Burnley,90,0,0,2,0,12,1,0,0,0,0,0,3.0,11.8,12.6,6.0,True,2021-10-30T14:00:00Z,0
+Andrew Robertson,DEF,Liverpool,West Ham,90,0,0,3,0,17,0,0,0,0,0,0,4.9,8.8,21.9,18.0,False,2021-11-07T16:30:00Z,1
+Andrew Robertson,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T17:30:00Z,0
+Andrew Robertson,DEF,Liverpool,Southampton,90,0,1,0,1,45,0,0,0,0,0,0,9.4,37.0,53.0,4.0,True,2021-11-27T15:00:00Z,12
+Andrew Robertson,DEF,Liverpool,Fulham,90,0,2,1,0,35,1,0,0,0,0,0,9.2,51.6,36.7,4.0,False,2021-12-01T20:15:00Z,7
+Andrew Robertson,DEF,Liverpool,Wolves,90,0,0,0,1,21,1,0,0,0,0,0,4.3,10.4,21.0,12.0,False,2021-12-04T15:00:00Z,5
+Andrew Robertson,DEF,Liverpool,Aston Villa,90,0,0,0,1,28,0,0,0,0,0,0,12.1,26.4,61.8,33.0,True,2021-12-11T15:00:00Z,8
+Andrew Robertson,DEF,Liverpool,Newcastle,90,0,0,1,0,10,0,0,0,0,0,0,3.9,5.0,20.0,14.0,True,2021-12-16T20:00:00Z,2
+Andrew Robertson,DEF,Liverpool,Spurs,76,1,1,2,0,26,0,1,0,0,0,0,13.3,57.0,34.6,41.0,False,2021-12-19T16:30:00Z,9
+Andrew Robertson,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T20:00:00Z,0
+Andrew Robertson,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T16:30:00Z,0
+Andrew Robertson,DEF,Liverpool,Brighton,90,0,1,0,1,45,0,0,0,0,0,0,10.1,34.4,42.4,24.0,True,2022-01-16T14:00:00Z,12
+Andrew Robertson,DEF,Liverpool,Everton,90,0,2,1,0,35,0,0,0,0,0,0,11.0,47.0,48.1,15.0,False,2022-01-23T14:00:00Z,11
+Andrew Robertson,DEF,Liverpool,Leicester,90,0,0,0,1,28,0,0,0,0,0,0,5.6,14.8,37.4,4.0,True,2022-02-10T19:45:00Z,6
+Andrew Robertson,DEF,Liverpool,Chelsea,90,0,0,0,1,30,0,0,0,0,0,0,5.9,13.8,30.8,14.0,False,2022-02-13T14:00:00Z,7
+Andrew Robertson,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Andrew Robertson,DEF,Liverpool,Leeds,90,0,2,0,1,48,0,0,0,0,0,0,10.7,33.2,53.0,21.0,True,2022-02-23T19:45:00Z,13
+Andrew Robertson,DEF,Liverpool,West Ham,90,0,0,0,1,28,0,0,0,0,0,0,7.6,26.2,41.3,8.0,True,2022-03-05T17:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Burnley,90,0,0,0,1,21,0,0,0,0,0,0,3.1,9.4,13.4,8.0,False,2022-03-12T12:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Arsenal,90,0,1,0,1,41,0,0,0,0,0,0,8.2,41.6,30.5,10.0,False,2022-03-16T20:15:00Z,12
+Andrew Robertson,DEF,Liverpool,West Brom,90,0,0,0,1,26,0,0,0,0,0,0,4.0,11.6,25.1,3.0,True,2022-04-02T11:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Man City,90,0,0,2,0,6,1,0,0,0,0,0,2.4,10.4,9.6,4.0,False,2022-04-10T15:30:00Z,0
+Andrew Robertson,DEF,Liverpool,Man Utd,90,0,0,0,1,28,0,0,0,0,0,0,6.4,17.6,44.1,2.0,True,2022-04-19T19:00:00Z,6
+Andrew Robertson,DEF,Liverpool,Fulham,90,1,0,0,1,42,0,0,0,0,0,0,9.8,44.8,26.1,27.0,True,2022-04-24T15:30:00Z,15
+Andrew Robertson,DEF,Liverpool,Newcastle,90,0,0,0,1,26,0,0,0,0,0,0,5.1,16.0,16.0,19.0,False,2022-04-30T11:30:00Z,6
+Andrew Robertson,DEF,Liverpool,Spurs,63,0,0,1,0,19,0,0,0,0,0,0,6.6,16.8,46.9,2.0,True,2022-05-07T18:45:00Z,2
+Andrew Robertson,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Andrew Robertson,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-17T18:45:00Z,0
+Andrew Robertson,DEF,Liverpool,Wolves,90,1,0,1,0,25,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,9

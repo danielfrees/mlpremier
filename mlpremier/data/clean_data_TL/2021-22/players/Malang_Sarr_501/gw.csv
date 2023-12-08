@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Malang Sarr,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T15:30:00Z,0
+Malang Sarr,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T16:30:00Z,0
+Malang Sarr,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T16:30:00Z,0
+Malang Sarr,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T15:30:00Z,0
+Malang Sarr,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Malang Sarr,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Brighton,90,0,0,0,1,35,0,0,0,0,0,0,3.9,36.2,2.7,0.0,False,2021-10-16T16:30:00Z,8
+Malang Sarr,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T11:30:00Z,0
+Malang Sarr,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Malang Sarr,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T12:30:00Z,0
+Malang Sarr,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T16:30:00Z,0
+Malang Sarr,DEF,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Malang Sarr,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T12:30:00Z,0
+Malang Sarr,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Malang Sarr,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T19:45:00Z,0
+Malang Sarr,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T17:30:00Z,0
+Malang Sarr,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-29T19:30:00Z,0
+Malang Sarr,DEF,Chelsea,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T16:30:00Z,0
+Malang Sarr,DEF,Chelsea,Man City,90,0,0,1,0,21,0,0,0,0,0,0,2.7,25.4,1.3,0.0,False,2022-01-15T12:30:00Z,2
+Malang Sarr,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-18T20:00:00Z,0
+Malang Sarr,DEF,Chelsea,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,1.7,15.8,1.4,0.0,True,2022-01-23T16:30:00Z,6
+Malang Sarr,DEF,Chelsea,Everton,73,0,0,0,1,22,1,0,0,0,0,0,3.9,11.0,27.4,1.0,False,2022-02-19T15:00:00Z,5
+Malang Sarr,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Malang Sarr,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Malang Sarr,DEF,Chelsea,Newcastle,77,0,0,0,1,25,0,0,0,0,0,0,0.6,2.4,4.0,0.0,True,2022-03-13T14:00:00Z,8
+Malang Sarr,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Malang Sarr,DEF,Chelsea,Arsenal,90,0,0,4,0,5,1,0,0,0,0,0,3.0,21.4,8.3,0.0,True,2022-04-20T18:45:00Z,-1
+Malang Sarr,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T13:00:00Z,0
+Malang Sarr,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-28T18:45:00Z,0
+Malang Sarr,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Malang Sarr,DEF,Chelsea,Wolves,3,0,0,1,0,3,0,0,0,0,0,0,0.1,1.2,0.0,0.0,True,2022-05-07T14:00:00Z,1
+Malang Sarr,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:30:00Z,0
+Malang Sarr,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T19:00:00Z,0
+Malang Sarr,DEF,Chelsea,West Brom,31,0,0,1,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

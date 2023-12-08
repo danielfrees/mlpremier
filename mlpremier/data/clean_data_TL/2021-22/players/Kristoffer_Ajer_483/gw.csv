@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kristoffer Ajer,DEF,Brentford,Arsenal,70,0,0,0,1,23,0,0,0,0,0,0,2.3,8.2,11.2,4.0,True,2021-08-13T19:00:00Z,6
+Kristoffer Ajer,DEF,Brentford,Everton,90,0,0,0,1,21,0,0,0,0,0,0,2.7,8.4,0.6,18.0,False,2021-08-21T14:00:00Z,6
+Kristoffer Ajer,DEF,Brentford,Aston Villa,90,0,0,1,0,10,0,0,0,0,0,0,2.2,14.6,3.5,4.0,False,2021-08-28T14:00:00Z,2
+Kristoffer Ajer,DEF,Brentford,Burnley,90,0,0,1,0,8,1,0,0,0,0,0,1.3,10.2,1.0,2.0,True,2021-09-11T14:00:00Z,1
+Kristoffer Ajer,DEF,Brentford,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,1.8,17.2,0.4,0.0,False,2021-09-18T11:30:00Z,7
+Kristoffer Ajer,DEF,Brentford,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,2.8,23.2,4.3,0.0,True,2021-09-25T16:30:00Z,1
+Kristoffer Ajer,DEF,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T16:30:00Z,0
+Kristoffer Ajer,DEF,Brentford,Leicester,45,0,0,1,0,3,0,0,0,0,0,0,3.0,6.6,1.1,22.0,True,2021-10-24T13:00:00Z,1
+Kristoffer Ajer,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T19:30:00Z,0
+Kristoffer Ajer,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T14:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-10T20:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T20:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-29T20:15:00Z,0
+Kristoffer Ajer,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T14:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Southampton,90,0,0,4,0,11,0,0,0,0,0,0,1.4,12.0,1.8,0.0,False,2022-01-11T19:45:00Z,0
+Kristoffer Ajer,DEF,Brentford,Liverpool,90,0,0,3,0,9,1,0,0,0,0,0,3.2,21.6,10.6,0.0,False,2022-01-16T14:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-19T20:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Wolves,90,0,0,2,0,12,0,0,0,0,0,0,3.9,10.8,1.9,26.0,True,2022-01-22T15:00:00Z,1
+Kristoffer Ajer,DEF,Brentford,Man City,90,0,0,2,0,11,0,0,0,0,0,0,1.1,10.2,0.4,0.0,False,2022-02-09T19:45:00Z,1
+Kristoffer Ajer,DEF,Brentford,Everton,90,0,0,0,1,24,0,0,0,0,0,0,2.2,15.0,5.3,2.0,True,2022-02-12T15:00:00Z,6
+Kristoffer Ajer,DEF,Brentford,Arsenal,90,0,1,2,0,27,0,0,0,0,0,0,6.1,46.0,11.0,4.0,False,2022-02-19T15:00:00Z,5
+Kristoffer Ajer,DEF,Brentford,Newcastle,71,0,0,2,0,3,1,0,0,0,0,0,0.3,2.0,0.5,0.0,True,2022-02-26T15:00:00Z,0
+Kristoffer Ajer,DEF,Brentford,Sheffield Utd,74,0,1,0,1,28,1,0,0,0,0,0,3.9,26.0,11.1,2.0,False,2022-03-05T15:00:00Z,9
+Kristoffer Ajer,DEF,Brentford,Chelsea,90,0,0,0,1,24,0,0,0,0,0,0,1.4,11.2,1.1,2.0,True,2022-03-12T15:00:00Z,6
+Kristoffer Ajer,DEF,Brentford,Leicester,65,0,0,2,0,15,0,0,0,0,0,0,3.0,8.8,15.6,6.0,False,2022-03-20T14:00:00Z,1
+Kristoffer Ajer,DEF,Brentford,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,6.6,22.6,0.7,43.0,False,2022-04-02T14:00:00Z,2
+Kristoffer Ajer,DEF,Brentford,West Ham,82,0,0,0,1,20,0,0,0,0,0,0,3.3,9.4,1.6,22.0,True,2022-04-10T13:00:00Z,6
+Kristoffer Ajer,DEF,Brentford,West Brom,90,0,1,1,0,25,0,0,0,0,0,0,6.3,37.4,21.5,4.0,False,2022-04-16T14:00:00Z,5
+Kristoffer Ajer,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T16:30:00Z,0
+Kristoffer Ajer,DEF,Brentford,Man Utd,90,0,0,3,0,12,0,0,0,0,0,0,1.1,6.6,4.4,0.0,False,2022-05-02T19:00:00Z,1
+Kristoffer Ajer,DEF,Brentford,Southampton,90,1,0,0,1,38,0,0,0,0,0,0,8.4,49.4,11.2,23.0,True,2022-05-07T14:00:00Z,14
+Kristoffer Ajer,DEF,Brentford,Fulham,58,0,0,2,0,5,1,0,0,0,0,0,0.7,3.8,2.7,0.0,False,2022-05-15T15:30:00Z,-1
+Kristoffer Ajer,DEF,Brentford,Leeds,90,0,0,2,0,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

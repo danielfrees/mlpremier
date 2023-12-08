@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jack Grealish,MID,Man City,Spurs,90,0,0,1,0,17,1,0,0,0,0,0,11.0,18.2,28.6,63.0,False,2021-08-15T15:30:00Z,1
+Jack Grealish,MID,Man City,Sheffield Utd,74,1,0,0,1,29,0,0,0,0,0,0,11.0,38.6,18.6,53.0,True,2021-08-21T14:00:00Z,8
+Jack Grealish,MID,Man City,Arsenal,90,0,1,0,1,28,0,0,0,0,0,0,13.9,32.4,76.3,30.0,True,2021-08-28T11:30:00Z,6
+Jack Grealish,MID,Man City,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,9.8,14.0,52.1,32.0,False,2021-09-11T14:00:00Z,3
+Jack Grealish,MID,Man City,Southampton,90,0,0,0,1,17,0,0,0,0,0,0,6.8,19.0,38.6,10.0,True,2021-09-18T14:00:00Z,3
+Jack Grealish,MID,Man City,Crystal Palace,86,0,0,0,1,6,0,0,0,0,0,0,9.1,11.8,24.9,54.0,False,2021-09-25T11:30:00Z,3
+Jack Grealish,MID,Man City,Liverpool,65,0,0,1,0,5,0,0,0,0,0,0,2.5,5.6,1.8,18.0,False,2021-10-03T15:30:00Z,2
+Jack Grealish,MID,Man City,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Jack Grealish,MID,Man City,Burnley,76,0,1,0,1,24,0,0,0,0,0,0,11.6,29.2,36.5,50.0,False,2021-10-23T16:30:00Z,6
+Jack Grealish,MID,Man City,Everton,77,0,0,1,0,12,0,0,0,0,0,0,10.9,10.2,56.6,42.0,True,2021-10-30T14:00:00Z,2
+Jack Grealish,MID,Man City,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T12:30:00Z,0
+Jack Grealish,MID,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-21T14:00:00Z,0
+Jack Grealish,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Jack Grealish,MID,Man City,Aston Villa,3,0,0,0,0,3,0,0,0,0,0,0,0.6,0.2,2.1,4.0,False,2021-12-01T20:15:00Z,1
+Jack Grealish,MID,Man City,West Brom,67,0,0,0,1,6,0,0,0,0,0,0,11.4,11.0,17.5,85.0,False,2021-12-04T17:30:00Z,3
+Jack Grealish,MID,Man City,Wolves,73,0,0,0,1,7,0,0,0,0,0,0,6.5,1.0,30.0,34.0,True,2021-12-11T12:30:00Z,3
+Jack Grealish,MID,Man City,Leeds,90,1,0,0,1,31,0,0,0,0,0,0,11.7,44.4,18.6,54.0,True,2021-12-14T20:00:00Z,8
+Jack Grealish,MID,Man City,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T14:00:00Z,0
+Jack Grealish,MID,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Jack Grealish,MID,Man City,Brighton,90,0,0,0,1,11,0,0,0,0,0,0,2.7,5.8,19.0,2.0,False,2021-12-29T20:15:00Z,3
+Jack Grealish,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T12:30:00Z,0
+Jack Grealish,MID,Man City,Crystal Palace,90,0,0,0,1,8,0,0,0,0,0,0,8.8,18.4,28.0,42.0,True,2022-01-15T12:30:00Z,3
+Jack Grealish,MID,Man City,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,6.8,8.0,17.6,42.0,False,2022-01-22T17:30:00Z,2
+Jack Grealish,MID,Man City,Brighton,23,0,0,0,0,3,0,0,0,0,0,0,1.3,2.6,8.3,2.0,True,2022-02-09T19:45:00Z,1
+Jack Grealish,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T17:30:00Z,0
+Jack Grealish,MID,Man City,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T17:30:00Z,0
+Jack Grealish,MID,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T17:30:00Z,0
+Jack Grealish,MID,Man City,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,8.1,9.6,39.8,32.0,True,2022-03-06T16:30:00Z,2
+Jack Grealish,MID,Man City,Everton,90,0,0,0,1,12,1,0,0,0,0,0,11.1,13.0,46.1,52.0,False,2022-03-14T20:00:00Z,2
+Jack Grealish,MID,Man City,Chelsea,90,0,0,0,1,9,0,0,0,0,0,0,5.5,5.2,26.2,24.0,False,2022-04-02T14:00:00Z,3
+Jack Grealish,MID,Man City,Liverpool,7,0,0,0,0,2,0,0,0,0,0,0,0.4,1.2,0.5,2.0,True,2022-04-10T15:30:00Z,1
+Jack Grealish,MID,Man City,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T19:00:00Z,0
+Jack Grealish,MID,Man City,West Brom,90,0,0,1,0,15,0,0,0,0,0,0,5.7,10.2,6.1,41.0,True,2022-04-23T14:00:00Z,2
+Jack Grealish,MID,Man City,Leeds,90,0,0,0,1,6,1,0,0,0,0,0,4.4,8.8,19.5,16.0,False,2022-04-30T16:30:00Z,2
+Jack Grealish,MID,Man City,Newcastle,90,0,1,0,1,28,0,0,0,0,0,0,11.3,26.8,47.7,38.0,True,2022-05-08T15:30:00Z,6
+Jack Grealish,MID,Man City,Wolves,9,0,0,0,0,1,0,0,0,0,0,0,2.6,2.4,24.0,0.0,False,2022-05-11T19:15:00Z,1
+Jack Grealish,MID,Man City,West Ham,90,1,0,2,0,37,0,0,0,0,0,0,19.3,46.8,45.6,101.0,False,2022-05-15T13:00:00Z,9
+Jack Grealish,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

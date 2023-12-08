@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Adam Armstrong,FWD,Southampton,Fulham,90,1,0,3,0,24,0,0,0,0,0,0,7.4,33.2,1.0,40.0,False,2021-08-14T14:00:00Z,6
+Adam Armstrong,FWD,Southampton,Man Utd,90,0,0,1,0,0,0,0,0,0,0,0,4.3,5.4,11.5,26.0,True,2021-08-22T13:00:00Z,2
+Adam Armstrong,FWD,Southampton,Newcastle,90,0,1,2,0,14,0,0,0,0,0,0,7.7,2.2,25.0,50.0,False,2021-08-28T14:00:00Z,5
+Adam Armstrong,FWD,Southampton,West Ham,73,0,0,0,1,6,0,0,0,0,0,0,3.5,2.6,11.3,21.0,True,2021-09-11T14:00:00Z,2
+Adam Armstrong,FWD,Southampton,Man City,90,0,0,0,1,6,0,0,0,0,0,0,8.8,15.6,0.9,71.0,False,2021-09-18T14:00:00Z,2
+Adam Armstrong,FWD,Southampton,Wolves,90,0,0,1,0,5,0,0,0,0,0,0,5.9,6.2,32.9,20.0,True,2021-09-26T13:00:00Z,2
+Adam Armstrong,FWD,Southampton,Crystal Palace,90,0,0,3,0,6,0,0,0,0,0,0,2.5,5.4,0.9,19.0,False,2021-10-02T14:00:00Z,2
+Adam Armstrong,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Adam Armstrong,FWD,Southampton,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.5,0.0,True,2021-10-23T14:00:00Z,1
+Adam Armstrong,FWD,Southampton,West Brom,90,0,1,0,1,10,0,0,0,0,0,0,7.5,10.2,21.5,43.0,False,2021-10-30T14:00:00Z,5
+Adam Armstrong,FWD,Southampton,Aston Villa,80,1,0,0,1,31,0,0,0,0,0,0,6.2,39.8,1.2,21.0,True,2021-11-05T20:00:00Z,9
+Adam Armstrong,FWD,Southampton,Sheffield Utd,90,0,1,2,0,15,0,0,0,0,0,0,11.6,26.4,22.9,67.0,False,2021-11-20T15:00:00Z,5
+Adam Armstrong,FWD,Southampton,Liverpool,90,0,0,4,0,-1,0,0,0,0,0,0,10.2,10.4,1.2,90.0,False,2021-11-27T15:00:00Z,2
+Adam Armstrong,FWD,Southampton,Leicester,73,0,0,2,0,10,0,0,0,0,0,0,5.5,12.6,31.5,11.0,True,2021-12-01T19:30:00Z,2
+Adam Armstrong,FWD,Southampton,Burnley,9,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,1
+Adam Armstrong,FWD,Southampton,Arsenal,42,0,0,2,0,3,0,0,0,0,0,0,3.1,2.0,0.3,29.0,False,2021-12-11T15:00:00Z,1
+Adam Armstrong,FWD,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-15T19:30:00Z,0
+Adam Armstrong,FWD,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Adam Armstrong,FWD,Southampton,Spurs,82,0,0,1,0,-1,1,0,0,0,0,0,0.5,0.0,1.8,8.0,True,2021-12-28T15:00:00Z,1
+Adam Armstrong,FWD,Southampton,Brighton,12,0,0,0,0,4,0,0,0,0,0,0,2.5,6.4,1.1,17.0,True,2022-01-11T19:45:00Z,1
+Adam Armstrong,FWD,Southampton,Wolves,12,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.8,0.0,False,2022-01-15T15:00:00Z,1
+Adam Armstrong,FWD,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T17:30:00Z,0
+Adam Armstrong,FWD,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-09T19:45:00Z,0
+Adam Armstrong,FWD,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T12:30:00Z,0
+Adam Armstrong,FWD,Southampton,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,1
+Adam Armstrong,FWD,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-25T20:00:00Z,0
+Adam Armstrong,FWD,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Adam Armstrong,FWD,Southampton,Newcastle,17,0,0,0,0,0,0,0,0,0,0,0,0.6,0.0,1.8,6.0,True,2022-03-10T19:30:00Z,1
+Adam Armstrong,FWD,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+Adam Armstrong,FWD,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Adam Armstrong,FWD,Southampton,Crystal Palace,45,0,0,4,0,1,0,0,0,0,0,0,1.5,0.6,4.4,10.0,True,2022-04-09T14:00:00Z,1
+Adam Armstrong,FWD,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T14:00:00Z,0
+Adam Armstrong,FWD,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-21T18:45:00Z,0
+Adam Armstrong,FWD,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Adam Armstrong,FWD,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Adam Armstrong,FWD,Southampton,Brighton,90,0,0,3,0,3,0,0,0,0,0,0,1.8,0.0,1.4,18.0,False,2022-05-07T14:00:00Z,2
+Adam Armstrong,FWD,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-17T18:45:00Z,0
+Adam Armstrong,FWD,Southampton,Leicester,62,0,0,1,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

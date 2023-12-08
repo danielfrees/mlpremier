@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T16:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T13:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-27T19:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T16:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T16:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T17:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T17:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T20:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T19:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-14T20:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-18T20:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T15:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-15T20:15:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T15:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-12T12:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-16T19:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T11:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T19:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T13:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T16:30:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Bernardo Fernandes Da Silva Junior,DEF,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

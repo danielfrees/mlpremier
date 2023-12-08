@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Adam Webster,DEF,Brighton,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,2.6,23.6,2.8,0.0,False,2021-08-14T14:00:00Z,2
+Adam Webster,DEF,Brighton,West Brom,90,0,0,0,1,22,1,0,0,0,0,0,3.9,27.0,12.0,0.0,True,2021-08-21T16:30:00Z,5
+Adam Webster,DEF,Brighton,Fulham,90,0,0,2,0,14,0,0,0,0,0,0,3.5,32.6,2.5,0.0,True,2021-08-28T14:00:00Z,1
+Adam Webster,DEF,Brighton,Brighton,36,0,0,0,0,4,0,0,0,0,0,0,0.5,4.0,0.5,0.0,False,2021-09-11T14:00:00Z,1
+Adam Webster,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T13:00:00Z,0
+Adam Webster,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-27T19:00:00Z,0
+Adam Webster,DEF,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T16:30:00Z,0
+Adam Webster,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Adam Webster,DEF,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T16:30:00Z,0
+Adam Webster,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Adam Webster,DEF,Brighton,Newcastle,15,0,0,0,0,2,0,0,0,0,0,0,0.3,1.0,1.6,0.0,True,2021-11-06T17:30:00Z,1
+Adam Webster,DEF,Brighton,Aston Villa,90,0,0,2,0,11,1,0,0,0,0,0,3.5,23.6,3.4,8.0,False,2021-11-20T15:00:00Z,0
+Adam Webster,DEF,Brighton,Leeds,90,0,0,0,1,20,0,0,0,0,0,0,1.5,7.2,7.8,0.0,True,2021-11-27T17:30:00Z,6
+Adam Webster,DEF,Brighton,West Ham,35,0,0,1,0,7,0,0,0,0,0,0,0.3,3.0,0.4,0.0,False,2021-12-01T19:30:00Z,1
+Adam Webster,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Adam Webster,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Adam Webster,DEF,Brighton,Brighton,90,0,0,0,1,21,1,0,0,0,0,0,3.3,32.2,0.4,0.0,True,2021-12-26T20:00:00Z,5
+Adam Webster,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T19:30:00Z,0
+Adam Webster,DEF,Brighton,Fulham,90,0,0,2,0,7,1,0,0,0,0,0,1.0,9.4,0.7,0.0,False,2022-01-02T14:00:00Z,0
+Adam Webster,DEF,Brighton,Everton,90,0,0,1,0,11,0,0,0,0,0,0,2.6,16.4,1.9,8.0,True,2022-01-14T20:00:00Z,2
+Adam Webster,DEF,Brighton,Crystal Palace,90,1,0,1,0,30,0,0,0,0,0,0,9.0,58.0,10.8,21.0,True,2022-01-18T20:00:00Z,11
+Adam Webster,DEF,Brighton,Leicester,90,0,0,1,0,17,0,0,0,0,0,0,2.5,24.0,1.0,0.0,False,2022-01-23T14:00:00Z,2
+Adam Webster,DEF,Brighton,West Brom,90,1,0,0,1,35,0,0,0,0,0,0,12.7,56.2,1.8,69.0,False,2022-02-12T15:00:00Z,15
+Adam Webster,DEF,Brighton,Man Utd,90,0,0,2,0,14,0,0,0,0,0,0,2.6,24.4,1.4,0.0,False,2022-02-15T20:15:00Z,1
+Adam Webster,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Adam Webster,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T15:30:00Z,0
+Adam Webster,DEF,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Adam Webster,DEF,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-12T12:30:00Z,0
+Adam Webster,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-16T19:30:00Z,0
+Adam Webster,DEF,Brighton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Adam Webster,DEF,Brighton,Arsenal,5,0,0,1,0,4,0,0,0,0,0,0,0.6,6.0,0.0,0.0,False,2022-04-09T14:00:00Z,1
+Adam Webster,DEF,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T11:30:00Z,0
+Adam Webster,DEF,Brighton,Man City,29,0,0,2,0,-1,1,0,0,0,0,0,0.7,5.0,0.1,2.0,False,2022-04-20T19:00:00Z,-1
+Adam Webster,DEF,Brighton,Southampton,61,0,0,2,0,9,0,0,0,0,0,0,1.4,11.8,0.1,2.0,True,2022-04-24T13:00:00Z,1
+Adam Webster,DEF,Brighton,Wolves,27,0,0,0,0,5,0,0,0,0,0,0,0.5,4.6,0.4,0.0,False,2022-04-30T14:00:00Z,1
+Adam Webster,DEF,Brighton,Man Utd,23,0,0,0,0,3,0,0,0,0,0,0,1.0,7.4,0.3,2.0,True,2022-05-07T16:30:00Z,1
+Adam Webster,DEF,Brighton,Leeds,28,0,0,1,0,4,0,0,0,0,0,0,1.1,10.4,0.2,0.0,False,2022-05-15T13:00:00Z,1
+Adam Webster,DEF,Brighton,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

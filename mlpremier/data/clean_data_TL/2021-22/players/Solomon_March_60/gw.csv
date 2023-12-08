@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Solomon March,MID,Brighton,Chelsea,90,0,0,1,0,12,0,0,0,0,0,0,7.5,18.6,45.3,11.0,False,2021-08-14T14:00:00Z,2
+Solomon March,MID,Brighton,West Brom,90,0,0,0,1,5,1,0,0,0,0,0,2.9,9.4,11.8,8.0,True,2021-08-21T16:30:00Z,2
+Solomon March,MID,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Solomon March,MID,Brighton,Brighton,8,0,0,0,0,2,0,0,0,0,0,0,0.7,4.6,0.4,2.0,False,2021-09-11T14:00:00Z,1
+Solomon March,MID,Brighton,Leicester,61,0,0,1,0,6,0,0,0,0,0,0,4.2,10.2,15.0,17.0,True,2021-09-19T13:00:00Z,2
+Solomon March,MID,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-27T19:00:00Z,0
+Solomon March,MID,Brighton,Arsenal,6,0,0,0,0,4,0,0,0,0,0,0,3.9,5.4,14.3,19.0,True,2021-10-02T16:30:00Z,1
+Solomon March,MID,Brighton,Sheffield Utd,24,0,0,0,0,8,0,0,0,0,0,0,2.1,5.6,11.5,4.0,False,2021-10-16T14:00:00Z,1
+Solomon March,MID,Brighton,Man City,90,0,0,4,0,9,0,0,0,0,0,0,3.4,11.0,11.3,12.0,True,2021-10-23T16:30:00Z,2
+Solomon March,MID,Brighton,Liverpool,90,0,1,2,0,16,0,0,0,0,0,0,7.8,31.2,25.8,21.0,False,2021-10-30T14:00:00Z,5
+Solomon March,MID,Brighton,Newcastle,65,0,0,0,1,4,0,0,0,0,0,0,2.0,2.6,13.1,4.0,True,2021-11-06T17:30:00Z,3
+Solomon March,MID,Brighton,Aston Villa,26,0,0,2,0,5,0,0,0,0,0,0,0.5,4.2,0.8,0.0,False,2021-11-20T15:00:00Z,1
+Solomon March,MID,Brighton,Leeds,14,0,0,0,0,2,0,0,0,0,0,0,3.5,7.0,0.0,28.0,True,2021-11-27T17:30:00Z,1
+Solomon March,MID,Brighton,West Ham,77,0,0,0,1,13,0,0,0,0,0,0,3.5,12.0,18.8,4.0,False,2021-12-01T19:30:00Z,3
+Solomon March,MID,Brighton,Southampton,27,0,0,0,0,2,0,0,0,0,0,0,0.1,0.8,0.5,0.0,False,2021-12-04T15:00:00Z,1
+Solomon March,MID,Brighton,Wolves,90,0,0,1,0,5,0,0,0,0,0,0,5.6,11.0,31.0,14.0,True,2021-12-15T19:30:00Z,2
+Solomon March,MID,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T20:00:00Z,0
+Solomon March,MID,Brighton,Crystal Palace,90,0,0,1,0,14,0,0,0,0,0,0,3.4,8.8,23.2,2.0,False,2021-12-29T19:30:00Z,2
+Solomon March,MID,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Solomon March,MID,Brighton,Everton,17,0,0,0,0,5,0,0,0,0,0,0,4.2,4.6,16.8,21.0,True,2022-01-14T20:00:00Z,1
+Solomon March,MID,Brighton,Crystal Palace,14,0,0,0,0,5,0,0,0,0,0,0,2.0,5.2,14.3,0.0,True,2022-01-18T20:00:00Z,1
+Solomon March,MID,Brighton,Leicester,13,0,0,0,0,8,0,0,0,0,0,0,2.9,4.2,20.8,4.0,False,2022-01-23T14:00:00Z,1
+Solomon March,MID,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T15:00:00Z,0
+Solomon March,MID,Brighton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-15T20:15:00Z,0
+Solomon March,MID,Brighton,Chelsea,35,0,0,1,0,5,0,0,0,0,0,0,3.9,6.2,27.0,6.0,True,2022-02-19T15:00:00Z,1
+Solomon March,MID,Brighton,Aston Villa,90,0,0,2,0,12,0,0,0,0,0,0,6.7,13.6,30.9,22.0,True,2022-02-26T15:30:00Z,2
+Solomon March,MID,Brighton,Newcastle,31,0,0,0,0,3,0,0,0,0,0,0,1.9,2.4,12.5,4.0,False,2022-03-05T15:00:00Z,1
+Solomon March,MID,Brighton,Liverpool,90,0,0,2,0,7,0,0,0,0,0,0,5.0,11.4,15.9,23.0,True,2022-03-12T12:30:00Z,2
+Solomon March,MID,Brighton,Spurs,90,0,0,2,0,13,0,0,0,0,0,0,4.5,10.6,30.6,4.0,True,2022-03-16T19:30:00Z,2
+Solomon March,MID,Brighton,Sheffield Utd,82,0,0,0,1,9,0,0,0,0,0,0,10.4,17.8,67.7,18.0,True,2022-04-02T14:00:00Z,3
+Solomon March,MID,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Solomon March,MID,Brighton,Spurs,8,0,0,0,0,3,0,0,0,0,0,0,0.3,0.4,0.8,2.0,False,2022-04-16T11:30:00Z,1
+Solomon March,MID,Brighton,Man City,90,0,0,3,0,4,0,0,0,0,0,0,1.5,10.8,2.3,2.0,False,2022-04-20T19:00:00Z,2
+Solomon March,MID,Brighton,Southampton,29,0,0,0,0,2,0,0,0,0,0,0,2.7,7.4,1.0,19.0,True,2022-04-24T13:00:00Z,1
+Solomon March,MID,Brighton,Wolves,86,0,0,0,1,8,0,0,0,0,0,0,1.0,4.4,5.8,0.0,False,2022-04-30T14:00:00Z,3
+Solomon March,MID,Brighton,Man Utd,75,0,0,0,1,4,0,0,0,0,0,0,2.7,6.8,14.0,6.0,True,2022-05-07T16:30:00Z,3
+Solomon March,MID,Brighton,Leeds,61,0,0,0,1,5,0,0,0,0,0,0,4.8,11.4,28.8,8.0,False,2022-05-15T13:00:00Z,3
+Solomon March,MID,Brighton,West Ham,74,0,1,1,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,5

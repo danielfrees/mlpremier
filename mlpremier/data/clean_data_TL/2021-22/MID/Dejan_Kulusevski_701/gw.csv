@@ -1,0 +1,19 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Dejan Kulusevski,MID,Spurs,Southampton,14,0,0,2,0,4,0,0,0,0,0,0,1.4,2.4,11.1,0.0,True,2022-02-09T19:45:00Z,1
+Dejan Kulusevski,MID,Spurs,Wolves,62,0,0,0,1,2,1,0,0,0,0,0,4.8,2.8,21.3,24.0,True,2022-02-13T14:00:00Z,2
+Dejan Kulusevski,MID,Spurs,Man City,90,1,1,2,0,35,0,0,0,0,0,0,9.5,60.8,16.9,17.0,False,2022-02-19T17:30:00Z,11
+Dejan Kulusevski,MID,Spurs,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,8.2,8.0,32.3,42.0,False,2022-02-23T19:30:00Z,2
+Dejan Kulusevski,MID,Spurs,Leeds,77,1,0,0,1,30,0,0,0,0,0,0,13.4,42.4,14.0,78.0,False,2022-02-26T12:30:00Z,8
+Dejan Kulusevski,MID,Spurs,Fulham,90,0,2,0,1,39,0,0,0,0,0,0,10.6,38.0,43.2,25.0,True,2022-03-07T20:00:00Z,10
+Dejan Kulusevski,MID,Spurs,Man Utd,77,0,1,2,0,15,0,0,0,0,0,0,4.4,8.8,24.7,10.0,False,2022-03-12T17:30:00Z,5
+Dejan Kulusevski,MID,Spurs,Burnley,90,0,1,0,1,20,0,0,0,0,0,0,9.5,30.4,24.3,40.0,False,2022-03-16T19:30:00Z,6
+Dejan Kulusevski,MID,Spurs,West Ham,90,0,0,1,0,17,0,0,0,0,0,0,7.6,4.6,27.3,44.0,True,2022-03-20T16:30:00Z,2
+Dejan Kulusevski,MID,Spurs,Newcastle,75,0,1,1,0,32,0,0,0,0,0,0,10.1,32.0,58.9,10.0,True,2022-04-03T15:30:00Z,6
+Dejan Kulusevski,MID,Spurs,Aston Villa,83,1,1,0,1,35,0,0,0,0,0,0,8.7,51.4,12.8,23.0,False,2022-04-09T16:30:00Z,12
+Dejan Kulusevski,MID,Spurs,Burnley,63,0,0,0,1,1,1,0,0,0,0,0,0.1,0.0,0.8,2.0,True,2022-04-16T11:30:00Z,2
+Dejan Kulusevski,MID,Spurs,Brighton,90,0,0,0,1,13,0,0,0,0,0,0,8.3,15.2,25.8,42.0,False,2022-04-23T16:30:00Z,3
+Dejan Kulusevski,MID,Spurs,Leicester,35,0,2,1,0,26,0,0,0,0,0,0,6.7,42.0,21.3,4.0,True,2022-05-01T13:00:00Z,8
+Dejan Kulusevski,MID,Spurs,Liverpool,84,0,0,1,0,5,0,0,0,0,0,0,1.4,5.2,1.3,7.0,False,2022-05-07T18:45:00Z,2
+Dejan Kulusevski,MID,Spurs,Arsenal,71,0,0,0,1,8,0,0,0,0,0,0,2.2,2.6,7.3,12.0,True,2022-05-12T18:45:00Z,3
+Dejan Kulusevski,MID,Spurs,Chelsea,11,0,0,0,0,-2,1,0,0,0,0,0,0.0,0.0,0.3,2.0,True,2022-05-15T11:00:00Z,0
+Dejan Kulusevski,MID,Spurs,Sheffield Utd,67,2,0,0,1,52,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,16

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ibrahima Konaté,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T11:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-12T15:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Everton,90,0,0,0,1,25,0,0,0,0,0,0,2.6,25.4,0.8,0.0,True,2021-09-18T14:00:00Z,6
+Ibrahima Konaté,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T15:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T11:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Man Utd,90,0,0,0,1,31,0,0,0,0,0,0,2.4,20.6,3.5,0.0,False,2021-10-24T15:30:00Z,6
+Ibrahima Konaté,DEF,Liverpool,Burnley,90,0,0,2,0,15,0,0,0,0,0,0,2.3,18.0,1.0,4.0,True,2021-10-30T14:00:00Z,1
+Ibrahima Konaté,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T17:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Southampton,90,0,0,0,1,26,0,0,0,0,0,0,2.3,22.2,0.3,0.0,True,2021-11-27T15:00:00Z,6
+Ibrahima Konaté,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Newcastle,90,0,0,1,0,17,0,0,0,0,0,0,2.0,13.6,2.7,4.0,True,2021-12-16T20:00:00Z,2
+Ibrahima Konaté,DEF,Liverpool,Spurs,90,0,0,2,0,14,1,0,0,0,0,0,2.2,20.4,1.7,0.0,False,2021-12-19T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T20:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Crystal Palace,90,0,0,2,0,7,1,0,0,0,0,0,2.6,18.8,3.4,4.0,False,2022-01-02T16:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-16T14:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-10T19:45:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-13T14:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:45:00Z,0
+Ibrahima Konaté,DEF,Liverpool,West Ham,90,0,0,0,1,26,0,0,0,0,0,0,2.0,18.6,1.3,0.0,True,2022-03-05T17:30:00Z,6
+Ibrahima Konaté,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T12:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T20:15:00Z,0
+Ibrahima Konaté,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T11:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T15:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-19T19:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T15:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T11:30:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Spurs,90,0,0,1,0,14,0,0,0,0,0,0,2.2,14.6,3.7,4.0,True,2022-05-07T18:45:00Z,2
+Ibrahima Konaté,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Ibrahima Konaté,DEF,Liverpool,Southampton,90,0,0,1,0,18,0,0,0,0,0,0,3.1,25.2,1.3,4.0,False,2022-05-17T18:45:00Z,2
+Ibrahima Konaté,DEF,Liverpool,Wolves,90,0,0,1,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

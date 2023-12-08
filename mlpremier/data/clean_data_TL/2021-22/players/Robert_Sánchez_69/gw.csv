@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Robert Sánchez,GK,Brighton,Chelsea,90,0,0,1,0,19,0,0,0,2,0,0,3.0,20.0,10.0,0.0,False,2021-08-14T14:00:00Z,2
+Robert Sánchez,GK,Brighton,West Brom,90,0,0,0,1,23,0,0,0,1,0,0,1.2,12.4,0.0,0.0,True,2021-08-21T16:30:00Z,6
+Robert Sánchez,GK,Brighton,Fulham,90,0,0,2,0,17,0,0,0,3,0,0,2.2,22.4,0.0,0.0,True,2021-08-28T14:00:00Z,2
+Robert Sánchez,GK,Brighton,Brighton,90,0,0,0,1,23,0,0,0,1,0,0,1.2,11.6,0.0,0.0,False,2021-09-11T14:00:00Z,6
+Robert Sánchez,GK,Brighton,Leicester,90,0,0,1,0,8,1,0,0,2,0,0,1.1,11.0,0.0,0.0,True,2021-09-19T13:00:00Z,1
+Robert Sánchez,GK,Brighton,Everton,90,0,0,1,0,19,1,0,0,2,0,0,3.0,20.0,10.0,0.0,False,2021-09-27T19:00:00Z,2
+Robert Sánchez,GK,Brighton,Arsenal,90,0,0,0,1,25,0,0,0,2,0,0,2.1,21.0,0.0,0.0,True,2021-10-02T16:30:00Z,6
+Robert Sánchez,GK,Brighton,Sheffield Utd,90,0,0,0,1,25,0,0,0,2,0,0,1.5,14.8,0.0,0.0,False,2021-10-16T14:00:00Z,6
+Robert Sánchez,GK,Brighton,Man City,90,0,0,4,0,33,0,0,0,8,0,0,5.9,59.2,0.0,0.0,True,2021-10-23T16:30:00Z,4
+Robert Sánchez,GK,Brighton,Liverpool,90,0,0,2,0,11,0,0,0,1,0,0,1.2,11.6,0.0,0.0,False,2021-10-30T14:00:00Z,1
+Robert Sánchez,GK,Brighton,Newcastle,90,0,0,1,0,1,0,1,0,1,0,0,0.9,0.0,10.0,0.0,True,2021-11-06T17:30:00Z,-1
+Robert Sánchez,GK,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Robert Sánchez,GK,Brighton,Leeds,90,0,0,0,1,29,0,0,0,4,0,0,3.3,33.2,0.0,0.0,True,2021-11-27T17:30:00Z,8
+Robert Sánchez,GK,Brighton,West Ham,90,0,0,1,0,23,0,0,0,4,0,0,2.9,29.2,0.0,0.0,False,2021-12-01T19:30:00Z,4
+Robert Sánchez,GK,Brighton,Southampton,90,0,0,1,0,14,0,0,0,3,0,0,2.7,27.0,0.0,0.0,False,2021-12-04T15:00:00Z,3
+Robert Sánchez,GK,Brighton,Wolves,90,0,0,1,0,17,0,0,0,4,0,0,3.2,31.8,0.0,0.0,True,2021-12-15T19:30:00Z,3
+Robert Sánchez,GK,Brighton,Brighton,90,0,0,0,1,31,0,0,0,5,0,0,3.5,35.2,0.0,0.0,True,2021-12-26T20:00:00Z,9
+Robert Sánchez,GK,Brighton,Crystal Palace,90,0,0,1,0,21,0,0,0,4,0,0,3.8,37.6,0.0,0.0,False,2021-12-29T19:30:00Z,3
+Robert Sánchez,GK,Brighton,Fulham,90,0,0,2,0,15,0,0,0,4,0,0,3.1,31.0,0.0,0.0,False,2022-01-02T14:00:00Z,2
+Robert Sánchez,GK,Brighton,Everton,90,0,0,1,0,8,0,0,0,1,0,0,0.7,7.4,0.0,0.0,True,2022-01-14T20:00:00Z,2
+Robert Sánchez,GK,Brighton,Crystal Palace,90,0,0,1,0,12,0,0,0,2,0,0,2.0,20.0,0.0,0.0,True,2022-01-18T20:00:00Z,2
+Robert Sánchez,GK,Brighton,Leicester,90,0,0,1,0,23,0,0,0,4,0,0,3.7,36.6,0.0,0.0,False,2022-01-23T14:00:00Z,4
+Robert Sánchez,GK,Brighton,West Brom,90,0,0,0,1,23,0,0,0,1,0,0,1.2,12.2,0.0,0.0,False,2022-02-12T15:00:00Z,6
+Robert Sánchez,GK,Brighton,Man Utd,90,0,0,2,0,19,0,0,0,5,0,0,3.8,37.8,0.0,0.0,False,2022-02-15T20:15:00Z,2
+Robert Sánchez,GK,Brighton,Chelsea,90,0,0,3,0,12,0,0,0,1,0,0,1.3,13.2,0.0,0.0,True,2022-02-19T15:00:00Z,1
+Robert Sánchez,GK,Brighton,Aston Villa,90,0,0,2,0,15,0,0,0,2,0,0,1.9,19.0,0.0,0.0,True,2022-02-26T15:30:00Z,1
+Robert Sánchez,GK,Brighton,Newcastle,90,0,0,2,0,13,0,0,0,2,0,0,2.0,19.6,0.0,0.0,False,2022-03-05T15:00:00Z,1
+Robert Sánchez,GK,Brighton,Liverpool,90,0,0,2,0,23,0,0,0,7,0,0,5.2,52.4,0.0,0.0,True,2022-03-12T12:30:00Z,3
+Robert Sánchez,GK,Brighton,Spurs,90,0,0,2,0,17,0,0,0,5,0,0,3.3,32.8,0.0,0.0,True,2022-03-16T19:30:00Z,2
+Robert Sánchez,GK,Brighton,Sheffield Utd,90,0,0,0,1,20,0,0,0,0,0,0,0.3,2.6,0.0,0.0,True,2022-04-02T14:00:00Z,6
+Robert Sánchez,GK,Brighton,Arsenal,90,0,0,1,0,11,1,0,0,3,0,0,2.0,20.2,0.0,0.0,False,2022-04-09T14:00:00Z,2
+Robert Sánchez,GK,Brighton,Spurs,90,0,0,0,1,22,0,0,0,0,0,0,0.2,2.4,0.0,0.0,False,2022-04-16T11:30:00Z,6
+Robert Sánchez,GK,Brighton,Man City,90,0,0,3,0,12,0,0,0,2,0,0,1.6,16.0,0.0,0.0,False,2022-04-20T19:00:00Z,1
+Robert Sánchez,GK,Brighton,Southampton,90,0,0,2,0,15,0,0,0,3,0,0,2.3,22.6,0.0,0.0,True,2022-04-24T13:00:00Z,2
+Robert Sánchez,GK,Brighton,Wolves,90,0,0,0,1,22,0,0,0,1,0,0,1.1,11.0,0.0,0.0,False,2022-04-30T14:00:00Z,6
+Robert Sánchez,GK,Brighton,Man Utd,90,0,0,0,1,31,0,0,0,5,0,0,3.4,34.2,0.0,0.0,True,2022-05-07T16:30:00Z,7
+Robert Sánchez,GK,Brighton,Leeds,90,0,0,1,0,16,0,0,0,3,0,0,1.6,15.6,0.0,0.0,False,2022-05-15T13:00:00Z,3
+Robert Sánchez,GK,Brighton,West Ham,90,0,0,1,0,11,0,0,0,1,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

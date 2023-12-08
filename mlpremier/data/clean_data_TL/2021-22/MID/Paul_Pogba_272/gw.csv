@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Paul Pogba,MID,Man Utd,Leeds,74,0,4,1,0,46,0,0,0,0,0,0,15.0,74.8,60.0,15.0,True,2021-08-14T11:30:00Z,16
+Paul Pogba,MID,Man Utd,Southampton,90,0,1,1,0,13,1,0,0,0,0,0,11.1,21.6,19.4,70.0,False,2021-08-22T13:00:00Z,4
+Paul Pogba,MID,Man Utd,Wolves,90,0,0,0,1,8,1,0,0,0,0,0,4.9,12.2,19.4,17.0,False,2021-08-29T15:30:00Z,2
+Paul Pogba,MID,Man Utd,Newcastle,90,0,2,1,0,36,1,0,0,0,0,0,9.4,49.4,42.8,2.0,True,2021-09-11T14:00:00Z,9
+Paul Pogba,MID,Man Utd,West Ham,72,0,0,1,0,17,0,0,0,0,0,0,5.4,16.0,25.3,13.0,False,2021-09-19T13:00:00Z,2
+Paul Pogba,MID,Man Utd,Aston Villa,90,0,0,1,0,4,0,0,0,0,0,0,7.8,5.4,16.8,56.0,True,2021-09-25T11:30:00Z,2
+Paul Pogba,MID,Man Utd,Fulham,20,0,0,0,0,-2,0,0,0,0,0,0,2.3,2.2,11.8,9.0,True,2021-10-02T11:30:00Z,1
+Paul Pogba,MID,Man Utd,Leicester,90,0,0,4,0,3,1,0,0,0,0,0,3.3,2.2,18.2,13.0,False,2021-10-16T14:00:00Z,1
+Paul Pogba,MID,Man Utd,Liverpool,15,0,0,1,0,-7,0,1,0,0,0,0,0.0,0.0,0.8,0.0,True,2021-10-24T15:30:00Z,-2
+Paul Pogba,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T16:30:00Z,0
+Paul Pogba,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T12:30:00Z,0
+Paul Pogba,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Paul Pogba,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T16:30:00Z,0
+Paul Pogba,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T20:15:00Z,0
+Paul Pogba,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T14:00:00Z,0
+Paul Pogba,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T17:30:00Z,0
+Paul Pogba,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-27T20:00:00Z,0
+Paul Pogba,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-30T20:15:00Z,0
+Paul Pogba,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-03T17:30:00Z,0
+Paul Pogba,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T17:30:00Z,0
+Paul Pogba,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T20:00:00Z,0
+Paul Pogba,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Paul Pogba,MID,Man Utd,Chelsea,90,1,0,1,0,26,0,0,0,0,0,0,8.5,37.4,17.0,31.0,False,2022-02-08T20:00:00Z,9
+Paul Pogba,MID,Man Utd,Southampton,90,0,0,1,0,13,1,0,0,0,0,0,5.3,18.6,13.2,21.0,True,2022-02-12T12:30:00Z,1
+Paul Pogba,MID,Man Utd,Burnley,17,0,1,0,0,18,0,0,0,0,0,0,4.2,21.4,12.7,8.0,True,2022-02-15T20:15:00Z,4
+Paul Pogba,MID,Man Utd,Leeds,66,0,0,2,0,13,0,0,0,0,0,0,5.0,13.2,25.2,12.0,False,2022-02-20T14:00:00Z,2
+Paul Pogba,MID,Man Utd,West Brom,90,0,0,0,1,19,0,0,0,0,0,0,7.5,12.4,38.3,24.0,True,2022-02-26T15:00:00Z,3
+Paul Pogba,MID,Man Utd,Man City,63,0,1,2,0,13,0,0,0,0,0,0,3.2,14.8,15.3,2.0,False,2022-03-06T16:30:00Z,5
+Paul Pogba,MID,Man Utd,Spurs,90,0,0,2,0,-2,1,0,0,0,0,0,0.9,0.6,4.9,3.0,True,2022-03-12T17:30:00Z,1
+Paul Pogba,MID,Man Utd,Leicester,74,0,0,1,0,7,0,0,0,0,0,0,3.0,5.6,5.8,19.0,True,2022-04-02T16:30:00Z,2
+Paul Pogba,MID,Man Utd,Fulham,54,0,0,0,0,6,1,0,0,0,0,0,2.1,9.8,4.4,7.0,False,2022-04-09T11:30:00Z,0
+Paul Pogba,MID,Man Utd,Sheffield Utd,73,0,0,2,0,20,0,0,0,0,0,0,2.5,15.0,3.7,6.0,True,2022-04-16T14:00:00Z,2
+Paul Pogba,MID,Man Utd,Liverpool,9,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,2022-04-19T19:00:00Z,1
+Paul Pogba,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T11:30:00Z,0
+Paul Pogba,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-28T18:45:00Z,0
+Paul Pogba,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-02T19:00:00Z,0
+Paul Pogba,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T16:30:00Z,0
+Paul Pogba,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Pontus Jansson,DEF,Brentford,Arsenal,90,0,0,0,1,22,0,0,0,0,0,0,1.1,10.8,0.0,0.0,True,2021-08-13T19:00:00Z,6
+Pontus Jansson,DEF,Brentford,Everton,90,0,0,0,1,30,0,0,0,0,0,0,2.7,14.2,10.3,2.0,False,2021-08-21T14:00:00Z,9
+Pontus Jansson,DEF,Brentford,Aston Villa,90,0,1,1,0,28,0,0,0,0,0,0,4.1,28.4,10.3,2.0,False,2021-08-28T14:00:00Z,7
+Pontus Jansson,DEF,Brentford,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,2.0,17.2,0.3,2.0,True,2021-09-11T14:00:00Z,2
+Pontus Jansson,DEF,Brentford,Wolves,81,0,0,0,1,22,1,0,0,0,0,0,1.5,14.8,0.1,0.0,False,2021-09-18T11:30:00Z,5
+Pontus Jansson,DEF,Brentford,Liverpool,90,0,1,3,0,16,0,0,0,0,0,0,2.3,12.4,3.1,7.0,True,2021-09-25T16:30:00Z,4
+Pontus Jansson,DEF,Brentford,West Ham,90,0,1,1,0,17,0,0,0,0,0,0,3.1,11.8,0.3,19.0,False,2021-10-03T13:00:00Z,5
+Pontus Jansson,DEF,Brentford,Crystal Palace,90,0,0,1,0,11,0,0,0,0,0,0,6.0,14.6,2.2,43.0,True,2021-10-16T16:30:00Z,2
+Pontus Jansson,DEF,Brentford,Leicester,90,0,0,2,0,6,0,0,0,0,0,0,1.8,8.4,0.3,9.0,True,2021-10-24T13:00:00Z,1
+Pontus Jansson,DEF,Brentford,Chelsea,90,0,0,3,0,15,0,0,0,0,0,0,1.7,15.2,0.1,2.0,False,2021-10-30T14:00:00Z,1
+Pontus Jansson,DEF,Brentford,Sheffield Utd,90,0,0,2,0,13,0,0,0,0,0,0,6.0,19.4,1.6,39.0,True,2021-11-06T15:00:00Z,1
+Pontus Jansson,DEF,Brentford,Newcastle,90,0,0,3,0,11,0,0,0,0,0,0,2.2,22.2,0.0,0.0,False,2021-11-20T15:00:00Z,1
+Pontus Jansson,DEF,Brentford,Fulham,90,0,0,0,1,22,1,0,0,0,0,0,0.9,7.2,0.0,2.0,True,2021-11-28T14:00:00Z,5
+Pontus Jansson,DEF,Brentford,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,4.0,16.8,10.8,12.0,False,2021-12-02T19:30:00Z,1
+Pontus Jansson,DEF,Brentford,Leeds,90,0,0,2,0,17,0,0,0,0,0,0,3.3,32.8,0.1,0.0,False,2021-12-05T14:00:00Z,1
+Pontus Jansson,DEF,Brentford,West Brom,90,1,0,1,0,19,1,0,0,0,0,0,8.5,47.8,0.5,37.0,True,2021-12-10T20:00:00Z,8
+Pontus Jansson,DEF,Brentford,Burnley,90,0,0,2,0,18,0,0,0,0,0,0,6.7,31.6,0.2,35.0,False,2021-12-26T20:00:00Z,1
+Pontus Jansson,DEF,Brentford,Man City,90,0,0,1,0,12,0,0,0,0,0,0,1.4,14.0,0.0,0.0,True,2021-12-29T20:15:00Z,2
+Pontus Jansson,DEF,Brentford,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,2.2,15.6,0.3,6.0,True,2022-01-02T14:00:00Z,2
+Pontus Jansson,DEF,Brentford,Southampton,90,0,0,4,0,15,0,0,0,0,0,0,1.6,15.2,0.3,0.0,False,2022-01-11T19:45:00Z,0
+Pontus Jansson,DEF,Brentford,Liverpool,90,0,0,3,0,14,0,0,0,0,0,0,2.1,20.4,0.2,0.0,False,2022-01-16T14:00:00Z,1
+Pontus Jansson,DEF,Brentford,Man Utd,90,0,0,3,0,13,0,0,0,0,0,0,2.3,19.8,0.9,2.0,True,2022-01-19T20:00:00Z,1
+Pontus Jansson,DEF,Brentford,Wolves,90,0,0,2,0,4,1,0,0,0,0,0,1.4,7.2,0.4,6.0,True,2022-01-22T15:00:00Z,0
+Pontus Jansson,DEF,Brentford,Man City,90,0,0,2,0,8,0,0,0,0,0,0,1.7,15.0,0.2,2.0,False,2022-02-09T19:45:00Z,1
+Pontus Jansson,DEF,Brentford,Everton,90,0,0,0,1,27,0,0,0,0,0,0,6.4,30.6,0.1,33.0,True,2022-02-12T15:00:00Z,7
+Pontus Jansson,DEF,Brentford,Arsenal,90,0,0,2,0,9,1,0,0,0,0,0,3.1,31.4,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Pontus Jansson,DEF,Brentford,Newcastle,90,0,0,2,0,10,0,0,0,0,0,0,1.6,11.6,0.8,4.0,True,2022-02-26T15:00:00Z,1
+Pontus Jansson,DEF,Brentford,Sheffield Utd,90,0,1,1,0,21,1,0,0,0,0,0,3.1,29.0,0.4,2.0,False,2022-03-05T15:00:00Z,4
+Pontus Jansson,DEF,Brentford,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,1.8,17.8,0.2,0.0,True,2022-03-12T15:00:00Z,7
+Pontus Jansson,DEF,Brentford,Leicester,90,0,0,2,0,10,0,0,0,0,0,0,11.4,26.4,10.5,77.0,False,2022-03-20T14:00:00Z,1
+Pontus Jansson,DEF,Brentford,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,2.1,20.4,0.3,0.0,False,2022-04-02T14:00:00Z,2
+Pontus Jansson,DEF,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Pontus Jansson,DEF,Brentford,West Brom,90,1,0,1,0,31,0,0,0,0,0,0,12.1,58.0,10.6,52.0,False,2022-04-16T14:00:00Z,10
+Pontus Jansson,DEF,Brentford,Spurs,90,0,0,0,1,22,1,0,0,0,0,0,5.5,30.4,0.5,24.0,True,2022-04-23T16:30:00Z,5
+Pontus Jansson,DEF,Brentford,Man Utd,90,0,0,3,0,10,0,0,0,0,0,0,1.1,8.8,0.3,2.0,False,2022-05-02T19:00:00Z,1
+Pontus Jansson,DEF,Brentford,Southampton,90,1,0,0,1,41,0,0,0,0,0,0,10.7,53.4,0.1,53.0,True,2022-05-07T14:00:00Z,15
+Pontus Jansson,DEF,Brentford,Fulham,90,0,0,2,0,13,0,0,0,0,0,0,1.9,15.8,0.8,2.0,False,2022-05-15T15:30:00Z,1
+Pontus Jansson,DEF,Brentford,Leeds,90,0,0,2,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

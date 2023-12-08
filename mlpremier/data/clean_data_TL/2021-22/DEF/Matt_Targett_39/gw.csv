@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Matt Targett,DEF,Aston Villa,West Brom,45,0,0,2,0,4,0,0,0,0,0,0,1.8,3.0,14.8,0.0,False,2021-08-14T14:00:00Z,0
+Matt Targett,DEF,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T14:00:00Z,0
+Matt Targett,DEF,Aston Villa,Brighton,90,0,0,1,0,9,0,0,0,0,0,0,1.7,15.2,2.2,0.0,True,2021-08-28T14:00:00Z,2
+Matt Targett,DEF,Aston Villa,Crystal Palace,90,0,0,3,0,3,1,0,0,0,0,0,1.6,3.8,12.1,0.0,False,2021-09-11T16:30:00Z,0
+Matt Targett,DEF,Aston Villa,Fulham,60,0,0,0,1,22,0,0,0,0,0,0,3.8,12.8,25.5,0.0,True,2021-09-18T16:30:00Z,6
+Matt Targett,DEF,Aston Villa,Man Utd,90,0,0,0,1,15,0,0,0,0,0,0,1.4,3.0,3.8,7.0,False,2021-09-25T11:30:00Z,6
+Matt Targett,DEF,Aston Villa,Spurs,90,0,1,2,0,19,0,0,1,0,0,0,8.2,28.6,28.9,24.0,False,2021-10-03T13:00:00Z,2
+Matt Targett,DEF,Aston Villa,Wolves,90,0,0,3,0,13,0,0,0,0,0,0,2.7,11.0,11.8,4.0,True,2021-10-16T14:00:00Z,1
+Matt Targett,DEF,Aston Villa,Arsenal,90,0,0,3,0,12,1,0,0,0,0,0,4.9,10.6,36.2,2.0,False,2021-10-22T19:00:00Z,0
+Matt Targett,DEF,Aston Villa,West Ham,90,0,0,4,0,13,0,0,0,0,0,0,5.4,23.0,31.0,0.0,True,2021-10-31T16:30:00Z,0
+Matt Targett,DEF,Aston Villa,Southampton,90,0,0,1,0,11,0,0,0,0,0,0,5.5,22.0,30.8,2.0,False,2021-11-05T20:00:00Z,2
+Matt Targett,DEF,Aston Villa,Burnley,90,0,0,0,1,26,0,0,0,0,0,0,8.3,30.4,48.3,4.0,True,2021-11-20T15:00:00Z,7
+Matt Targett,DEF,Aston Villa,Everton,90,1,0,1,0,23,0,0,0,0,0,0,7.2,51.4,3.3,17.0,False,2021-11-27T15:00:00Z,8
+Matt Targett,DEF,Aston Villa,Man City,66,0,0,2,0,7,0,0,0,0,0,0,1.6,14.6,0.9,0.0,True,2021-12-01T20:15:00Z,1
+Matt Targett,DEF,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T16:30:00Z,0
+Matt Targett,DEF,Aston Villa,Liverpool,90,0,0,1,0,7,0,0,0,0,0,0,2.2,21.6,0.8,0.0,False,2021-12-11T15:00:00Z,2
+Matt Targett,DEF,Aston Villa,Sheffield Utd,90,0,0,0,1,21,0,0,0,0,0,0,3.0,12.6,13.2,4.0,False,2021-12-14T19:45:00Z,6
+Matt Targett,DEF,Aston Villa,Crystal Palace,90,0,1,3,0,24,0,0,0,0,0,0,4.1,18.4,22.9,0.0,True,2021-12-26T17:30:00Z,4
+Matt Targett,DEF,Aston Villa,Brighton,90,0,0,2,0,16,0,0,0,0,0,0,7.0,20.8,28.3,21.0,False,2022-01-02T14:00:00Z,1
+Matt Targett,DEF,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T17:30:00Z,0
+Matt Targett,DEF,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T12:30:00Z,0
+Matt Targett,DEF,Aston Villa,Fulham,90,0,0,1,0,11,0,0,0,0,0,0,3.1,16.2,14.4,0.0,True,2022-02-08T19:45:00Z,2
+Matt Targett,DEF,Aston Villa,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Matt Targett,DEF,Aston Villa,West Ham,90,0,0,1,0,19,0,0,0,0,0,0,6.9,24.0,41.3,4.0,False,2022-02-19T12:30:00Z,2
+Matt Targett,DEF,Aston Villa,Brighton,90,0,0,0,1,33,0,0,0,0,0,0,12.0,27.4,57.0,36.0,False,2022-02-26T15:00:00Z,6
+Matt Targett,DEF,Aston Villa,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,4.4,11.8,14.3,18.0,True,2022-03-05T15:00:00Z,2
+Matt Targett,DEF,Aston Villa,Southampton,90,0,0,1,0,16,0,0,0,0,0,0,6.1,29.4,23.1,8.0,False,2022-03-10T19:30:00Z,2
+Matt Targett,DEF,Aston Villa,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,4.3,11.2,29.3,2.0,False,2022-03-13T14:00:00Z,2
+Matt Targett,DEF,Aston Villa,Fulham,90,0,0,1,0,11,0,0,0,0,0,0,2.9,12.0,16.9,0.0,False,2022-03-17T19:45:00Z,2
+Matt Targett,DEF,Aston Villa,Spurs,90,0,0,5,0,7,0,0,0,0,0,0,2.1,13.8,5.3,2.0,False,2022-04-03T15:30:00Z,0
+Matt Targett,DEF,Aston Villa,Wolves,90,0,0,0,1,19,0,0,0,0,0,0,2.8,11.0,9.4,8.0,True,2022-04-08T19:00:00Z,6
+Matt Targett,DEF,Aston Villa,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,7.1,25.0,29.4,17.0,True,2022-04-17T13:15:00Z,2
+Matt Targett,DEF,Aston Villa,Everton,90,0,0,0,1,33,0,0,0,0,0,0,4.0,18.0,19.6,2.0,True,2022-04-20T18:45:00Z,9
+Matt Targett,DEF,Aston Villa,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.0,12.6,5.4,2.0,False,2022-04-23T14:00:00Z,6
+Matt Targett,DEF,Aston Villa,Liverpool,90,0,0,1,0,17,0,0,0,0,0,0,2.6,25.0,1.3,0.0,True,2022-04-30T11:30:00Z,2
+Matt Targett,DEF,Aston Villa,Man City,90,0,0,5,0,8,1,0,0,0,0,0,2.4,9.6,14.8,0.0,False,2022-05-08T15:30:00Z,-1
+Matt Targett,DEF,Aston Villa,Arsenal,90,0,0,0,1,31,0,0,0,0,0,0,4.5,17.6,27.5,0.0,True,2022-05-16T19:00:00Z,8
+Matt Targett,DEF,Aston Villa,Chelsea,90,0,0,1,0,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,3

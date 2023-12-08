@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jacob Murphy,MID,Newcastle,West Ham,90,1,0,4,0,23,0,0,0,0,0,0,9.4,43.4,20.3,30.0,True,2021-08-15T13:00:00Z,7
+Jacob Murphy,MID,Newcastle,Aston Villa,90,0,0,2,0,2,1,0,0,0,0,0,0.9,7.4,1.2,0.0,False,2021-08-21T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Southampton,90,0,1,2,0,21,0,0,0,0,0,0,6.8,34.2,11.3,22.0,True,2021-08-28T14:00:00Z,5
+Jacob Murphy,MID,Newcastle,Man Utd,13,0,0,2,0,3,0,0,0,0,0,0,0.2,1.8,0.5,0.0,False,2021-09-11T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-17T19:00:00Z,1
+Jacob Murphy,MID,Newcastle,West Brom,11,0,0,0,0,1,0,0,0,0,0,0,1.5,5.2,0.3,9.0,False,2021-09-25T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Wolves,20,0,0,0,0,2,0,0,0,0,0,0,0.7,2.6,0.8,4.0,False,2021-10-02T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Spurs,13,0,1,0,0,15,0,0,0,0,0,0,1.4,4.4,1.6,8.0,True,2021-10-17T15:30:00Z,4
+Jacob Murphy,MID,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Jacob Murphy,MID,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Jacob Murphy,MID,Newcastle,Burnley,90,0,0,1,0,0,1,0,0,0,0,0,1.8,9.8,2.7,5.0,False,2021-11-06T17:30:00Z,1
+Jacob Murphy,MID,Newcastle,Brighton,90,0,0,3,0,12,0,0,0,0,0,0,5.5,21.8,30.0,3.0,True,2021-11-20T15:00:00Z,2
+Jacob Murphy,MID,Newcastle,Arsenal,23,0,0,0,0,4,0,0,0,0,0,0,2.2,6.8,11.4,4.0,False,2021-11-27T12:30:00Z,1
+Jacob Murphy,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-30T19:30:00Z,0
+Jacob Murphy,MID,Newcastle,Chelsea,1,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.0,4.0,True,2021-12-04T15:00:00Z,1
+Jacob Murphy,MID,Newcastle,Leicester,28,0,0,2,0,6,0,0,0,0,0,0,4.3,11.2,26.0,6.0,False,2021-12-12T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,1.8,12.2,0.9,5.0,False,2021-12-16T20:00:00Z,2
+Jacob Murphy,MID,Newcastle,Man City,90,0,0,4,0,10,0,0,0,0,0,0,1.5,13.2,0.7,1.0,True,2021-12-19T14:00:00Z,2
+Jacob Murphy,MID,Newcastle,Man Utd,45,0,0,1,0,4,0,0,0,0,0,0,2.5,3.0,12.7,9.0,True,2021-12-27T20:00:00Z,1
+Jacob Murphy,MID,Newcastle,West Brom,16,0,0,1,0,3,0,0,0,0,0,0,0.1,0.0,0.6,0.0,True,2022-01-15T15:00:00Z,1
+Jacob Murphy,MID,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Jacob Murphy,MID,Newcastle,Fulham,8,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.1,4.0,True,2022-02-08T19:45:00Z,1
+Jacob Murphy,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Jacob Murphy,MID,Newcastle,West Ham,90,0,0,1,0,10,0,0,0,0,0,0,8.7,8.4,23.1,55.0,False,2022-02-19T12:30:00Z,2
+Jacob Murphy,MID,Newcastle,Brighton,63,0,0,0,1,7,0,0,0,0,0,0,3.4,3.2,16.5,14.0,False,2022-02-26T15:00:00Z,3
+Jacob Murphy,MID,Newcastle,Burnley,63,0,1,1,0,12,0,0,0,0,0,0,4.5,12.8,11.3,21.0,True,2022-03-05T15:00:00Z,5
+Jacob Murphy,MID,Newcastle,Southampton,90,0,0,1,0,6,1,0,0,0,0,0,4.9,13.2,11.9,24.0,False,2022-03-10T19:30:00Z,1
+Jacob Murphy,MID,Newcastle,Crystal Palace,90,0,0,1,0,-1,1,0,0,0,0,0,0.8,0.0,0.6,8.0,False,2022-03-13T14:00:00Z,1
+Jacob Murphy,MID,Newcastle,Fulham,5,0,0,1,0,7,0,0,0,0,0,0,3.9,8.2,28.5,2.0,False,2022-03-17T19:45:00Z,1
+Jacob Murphy,MID,Newcastle,Spurs,31,0,0,2,0,1,0,0,0,0,0,0,1.5,4.6,10.7,0.0,False,2022-04-03T15:30:00Z,1
+Jacob Murphy,MID,Newcastle,Wolves,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-08T19:00:00Z,1
+Jacob Murphy,MID,Newcastle,Leicester,20,0,0,0,0,4,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,2022-04-17T13:15:00Z,1
+Jacob Murphy,MID,Newcastle,Everton,14,0,0,0,0,4,0,0,0,0,0,0,0.6,5.2,0.3,0.0,True,2022-04-20T18:45:00Z,1
+Jacob Murphy,MID,Newcastle,Sheffield Utd,73,0,1,0,1,17,0,0,0,0,0,0,7.7,20.2,42.5,14.0,False,2022-04-23T14:00:00Z,6
+Jacob Murphy,MID,Newcastle,Liverpool,5,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0.1,2.0,True,2022-04-30T11:30:00Z,1
+Jacob Murphy,MID,Newcastle,Man City,10,0,0,2,0,7,0,0,0,0,0,0,1.8,2.2,13.3,2.0,False,2022-05-08T15:30:00Z,1
+Jacob Murphy,MID,Newcastle,Arsenal,14,0,0,0,0,4,0,0,0,0,0,0,2.4,5.2,0.2,19.0,True,2022-05-16T19:00:00Z,1
+Jacob Murphy,MID,Newcastle,Chelsea,79,0,0,1,0,8,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

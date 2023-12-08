@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ismaila Sarr,MID,Watford,Aston Villa,90,1,0,2,0,30,0,0,0,0,0,0,13.9,48.4,46.1,44.0,True,2021-08-14T14:00:00Z,9
+Ismaila Sarr,MID,Watford,Burnley,90,0,0,2,0,10,0,0,0,0,0,0,4.4,8.2,28.8,7.0,False,2021-08-21T16:30:00Z,2
+Ismaila Sarr,MID,Watford,Spurs,90,0,0,1,0,5,0,0,0,0,0,0,11.7,16.8,26.1,74.0,False,2021-08-29T13:00:00Z,2
+Ismaila Sarr,MID,Watford,Wolves,90,0,0,2,0,3,0,0,0,0,0,0,2.5,1.2,13.3,10.0,True,2021-09-11T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Sheffield Utd,90,2,0,1,0,41,0,0,0,0,0,0,19.6,83.2,3.8,109.0,False,2021-09-18T14:00:00Z,15
+Ismaila Sarr,MID,Watford,Newcastle,90,1,0,1,0,23,0,0,0,0,0,0,8.8,39.4,1.0,48.0,True,2021-09-25T14:00:00Z,9
+Ismaila Sarr,MID,Watford,Leeds,90,0,0,1,0,0,1,0,0,0,0,0,1.5,1.8,1.5,12.0,False,2021-10-02T14:00:00Z,1
+Ismaila Sarr,MID,Watford,Liverpool,90,0,0,5,0,3,0,0,0,0,0,0,4.3,3.0,8.7,31.0,True,2021-10-16T11:30:00Z,2
+Ismaila Sarr,MID,Watford,Fulham,63,0,0,2,0,7,0,0,0,0,0,0,2.7,7.0,16.2,4.0,False,2021-10-23T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Southampton,90,0,0,1,0,3,0,0,0,0,0,0,3.3,5.2,5.0,23.0,True,2021-10-30T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Arsenal,90,0,0,1,0,1,0,0,0,0,0,0,0.7,2.2,4.9,0.0,False,2021-11-07T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Man Utd,67,1,0,1,0,20,0,0,0,0,1,0,10.8,38.8,11.5,58.0,True,2021-11-20T15:00:00Z,5
+Ismaila Sarr,MID,Watford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Ismaila Sarr,MID,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Ismaila Sarr,MID,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T17:30:00Z,0
+Ismaila Sarr,MID,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-10T20:00:00Z,0
+Ismaila Sarr,MID,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T15:00:00Z,0
+Ismaila Sarr,MID,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T15:00:00Z,0
+Ismaila Sarr,MID,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T15:00:00Z,0
+Ismaila Sarr,MID,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-21T20:00:00Z,0
+Ismaila Sarr,MID,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-05T18:00:00Z,0
+Ismaila Sarr,MID,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Ismaila Sarr,MID,Watford,Burnley,45,0,0,1,0,-1,0,0,0,0,0,0,4.1,1.6,1.2,38.0,True,2022-02-12T15:00:00Z,1
+Ismaila Sarr,MID,Watford,Aston Villa,90,0,1,0,1,27,1,0,0,0,0,0,7.9,25.6,46.8,7.0,False,2022-02-19T15:00:00Z,7
+Ismaila Sarr,MID,Watford,Everton,90,0,0,4,0,3,0,0,0,0,0,0,1.6,4.4,3.8,8.0,True,2022-02-23T19:30:00Z,2
+Ismaila Sarr,MID,Watford,Man Utd,90,0,0,0,1,9,0,0,0,0,0,0,5.0,7.8,22.7,19.0,False,2022-02-26T15:00:00Z,3
+Ismaila Sarr,MID,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-06T14:00:00Z,0
+Ismaila Sarr,MID,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Ismaila Sarr,MID,Watford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Ismaila Sarr,MID,Watford,Liverpool,90,0,0,2,0,3,0,0,0,0,0,0,1.8,4.0,11.3,3.0,False,2022-04-02T11:30:00Z,2
+Ismaila Sarr,MID,Watford,Leeds,90,0,0,3,0,-6,0,0,0,0,0,0,2.5,6.8,12.1,6.0,True,2022-04-09T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Brighton,90,0,1,2,0,14,0,0,0,0,0,0,6.3,20.6,13.2,29.0,True,2022-04-16T14:00:00Z,5
+Ismaila Sarr,MID,Watford,Man City,67,0,0,5,0,4,0,0,0,0,0,0,0.8,1.0,0.8,6.0,False,2022-04-23T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Chelsea,90,0,0,2,0,8,0,0,0,0,0,0,2.9,9.0,18.3,2.0,True,2022-04-30T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Everton,90,0,0,1,0,10,0,0,0,0,0,0,0.9,6.4,1.0,2.0,False,2022-05-07T14:00:00Z,2
+Ismaila Sarr,MID,Watford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:45:00Z,0
+Ismaila Sarr,MID,Watford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Ismaila Sarr,MID,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

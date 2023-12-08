@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Callum Wilson,FWD,Newcastle,West Ham,84,1,0,4,0,26,0,0,0,0,0,0,10.4,33.0,1.1,70.0,True,2021-08-15T13:00:00Z,6
+Callum Wilson,FWD,Newcastle,Aston Villa,90,0,0,2,0,-4,1,0,0,0,0,0,2.3,0.0,10.7,15.0,False,2021-08-21T14:00:00Z,1
+Callum Wilson,FWD,Newcastle,Southampton,68,1,0,0,1,30,0,0,0,0,0,0,7.5,36.2,1.3,37.0,True,2021-08-28T14:00:00Z,9
+Callum Wilson,FWD,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-17T19:00:00Z,0
+Callum Wilson,FWD,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,Spurs,76,1,0,3,0,32,0,0,0,0,0,0,9.3,43.0,24.5,25.0,True,2021-10-17T15:30:00Z,8
+Callum Wilson,FWD,Newcastle,Everton,90,1,0,1,0,17,1,0,0,0,0,0,5.9,29.0,1.6,28.0,False,2021-10-23T14:00:00Z,5
+Callum Wilson,FWD,Newcastle,Crystal Palace,90,0,0,3,0,-1,0,0,0,0,0,0,0.3,0.0,1.6,6.0,True,2021-10-30T14:00:00Z,2
+Callum Wilson,FWD,Newcastle,Burnley,90,0,0,1,0,-2,1,0,0,0,0,0,0.9,0.0,0.3,10.0,False,2021-11-06T17:30:00Z,1
+Callum Wilson,FWD,Newcastle,Brighton,90,0,0,3,0,-8,1,0,0,0,0,0,7.8,0.0,12.4,71.0,True,2021-11-20T15:00:00Z,1
+Callum Wilson,FWD,Newcastle,Arsenal,90,0,0,2,0,0,0,0,0,0,0,0,0.7,0.4,0.8,6.0,False,2021-11-27T12:30:00Z,2
+Callum Wilson,FWD,Newcastle,Sheffield Utd,90,1,0,1,0,37,0,0,0,0,0,0,10.3,49.2,32.3,21.0,True,2021-11-30T19:30:00Z,9
+Callum Wilson,FWD,Newcastle,Chelsea,90,1,0,0,1,36,0,0,0,0,0,0,11.6,45.4,14.0,57.0,True,2021-12-04T15:00:00Z,9
+Callum Wilson,FWD,Newcastle,Leicester,90,0,0,4,0,6,0,0,0,0,0,0,1.2,5.2,0.3,6.0,False,2021-12-12T14:00:00Z,2
+Callum Wilson,FWD,Newcastle,Liverpool,11,0,0,1,0,2,0,0,0,0,0,0,0.4,0.0,0.0,4.0,False,2021-12-16T20:00:00Z,1
+Callum Wilson,FWD,Newcastle,Man City,90,0,0,4,0,-3,0,0,0,0,0,0,3.5,4.0,3.8,27.0,True,2021-12-19T14:00:00Z,2
+Callum Wilson,FWD,Newcastle,Man Utd,45,0,0,0,0,-2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-27T20:00:00Z,1
+Callum Wilson,FWD,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Callum Wilson,FWD,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Callum Wilson,FWD,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T19:45:00Z,0
+Callum Wilson,FWD,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T12:30:00Z,0
+Callum Wilson,FWD,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Callum Wilson,FWD,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Callum Wilson,FWD,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Callum Wilson,FWD,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-17T19:45:00Z,0
+Callum Wilson,FWD,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T15:30:00Z,0
+Callum Wilson,FWD,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-08T19:00:00Z,0
+Callum Wilson,FWD,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-17T13:15:00Z,0
+Callum Wilson,FWD,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Callum Wilson,FWD,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Callum Wilson,FWD,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T11:30:00Z,0
+Callum Wilson,FWD,Newcastle,Man City,22,0,0,2,0,0,0,0,0,0,0,0,2.5,3.4,0.5,21.0,False,2022-05-08T15:30:00Z,1
+Callum Wilson,FWD,Newcastle,Arsenal,90,0,0,0,1,-4,0,0,0,0,0,0,3.6,0.0,10.8,30.0,True,2022-05-16T19:00:00Z,2
+Callum Wilson,FWD,Newcastle,Chelsea,90,2,0,1,0,58,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,13

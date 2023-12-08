@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Imrân Louza,MID,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Imrân Louza,MID,Watford,Burnley,45,0,0,2,0,5,0,0,0,0,0,0,2.1,7.8,11.3,2.0,False,2021-08-21T16:30:00Z,1
+Imrân Louza,MID,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T13:00:00Z,0
+Imrân Louza,MID,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Imrân Louza,MID,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Imrân Louza,MID,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Imrân Louza,MID,Watford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Imrân Louza,MID,Watford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T11:30:00Z,0
+Imrân Louza,MID,Watford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Imrân Louza,MID,Watford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Imrân Louza,MID,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Imrân Louza,MID,Watford,Man Utd,76,0,0,1,0,13,1,0,0,0,0,0,6.9,15.8,44.8,8.0,True,2021-11-20T15:00:00Z,1
+Imrân Louza,MID,Watford,Leicester,45,0,0,3,0,1,0,0,0,0,0,0,0.2,1.8,0.3,0.0,False,2021-11-28T14:00:00Z,1
+Imrân Louza,MID,Watford,Crystal Palace,72,0,0,2,0,7,1,0,0,0,0,0,3.0,6.0,13.6,10.0,True,2021-12-01T19:30:00Z,1
+Imrân Louza,MID,Watford,Man City,45,0,0,2,0,3,0,0,0,0,0,0,1.7,6.6,10.7,0.0,True,2021-12-04T17:30:00Z,1
+Imrân Louza,MID,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-10T20:00:00Z,0
+Imrân Louza,MID,Watford,West Ham,50,0,0,2,0,11,0,0,0,0,0,0,4.2,10.8,29.6,2.0,True,2021-12-28T15:00:00Z,1
+Imrân Louza,MID,Watford,Spurs,90,0,0,0,1,20,0,0,0,0,0,0,3.2,16.8,15.0,0.0,True,2022-01-01T15:00:00Z,3
+Imrân Louza,MID,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T15:00:00Z,0
+Imrân Louza,MID,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-21T20:00:00Z,0
+Imrân Louza,MID,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-05T18:00:00Z,0
+Imrân Louza,MID,Watford,West Ham,13,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.5,0.0,False,2022-02-08T19:45:00Z,1
+Imrân Louza,MID,Watford,Burnley,45,0,0,1,0,2,1,0,0,0,0,0,1.7,5.8,1.4,10.0,True,2022-02-12T15:00:00Z,0
+Imrân Louza,MID,Watford,Aston Villa,90,0,0,0,1,14,0,0,0,0,0,0,3.3,31.0,2.2,0.0,False,2022-02-19T15:00:00Z,3
+Imrân Louza,MID,Watford,Everton,90,0,0,4,0,13,0,0,0,0,0,0,0.6,4.8,1.3,0.0,True,2022-02-23T19:30:00Z,2
+Imrân Louza,MID,Watford,Man Utd,90,0,0,0,1,17,0,0,0,0,0,0,3.7,17.8,11.8,7.0,False,2022-02-26T15:00:00Z,3
+Imrân Louza,MID,Watford,Arsenal,63,0,0,3,0,12,0,0,0,0,0,0,1.8,6.4,2.3,9.0,True,2022-03-06T14:00:00Z,2
+Imrân Louza,MID,Watford,Wolves,90,0,0,4,0,7,1,0,0,0,0,0,3.4,7.8,16.2,10.0,False,2022-03-10T19:30:00Z,1
+Imrân Louza,MID,Watford,Southampton,90,0,0,1,0,13,0,0,0,0,0,0,4.6,15.0,11.8,19.0,False,2022-03-13T14:00:00Z,2
+Imrân Louza,MID,Watford,Liverpool,77,0,0,1,0,11,0,0,0,0,0,0,4.1,24.2,14.8,2.0,False,2022-04-02T11:30:00Z,2
+Imrân Louza,MID,Watford,Leeds,90,0,0,3,0,5,1,0,0,0,0,0,2.0,10.6,5.9,3.0,True,2022-04-09T14:00:00Z,1
+Imrân Louza,MID,Watford,Brighton,90,0,0,2,0,0,1,0,0,0,0,0,5.1,6.0,6.0,39.0,True,2022-04-16T14:00:00Z,1
+Imrân Louza,MID,Watford,Man City,74,0,0,5,0,7,0,0,0,0,0,0,2.8,14.2,13.9,0.0,False,2022-04-23T14:00:00Z,2
+Imrân Louza,MID,Watford,Chelsea,90,0,0,2,0,9,0,0,0,0,0,0,3.9,23.2,14.8,1.0,True,2022-04-30T14:00:00Z,2
+Imrân Louza,MID,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Imrân Louza,MID,Watford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:45:00Z,0
+Imrân Louza,MID,Watford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Imrân Louza,MID,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Fraser Forster,GK,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Fraser Forster,GK,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T13:00:00Z,0
+Fraser Forster,GK,Southampton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+Fraser Forster,GK,Southampton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Fraser Forster,GK,Southampton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Fraser Forster,GK,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-26T13:00:00Z,0
+Fraser Forster,GK,Southampton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Fraser Forster,GK,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Fraser Forster,GK,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T14:00:00Z,0
+Fraser Forster,GK,Southampton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Fraser Forster,GK,Southampton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-05T20:00:00Z,0
+Fraser Forster,GK,Southampton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Fraser Forster,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T15:00:00Z,0
+Fraser Forster,GK,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Fraser Forster,GK,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,0
+Fraser Forster,GK,Southampton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T15:00:00Z,0
+Fraser Forster,GK,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-15T19:30:00Z,0
+Fraser Forster,GK,Southampton,West Ham,90,0,0,2,0,13,0,0,0,2,0,0,1.8,18.0,0.0,0.0,False,2021-12-26T15:00:00Z,1
+Fraser Forster,GK,Southampton,Spurs,90,0,0,1,0,31,0,0,0,10,0,0,7.3,72.8,0.0,0.0,True,2021-12-28T15:00:00Z,8
+Fraser Forster,GK,Southampton,Brighton,90,0,0,1,0,13,0,0,0,3,0,0,2.3,22.8,0.0,0.0,True,2022-01-11T19:45:00Z,3
+Fraser Forster,GK,Southampton,Wolves,90,0,0,3,0,12,0,0,0,2,0,0,1.9,19.4,0.0,0.0,False,2022-01-15T15:00:00Z,1
+Fraser Forster,GK,Southampton,Man City,90,0,0,1,0,18,0,0,0,4,0,0,3.4,34.2,0.0,0.0,True,2022-01-22T17:30:00Z,3
+Fraser Forster,GK,Southampton,Spurs,90,0,0,2,0,10,1,0,0,2,0,0,1.3,13.2,0.0,0.0,False,2022-02-09T19:45:00Z,0
+Fraser Forster,GK,Southampton,Man Utd,90,0,0,1,0,20,0,0,0,6,0,0,5.2,51.6,0.0,0.0,False,2022-02-12T12:30:00Z,5
+Fraser Forster,GK,Southampton,Fulham,90,0,0,0,1,19,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,6
+Fraser Forster,GK,Southampton,Sheffield Utd,90,0,0,0,1,21,0,0,0,1,0,0,1.1,10.8,0.0,0.0,True,2022-02-25T20:00:00Z,6
+Fraser Forster,GK,Southampton,Aston Villa,90,0,0,4,0,19,0,0,0,5,0,0,3.7,36.6,0.0,0.0,False,2022-03-05T15:00:00Z,1
+Fraser Forster,GK,Southampton,Newcastle,90,0,0,2,0,11,0,0,0,1,0,0,0.8,7.6,0.0,0.0,True,2022-03-10T19:30:00Z,1
+Fraser Forster,GK,Southampton,West Brom,90,0,0,2,0,14,0,0,0,3,0,0,2.8,28.2,0.0,0.0,True,2022-03-13T14:00:00Z,2
+Fraser Forster,GK,Southampton,Leeds,90,0,0,1,0,11,0,0,0,2,0,0,1.6,15.6,0.0,0.0,False,2022-04-02T14:00:00Z,2
+Fraser Forster,GK,Southampton,Crystal Palace,90,0,0,6,0,24,0,0,0,8,0,0,6.5,64.6,0.0,0.0,True,2022-04-09T14:00:00Z,1
+Fraser Forster,GK,Southampton,Arsenal,90,0,0,0,1,34,0,0,0,6,0,0,4.3,42.6,0.0,0.0,True,2022-04-16T14:00:00Z,10
+Fraser Forster,GK,Southampton,Chelsea,90,0,0,2,0,17,0,0,0,4,0,0,3.3,33.2,0.0,0.0,False,2022-04-21T18:45:00Z,2
+Fraser Forster,GK,Southampton,Burnley,90,0,0,2,0,15,0,0,0,4,0,0,3.4,33.6,0.0,0.0,False,2022-04-24T13:00:00Z,2
+Fraser Forster,GK,Southampton,Everton,90,0,0,2,0,15,0,0,0,3,0,0,3.1,30.8,0.0,0.0,True,2022-04-30T14:00:00Z,2
+Fraser Forster,GK,Southampton,Brighton,90,0,0,3,0,13,0,0,0,2,0,0,2.4,24.2,0.0,0.0,False,2022-05-07T14:00:00Z,1
+Fraser Forster,GK,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-17T18:45:00Z,0
+Fraser Forster,GK,Southampton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

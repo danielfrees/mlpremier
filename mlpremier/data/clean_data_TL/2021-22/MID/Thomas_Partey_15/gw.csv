@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Thomas Partey,MID,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-13T19:00:00Z,0
+Thomas Partey,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T15:30:00Z,0
+Thomas Partey,MID,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T11:30:00Z,0
+Thomas Partey,MID,Arsenal,Sheffield Utd,28,0,0,0,0,0,1,0,0,0,0,0,0.6,1.6,0.7,4.0,True,2021-09-11T14:00:00Z,0
+Thomas Partey,MID,Arsenal,Chelsea,74,0,0,0,1,14,0,0,0,0,0,0,4.8,12.6,15.3,20.0,False,2021-09-18T14:00:00Z,3
+Thomas Partey,MID,Arsenal,Spurs,90,0,0,1,0,8,0,0,0,0,0,0,5.1,20.4,22.6,8.0,True,2021-09-26T15:30:00Z,2
+Thomas Partey,MID,Arsenal,Burnley,90,0,0,0,1,9,1,0,0,0,0,0,2.3,3.8,15.7,3.0,False,2021-10-02T16:30:00Z,2
+Thomas Partey,MID,Arsenal,Everton,80,0,0,2,0,13,0,0,0,0,0,0,3.0,5.8,13.7,10.0,True,2021-10-18T19:00:00Z,2
+Thomas Partey,MID,Arsenal,Aston Villa,90,1,0,1,0,28,0,0,0,0,0,0,12.3,39.4,6.8,77.0,True,2021-10-22T19:00:00Z,8
+Thomas Partey,MID,Arsenal,Leicester,90,0,0,0,1,14,0,0,0,0,0,0,2.2,10.8,1.9,9.0,False,2021-10-30T11:30:00Z,3
+Thomas Partey,MID,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Thomas Partey,MID,Arsenal,Liverpool,83,0,0,4,0,17,0,0,0,0,0,0,2.5,16.2,2.0,7.0,False,2021-11-20T17:30:00Z,2
+Thomas Partey,MID,Arsenal,Newcastle,84,0,0,0,1,15,0,0,0,0,0,0,2.8,14.2,3.9,10.0,True,2021-11-27T12:30:00Z,3
+Thomas Partey,MID,Arsenal,Man Utd,90,0,0,3,0,14,0,0,0,0,0,0,2.2,9.0,5.1,8.0,False,2021-12-02T20:15:00Z,2
+Thomas Partey,MID,Arsenal,Fulham,90,0,0,2,0,7,0,0,0,0,0,0,2.0,12.4,6.3,1.0,False,2021-12-06T20:00:00Z,2
+Thomas Partey,MID,Arsenal,Southampton,90,0,0,0,1,13,0,0,0,0,0,0,3.9,11.6,25.9,1.0,True,2021-12-11T15:00:00Z,3
+Thomas Partey,MID,Arsenal,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,3.1,8.0,6.9,16.0,True,2021-12-15T20:00:00Z,3
+Thomas Partey,MID,Arsenal,Leeds,90,0,0,1,0,21,0,0,0,0,0,0,5.1,17.2,7.5,26.0,False,2021-12-18T17:30:00Z,2
+Thomas Partey,MID,Arsenal,Sheffield Utd,74,0,0,0,1,11,1,0,0,0,0,0,2.8,7.4,13.6,7.0,False,2021-12-26T15:00:00Z,2
+Thomas Partey,MID,Arsenal,Man City,90,0,0,2,0,13,0,0,0,0,0,0,3.6,21.8,12.1,2.0,True,2022-01-01T12:30:00Z,2
+Thomas Partey,MID,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Thomas Partey,MID,Arsenal,Wolves,90,0,0,0,1,10,1,0,0,0,0,0,5.3,16.8,1.7,34.0,False,2022-02-10T19:45:00Z,2
+Thomas Partey,MID,Arsenal,Brighton,90,0,1,1,0,25,0,0,0,0,0,0,10.6,29.4,26.9,50.0,True,2022-02-19T15:00:00Z,5
+Thomas Partey,MID,Arsenal,Wolves,90,0,0,1,0,19,0,0,0,0,0,0,5.5,11.2,37.8,6.0,True,2022-02-24T19:45:00Z,2
+Thomas Partey,MID,Arsenal,West Brom,90,0,0,2,0,13,0,0,0,0,0,0,3.1,13.2,15.6,2.0,False,2022-03-06T14:00:00Z,2
+Thomas Partey,MID,Arsenal,Leicester,90,1,1,0,1,40,0,0,0,0,0,0,12.7,47.2,11.7,68.0,True,2022-03-13T16:30:00Z,14
+Thomas Partey,MID,Arsenal,Liverpool,90,0,0,2,0,19,0,0,0,0,0,0,3.4,15.6,2.6,16.0,True,2022-03-16T20:15:00Z,2
+Thomas Partey,MID,Arsenal,Aston Villa,90,0,0,0,1,10,1,0,0,0,0,0,3.8,14.0,16.8,7.0,False,2022-03-19T12:30:00Z,2
+Thomas Partey,MID,Arsenal,Everton,74,0,0,3,0,5,1,0,0,0,0,0,0.3,0.0,2.4,2.0,False,2022-04-04T19:00:00Z,1
+Thomas Partey,MID,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T14:00:00Z,0
+Thomas Partey,MID,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Thomas Partey,MID,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T18:45:00Z,0
+Thomas Partey,MID,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T11:30:00Z,0
+Thomas Partey,MID,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T15:30:00Z,0
+Thomas Partey,MID,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Thomas Partey,MID,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-12T18:45:00Z,0
+Thomas Partey,MID,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-16T19:00:00Z,0
+Thomas Partey,MID,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

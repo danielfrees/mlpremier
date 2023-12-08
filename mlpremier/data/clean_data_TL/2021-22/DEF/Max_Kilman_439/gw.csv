@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Max Kilman,DEF,Wolves,Leicester,90,0,0,1,0,17,0,0,0,0,0,0,7.9,24.6,1.4,53.0,False,2021-08-14T14:00:00Z,2
+Max Kilman,DEF,Wolves,Spurs,90,0,0,1,0,18,0,0,0,0,0,0,4.1,28.6,11.9,0.0,True,2021-08-22T13:00:00Z,2
+Max Kilman,DEF,Wolves,Man Utd,90,0,0,1,0,15,0,0,0,0,0,0,1.0,9.2,0.7,0.0,True,2021-08-29T15:30:00Z,2
+Max Kilman,DEF,Wolves,West Brom,90,0,0,0,1,21,1,0,0,0,0,0,2.0,18.2,1.6,0.0,False,2021-09-11T14:00:00Z,5
+Max Kilman,DEF,Wolves,Brighton,90,0,0,2,0,10,0,0,0,0,0,0,1.7,4.0,12.8,0.0,True,2021-09-18T11:30:00Z,1
+Max Kilman,DEF,Wolves,Southampton,90,0,0,0,1,20,0,0,0,0,0,0,1.4,10.4,1.5,2.0,False,2021-09-26T13:00:00Z,6
+Max Kilman,DEF,Wolves,Newcastle,90,0,0,1,0,19,0,0,0,0,0,0,2.3,22.0,1.2,0.0,True,2021-10-02T14:00:00Z,2
+Max Kilman,DEF,Wolves,Aston Villa,90,0,0,2,0,6,0,0,0,0,0,0,2.8,10.4,1.4,16.0,False,2021-10-16T14:00:00Z,1
+Max Kilman,DEF,Wolves,Leeds,90,0,0,1,0,8,1,0,0,0,0,0,3.0,22.4,0.3,7.0,False,2021-10-23T14:00:00Z,1
+Max Kilman,DEF,Wolves,Fulham,90,1,0,1,0,28,0,0,0,0,0,0,7.3,55.2,1.0,17.0,True,2021-11-01T20:00:00Z,8
+Max Kilman,DEF,Wolves,Everton,90,0,0,2,0,12,0,0,0,0,0,0,1.8,17.0,0.6,0.0,False,2021-11-06T15:00:00Z,1
+Max Kilman,DEF,Wolves,West Ham,90,0,0,0,1,22,0,0,0,0,0,0,4.2,19.4,1.0,22.0,True,2021-11-20T15:00:00Z,6
+Max Kilman,DEF,Wolves,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,1.7,12.8,2.1,2.0,False,2021-11-27T15:00:00Z,6
+Max Kilman,DEF,Wolves,Chelsea,90,0,0,0,1,28,1,0,0,0,0,0,4.2,29.4,12.2,0.0,True,2021-12-01T19:30:00Z,6
+Max Kilman,DEF,Wolves,Liverpool,90,0,0,1,0,16,0,0,0,0,0,0,2.3,22.8,0.1,0.0,True,2021-12-04T15:00:00Z,2
+Max Kilman,DEF,Wolves,Man City,90,0,0,1,0,16,0,0,0,0,0,0,6.5,30.2,0.2,35.0,False,2021-12-11T12:30:00Z,2
+Max Kilman,DEF,Wolves,Burnley,90,0,0,0,1,23,0,0,0,0,0,0,1.9,18.6,0.3,0.0,False,2021-12-15T19:30:00Z,6
+Max Kilman,DEF,Wolves,Crystal Palace,90,0,0,0,1,26,0,0,0,0,0,0,1.0,8.0,1.6,0.0,True,2021-12-19T14:00:00Z,6
+Max Kilman,DEF,Wolves,Man Utd,90,0,0,0,1,26,0,0,0,0,0,0,1.6,15.2,1.0,0.0,False,2022-01-03T17:30:00Z,7
+Max Kilman,DEF,Wolves,Southampton,90,0,1,1,0,21,0,0,0,0,0,0,3.3,26.0,0.6,6.0,True,2022-01-15T15:00:00Z,5
+Max Kilman,DEF,Wolves,Brighton,90,0,0,1,0,13,0,0,0,0,0,0,2.7,22.4,1.0,4.0,False,2022-01-22T15:00:00Z,2
+Max Kilman,DEF,Wolves,Arsenal,90,0,0,1,0,14,0,0,0,0,0,0,2.8,24.8,3.4,0.0,True,2022-02-10T19:45:00Z,2
+Max Kilman,DEF,Wolves,Spurs,90,0,0,0,1,29,0,0,0,0,0,0,3.3,31.6,1.0,0.0,False,2022-02-13T14:00:00Z,7
+Max Kilman,DEF,Wolves,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,4.8,12.8,0.4,35.0,True,2022-02-20T16:30:00Z,2
+Max Kilman,DEF,Wolves,Arsenal,90,0,0,2,0,11,0,0,0,0,0,0,1.7,16.2,0.4,0.0,False,2022-02-24T19:45:00Z,1
+Max Kilman,DEF,Wolves,West Ham,90,0,0,1,0,15,0,0,0,0,0,0,1.7,10.8,2.4,4.0,False,2022-02-27T14:00:00Z,2
+Max Kilman,DEF,Wolves,Everton,78,0,0,2,0,5,0,0,0,0,0,0,0.7,1.6,1.4,4.0,True,2022-03-05T15:00:00Z,1
+Max Kilman,DEF,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Max Kilman,DEF,Wolves,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,2.1,18.4,2.5,0.0,False,2022-03-13T14:00:00Z,8
+Max Kilman,DEF,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-18T20:00:00Z,0
+Max Kilman,DEF,Wolves,Aston Villa,90,0,0,1,0,14,0,0,0,0,0,0,2.6,25.0,1.2,0.0,True,2022-04-02T14:00:00Z,2
+Max Kilman,DEF,Wolves,Newcastle,90,0,0,1,0,16,0,0,0,0,0,0,2.1,19.8,1.6,0.0,False,2022-04-08T19:00:00Z,2
+Max Kilman,DEF,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Max Kilman,DEF,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Max Kilman,DEF,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Max Kilman,DEF,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T19:15:00Z,0
+Max Kilman,DEF,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Max Kilman,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

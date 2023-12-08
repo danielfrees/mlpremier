@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Craig Dawson,DEF,West Ham,Newcastle,90,0,0,2,0,16,0,0,0,0,0,0,4.4,22.6,1.1,20.0,False,2021-08-15T13:00:00Z,1
+Craig Dawson,DEF,West Ham,Leicester,90,0,0,1,0,7,0,0,0,0,0,0,4.1,3.0,10.8,27.0,True,2021-08-23T19:00:00Z,2
+Craig Dawson,DEF,West Ham,Everton,90,0,0,2,0,17,0,0,0,0,0,0,6.3,26.6,0.8,36.0,True,2021-08-28T14:00:00Z,1
+Craig Dawson,DEF,West Ham,Southampton,90,0,0,0,1,26,0,0,0,0,0,0,4.8,29.0,1.6,17.0,False,2021-09-11T14:00:00Z,6
+Craig Dawson,DEF,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T13:00:00Z,0
+Craig Dawson,DEF,West Ham,Leeds,1,0,0,0,0,4,0,0,0,0,0,0,0.3,3.0,0.0,0.0,False,2021-09-25T14:00:00Z,1
+Craig Dawson,DEF,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Craig Dawson,DEF,West Ham,Fulham,11,0,0,0,0,5,0,0,0,0,0,0,0.5,2.6,0.1,2.0,False,2021-10-17T13:00:00Z,1
+Craig Dawson,DEF,West Ham,Spurs,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.2,0.0,True,2021-10-24T13:00:00Z,1
+Craig Dawson,DEF,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-31T16:30:00Z,0
+Craig Dawson,DEF,West Ham,Liverpool,68,0,0,2,0,13,0,0,0,0,0,0,5.5,30.8,0.3,24.0,True,2021-11-07T16:30:00Z,1
+Craig Dawson,DEF,West Ham,Wolves,90,0,0,1,0,10,0,0,0,0,0,0,1.9,11.6,1.3,6.0,False,2021-11-20T15:00:00Z,2
+Craig Dawson,DEF,West Ham,Man City,90,0,0,2,0,16,0,0,0,0,0,0,2.9,28.6,0.3,0.0,False,2021-11-28T14:00:00Z,1
+Craig Dawson,DEF,West Ham,Burnley,90,0,0,1,0,7,0,0,0,0,0,0,1.1,4.8,0.1,6.0,True,2021-12-01T19:30:00Z,2
+Craig Dawson,DEF,West Ham,Crystal Palace,90,0,0,2,0,14,0,0,0,0,0,0,4.7,28.0,0.3,19.0,True,2021-12-04T12:30:00Z,1
+Craig Dawson,DEF,West Ham,Chelsea,90,0,0,0,1,13,1,0,0,0,0,0,1.5,14.4,0.2,0.0,False,2021-12-12T14:00:00Z,5
+Craig Dawson,DEF,West Ham,Arsenal,90,0,0,2,0,10,0,0,0,0,0,0,3.3,30.0,1.7,1.0,False,2021-12-15T20:00:00Z,1
+Craig Dawson,DEF,West Ham,Southampton,90,0,1,3,0,25,0,0,0,0,0,0,9.6,35.0,22.5,38.0,True,2021-12-26T15:00:00Z,4
+Craig Dawson,DEF,West Ham,West Brom,90,0,0,1,0,4,1,0,0,0,0,0,1.8,17.8,0.3,0.0,False,2021-12-28T15:00:00Z,1
+Craig Dawson,DEF,West Ham,Everton,90,0,0,2,0,8,0,0,0,0,0,0,2.9,27.0,0.4,2.0,False,2022-01-01T17:30:00Z,1
+Craig Dawson,DEF,West Ham,Sheffield Utd,90,0,0,0,1,22,0,0,0,0,0,0,1.9,9.2,0.6,9.0,True,2022-01-12T19:45:00Z,6
+Craig Dawson,DEF,West Ham,Leeds,90,0,0,3,0,6,0,0,0,0,0,0,4.1,11.0,0.6,29.0,True,2022-01-16T14:00:00Z,1
+Craig Dawson,DEF,West Ham,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,1.4,14.0,0.3,0.0,False,2022-01-22T15:00:00Z,2
+Craig Dawson,DEF,West Ham,West Brom,90,0,0,0,1,26,0,0,0,0,0,0,1.5,12.2,0.3,2.0,True,2022-02-08T19:45:00Z,6
+Craig Dawson,DEF,West Ham,Leicester,90,1,0,2,0,23,0,0,0,0,0,0,8.0,44.4,0.6,35.0,False,2022-02-13T16:30:00Z,7
+Craig Dawson,DEF,West Ham,Newcastle,90,1,0,1,0,24,0,0,0,0,0,0,9.0,54.8,0.6,35.0,True,2022-02-19T12:30:00Z,9
+Craig Dawson,DEF,West Ham,Wolves,90,0,0,0,1,22,0,0,0,0,0,0,3.4,15.4,0.8,18.0,True,2022-02-27T14:00:00Z,6
+Craig Dawson,DEF,West Ham,Liverpool,90,0,0,1,0,9,1,0,0,0,0,0,3.5,35.0,0.3,0.0,False,2022-03-05T17:30:00Z,1
+Craig Dawson,DEF,West Ham,Aston Villa,90,0,0,1,0,13,0,0,0,0,0,0,1.5,7.8,0.5,7.0,True,2022-03-13T14:00:00Z,2
+Craig Dawson,DEF,West Ham,Spurs,90,0,1,3,0,24,1,0,0,0,0,0,5.4,39.4,10.3,4.0,False,2022-03-20T16:30:00Z,3
+Craig Dawson,DEF,West Ham,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,1.7,15.8,0.9,0.0,True,2022-04-03T13:00:00Z,2
+Craig Dawson,DEF,West Ham,Brighton,90,0,0,2,0,15,0,0,0,0,0,0,2.1,17.4,1.6,2.0,False,2022-04-10T13:00:00Z,1
+Craig Dawson,DEF,West Ham,Chelsea,90,0,0,1,0,11,0,0,0,0,0,0,1.5,11.6,1.1,2.0,True,2022-04-17T13:15:00Z,2
+Craig Dawson,DEF,West Ham,Crystal Palace,85,0,0,1,0,-1,0,1,0,0,0,0,3.9,36.4,0.1,2.0,False,2022-04-24T13:00:00Z,-1
+Craig Dawson,DEF,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T15:30:00Z,0
+Craig Dawson,DEF,West Ham,Sheffield Utd,66,0,1,0,1,34,0,0,0,0,0,0,5.9,20.6,0.3,38.0,False,2022-05-08T13:00:00Z,9
+Craig Dawson,DEF,West Ham,Man City,90,0,0,2,0,4,0,0,0,0,0,0,3.1,24.2,0.7,6.0,True,2022-05-15T13:00:00Z,1
+Craig Dawson,DEF,West Ham,Burnley,90,0,0,3,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1

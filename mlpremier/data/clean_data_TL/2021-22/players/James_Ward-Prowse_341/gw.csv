@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+James Ward-Prowse,MID,Southampton,Fulham,90,0,0,3,0,20,0,0,0,0,0,0,5.2,21.6,30.5,0.0,False,2021-08-14T14:00:00Z,2
+James Ward-Prowse,MID,Southampton,Man Utd,90,0,0,1,0,13,0,0,0,0,0,0,5.0,15.6,20.8,14.0,True,2021-08-22T13:00:00Z,2
+James Ward-Prowse,MID,Southampton,Newcastle,90,1,0,2,0,28,1,0,0,0,0,0,12.6,52.8,39.2,34.0,False,2021-08-28T14:00:00Z,8
+James Ward-Prowse,MID,Southampton,West Ham,90,0,0,0,1,8,0,0,0,0,0,0,2.4,5.4,18.3,0.0,True,2021-09-11T14:00:00Z,3
+James Ward-Prowse,MID,Southampton,Man City,90,0,0,0,1,13,0,0,0,0,0,0,2.6,13.6,12.2,0.0,False,2021-09-18T14:00:00Z,3
+James Ward-Prowse,MID,Southampton,Wolves,90,0,0,1,0,19,0,0,0,0,0,0,6.2,14.6,34.4,13.0,True,2021-09-26T13:00:00Z,2
+James Ward-Prowse,MID,Southampton,Crystal Palace,76,1,0,3,0,17,0,1,0,0,0,0,5.0,29.0,2.5,18.0,False,2021-10-02T14:00:00Z,4
+James Ward-Prowse,MID,Southampton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+James Ward-Prowse,MID,Southampton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T14:00:00Z,0
+James Ward-Prowse,MID,Southampton,West Brom,79,0,0,0,1,10,1,0,0,0,0,0,4.0,11.4,28.4,0.0,False,2021-10-30T14:00:00Z,2
+James Ward-Prowse,MID,Southampton,Aston Villa,90,0,0,0,1,22,0,0,0,0,0,0,10.6,30.8,66.3,9.0,True,2021-11-05T20:00:00Z,3
+James Ward-Prowse,MID,Southampton,Sheffield Utd,90,0,0,2,0,23,0,0,0,0,0,0,11.7,24.8,73.8,18.0,False,2021-11-20T15:00:00Z,2
+James Ward-Prowse,MID,Southampton,Liverpool,90,0,0,4,0,16,0,0,0,0,0,0,3.1,13.4,15.7,2.0,False,2021-11-27T15:00:00Z,2
+James Ward-Prowse,MID,Southampton,Leicester,90,0,0,2,0,21,0,0,0,0,0,0,7.0,22.8,41.3,6.0,True,2021-12-01T19:30:00Z,2
+James Ward-Prowse,MID,Southampton,Burnley,90,0,0,1,0,8,0,0,0,0,0,0,2.2,5.6,3.8,13.0,True,2021-12-04T15:00:00Z,2
+James Ward-Prowse,MID,Southampton,Arsenal,90,0,0,3,0,8,0,0,0,0,0,0,4.6,10.0,20.0,16.0,False,2021-12-11T15:00:00Z,2
+James Ward-Prowse,MID,Southampton,Everton,90,1,0,2,0,33,0,0,0,0,0,0,13.0,52.0,54.2,24.0,False,2021-12-15T19:30:00Z,9
+James Ward-Prowse,MID,Southampton,West Ham,90,1,1,2,0,36,0,0,0,0,0,0,10.3,59.4,26.2,17.0,False,2021-12-26T15:00:00Z,13
+James Ward-Prowse,MID,Southampton,Spurs,90,1,0,1,0,29,0,0,0,0,0,0,7.7,50.2,2.8,24.0,True,2021-12-28T15:00:00Z,9
+James Ward-Prowse,MID,Southampton,Brighton,90,0,1,1,0,29,0,0,0,0,0,0,7.5,35.0,31.8,8.0,True,2022-01-11T19:45:00Z,7
+James Ward-Prowse,MID,Southampton,Wolves,90,1,0,3,0,26,1,0,0,0,0,0,8.6,45.6,23.3,17.0,False,2022-01-15T15:00:00Z,6
+James Ward-Prowse,MID,Southampton,Man City,90,0,0,1,0,16,0,0,0,0,0,0,5.1,22.2,28.8,0.0,True,2022-01-22T17:30:00Z,2
+James Ward-Prowse,MID,Southampton,Spurs,90,0,2,2,0,39,0,0,0,0,0,0,15.5,67.6,72.6,15.0,False,2022-02-09T19:45:00Z,11
+James Ward-Prowse,MID,Southampton,Man Utd,90,0,0,1,0,17,0,0,0,0,0,0,4.3,11.6,13.2,18.0,False,2022-02-12T12:30:00Z,2
+James Ward-Prowse,MID,Southampton,Fulham,90,0,0,0,1,32,0,0,0,0,0,0,9.4,30.6,56.8,7.0,True,2022-02-19T15:00:00Z,4
+James Ward-Prowse,MID,Southampton,Sheffield Utd,90,0,0,0,1,21,0,0,0,0,0,0,9.3,24.4,66.5,2.0,True,2022-02-25T20:00:00Z,3
+James Ward-Prowse,MID,Southampton,Aston Villa,90,0,0,4,0,14,0,0,0,0,0,0,3.7,8.6,12.6,16.0,False,2022-03-05T15:00:00Z,2
+James Ward-Prowse,MID,Southampton,Newcastle,90,0,0,2,0,17,0,0,0,0,0,0,8.0,15.4,62.1,2.0,True,2022-03-10T19:30:00Z,2
+James Ward-Prowse,MID,Southampton,West Brom,90,0,0,2,0,22,0,0,0,0,0,0,8.9,16.0,71.6,1.0,True,2022-03-13T14:00:00Z,2
+James Ward-Prowse,MID,Southampton,Leeds,90,1,0,1,0,36,0,0,0,0,0,0,10.0,46.2,38.8,15.0,False,2022-04-02T14:00:00Z,10
+James Ward-Prowse,MID,Southampton,Crystal Palace,90,0,0,6,0,6,0,0,0,0,0,0,2.1,6.2,14.8,0.0,True,2022-04-09T14:00:00Z,2
+James Ward-Prowse,MID,Southampton,Arsenal,90,0,0,0,1,10,0,0,0,0,0,0,2.9,7.0,15.3,7.0,True,2022-04-16T14:00:00Z,3
+James Ward-Prowse,MID,Southampton,Chelsea,90,0,0,2,0,25,0,0,0,0,0,0,9.0,26.6,56.3,7.0,False,2022-04-21T18:45:00Z,2
+James Ward-Prowse,MID,Southampton,Burnley,90,2,0,2,0,50,0,0,0,0,0,0,15.6,81.4,37.3,37.0,False,2022-04-24T13:00:00Z,15
+James Ward-Prowse,MID,Southampton,Everton,90,0,1,2,0,24,0,0,0,0,0,0,4.5,23.0,20.8,1.0,True,2022-04-30T14:00:00Z,5
+James Ward-Prowse,MID,Southampton,Brighton,90,0,0,3,0,18,0,0,0,0,0,0,8.8,17.8,45.1,25.0,False,2022-05-07T14:00:00Z,2
+James Ward-Prowse,MID,Southampton,Liverpool,90,0,0,2,0,14,0,0,0,0,0,0,2.5,15.4,1.5,8.0,True,2022-05-17T18:45:00Z,2
+James Ward-Prowse,MID,Southampton,Leicester,90,1,0,4,0,29,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,7

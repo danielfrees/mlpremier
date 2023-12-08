@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Bamidele Alli,MID,Everton,Man City,90,0,0,0,1,6,0,0,0,0,0,0,1.5,12.4,2.2,0.0,True,2021-08-15T15:30:00Z,3
+Bamidele Alli,MID,Everton,Wolves,90,1,0,0,1,27,0,0,0,0,0,0,8.5,56.6,3.5,25.0,False,2021-08-22T13:00:00Z,9
+Bamidele Alli,MID,Everton,West Brom,90,0,0,0,1,5,1,0,0,0,0,0,3.3,8.2,3.3,21.0,True,2021-08-29T13:00:00Z,2
+Bamidele Alli,MID,Everton,Everton,90,0,0,3,0,9,0,0,0,0,0,0,1.4,11.8,1.7,0.0,False,2021-09-11T11:30:00Z,2
+Bamidele Alli,MID,Everton,Crystal Palace,90,0,0,3,0,11,0,0,0,0,0,0,2.7,19.2,3.8,4.0,True,2021-09-19T15:30:00Z,2
+Bamidele Alli,MID,Everton,Arsenal,45,0,0,3,0,1,0,0,0,0,0,0,0.5,1.4,1.5,2.0,False,2021-09-26T15:30:00Z,1
+Bamidele Alli,MID,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Bamidele Alli,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T15:30:00Z,0
+Bamidele Alli,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Bamidele Alli,MID,Everton,Man Utd,17,0,0,1,0,3,0,0,0,0,0,0,0.5,0.8,2.1,2.0,True,2021-10-30T16:30:00Z,1
+Bamidele Alli,MID,Everton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Bamidele Alli,MID,Everton,Leeds,2,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-21T16:30:00Z,1
+Bamidele Alli,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T19:30:00Z,0
+Bamidele Alli,MID,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T14:00:00Z,0
+Bamidele Alli,MID,Everton,Liverpool,80,0,0,2,0,4,0,0,0,0,0,0,4.9,13.6,13.9,21.0,True,2021-12-19T16:30:00Z,2
+Bamidele Alli,MID,Everton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Bamidele Alli,MID,Everton,Southampton,61,0,0,1,0,6,0,0,0,0,0,0,2.4,8.8,15.5,0.0,False,2021-12-28T15:00:00Z,2
+Bamidele Alli,MID,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T15:00:00Z,0
+Bamidele Alli,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T19:30:00Z,0
+Bamidele Alli,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T16:30:00Z,0
+Bamidele Alli,MID,Everton,Newcastle,65,0,0,3,0,8,0,0,0,0,0,0,6.5,18.4,22.5,24.0,False,2022-02-08T19:45:00Z,2
+Bamidele Alli,MID,Everton,Leeds,18,0,0,0,0,6,0,0,0,0,0,0,3.2,1.6,24.3,6.0,True,2022-02-12T15:00:00Z,1
+Bamidele Alli,MID,Everton,Southampton,15,0,0,1,0,3,0,0,0,0,0,0,1.4,2.4,3.9,8.0,False,2022-02-19T15:00:00Z,1
+Bamidele Alli,MID,Everton,Man City,19,0,0,1,0,1,1,0,0,0,0,0,2.1,7.4,13.6,0.0,True,2022-02-26T17:30:00Z,0
+Bamidele Alli,MID,Everton,Spurs,21,0,0,0,0,1,0,0,0,0,0,0,1.0,4.2,2.2,4.0,False,2022-03-07T20:00:00Z,1
+Bamidele Alli,MID,Everton,Wolves,31,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.6,0.0,True,2022-03-13T14:00:00Z,1
+Bamidele Alli,MID,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-17T19:45:00Z,0
+Bamidele Alli,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T13:00:00Z,0
+Bamidele Alli,MID,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-06T18:30:00Z,0
+Bamidele Alli,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T11:30:00Z,0
+Bamidele Alli,MID,Everton,Leicester,32,0,0,0,0,0,1,0,0,0,0,0,0.8,3.0,5.3,0.0,True,2022-04-20T18:45:00Z,0
+Bamidele Alli,MID,Everton,Liverpool,17,0,0,1,0,0,1,0,0,0,0,0,0.6,3.6,0.5,2.0,False,2022-04-24T15:30:00Z,0
+Bamidele Alli,MID,Everton,Crystal Palace,1,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.0,2.0,True,2022-05-01T13:00:00Z,1
+Bamidele Alli,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Bamidele Alli,MID,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Bamidele Alli,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T15:30:00Z,0
+Bamidele Alli,MID,Everton,Everton,45,0,0,0,0,1,0,0,0,0,0,0,2.1,5.0,11.6,4.0,True,2022-05-19T18:45:00Z,1
+Bamidele Alli,MID,Everton,Arsenal,66,0,0,4,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Sergi Canós,MID,Brentford,Arsenal,90,1,0,0,1,33,0,0,0,0,0,0,11.0,60.2,14.8,35.0,True,2021-08-13T19:00:00Z,11
+Sergi Canós,MID,Brentford,Everton,90,0,0,0,1,8,0,0,0,0,0,0,4.0,15.4,22.8,2.0,False,2021-08-21T14:00:00Z,3
+Sergi Canós,MID,Brentford,Aston Villa,90,0,0,1,0,10,0,0,0,0,0,0,3.6,8.4,1.2,26.0,False,2021-08-28T14:00:00Z,2
+Sergi Canós,MID,Brentford,Burnley,60,0,0,0,1,10,1,0,0,0,0,0,0.7,5.6,1.3,0.0,True,2021-09-11T14:00:00Z,2
+Sergi Canós,MID,Brentford,Wolves,67,0,0,0,1,10,0,0,0,0,0,0,1.9,7.6,7.8,4.0,False,2021-09-18T11:30:00Z,3
+Sergi Canós,MID,Brentford,Liverpool,90,0,0,3,0,12,0,0,0,0,0,0,1.9,13.2,4.1,2.0,True,2021-09-25T16:30:00Z,2
+Sergi Canós,MID,Brentford,West Ham,90,0,1,1,0,9,1,0,0,0,0,0,4.3,6.4,1.2,35.0,False,2021-10-03T13:00:00Z,4
+Sergi Canós,MID,Brentford,Crystal Palace,71,0,0,1,0,2,1,0,0,0,0,0,0.9,0.4,4.8,4.0,True,2021-10-16T16:30:00Z,1
+Sergi Canós,MID,Brentford,Leicester,90,0,0,2,0,8,0,0,0,0,0,0,5.1,12.6,36.5,2.0,True,2021-10-24T13:00:00Z,2
+Sergi Canós,MID,Brentford,Chelsea,76,0,0,3,0,11,0,0,0,0,0,0,4.5,10.6,16.8,18.0,False,2021-10-30T14:00:00Z,2
+Sergi Canós,MID,Brentford,Sheffield Utd,90,0,0,2,0,11,0,0,0,0,0,0,9.4,11.4,7.1,75.0,True,2021-11-06T15:00:00Z,2
+Sergi Canós,MID,Brentford,Newcastle,90,0,2,3,0,31,0,0,0,0,0,0,7.1,40.8,25.3,5.0,False,2021-11-20T15:00:00Z,10
+Sergi Canós,MID,Brentford,Fulham,86,0,0,0,1,2,1,0,0,0,0,0,0.8,3.4,1.0,4.0,True,2021-11-28T14:00:00Z,2
+Sergi Canós,MID,Brentford,Spurs,69,0,0,2,0,1,0,0,1,0,0,0,0.8,2.6,1.2,4.0,False,2021-12-02T19:30:00Z,0
+Sergi Canós,MID,Brentford,Leeds,71,1,0,1,0,17,1,0,0,0,0,0,12.4,43.0,11.9,69.0,False,2021-12-05T14:00:00Z,6
+Sergi Canós,MID,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-10T20:00:00Z,0
+Sergi Canós,MID,Brentford,Burnley,90,0,0,2,0,9,0,0,0,0,0,0,7.4,16.4,30.4,27.0,False,2021-12-26T20:00:00Z,2
+Sergi Canós,MID,Brentford,Man City,21,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-29T20:15:00Z,1
+Sergi Canós,MID,Brentford,Aston Villa,53,0,0,1,0,5,0,0,0,0,0,0,0.7,4.2,0.4,2.0,True,2022-01-02T14:00:00Z,1
+Sergi Canós,MID,Brentford,Southampton,75,0,0,4,0,5,0,0,0,0,0,0,0.7,3.6,1.2,2.0,False,2022-01-11T19:45:00Z,2
+Sergi Canós,MID,Brentford,Liverpool,41,0,0,2,0,4,0,0,0,0,0,0,2.6,5.0,1.3,20.0,False,2022-01-16T14:00:00Z,1
+Sergi Canós,MID,Brentford,Man Utd,63,0,0,2,0,5,0,0,0,0,0,0,0.7,6.4,0.8,0.0,True,2022-01-19T20:00:00Z,2
+Sergi Canós,MID,Brentford,Wolves,82,0,0,2,0,10,0,0,0,0,0,0,2.7,12.4,2.3,12.0,True,2022-01-22T15:00:00Z,2
+Sergi Canós,MID,Brentford,Man City,61,0,0,1,0,7,0,0,0,0,0,0,1.3,3.4,10.0,0.0,False,2022-02-09T19:45:00Z,2
+Sergi Canós,MID,Brentford,Everton,85,0,0,0,1,3,1,0,0,0,0,0,3.8,12.0,14.6,11.0,True,2022-02-12T15:00:00Z,2
+Sergi Canós,MID,Brentford,Arsenal,83,0,0,2,0,7,0,0,0,0,0,0,2.2,17.4,2.5,2.0,False,2022-02-19T15:00:00Z,2
+Sergi Canós,MID,Brentford,Newcastle,18,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,0.7,0.0,True,2022-02-26T15:00:00Z,1
+Sergi Canós,MID,Brentford,Sheffield Utd,81,0,0,0,1,4,0,0,0,0,0,0,5.1,12.6,12.5,26.0,False,2022-03-05T15:00:00Z,3
+Sergi Canós,MID,Brentford,Chelsea,74,0,0,0,1,13,0,0,0,0,0,0,9.3,16.4,48.1,28.0,True,2022-03-12T15:00:00Z,3
+Sergi Canós,MID,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-20T14:00:00Z,0
+Sergi Canós,MID,Brentford,Crystal Palace,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,2022-04-02T14:00:00Z,1
+Sergi Canós,MID,Brentford,West Ham,12,0,0,0,0,3,0,0,0,0,0,0,1.3,5.4,0.3,7.0,True,2022-04-10T13:00:00Z,1
+Sergi Canós,MID,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Sergi Canós,MID,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T16:30:00Z,0
+Sergi Canós,MID,Brentford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-02T19:00:00Z,0
+Sergi Canós,MID,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Sergi Canós,MID,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T15:30:00Z,0
+Sergi Canós,MID,Brentford,Leeds,16,1,0,1,0,10,0,1,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,3

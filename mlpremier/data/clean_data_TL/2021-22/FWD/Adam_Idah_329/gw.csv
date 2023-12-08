@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Adam Idah,FWD,Norwich,Liverpool,13,0,0,0,0,3,0,0,0,0,0,0,3.7,3.2,0.5,33.0,True,2021-08-14T16:30:00Z,1
+Adam Idah,FWD,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Adam Idah,FWD,Norwich,Leicester,11,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,0.8,4.0,True,2021-08-28T14:00:00Z,1
+Adam Idah,FWD,Norwich,Arsenal,10,0,0,0,0,5,0,0,0,0,0,0,1.9,5.0,14.0,0.0,False,2021-09-11T14:00:00Z,1
+Adam Idah,FWD,Norwich,West Brom,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,2021-09-18T14:00:00Z,1
+Adam Idah,FWD,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Adam Idah,FWD,Norwich,Chelsea,1,0,0,0,0,4,0,0,0,0,0,0,0.4,2.0,0.0,2.0,False,2021-10-02T14:00:00Z,1
+Adam Idah,FWD,Norwich,Burnley,1,0,0,0,0,4,0,0,0,0,0,0,0.2,1.2,0.5,0.0,True,2021-10-16T14:00:00Z,1
+Adam Idah,FWD,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T11:30:00Z,0
+Adam Idah,FWD,Norwich,Leeds,13,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,2021-10-31T14:00:00Z,1
+Adam Idah,FWD,Norwich,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.3,0.0,False,2021-11-06T15:00:00Z,1
+Adam Idah,FWD,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Adam Idah,FWD,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Adam Idah,FWD,Norwich,Newcastle,23,0,0,0,0,1,0,0,0,0,0,0,0.4,0.0,0.7,5.0,False,2021-11-30T19:30:00Z,1
+Adam Idah,FWD,Norwich,Spurs,68,0,0,2,0,-1,0,0,0,0,0,0,1.7,1.4,11.4,4.0,False,2021-12-05T14:00:00Z,2
+Adam Idah,FWD,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T17:30:00Z,0
+Adam Idah,FWD,Norwich,Aston Villa,29,0,0,1,0,3,0,0,0,0,0,0,3.6,12.2,5.0,19.0,True,2021-12-14T19:45:00Z,1
+Adam Idah,FWD,Norwich,Arsenal,18,0,0,2,0,4,0,0,0,0,0,0,0.7,6.4,0.8,0.0,True,2021-12-26T15:00:00Z,1
+Adam Idah,FWD,Norwich,Everton,90,0,0,3,0,7,0,0,0,0,0,0,3.6,12.2,13.8,10.0,False,2021-12-28T15:00:00Z,2
+Adam Idah,FWD,Norwich,West Ham,74,0,0,1,0,12,0,0,0,0,0,0,6.8,12.4,20.4,35.0,False,2022-01-12T19:45:00Z,2
+Adam Idah,FWD,Norwich,Fulham,90,1,0,1,0,32,0,0,0,0,0,0,9.1,44.8,2.8,43.0,True,2022-01-15T15:00:00Z,9
+Adam Idah,FWD,Norwich,West Brom,90,0,1,0,1,10,0,0,0,0,0,0,1.8,0.0,0.8,20.0,False,2022-01-21T20:00:00Z,5
+Adam Idah,FWD,Norwich,Everton,83,0,1,1,0,13,0,0,0,0,0,0,4.1,17.0,12.0,12.0,True,2022-02-09T19:45:00Z,5
+Adam Idah,FWD,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T17:30:00Z,0
+Adam Idah,FWD,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Adam Idah,FWD,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-25T20:00:00Z,0
+Adam Idah,FWD,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Adam Idah,FWD,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Adam Idah,FWD,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Adam Idah,FWD,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Adam Idah,FWD,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Adam Idah,FWD,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Adam Idah,FWD,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Adam Idah,FWD,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Adam Idah,FWD,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Adam Idah,FWD,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Adam Idah,FWD,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Adam Idah,FWD,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

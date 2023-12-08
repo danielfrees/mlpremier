@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Sam Greenwood,FWD,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T11:30:00Z,0
+Sam Greenwood,FWD,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T13:00:00Z,0
+Sam Greenwood,FWD,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-12T15:30:00Z,0
+Sam Greenwood,FWD,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-17T19:00:00Z,0
+Sam Greenwood,FWD,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-31T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-21T16:30:00Z,0
+Sam Greenwood,FWD,Leeds,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T17:30:00Z,0
+Sam Greenwood,FWD,Leeds,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-30T20:15:00Z,0
+Sam Greenwood,FWD,Leeds,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T15:00:00Z,0
+Sam Greenwood,FWD,Leeds,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-14T20:00:00Z,0
+Sam Greenwood,FWD,Leeds,Arsenal,12,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-12-18T17:30:00Z,1
+Sam Greenwood,FWD,Leeds,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-16T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Sam Greenwood,FWD,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-09T20:00:00Z,0
+Sam Greenwood,FWD,Leeds,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T15:00:00Z,0
+Sam Greenwood,FWD,Leeds,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-20T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-23T19:45:00Z,0
+Sam Greenwood,FWD,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T12:30:00Z,0
+Sam Greenwood,FWD,Leeds,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T12:30:00Z,0
+Sam Greenwood,FWD,Leeds,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:45:00Z,0
+Sam Greenwood,FWD,Leeds,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,Wolves,67,0,1,2,0,15,0,0,0,0,0,0,4.4,17.8,12.3,14.0,False,2022-03-18T20:00:00Z,5
+Sam Greenwood,FWD,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Sam Greenwood,FWD,Leeds,West Brom,23,0,1,0,0,21,0,0,0,0,0,0,4.9,27.2,20.1,2.0,False,2022-04-09T14:00:00Z,4
+Sam Greenwood,FWD,Leeds,Everton,31,0,0,0,0,5,0,0,0,0,0,0,1.6,4.2,11.8,0.0,False,2022-04-25T19:00:00Z,1
+Sam Greenwood,FWD,Leeds,Man City,7,0,0,1,0,3,0,0,0,0,0,0,2.0,2.0,0.0,18.0,True,2022-04-30T16:30:00Z,1
+Sam Greenwood,FWD,Leeds,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Sam Greenwood,FWD,Leeds,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:30:00Z,0
+Sam Greenwood,FWD,Leeds,Burnley,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.5,0.0,True,2022-05-15T13:00:00Z,1
+Sam Greenwood,FWD,Leeds,Brighton,84,0,0,1,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

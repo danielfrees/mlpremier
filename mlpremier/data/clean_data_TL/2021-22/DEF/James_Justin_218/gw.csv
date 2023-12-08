@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+James Justin,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+James Justin,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-23T19:00:00Z,0
+James Justin,DEF,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+James Justin,DEF,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+James Justin,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+James Justin,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+James Justin,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+James Justin,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+James Justin,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+James Justin,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T11:30:00Z,0
+James Justin,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+James Justin,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T12:30:00Z,0
+James Justin,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+James Justin,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+James Justin,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T16:30:00Z,0
+James Justin,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-12T14:00:00Z,0
+James Justin,DEF,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+James Justin,DEF,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T20:00:00Z,0
+James Justin,DEF,Leicester,Spurs,37,0,0,2,0,3,0,0,0,0,0,0,1.8,7.2,10.6,0.0,True,2022-01-19T19:30:00Z,0
+James Justin,DEF,Leicester,Burnley,90,0,0,1,0,14,0,0,0,0,0,0,5.7,27.2,23.6,6.0,True,2022-01-23T14:00:00Z,2
+James Justin,DEF,Leicester,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,1.9,15.8,1.4,2.0,False,2022-02-10T19:45:00Z,1
+James Justin,DEF,Leicester,West Ham,30,0,0,1,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,True,2022-02-13T16:30:00Z,1
+James Justin,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T16:30:00Z,0
+James Justin,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-01T19:45:00Z,0
+James Justin,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T12:30:00Z,0
+James Justin,DEF,Leicester,Arsenal,29,0,0,0,0,3,0,0,0,0,0,0,0.5,3.0,1.6,0.0,False,2022-03-13T16:30:00Z,1
+James Justin,DEF,Leicester,Brighton,90,0,0,1,0,19,0,0,0,0,0,0,7.8,19.0,14.1,45.0,True,2022-03-20T14:00:00Z,2
+James Justin,DEF,Leicester,Man Utd,90,0,0,1,0,12,0,0,0,0,0,0,2.8,11.6,12.3,4.0,False,2022-04-02T16:30:00Z,2
+James Justin,DEF,Leicester,Everton,90,0,0,1,0,12,0,0,0,0,0,0,5.6,24.8,12.8,18.0,True,2022-04-10T13:00:00Z,2
+James Justin,DEF,Leicester,Newcastle,90,0,0,2,0,12,0,0,0,0,0,0,4.5,17.4,7.4,20.0,False,2022-04-17T13:15:00Z,1
+James Justin,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T18:45:00Z,0
+James Justin,DEF,Leicester,Aston Villa,90,0,0,0,1,21,0,0,0,0,0,0,3.5,18.0,16.6,0.0,True,2022-04-23T14:00:00Z,6
+James Justin,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+James Justin,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+James Justin,DEF,Leicester,Sheffield Utd,90,0,0,0,1,32,0,0,0,0,0,0,4.3,15.6,25.3,2.0,True,2022-05-11T18:45:00Z,7
+James Justin,DEF,Leicester,West Brom,90,0,0,1,0,15,0,0,0,0,0,0,2.2,18.4,3.1,0.0,False,2022-05-15T13:00:00Z,2
+James Justin,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-19T19:00:00Z,0
+James Justin,DEF,Leicester,Southampton,90,0,0,1,0,11,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

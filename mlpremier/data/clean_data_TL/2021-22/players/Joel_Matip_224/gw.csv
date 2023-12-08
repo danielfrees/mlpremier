@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Joel Matip,DEF,Liverpool,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,3.3,7.0,3.8,22.0,False,2021-08-14T16:30:00Z,6
+Joel Matip,DEF,Liverpool,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,7.5,18.2,0.8,56.0,True,2021-08-21T11:30:00Z,6
+Joel Matip,DEF,Liverpool,Crystal Palace,90,0,0,1,0,8,0,0,0,0,0,0,3.8,16.2,3.6,18.0,True,2021-08-28T16:30:00Z,2
+Joel Matip,DEF,Liverpool,Leeds,90,0,0,0,1,27,0,0,0,0,0,0,4.5,11.6,13.4,20.0,False,2021-09-12T15:30:00Z,6
+Joel Matip,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Joel Matip,DEF,Liverpool,Brighton,90,0,0,3,0,12,0,0,0,0,0,0,2.9,21.4,1.2,6.0,False,2021-09-25T16:30:00Z,1
+Joel Matip,DEF,Liverpool,Man City,90,0,0,2,0,22,0,0,0,0,0,0,4.3,30.2,12.3,0.0,True,2021-10-03T15:30:00Z,1
+Joel Matip,DEF,Liverpool,West Brom,90,0,0,0,1,25,0,0,0,0,0,0,1.9,12.4,2.8,4.0,False,2021-10-16T11:30:00Z,6
+Joel Matip,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T15:30:00Z,0
+Joel Matip,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Joel Matip,DEF,Liverpool,West Ham,90,0,0,3,0,15,0,0,0,0,0,0,2.3,20.0,2.8,0.0,False,2021-11-07T16:30:00Z,1
+Joel Matip,DEF,Liverpool,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,1.2,9.4,0.6,2.0,True,2021-11-20T17:30:00Z,6
+Joel Matip,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Joel Matip,DEF,Liverpool,Fulham,90,0,0,1,0,13,0,0,0,0,0,0,3.0,21.6,0.5,8.0,False,2021-12-01T20:15:00Z,2
+Joel Matip,DEF,Liverpool,Wolves,90,0,0,0,1,27,0,0,0,0,0,0,2.9,18.2,3.2,8.0,False,2021-12-04T15:00:00Z,6
+Joel Matip,DEF,Liverpool,Aston Villa,90,0,0,0,1,26,0,0,0,0,0,0,6.0,19.2,11.8,29.0,True,2021-12-11T15:00:00Z,7
+Joel Matip,DEF,Liverpool,Newcastle,90,0,0,1,0,22,0,0,0,0,0,0,5.2,20.2,14.7,17.0,True,2021-12-16T20:00:00Z,2
+Joel Matip,DEF,Liverpool,Spurs,90,0,0,2,0,21,0,0,0,0,0,0,2.0,15.0,0.6,4.0,False,2021-12-19T16:30:00Z,2
+Joel Matip,DEF,Liverpool,Leicester,90,0,0,1,0,11,1,0,0,0,0,0,4.8,11.2,3.3,33.0,False,2021-12-28T20:00:00Z,1
+Joel Matip,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T16:30:00Z,0
+Joel Matip,DEF,Liverpool,Brighton,90,0,0,0,1,28,0,0,0,0,0,0,7.4,25.4,2.7,46.0,True,2022-01-16T14:00:00Z,6
+Joel Matip,DEF,Liverpool,Everton,90,0,0,1,0,12,0,0,0,0,0,0,2.6,10.0,11.8,4.0,False,2022-01-23T14:00:00Z,2
+Joel Matip,DEF,Liverpool,Leicester,90,0,1,0,1,47,0,0,0,0,0,0,8.2,39.4,22.6,20.0,True,2022-02-10T19:45:00Z,11
+Joel Matip,DEF,Liverpool,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,2.1,20.2,1.0,0.0,False,2022-02-13T14:00:00Z,6
+Joel Matip,DEF,Liverpool,Sheffield Utd,90,0,0,1,0,19,0,0,0,0,0,0,3.6,23.4,12.8,0.0,True,2022-02-19T15:00:00Z,2
+Joel Matip,DEF,Liverpool,Leeds,90,1,0,0,1,40,0,0,0,0,0,0,6.9,48.6,1.8,19.0,True,2022-02-23T19:45:00Z,12
+Joel Matip,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T17:30:00Z,0
+Joel Matip,DEF,Liverpool,Burnley,90,0,1,0,1,35,0,0,0,0,0,0,5.9,36.4,13.8,9.0,False,2022-03-12T12:30:00Z,12
+Joel Matip,DEF,Liverpool,Arsenal,90,0,0,0,1,26,0,0,0,0,0,0,4.2,22.4,1.6,18.0,False,2022-03-16T20:15:00Z,7
+Joel Matip,DEF,Liverpool,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,3.9,15.4,3.2,20.0,True,2022-04-02T11:30:00Z,7
+Joel Matip,DEF,Liverpool,Man City,90,0,0,2,0,17,0,0,0,0,0,0,2.1,18.8,1.9,0.0,False,2022-04-10T15:30:00Z,1
+Joel Matip,DEF,Liverpool,Man Utd,90,0,0,0,1,28,0,0,0,0,0,0,1.9,16.0,1.4,2.0,True,2022-04-19T19:00:00Z,6
+Joel Matip,DEF,Liverpool,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,8.3,33.2,6.0,44.0,True,2022-04-24T15:30:00Z,8
+Joel Matip,DEF,Liverpool,Newcastle,90,0,0,0,1,25,0,0,0,0,0,0,1.3,12.2,0.7,0.0,False,2022-04-30T11:30:00Z,6
+Joel Matip,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T18:45:00Z,0
+Joel Matip,DEF,Liverpool,Aston Villa,90,1,0,1,0,32,0,0,0,0,0,0,11.8,55.6,10.8,52.0,False,2022-05-10T19:00:00Z,11
+Joel Matip,DEF,Liverpool,Southampton,90,1,0,1,0,31,0,0,0,0,0,0,7.0,49.8,3.1,17.0,False,2022-05-17T18:45:00Z,11
+Joel Matip,DEF,Liverpool,Wolves,90,0,1,1,0,36,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,7

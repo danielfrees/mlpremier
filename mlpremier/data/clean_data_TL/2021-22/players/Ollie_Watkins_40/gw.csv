@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ollie Watkins,FWD,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Ollie Watkins,FWD,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T14:00:00Z,0
+Ollie Watkins,FWD,Aston Villa,Brighton,11,0,0,0,0,2,0,0,0,0,0,0,4.0,5.4,0.6,34.0,True,2021-08-28T14:00:00Z,1
+Ollie Watkins,FWD,Aston Villa,Crystal Palace,90,0,0,3,0,7,0,0,0,0,0,0,16.2,17.4,24.7,120.0,False,2021-09-11T16:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Fulham,90,0,0,0,1,4,0,0,0,0,0,0,2.5,1.4,13.5,10.0,True,2021-09-18T16:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Man Utd,90,0,0,0,1,0,0,0,0,0,0,0,3.8,8.4,2.0,28.0,False,2021-09-25T11:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Spurs,90,1,0,2,0,22,0,0,0,0,0,0,8.2,31.8,2.7,47.0,False,2021-10-03T13:00:00Z,6
+Ollie Watkins,FWD,Aston Villa,Wolves,90,0,1,3,0,15,1,0,0,0,0,0,7.9,8.6,22.7,48.0,True,2021-10-16T14:00:00Z,4
+Ollie Watkins,FWD,Aston Villa,Arsenal,90,0,0,3,0,0,1,0,0,0,0,0,4.3,3.8,3.2,36.0,False,2021-10-22T19:00:00Z,1
+Ollie Watkins,FWD,Aston Villa,West Ham,90,1,0,4,0,26,0,0,0,0,0,0,8.1,44.2,2.7,34.0,True,2021-10-31T16:30:00Z,7
+Ollie Watkins,FWD,Aston Villa,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,4.3,3.8,23.3,16.0,False,2021-11-05T20:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Burnley,90,1,0,0,1,32,0,0,0,0,0,0,6.4,35.6,3.8,25.0,True,2021-11-20T15:00:00Z,8
+Ollie Watkins,FWD,Aston Villa,Everton,90,0,0,1,0,-2,0,0,0,0,0,0,2.7,5.8,13.5,8.0,False,2021-11-27T15:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Man City,90,1,0,2,0,31,0,0,0,0,0,0,8.1,40.6,13.4,27.0,True,2021-12-01T20:15:00Z,9
+Ollie Watkins,FWD,Aston Villa,Leicester,90,0,0,1,0,9,0,0,0,0,0,0,7.6,12.8,23.8,39.0,True,2021-12-05T16:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Liverpool,90,0,0,1,0,0,1,0,0,0,0,0,3.6,4.8,22.9,8.0,False,2021-12-11T15:00:00Z,1
+Ollie Watkins,FWD,Aston Villa,Sheffield Utd,90,1,1,0,1,43,0,0,0,0,0,0,26.6,67.0,37.8,161.0,False,2021-12-14T19:45:00Z,12
+Ollie Watkins,FWD,Aston Villa,Crystal Palace,90,0,0,3,0,5,0,0,0,0,0,0,4.2,3.0,9.3,30.0,True,2021-12-26T17:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Ollie Watkins,FWD,Aston Villa,Man Utd,90,0,0,2,0,-2,0,0,0,0,0,0,4.2,3.2,3.9,35.0,True,2022-01-15T17:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Fulham,78,0,0,0,1,1,0,0,0,0,0,0,1.7,4.0,3.1,10.0,False,2022-01-22T12:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Leeds,90,0,0,3,0,8,0,0,0,0,0,0,4.9,6.4,35.1,7.0,True,2022-02-09T20:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Newcastle,71,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,1.9,1.0,False,2022-02-13T14:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,West Brom,32,0,0,1,0,4,0,0,0,0,0,0,5.1,5.0,17.8,28.0,True,2022-02-19T15:00:00Z,1
+Ollie Watkins,FWD,Aston Villa,Burnley,90,1,0,0,1,26,1,0,0,0,0,0,6.2,40.4,0.9,21.0,False,2022-02-26T15:30:00Z,5
+Ollie Watkins,FWD,Aston Villa,Southampton,90,1,0,0,1,36,1,0,0,0,0,0,12.2,50.8,32.7,38.0,True,2022-03-05T15:00:00Z,5
+Ollie Watkins,FWD,Aston Villa,Leeds,90,0,0,0,1,4,1,0,0,0,0,0,4.8,4.4,1.2,42.0,False,2022-03-10T19:45:00Z,1
+Ollie Watkins,FWD,Aston Villa,West Ham,90,0,0,2,0,7,0,0,0,0,0,0,7.8,4.0,10.6,63.0,False,2022-03-13T14:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Arsenal,81,0,0,1,0,4,0,0,0,0,0,0,3.4,2.2,1.3,30.0,True,2022-03-19T12:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Wolves,90,1,0,2,0,24,0,0,0,0,0,0,12.1,38.4,24.4,58.0,False,2022-04-02T14:00:00Z,9
+Ollie Watkins,FWD,Aston Villa,Spurs,90,0,0,4,0,5,0,0,0,0,0,0,5.9,7.8,12.1,39.0,True,2022-04-09T16:30:00Z,2
+Ollie Watkins,FWD,Aston Villa,Leicester,90,0,0,0,1,9,0,0,0,0,0,0,8.4,16.4,13.5,54.0,False,2022-04-23T14:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Sheffield Utd,90,1,0,0,1,34,0,0,0,0,0,0,14.5,34.8,36.9,73.0,True,2022-04-30T14:00:00Z,9
+Ollie Watkins,FWD,Aston Villa,Chelsea,90,1,0,1,0,27,1,0,0,0,0,0,12.0,42.2,15.5,62.0,False,2022-05-07T14:00:00Z,5
+Ollie Watkins,FWD,Aston Villa,Liverpool,80,0,0,2,0,13,0,0,0,0,0,0,3.3,6.4,3.2,23.0,True,2022-05-10T19:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Everton,90,1,0,1,0,26,0,0,0,0,0,0,8.8,33.4,13.3,41.0,True,2022-05-15T13:00:00Z,8
+Ollie Watkins,FWD,Aston Villa,Chelsea,77,0,0,1,0,6,0,0,0,0,0,0,3.9,4.2,11.8,23.0,True,2022-05-19T19:00:00Z,2
+Ollie Watkins,FWD,Aston Villa,Man City,90,0,1,3,0,8,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,5

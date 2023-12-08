@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Nemanja Matic,MID,Man Utd,Leeds,21,0,0,0,0,4,0,0,0,0,0,0,0.8,6.6,1.7,0.0,True,2021-08-14T11:30:00Z,1
+Nemanja Matic,MID,Man Utd,Southampton,85,0,0,1,0,12,0,0,0,0,0,0,3.6,14.4,2.6,19.0,False,2021-08-22T13:00:00Z,2
+Nemanja Matic,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T15:30:00Z,0
+Nemanja Matic,MID,Man Utd,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,5.5,14.6,31.0,9.0,True,2021-09-11T14:00:00Z,2
+Nemanja Matic,MID,Man Utd,West Ham,2,0,1,0,0,14,0,0,0,0,0,0,3.0,19.2,10.8,0.0,False,2021-09-19T13:00:00Z,4
+Nemanja Matic,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Nemanja Matic,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T11:30:00Z,0
+Nemanja Matic,MID,Man Utd,Leicester,79,0,0,2,0,13,0,0,0,0,0,0,2.9,12.6,15.4,1.0,False,2021-10-16T14:00:00Z,2
+Nemanja Matic,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-24T15:30:00Z,0
+Nemanja Matic,MID,Man Utd,Spurs,14,0,1,0,0,15,0,0,0,0,0,0,3.4,20.8,13.3,0.0,False,2021-10-30T16:30:00Z,4
+Nemanja Matic,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T12:30:00Z,0
+Nemanja Matic,MID,Man Utd,West Brom,90,0,0,4,0,8,0,0,0,0,0,0,1.8,12.6,1.0,4.0,False,2021-11-20T15:00:00Z,2
+Nemanja Matic,MID,Man Utd,Crystal Palace,90,0,0,1,0,16,0,0,0,0,0,0,1.3,12.8,0.6,0.0,False,2021-11-28T16:30:00Z,2
+Nemanja Matic,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T20:15:00Z,0
+Nemanja Matic,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T14:00:00Z,0
+Nemanja Matic,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T17:30:00Z,0
+Nemanja Matic,MID,Man Utd,Newcastle,12,0,0,0,0,5,0,0,0,0,0,0,0.8,7.6,0.7,0.0,False,2021-12-27T20:00:00Z,1
+Nemanja Matic,MID,Man Utd,Chelsea,90,0,0,1,0,9,0,0,0,0,0,0,1.9,6.8,12.3,0.0,True,2021-12-30T20:15:00Z,2
+Nemanja Matic,MID,Man Utd,Wolves,90,0,0,1,0,15,1,0,0,0,0,0,4.7,26.4,18.5,2.0,True,2022-01-03T17:30:00Z,1
+Nemanja Matic,MID,Man Utd,Aston Villa,90,0,0,2,0,8,1,0,0,0,0,0,1.4,12.0,2.0,0.0,False,2022-01-15T17:30:00Z,1
+Nemanja Matic,MID,Man Utd,Brighton,6,0,0,1,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,2022-01-19T20:00:00Z,1
+Nemanja Matic,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Nemanja Matic,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T20:00:00Z,0
+Nemanja Matic,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T12:30:00Z,0
+Nemanja Matic,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-15T20:15:00Z,0
+Nemanja Matic,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T14:00:00Z,0
+Nemanja Matic,MID,Man Utd,West Brom,73,0,0,0,1,15,0,0,0,0,0,0,3.6,13.6,22.3,0.0,True,2022-02-26T15:00:00Z,3
+Nemanja Matic,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-06T16:30:00Z,0
+Nemanja Matic,MID,Man Utd,Spurs,79,0,0,2,0,16,0,0,0,0,0,0,1.8,16.0,2.0,0.0,True,2022-03-12T17:30:00Z,2
+Nemanja Matic,MID,Man Utd,Leicester,15,0,0,0,0,2,0,0,0,0,0,0,0.6,2.6,3.3,0.0,True,2022-04-02T16:30:00Z,1
+Nemanja Matic,MID,Man Utd,Fulham,63,0,0,1,0,11,0,0,0,0,0,0,1.0,6.6,3.5,0.0,False,2022-04-09T11:30:00Z,2
+Nemanja Matic,MID,Man Utd,Sheffield Utd,27,0,0,0,0,2,0,0,0,0,0,0,0.6,1.2,4.3,0.0,True,2022-04-16T14:00:00Z,1
+Nemanja Matic,MID,Man Utd,Liverpool,90,0,0,4,0,11,0,0,0,0,0,0,1.4,13.0,0.8,0.0,False,2022-04-19T19:00:00Z,2
+Nemanja Matic,MID,Man Utd,Arsenal,76,0,1,3,0,24,0,0,0,0,0,0,4.0,22.6,15.0,2.0,False,2022-04-23T11:30:00Z,5
+Nemanja Matic,MID,Man Utd,Crystal Palace,78,0,1,1,0,32,0,0,0,0,0,0,6.0,32.6,25.3,2.0,True,2022-04-28T18:45:00Z,8
+Nemanja Matic,MID,Man Utd,Brighton,70,0,0,0,1,10,1,0,0,0,0,0,3.0,11.6,18.8,0.0,True,2022-05-02T19:00:00Z,2
+Nemanja Matic,MID,Man Utd,Burnley,45,0,0,1,0,11,0,0,0,0,0,0,3.2,14.4,11.7,6.0,False,2022-05-07T16:30:00Z,1
+Nemanja Matic,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

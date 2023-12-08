@@ -1,0 +1,18 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Fulham,1,0,0,0,0,9,0,0,0,0,0,0,1.6,5.2,10.3,0.0,True,2022-02-08T19:45:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,2022-02-13T14:00:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,West Ham,2,0,0,0,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,2022-02-19T12:30:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Brighton,26,0,0,0,0,4,0,0,0,0,0,0,2.8,0.0,5.2,23.0,False,2022-02-26T15:00:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Burnley,11,0,0,0,0,6,0,0,0,0,0,0,1.1,4.4,4.1,2.0,True,2022-03-05T15:00:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Southampton,66,1,0,1,0,33,0,0,0,0,0,0,10.7,48.6,14.9,43.0,False,2022-03-10T19:30:00Z,10
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Crystal Palace,90,0,0,1,0,-2,1,0,0,0,0,0,1.6,6.8,2.8,6.0,False,2022-03-13T14:00:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,5.0,17.2,4.9,28.0,False,2022-03-17T19:45:00Z,2
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Spurs,31,0,0,2,0,8,0,0,0,0,0,0,3.4,15.6,16.8,2.0,False,2022-04-03T15:30:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Wolves,87,0,0,0,1,21,0,0,0,0,0,0,5.4,19.8,16.5,18.0,True,2022-04-08T19:00:00Z,3
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Leicester,90,2,0,1,0,33,1,0,0,0,0,0,22.0,89.8,12.0,118.0,True,2022-04-17T13:15:00Z,14
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Everton,90,0,1,0,1,22,0,0,0,0,0,0,7.1,40.4,23.8,7.0,True,2022-04-20T18:45:00Z,6
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Sheffield Utd,86,1,0,0,1,36,1,0,0,0,0,0,9.3,46.6,29.8,17.0,False,2022-04-23T14:00:00Z,9
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Liverpool,90,0,0,1,0,8,0,0,0,0,0,0,2.9,18.0,3.6,7.0,True,2022-04-30T11:30:00Z,2
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Man City,90,0,0,5,0,5,1,0,0,0,0,0,3.4,16.0,12.6,5.0,False,2022-05-08T15:30:00Z,1
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Arsenal,90,1,0,0,1,35,0,0,0,0,0,0,11.3,56.6,31.2,25.0,True,2022-05-16T19:00:00Z,11
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,Chelsea,90,0,0,1,0,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

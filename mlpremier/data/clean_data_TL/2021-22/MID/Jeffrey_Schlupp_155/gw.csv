@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jeffrey Schlupp,MID,Crystal Palace,Crystal Palace,56,0,0,2,0,3,0,0,0,0,0,0,0.6,1.0,1.4,4.0,False,2021-08-14T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Brighton,67,0,0,0,1,10,0,0,0,0,0,0,1.7,6.0,11.2,0.0,True,2021-08-21T14:00:00Z,3
+Jeffrey Schlupp,MID,Crystal Palace,West Ham,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.6,0.0,False,2021-08-28T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T11:30:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Burnley,4,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.1,0.0,True,2021-09-27T19:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Leicester,19,1,0,0,0,18,0,0,0,0,0,0,7.8,29.0,1.5,47.0,True,2021-10-03T13:00:00Z,6
+Jeffrey Schlupp,MID,Crystal Palace,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-18T19:00:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Newcastle,17,0,0,0,0,2,0,0,0,0,0,0,0.9,0.2,1.2,8.0,True,2021-10-23T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Man City,17,0,0,0,0,4,0,0,0,0,0,0,0.6,1.4,0.2,4.0,False,2021-10-30T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Wolves,10,0,0,0,0,5,0,0,0,0,0,0,1.6,3.2,10.5,2.0,True,2021-11-06T15:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Chelsea,9,0,0,0,0,5,0,0,0,0,0,0,1.9,7.0,10.3,2.0,False,2021-11-20T15:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Leeds,79,0,0,0,1,11,0,0,0,0,0,0,2.8,23.2,3.3,1.0,False,2021-11-30T20:15:00Z,3
+Jeffrey Schlupp,MID,Crystal Palace,Man Utd,90,0,0,1,0,3,0,0,0,0,0,0,0.4,1.2,0.8,2.0,False,2021-12-05T14:00:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Fulham,17,0,0,0,0,1,0,0,0,0,0,0,1.7,6.4,10.3,0.0,True,2021-12-12T16:30:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Spurs,15,0,0,0,0,6,0,0,0,0,0,0,0.5,3.0,0.0,2.0,False,2021-12-26T15:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Sheffield Utd,90,1,0,0,1,26,0,0,0,0,0,0,15.3,44.0,11.5,97.0,True,2021-12-28T15:00:00Z,8
+Jeffrey Schlupp,MID,Crystal Palace,West Ham,90,0,0,3,0,13,0,0,0,0,0,0,7.7,13.2,16.3,47.0,True,2022-01-01T17:30:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Burnley,90,0,1,1,0,13,0,0,0,0,0,0,6.3,33.0,22.3,8.0,False,2022-01-14T20:00:00Z,5
+Jeffrey Schlupp,MID,Crystal Palace,Liverpool,90,0,0,3,0,6,1,0,0,0,0,0,2.1,8.8,3.7,8.0,True,2022-01-23T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Sheffield Utd,79,0,0,1,0,7,0,0,0,0,0,0,3.8,11.8,4.1,22.0,False,2022-02-09T19:45:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Brighton,90,0,0,0,1,6,0,0,0,0,0,0,1.4,5.4,3.4,5.0,False,2022-02-12T15:00:00Z,3
+Jeffrey Schlupp,MID,Crystal Palace,Crystal Palace,90,0,0,1,0,5,0,0,0,0,0,0,3.1,6.6,3.4,21.0,True,2022-02-19T15:00:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-23T19:30:00Z,0
+Jeffrey Schlupp,MID,Crystal Palace,Chelsea,83,1,0,1,0,22,0,0,0,0,0,0,8.3,36.8,11.4,35.0,True,2022-02-26T15:00:00Z,9
+Jeffrey Schlupp,MID,Crystal Palace,Wolves,90,0,1,0,1,21,0,0,0,0,0,0,4.2,19.6,10.8,12.0,False,2022-03-05T15:00:00Z,6
+Jeffrey Schlupp,MID,Crystal Palace,Man City,90,0,0,0,1,7,0,0,0,0,0,0,1.4,13.0,1.3,0.0,True,2022-03-14T20:00:00Z,3
+Jeffrey Schlupp,MID,Crystal Palace,Arsenal,90,0,0,0,1,10,0,0,0,0,0,0,0.7,5.6,1.6,0.0,True,2022-04-04T19:00:00Z,3
+Jeffrey Schlupp,MID,Crystal Palace,Leicester,90,0,0,2,0,14,0,0,0,0,0,0,8.1,21.2,24.2,36.0,False,2022-04-10T13:00:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Newcastle,90,0,0,1,0,14,0,0,0,0,0,0,2.2,17.2,5.1,0.0,False,2022-04-20T18:45:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Leeds,11,0,0,0,0,5,0,0,0,0,0,0,3.3,7.6,23.7,2.0,True,2022-04-25T19:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Southampton,73,0,0,1,0,16,0,0,0,0,0,0,8.6,22.2,41.8,22.0,False,2022-04-30T14:00:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,West Brom,27,0,0,0,0,0,0,0,0,0,0,0,1.8,0.2,0.5,17.0,True,2022-05-07T14:00:00Z,1
+Jeffrey Schlupp,MID,Crystal Palace,Aston Villa,12,1,0,0,0,20,0,0,0,0,0,0,7.3,39.2,0.3,33.0,False,2022-05-15T13:00:00Z,6
+Jeffrey Schlupp,MID,Crystal Palace,Fulham,73,0,0,1,0,8,0,0,0,0,0,0,4.2,16.2,1.7,24.0,False,2022-05-19T18:45:00Z,2
+Jeffrey Schlupp,MID,Crystal Palace,Man Utd,90,0,0,0,1,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,3

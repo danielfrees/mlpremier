@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Nick Pope,GK,Burnley,Burnley,90,0,0,2,0,17,0,0,0,4,0,0,3.0,30.0,0.0,0.0,True,2021-08-14T14:00:00Z,2
+Nick Pope,GK,Burnley,Liverpool,90,0,0,2,0,23,0,0,0,6,0,0,4.9,48.8,0.0,0.0,False,2021-08-21T11:30:00Z,3
+Nick Pope,GK,Burnley,Leeds,90,0,0,1,0,10,0,0,0,1,0,0,1.2,11.8,0.0,0.0,True,2021-08-29T13:00:00Z,2
+Nick Pope,GK,Burnley,Fulham,90,0,0,3,0,14,0,0,0,3,0,0,2.2,21.6,0.0,0.0,False,2021-09-13T19:00:00Z,2
+Nick Pope,GK,Burnley,Arsenal,90,0,0,1,0,16,0,0,0,2,0,0,2.1,20.6,0.0,0.0,True,2021-09-18T14:00:00Z,2
+Nick Pope,GK,Burnley,Leicester,90,0,0,2,0,14,0,0,0,2,0,0,1.6,15.6,0.0,0.0,False,2021-09-25T14:00:00Z,1
+Nick Pope,GK,Burnley,Sheffield Utd,90,0,0,0,1,27,0,0,0,2,0,0,0.8,8.0,0.0,0.0,True,2021-10-02T14:00:00Z,6
+Nick Pope,GK,Burnley,Man City,90,0,0,2,0,18,0,0,0,4,0,0,3.2,32.4,0.0,0.0,False,2021-10-16T14:00:00Z,2
+Nick Pope,GK,Burnley,Southampton,90,0,0,2,0,13,0,0,0,2,0,0,1.1,10.6,0.0,0.0,False,2021-10-23T14:00:00Z,1
+Nick Pope,GK,Burnley,Brighton,90,0,0,1,0,15,0,0,0,3,0,0,1.6,15.8,0.0,0.0,True,2021-10-30T14:00:00Z,3
+Nick Pope,GK,Burnley,Crystal Palace,90,0,0,1,0,17,0,0,0,4,0,0,3.8,28.4,10.0,0.0,False,2021-11-06T15:00:00Z,3
+Nick Pope,GK,Burnley,Everton,90,0,0,3,0,17,0,0,0,5,0,0,3.8,37.6,0.0,0.0,True,2021-11-20T15:00:00Z,2
+Nick Pope,GK,Burnley,Wolves,90,0,0,0,1,24,0,0,0,2,0,0,1.4,13.8,0.0,0.0,False,2021-12-01T19:30:00Z,6
+Nick Pope,GK,Burnley,Newcastle,90,0,0,1,0,12,0,0,0,3,0,0,1.1,10.8,0.0,0.0,False,2021-12-04T15:00:00Z,3
+Nick Pope,GK,Burnley,West Ham,90,0,0,0,1,27,0,0,0,3,0,0,2.7,27.4,0.0,0.0,True,2021-12-12T14:00:00Z,9
+Nick Pope,GK,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-30T20:15:00Z,0
+Nick Pope,GK,Burnley,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Nick Pope,GK,Burnley,Arsenal,90,0,0,0,1,31,0,0,0,5,0,0,3.5,35.0,0.0,0.0,False,2022-01-23T14:00:00Z,10
+Nick Pope,GK,Burnley,West Brom,90,0,0,0,1,31,0,0,0,5,0,0,3.9,38.8,0.0,0.0,True,2022-02-05T18:00:00Z,9
+Nick Pope,GK,Burnley,Man Utd,90,0,0,1,0,17,0,0,0,4,0,0,3.5,34.6,0.0,0.0,True,2022-02-08T20:00:00Z,3
+Nick Pope,GK,Burnley,Liverpool,90,0,0,1,0,15,0,0,0,3,0,0,2.3,23.2,0.0,0.0,True,2022-02-13T14:00:00Z,3
+Nick Pope,GK,Burnley,Burnley,90,0,0,0,1,25,0,0,0,1,0,0,1.8,8.0,10.0,0.0,False,2022-02-19T15:00:00Z,7
+Nick Pope,GK,Burnley,Spurs,90,0,0,0,1,23,0,0,0,2,0,0,1.8,18.2,0.0,0.0,True,2022-02-23T19:30:00Z,6
+Nick Pope,GK,Burnley,Everton,90,0,0,1,0,16,0,0,0,3,0,0,2.3,22.8,0.0,0.0,False,2022-02-26T15:00:00Z,3
+Nick Pope,GK,Burnley,Leicester,90,0,0,2,0,16,0,0,0,4,0,0,3.5,35.4,0.0,0.0,True,2022-03-01T19:45:00Z,2
+Nick Pope,GK,Burnley,Crystal Palace,90,0,0,4,0,10,0,0,0,1,0,0,0.5,5.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Nick Pope,GK,Burnley,Brighton,90,0,0,2,0,12,0,0,0,1,0,0,0.6,6.0,0.0,0.0,False,2022-03-12T15:00:00Z,1
+Nick Pope,GK,Burnley,Man City,90,0,0,2,0,18,0,0,0,4,0,0,2.7,26.8,0.0,0.0,True,2022-04-02T14:00:00Z,2
+Nick Pope,GK,Burnley,Fulham,90,0,0,2,0,13,0,0,0,2,0,0,1.5,14.6,0.0,0.0,True,2022-04-06T18:30:00Z,1
+Nick Pope,GK,Burnley,Sheffield Utd,90,0,0,2,0,17,0,0,0,4,0,0,3.2,32.4,0.0,0.0,False,2022-04-10T13:00:00Z,2
+Nick Pope,GK,Burnley,West Ham,90,0,0,1,0,21,0,0,0,5,0,0,4.5,45.4,0.0,0.0,False,2022-04-17T13:15:00Z,3
+Nick Pope,GK,Burnley,Southampton,90,0,0,0,1,30,0,0,0,3,0,0,2.5,25.4,0.0,0.0,True,2022-04-21T18:45:00Z,7
+Nick Pope,GK,Burnley,Wolves,90,0,0,0,1,30,0,0,0,4,0,0,3.1,30.8,0.0,0.0,True,2022-04-24T13:00:00Z,10
+Nick Pope,GK,Burnley,West Brom,90,0,0,1,0,13,0,0,0,1,0,0,1.4,14.2,0.0,0.0,False,2022-04-30T14:00:00Z,2
+Nick Pope,GK,Burnley,Aston Villa,90,0,0,3,0,18,0,0,0,4,0,0,3.0,30.0,0.0,0.0,True,2022-05-07T14:00:00Z,2
+Nick Pope,GK,Burnley,Spurs,90,0,0,1,0,20,1,0,0,6,0,0,4.5,45.0,0.0,0.0,False,2022-05-15T11:00:00Z,3
+Nick Pope,GK,Burnley,Aston Villa,90,0,0,1,0,26,0,0,0,8,0,0,5.1,50.8,0.0,0.0,False,2022-05-19T19:00:00Z,5
+Nick Pope,GK,Burnley,Newcastle,90,0,0,2,0,17,0,0,0,4,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Trevoh Chalobah,DEF,Chelsea,Everton,90,1,0,0,1,37,0,0,0,0,0,0,6.3,45.4,7.0,11.0,True,2021-08-14T14:00:00Z,14
+Trevoh Chalobah,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T15:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Liverpool,3,0,0,0,0,4,0,0,0,0,0,0,0.2,2.2,0.0,0.0,False,2021-08-28T16:30:00Z,1
+Trevoh Chalobah,DEF,Chelsea,Aston Villa,90,0,0,0,1,28,0,0,0,0,0,0,2.6,25.6,0.4,0.0,True,2021-09-11T16:30:00Z,6
+Trevoh Chalobah,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T15:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Southampton,90,1,0,1,0,34,0,0,0,0,0,0,9.1,54.6,2.9,33.0,True,2021-10-02T14:00:00Z,11
+Trevoh Chalobah,DEF,Chelsea,Brighton,90,0,0,0,1,23,0,0,0,0,0,0,3.3,26.8,6.2,0.0,False,2021-10-16T16:30:00Z,6
+Trevoh Chalobah,DEF,Chelsea,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,2.6,11.6,12.8,2.0,True,2021-10-23T11:30:00Z,6
+Trevoh Chalobah,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Leicester,90,0,0,0,1,24,0,0,0,0,0,0,1.0,7.4,2.0,1.0,False,2021-11-20T12:30:00Z,6
+Trevoh Chalobah,DEF,Chelsea,Man Utd,90,0,0,1,0,13,0,0,0,0,0,0,1.9,12.6,4.4,2.0,True,2021-11-28T16:30:00Z,2
+Trevoh Chalobah,DEF,Chelsea,West Brom,59,0,0,1,0,8,0,0,0,0,0,0,0.9,8.0,1.1,0.0,False,2021-12-01T19:30:00Z,1
+Trevoh Chalobah,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T12:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Fulham,11,0,0,0,0,2,0,0,0,0,0,0,0.8,4.0,3.7,0.0,True,2021-12-16T19:45:00Z,1
+Trevoh Chalobah,DEF,Chelsea,Wolves,45,0,0,0,0,-2,1,0,0,0,0,0,0.7,3.6,1.3,2.0,False,2021-12-19T14:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Aston Villa,45,0,0,1,0,12,0,0,0,0,0,0,2.3,20.2,3.1,0.0,False,2021-12-26T17:30:00Z,1
+Trevoh Chalobah,DEF,Chelsea,Burnley,45,0,0,1,0,6,0,0,0,0,0,0,3.1,13.6,0.3,17.0,True,2021-12-29T19:30:00Z,1
+Trevoh Chalobah,DEF,Chelsea,Liverpool,69,0,0,2,0,13,0,0,0,0,0,0,1.0,8.6,1.8,0.0,True,2022-01-02T16:30:00Z,1
+Trevoh Chalobah,DEF,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T12:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-18T20:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T16:30:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Chelsea,90,0,1,0,1,37,0,0,0,0,0,0,4.6,32.4,14.0,0.0,False,2022-03-05T15:00:00Z,10
+Trevoh Chalobah,DEF,Chelsea,Sheffield Utd,90,1,0,1,0,25,1,0,0,0,0,0,8.4,48.4,2.6,33.0,False,2022-03-10T19:30:00Z,7
+Trevoh Chalobah,DEF,Chelsea,Newcastle,90,0,0,0,1,34,0,0,0,0,0,0,2.6,23.6,2.6,0.0,True,2022-03-13T14:00:00Z,9
+Trevoh Chalobah,DEF,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Trevoh Chalobah,DEF,Chelsea,West Ham,90,0,0,0,1,27,0,0,0,0,0,0,5.0,18.6,24.0,7.0,True,2022-04-24T13:00:00Z,7
+Trevoh Chalobah,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-28T18:45:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Trevoh Chalobah,DEF,Chelsea,Leeds,90,0,0,0,1,32,0,0,0,0,0,0,3.3,21.2,8.6,3.0,False,2022-05-11T18:30:00Z,7
+Trevoh Chalobah,DEF,Chelsea,Leicester,90,0,0,1,0,12,0,0,0,0,0,0,6.4,17.4,7.0,40.0,True,2022-05-19T19:00:00Z,2
+Trevoh Chalobah,DEF,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

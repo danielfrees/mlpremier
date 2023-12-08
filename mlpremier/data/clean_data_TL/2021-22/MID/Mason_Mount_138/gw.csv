@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mason Mount,MID,Chelsea,Everton,90,0,1,0,1,19,0,0,0,0,0,0,6.2,14.2,18.5,29.0,True,2021-08-14T14:00:00Z,6
+Mason Mount,MID,Chelsea,Arsenal,81,0,1,0,1,30,0,0,0,0,0,0,12.0,32.4,53.2,34.0,False,2021-08-22T15:30:00Z,6
+Mason Mount,MID,Chelsea,Liverpool,90,0,0,1,0,5,0,0,0,0,0,0,3.2,5.8,18.4,8.0,False,2021-08-28T16:30:00Z,2
+Mason Mount,MID,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T16:30:00Z,0
+Mason Mount,MID,Chelsea,Spurs,45,0,0,0,0,3,0,0,0,0,0,0,4.1,1.2,1.8,38.0,False,2021-09-19T15:30:00Z,1
+Mason Mount,MID,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Mason Mount,MID,Chelsea,Southampton,25,0,0,0,0,7,0,0,0,0,0,0,5.9,10.4,27.5,21.0,True,2021-10-02T14:00:00Z,1
+Mason Mount,MID,Chelsea,Brighton,25,0,0,0,0,4,0,0,0,0,0,0,1.4,7.0,1.0,6.0,False,2021-10-16T16:30:00Z,1
+Mason Mount,MID,Chelsea,Sheffield Utd,90,3,1,0,1,80,0,0,0,0,0,0,22.6,123.8,41.3,61.0,True,2021-10-23T11:30:00Z,24
+Mason Mount,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Mason Mount,MID,Chelsea,Chelsea,5,0,0,0,0,4,0,0,0,0,0,0,2.1,2.2,18.3,0.0,True,2021-11-06T15:00:00Z,1
+Mason Mount,MID,Chelsea,Leicester,61,0,0,0,1,5,0,0,0,0,0,0,0.6,2.0,2.6,1.0,False,2021-11-20T12:30:00Z,3
+Mason Mount,MID,Chelsea,Man Utd,12,0,0,0,0,3,0,0,0,0,0,0,1.4,2.4,11.8,0.0,True,2021-11-28T16:30:00Z,1
+Mason Mount,MID,Chelsea,West Brom,90,1,1,1,0,34,0,0,0,0,0,0,9.7,57.6,16.4,23.0,False,2021-12-01T19:30:00Z,12
+Mason Mount,MID,Chelsea,West Ham,90,1,1,3,0,45,0,0,0,0,0,0,20.5,71.0,68.7,65.0,False,2021-12-04T12:30:00Z,13
+Mason Mount,MID,Chelsea,Leeds,90,1,0,2,0,26,1,0,0,0,0,0,11.0,45.2,26.8,38.0,True,2021-12-11T15:00:00Z,6
+Mason Mount,MID,Chelsea,Fulham,90,1,0,1,0,23,0,0,0,0,0,0,15.9,46.8,25.7,86.0,True,2021-12-16T19:45:00Z,7
+Mason Mount,MID,Chelsea,Wolves,90,0,0,0,1,14,0,0,0,0,0,0,10.3,15.8,51.0,36.0,False,2021-12-19T14:00:00Z,3
+Mason Mount,MID,Chelsea,Aston Villa,90,0,0,1,0,6,0,0,0,0,0,0,5.5,5.6,14.9,34.0,False,2021-12-26T17:30:00Z,2
+Mason Mount,MID,Chelsea,Burnley,90,0,1,1,0,16,1,0,0,0,0,0,13.0,35.0,60.1,35.0,True,2021-12-29T19:30:00Z,4
+Mason Mount,MID,Chelsea,Liverpool,90,0,0,2,0,8,0,0,0,0,0,0,8.3,9.6,34.8,39.0,True,2022-01-02T16:30:00Z,2
+Mason Mount,MID,Chelsea,Man City,9,0,0,0,0,4,0,0,0,0,0,0,0.4,3.2,0.8,0.0,False,2022-01-15T12:30:00Z,1
+Mason Mount,MID,Chelsea,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,2.8,7.6,16.7,4.0,False,2022-01-18T20:00:00Z,2
+Mason Mount,MID,Chelsea,Spurs,90,0,1,0,1,23,0,0,0,0,0,0,13.6,29.0,65.2,42.0,True,2022-01-23T16:30:00Z,6
+Mason Mount,MID,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Mason Mount,MID,Chelsea,Chelsea,77,0,0,0,1,11,0,0,0,0,0,0,2.8,4.8,9.5,14.0,False,2022-03-05T15:00:00Z,3
+Mason Mount,MID,Chelsea,Sheffield Utd,90,1,1,1,0,42,0,0,0,0,0,0,18.3,62.4,73.1,47.0,False,2022-03-10T19:30:00Z,13
+Mason Mount,MID,Chelsea,Newcastle,62,0,0,0,1,1,0,0,0,0,0,0,0.0,0.0,2.3,2.0,True,2022-03-13T14:00:00Z,3
+Mason Mount,MID,Chelsea,Brighton,90,0,0,4,0,13,0,0,0,0,0,0,5.8,16.4,15.8,26.0,True,2022-04-02T14:00:00Z,2
+Mason Mount,MID,Chelsea,Southampton,68,2,1,0,1,65,0,0,0,0,0,0,16.9,95.8,13.7,59.0,False,2022-04-09T14:00:00Z,19
+Mason Mount,MID,Chelsea,Arsenal,90,0,1,4,0,16,1,0,0,0,0,0,8.4,21.4,52.6,10.0,True,2022-04-20T18:45:00Z,4
+Mason Mount,MID,Chelsea,West Ham,90,0,0,0,1,7,0,0,0,0,0,0,9.4,2.4,41.1,50.0,True,2022-04-24T13:00:00Z,3
+Mason Mount,MID,Chelsea,Man Utd,90,0,0,1,0,13,0,0,0,0,0,0,10.9,12.0,53.5,43.0,False,2022-04-28T18:45:00Z,2
+Mason Mount,MID,Chelsea,Fulham,90,0,0,1,0,8,1,0,0,0,0,0,6.4,7.0,43.8,13.0,False,2022-05-01T13:00:00Z,1
+Mason Mount,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Mason Mount,MID,Chelsea,Leeds,90,1,1,0,1,44,0,0,0,0,0,0,16.4,62.8,33.9,67.0,False,2022-05-11T18:30:00Z,13
+Mason Mount,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T19:00:00Z,0
+Mason Mount,MID,Chelsea,West Brom,88,0,0,1,0,7,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

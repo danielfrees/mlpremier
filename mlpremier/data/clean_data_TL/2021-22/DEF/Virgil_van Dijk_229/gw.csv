@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Virgil van Dijk,DEF,Liverpool,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,3.9,15.6,17.6,6.0,False,2021-08-14T16:30:00Z,7
+Virgil van Dijk,DEF,Liverpool,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,6.0,19.0,10.3,31.0,True,2021-08-21T11:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Crystal Palace,90,0,0,1,0,20,0,0,0,0,0,0,3.8,20.2,2.9,15.0,True,2021-08-28T16:30:00Z,2
+Virgil van Dijk,DEF,Liverpool,Leeds,90,0,0,0,1,27,0,0,0,0,0,0,5.0,11.6,13.9,24.0,False,2021-09-12T15:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Everton,90,0,1,0,1,41,0,0,0,0,0,0,6.0,39.2,10.9,10.0,True,2021-09-18T14:00:00Z,12
+Virgil van Dijk,DEF,Liverpool,Brighton,90,0,0,3,0,19,0,0,0,0,0,0,4.1,23.0,1.2,17.0,False,2021-09-25T16:30:00Z,1
+Virgil van Dijk,DEF,Liverpool,Man City,90,0,0,2,0,15,0,0,0,0,0,0,2.1,18.0,1.1,2.0,True,2021-10-03T15:30:00Z,1
+Virgil van Dijk,DEF,Liverpool,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,3.0,16.8,11.2,2.0,False,2021-10-16T11:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,2.1,20.8,0.6,0.0,False,2021-10-24T15:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Burnley,90,0,0,2,0,15,0,0,0,0,0,0,1.5,13.8,1.4,0.0,True,2021-10-30T14:00:00Z,1
+Virgil van Dijk,DEF,Liverpool,West Ham,90,0,0,3,0,16,0,0,0,0,0,0,4.6,23.4,2.4,20.0,False,2021-11-07T16:30:00Z,1
+Virgil van Dijk,DEF,Liverpool,Arsenal,90,0,0,0,1,24,0,0,0,0,0,0,4.0,17.6,0.2,22.0,True,2021-11-20T17:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Southampton,90,1,0,0,1,45,0,0,0,0,0,0,8.3,55.6,10.4,17.0,True,2021-11-27T15:00:00Z,15
+Virgil van Dijk,DEF,Liverpool,Fulham,90,0,0,1,0,10,1,0,0,0,0,0,2.7,18.8,0.5,8.0,False,2021-12-01T20:15:00Z,1
+Virgil van Dijk,DEF,Liverpool,Wolves,90,0,0,0,1,28,0,0,0,0,0,0,1.7,15.6,1.2,0.0,False,2021-12-04T15:00:00Z,7
+Virgil van Dijk,DEF,Liverpool,Aston Villa,90,0,0,0,1,22,1,0,0,0,0,0,4.5,26.8,0.9,17.0,True,2021-12-11T15:00:00Z,5
+Virgil van Dijk,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T20:00:00Z,0
+Virgil van Dijk,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T16:30:00Z,0
+Virgil van Dijk,DEF,Liverpool,Leicester,90,0,0,1,0,18,0,0,0,0,0,0,5.0,27.0,1.7,21.0,False,2021-12-28T20:00:00Z,2
+Virgil van Dijk,DEF,Liverpool,Crystal Palace,90,0,0,2,0,12,0,0,0,0,0,0,1.8,17.0,0.5,0.0,False,2022-01-02T16:30:00Z,1
+Virgil van Dijk,DEF,Liverpool,Brighton,90,0,0,0,1,23,0,0,0,0,0,0,4.9,12.8,1.7,34.0,True,2022-01-16T14:00:00Z,6
+Virgil van Dijk,DEF,Liverpool,Everton,90,1,0,1,0,28,0,0,0,0,0,0,6.5,47.6,0.8,17.0,False,2022-01-23T14:00:00Z,8
+Virgil van Dijk,DEF,Liverpool,Leicester,90,0,1,0,1,32,0,0,0,0,0,0,4.1,15.2,0.7,25.0,True,2022-02-10T19:45:00Z,10
+Virgil van Dijk,DEF,Liverpool,Chelsea,90,0,0,0,1,26,0,0,0,0,0,0,2.0,17.2,1.0,2.0,False,2022-02-13T14:00:00Z,6
+Virgil van Dijk,DEF,Liverpool,Sheffield Utd,90,0,0,1,0,18,0,0,0,0,0,0,6.3,22.2,21.9,19.0,True,2022-02-19T15:00:00Z,2
+Virgil van Dijk,DEF,Liverpool,Leeds,90,1,0,0,1,39,0,0,0,0,0,0,7.2,49.6,1.0,21.0,True,2022-02-23T19:45:00Z,12
+Virgil van Dijk,DEF,Liverpool,West Ham,90,0,0,0,1,24,0,0,0,0,0,0,1.9,13.8,1.2,4.0,True,2022-03-05T17:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Burnley,90,0,0,0,1,22,0,0,0,0,0,0,1.3,10.6,0.6,2.0,False,2022-03-12T12:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Arsenal,90,0,0,0,1,28,0,0,0,0,0,0,4.4,24.2,1.1,19.0,False,2022-03-16T20:15:00Z,8
+Virgil van Dijk,DEF,Liverpool,West Brom,90,0,0,0,1,22,0,0,0,0,0,0,1.7,10.6,2.6,4.0,True,2022-04-02T11:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Man City,90,0,0,2,0,9,1,0,0,0,0,0,2.3,22.6,0.6,0.0,False,2022-04-10T15:30:00Z,0
+Virgil van Dijk,DEF,Liverpool,Man Utd,90,0,0,0,1,25,0,0,0,0,0,0,1.7,14.6,0.8,2.0,True,2022-04-19T19:00:00Z,6
+Virgil van Dijk,DEF,Liverpool,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,2.3,15.2,3.1,5.0,True,2022-04-24T15:30:00Z,7
+Virgil van Dijk,DEF,Liverpool,Newcastle,90,0,0,0,1,23,0,0,0,0,0,0,3.6,12.6,0.8,23.0,False,2022-04-30T11:30:00Z,6
+Virgil van Dijk,DEF,Liverpool,Spurs,90,0,0,1,0,12,0,0,0,0,0,0,6.1,14.8,12.9,33.0,True,2022-05-07T18:45:00Z,2
+Virgil van Dijk,DEF,Liverpool,Aston Villa,90,0,1,1,0,27,0,0,0,0,0,0,6.7,23.0,10.6,33.0,False,2022-05-10T19:00:00Z,6
+Virgil van Dijk,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-17T18:45:00Z,0
+Virgil van Dijk,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

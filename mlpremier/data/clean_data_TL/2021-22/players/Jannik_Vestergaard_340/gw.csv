@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jannik Vestergaard,DEF,Leicester,Wolves,28,0,0,0,0,3,0,0,0,0,0,0,0.4,3.6,0.1,0.0,True,2021-08-14T14:00:00Z,1
+Jannik Vestergaard,DEF,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-23T19:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Man City,60,0,0,0,1,22,0,0,0,0,0,0,3.7,27.2,0.3,9.0,True,2021-09-11T14:00:00Z,6
+Jannik Vestergaard,DEF,Leicester,Burnley,90,0,0,2,0,17,0,0,0,0,0,0,2.4,19.8,2.3,2.0,False,2021-09-19T13:00:00Z,1
+Jannik Vestergaard,DEF,Leicester,Chelsea,90,0,0,2,0,15,1,0,0,0,0,0,2.1,20.4,0.8,0.0,True,2021-09-25T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Everton,90,0,0,2,0,19,0,0,0,0,0,0,4.6,31.4,10.8,4.0,False,2021-10-03T13:00:00Z,1
+Jannik Vestergaard,DEF,Leicester,Man Utd,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.1,0.0,True,2021-10-16T14:00:00Z,1
+Jannik Vestergaard,DEF,Leicester,Brighton,22,0,0,0,0,6,0,0,0,0,0,0,1.5,14.8,0.0,0.0,False,2021-10-24T13:00:00Z,1
+Jannik Vestergaard,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T11:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T12:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T16:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-12T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Man City,90,0,0,6,0,12,1,0,0,0,0,0,2.1,21.2,0.2,0.0,False,2021-12-26T15:00:00Z,-2
+Jannik Vestergaard,DEF,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T20:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Spurs,90,0,0,3,0,15,0,0,0,0,0,0,2.1,20.4,0.6,0.0,True,2022-01-19T19:30:00Z,1
+Jannik Vestergaard,DEF,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-10T19:45:00Z,0
+Jannik Vestergaard,DEF,Leicester,West Ham,1,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T16:30:00Z,1
+Jannik Vestergaard,DEF,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T16:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-01T19:45:00Z,0
+Jannik Vestergaard,DEF,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T12:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T16:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-20T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T16:30:00Z,0
+Jannik Vestergaard,DEF,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-17T13:15:00Z,0
+Jannik Vestergaard,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T18:45:00Z,0
+Jannik Vestergaard,DEF,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:45:00Z,0
+Jannik Vestergaard,DEF,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-19T19:00:00Z,0
+Jannik Vestergaard,DEF,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

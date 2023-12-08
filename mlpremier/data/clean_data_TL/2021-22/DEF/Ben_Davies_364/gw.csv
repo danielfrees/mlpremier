@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ben Davies,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-15T15:30:00Z,0
+Ben Davies,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T13:00:00Z,0
+Ben Davies,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-29T13:00:00Z,0
+Ben Davies,DEF,Liverpool,Everton,30,0,0,3,0,-1,0,0,0,0,0,0,0.0,0.0,0.1,0.0,False,2021-09-11T11:30:00Z,0
+Ben Davies,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T15:30:00Z,0
+Ben Davies,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-26T15:30:00Z,0
+Ben Davies,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Ben Davies,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T15:30:00Z,0
+Ben Davies,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Ben Davies,DEF,Liverpool,Man Utd,90,0,0,3,0,0,1,0,0,0,0,0,1.2,0.0,3.1,9.0,True,2021-10-30T16:30:00Z,0
+Ben Davies,DEF,Liverpool,Fulham,90,0,0,0,1,25,0,0,0,0,0,0,3.3,17.4,12.5,3.0,False,2021-11-07T14:00:00Z,6
+Ben Davies,DEF,Liverpool,Leeds,90,0,0,1,0,6,0,0,0,0,0,0,3.4,14.4,0.8,19.0,True,2021-11-21T16:30:00Z,2
+Ben Davies,DEF,Liverpool,Brighton,90,0,0,0,1,20,0,0,0,0,0,0,3.9,18.6,1.1,19.0,True,2021-12-02T19:30:00Z,6
+Ben Davies,DEF,Liverpool,Sheffield Utd,90,0,2,0,1,43,0,0,0,0,0,0,7.2,34.2,27.0,11.0,True,2021-12-05T14:00:00Z,15
+Ben Davies,DEF,Liverpool,Liverpool,90,0,0,2,0,3,1,0,0,0,0,0,1.2,7.2,0.7,4.0,True,2021-12-19T16:30:00Z,0
+Ben Davies,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Ben Davies,DEF,Liverpool,Southampton,90,0,0,1,0,18,0,0,0,0,0,0,4.9,23.0,17.8,8.0,False,2021-12-28T15:00:00Z,2
+Ben Davies,DEF,Liverpool,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,6.5,18.4,26.3,20.0,False,2022-01-01T15:00:00Z,6
+Ben Davies,DEF,Liverpool,Leicester,90,0,0,2,0,13,0,0,0,0,0,0,3.2,16.4,13.9,2.0,False,2022-01-19T19:30:00Z,1
+Ben Davies,DEF,Liverpool,Crystal Palace,90,0,0,2,0,6,0,0,0,0,0,0,1.2,11.4,0.8,0.0,False,2022-01-23T16:30:00Z,1
+Ben Davies,DEF,Liverpool,Southampton,90,0,0,3,0,23,0,0,0,0,0,0,4.1,32.4,0.4,8.0,True,2022-02-09T19:45:00Z,1
+Ben Davies,DEF,Liverpool,Wolves,90,0,0,2,0,11,0,0,0,0,0,0,4.1,12.6,24.3,4.0,True,2022-02-13T14:00:00Z,1
+Ben Davies,DEF,Liverpool,Man City,90,0,0,2,0,15,0,0,0,0,0,0,2.4,23.4,0.6,0.0,False,2022-02-19T17:30:00Z,1
+Ben Davies,DEF,Liverpool,Chelsea,90,0,0,1,0,17,0,0,0,0,0,0,4.1,18.4,3.2,19.0,False,2022-02-23T19:30:00Z,2
+Ben Davies,DEF,Liverpool,Leeds,90,0,0,0,1,20,1,0,0,0,0,0,6.1,27.6,0.5,33.0,False,2022-02-26T12:30:00Z,5
+Ben Davies,DEF,Liverpool,Fulham,90,0,0,0,1,26,0,0,0,0,0,0,2.2,18.6,3.0,0.0,True,2022-03-07T20:00:00Z,6
+Ben Davies,DEF,Liverpool,Man Utd,86,0,0,3,0,11,0,0,0,0,0,0,0.9,5.8,2.8,0.0,False,2022-03-12T17:30:00Z,1
+Ben Davies,DEF,Liverpool,Burnley,90,0,0,0,1,28,0,0,0,0,0,0,2.9,17.6,2.9,8.0,False,2022-03-16T19:30:00Z,6
+Ben Davies,DEF,Liverpool,West Ham,90,0,0,1,0,10,0,0,0,0,0,0,0.8,5.4,2.2,0.0,True,2022-03-20T16:30:00Z,2
+Ben Davies,DEF,Liverpool,Newcastle,90,1,0,1,0,23,0,0,0,0,0,0,8.2,46.0,2.7,33.0,True,2022-04-03T15:30:00Z,8
+Ben Davies,DEF,Liverpool,Aston Villa,90,0,0,0,1,22,0,0,0,0,0,0,1.0,6.8,0.9,2.0,False,2022-04-09T16:30:00Z,6
+Ben Davies,DEF,Liverpool,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,1.6,14.6,1.0,0.0,True,2022-04-16T11:30:00Z,2
+Ben Davies,DEF,Liverpool,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,3.9,14.4,18.5,6.0,False,2022-04-23T16:30:00Z,6
+Ben Davies,DEF,Liverpool,Leicester,90,0,0,1,0,11,1,0,0,0,0,0,4.4,14.2,11.9,18.0,True,2022-05-01T13:00:00Z,1
+Ben Davies,DEF,Liverpool,Liverpool,90,0,0,1,0,8,1,0,0,0,0,0,4.2,36.8,0.7,4.0,False,2022-05-07T18:45:00Z,1
+Ben Davies,DEF,Liverpool,Arsenal,81,0,0,0,1,21,1,0,0,0,0,0,2.9,15.4,13.8,0.0,True,2022-05-12T18:45:00Z,5
+Ben Davies,DEF,Liverpool,Chelsea,90,0,0,0,1,22,0,0,0,0,0,0,3.0,11.2,6.1,13.0,True,2022-05-15T11:00:00Z,6
+Ben Davies,DEF,Liverpool,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,6

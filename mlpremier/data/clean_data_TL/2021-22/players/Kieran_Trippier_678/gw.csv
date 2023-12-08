@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kieran Trippier,DEF,Newcastle,West Brom,90,0,0,1,0,12,0,0,0,0,0,0,6.2,30.6,31.3,0.0,True,2022-01-15T15:00:00Z,2
+Kieran Trippier,DEF,Newcastle,Leeds,90,0,0,0,1,28,0,0,0,0,0,0,3.2,18.0,13.7,0.0,False,2022-01-22T15:00:00Z,7
+Kieran Trippier,DEF,Newcastle,Fulham,90,1,0,1,0,23,0,0,0,0,0,0,12.5,56.6,61.6,7.0,True,2022-02-08T19:45:00Z,8
+Kieran Trippier,DEF,Newcastle,Aston Villa,47,1,0,0,0,21,0,0,0,0,0,0,4.5,36.8,0.8,7.0,True,2022-02-13T14:00:00Z,9
+Kieran Trippier,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T12:30:00Z,0
+Kieran Trippier,DEF,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Kieran Trippier,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-17T19:45:00Z,0
+Kieran Trippier,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T15:30:00Z,0
+Kieran Trippier,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-08T19:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-17T13:15:00Z,0
+Kieran Trippier,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Kieran Trippier,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T11:30:00Z,0
+Kieran Trippier,DEF,Newcastle,Man City,22,0,0,2,0,4,0,0,0,0,0,0,1.9,4.2,14.3,0.0,False,2022-05-08T15:30:00Z,0
+Kieran Trippier,DEF,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-16T19:00:00Z,0
+Kieran Trippier,DEF,Newcastle,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2
