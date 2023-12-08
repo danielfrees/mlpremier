@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mads Bech Sørensen,DEF,Brentford,Arsenal,19,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-13T19:00:00Z,1
+Mads Bech Sørensen,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T11:30:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T16:30:00Z,0
+Mads Bech Sørensen,DEF,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T16:30:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-24T13:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T19:30:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-10T20:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Burnley,90,0,0,2,0,11,1,0,0,0,0,0,3.0,12.0,16.1,2.0,False,2021-12-26T20:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Man City,90,0,0,1,0,7,0,0,0,0,0,0,0.6,5.6,0.0,0.0,True,2021-12-29T20:15:00Z,2
+Mads Bech Sørensen,DEF,Brentford,Aston Villa,90,0,0,1,0,15,0,0,0,0,0,0,2.9,18.4,10.5,0.0,True,2022-01-02T14:00:00Z,2
+Mads Bech Sørensen,DEF,Brentford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-11T19:45:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-16T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Man Utd,90,0,0,3,0,19,0,0,0,0,0,0,5.6,20.6,15.3,20.0,True,2022-01-19T20:00:00Z,1
+Mads Bech Sørensen,DEF,Brentford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-09T19:45:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-12T15:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-20T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Mads Bech Sørensen,DEF,Brentford,West Brom,69,0,0,1,0,15,0,0,0,0,0,0,4.4,19.8,24.3,0.0,False,2022-04-16T14:00:00Z,2
+Mads Bech Sørensen,DEF,Brentford,Spurs,90,0,0,0,1,22,1,0,0,0,0,0,1.5,11.4,1.3,2.0,True,2022-04-23T16:30:00Z,5
+Mads Bech Sørensen,DEF,Brentford,Man Utd,90,0,0,3,0,11,0,0,0,0,0,0,3.1,10.0,1.1,20.0,False,2022-05-02T19:00:00Z,1
+Mads Bech Sørensen,DEF,Brentford,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,1.5,15.0,0.1,0.0,True,2022-05-07T14:00:00Z,6
+Mads Bech Sørensen,DEF,Brentford,Fulham,45,0,0,2,0,-1,1,0,0,0,0,0,0.0,0.0,0.7,0.0,False,2022-05-15T15:30:00Z,-1
+Mads Bech Sørensen,DEF,Brentford,Leeds,70,0,0,1,0,18,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,3

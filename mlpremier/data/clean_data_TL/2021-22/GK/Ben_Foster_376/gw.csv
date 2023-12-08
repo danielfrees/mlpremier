@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ben Foster,GK,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Ben Foster,GK,Watford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T16:30:00Z,0
+Ben Foster,GK,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T13:00:00Z,0
+Ben Foster,GK,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Ben Foster,GK,Watford,Sheffield Utd,90,0,0,1,0,18,0,0,0,4,0,0,2.8,28.2,0.0,0.0,False,2021-09-18T14:00:00Z,3
+Ben Foster,GK,Watford,Newcastle,90,0,0,1,0,17,0,0,0,5,0,0,3.6,35.6,0.0,0.0,True,2021-09-25T14:00:00Z,3
+Ben Foster,GK,Watford,Leeds,90,0,0,1,0,14,0,0,0,2,0,0,1.4,13.8,0.0,0.0,False,2021-10-02T14:00:00Z,2
+Ben Foster,GK,Watford,Liverpool,90,0,0,5,0,18,0,0,0,4,0,0,2.3,22.6,0.0,0.0,True,2021-10-16T11:30:00Z,1
+Ben Foster,GK,Watford,Fulham,90,0,0,2,0,12,0,0,0,2,0,0,1.7,16.6,0.0,0.0,False,2021-10-23T14:00:00Z,1
+Ben Foster,GK,Watford,Southampton,90,0,0,1,0,10,0,0,0,0,0,0,0.4,4.0,0.0,0.0,True,2021-10-30T14:00:00Z,2
+Ben Foster,GK,Watford,Arsenal,90,0,0,1,0,36,0,0,0,5,0,1,5.5,55.2,0.0,0.0,False,2021-11-07T14:00:00Z,11
+Ben Foster,GK,Watford,Man Utd,90,0,1,1,0,23,0,0,0,2,0,0,4.7,37.0,10.0,0.0,True,2021-11-20T15:00:00Z,5
+Ben Foster,GK,Watford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Ben Foster,GK,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Ben Foster,GK,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T17:30:00Z,0
+Ben Foster,GK,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-10T20:00:00Z,0
+Ben Foster,GK,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T15:00:00Z,0
+Ben Foster,GK,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T15:00:00Z,0
+Ben Foster,GK,Watford,Newcastle,90,0,0,1,0,7,0,0,0,0,0,0,0.3,2.6,0.0,0.0,False,2022-01-15T15:00:00Z,2
+Ben Foster,GK,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-21T20:00:00Z,0
+Ben Foster,GK,Watford,Chelsea,90,0,0,0,1,26,0,0,0,2,0,0,1.5,14.6,0.0,0.0,False,2022-02-05T18:00:00Z,6
+Ben Foster,GK,Watford,West Ham,90,0,0,1,0,8,0,0,0,1,0,0,1.0,9.8,0.0,0.0,False,2022-02-08T19:45:00Z,2
+Ben Foster,GK,Watford,Burnley,90,0,0,2,0,14,0,0,0,3,0,0,2.1,21.4,0.0,0.0,True,2022-02-12T15:00:00Z,2
+Ben Foster,GK,Watford,Aston Villa,90,0,0,0,1,24,0,0,0,1,0,0,0.6,6.0,0.0,0.0,False,2022-02-19T15:00:00Z,6
+Ben Foster,GK,Watford,Everton,90,0,0,4,0,10,0,0,0,1,0,0,1.2,11.8,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Ben Foster,GK,Watford,Man Utd,90,0,0,0,1,28,0,0,0,3,0,0,2.3,22.8,0.0,0.0,False,2022-02-26T15:00:00Z,10
+Ben Foster,GK,Watford,Arsenal,90,0,0,3,0,11,0,0,0,1,0,0,1.2,12.4,0.0,0.0,True,2022-03-06T14:00:00Z,1
+Ben Foster,GK,Watford,Wolves,90,0,0,4,0,10,0,0,0,2,0,0,0.8,8.2,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Ben Foster,GK,Watford,Southampton,90,0,0,1,0,19,0,0,0,5,0,0,4.0,39.8,0.0,0.0,False,2022-03-13T14:00:00Z,3
+Ben Foster,GK,Watford,Liverpool,90,0,0,2,0,7,0,0,0,1,0,0,0.4,4.0,0.0,0.0,False,2022-04-02T11:30:00Z,1
+Ben Foster,GK,Watford,Leeds,90,0,0,3,0,13,0,0,0,2,0,0,1.4,14.4,0.0,0.0,True,2022-04-09T14:00:00Z,1
+Ben Foster,GK,Watford,Brighton,90,0,0,2,0,15,0,0,0,3,0,0,1.8,17.8,0.0,0.0,True,2022-04-16T14:00:00Z,2
+Ben Foster,GK,Watford,Man City,90,0,0,5,0,13,0,0,0,4,0,0,2.2,22.2,0.0,0.0,False,2022-04-23T14:00:00Z,1
+Ben Foster,GK,Watford,Chelsea,90,0,0,2,0,17,0,0,0,4,0,0,3.4,34.2,0.0,0.0,True,2022-04-30T14:00:00Z,2
+Ben Foster,GK,Watford,Everton,90,0,0,1,0,22,0,0,0,6,0,0,5.1,51.0,0.0,0.0,False,2022-05-07T14:00:00Z,4
+Ben Foster,GK,Watford,Fulham,90,0,0,0,1,32,0,0,0,5,0,0,3.9,39.0,0.0,0.0,True,2022-05-11T18:45:00Z,10
+Ben Foster,GK,Watford,Leicester,90,0,0,5,0,9,0,0,0,2,0,0,1.4,14.2,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Ben Foster,GK,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

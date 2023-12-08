@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Daniel Castelo Podence,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T13:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Man Utd,20,0,0,1,0,4,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,2021-08-29T15:30:00Z,1
+Daniel Castelo Podence,MID,Wolves,West Brom,9,0,0,0,0,7,0,0,0,0,0,0,1.7,3.8,11.0,2.0,False,2021-09-11T14:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Brighton,18,0,0,0,0,5,0,0,0,0,0,0,0.7,2.4,2.3,2.0,True,2021-09-18T11:30:00Z,1
+Daniel Castelo Podence,MID,Wolves,Southampton,70,0,0,0,1,10,0,0,0,0,0,0,2.1,5.8,13.3,2.0,False,2021-09-26T13:00:00Z,3
+Daniel Castelo Podence,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T14:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Aston Villa,16,0,1,0,0,17,0,0,0,0,0,0,3.4,18.6,11.8,4.0,False,2021-10-16T14:00:00Z,4
+Daniel Castelo Podence,MID,Wolves,Leeds,14,0,0,1,0,3,0,0,0,0,0,0,3.1,5.2,0.5,25.0,False,2021-10-23T14:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Fulham,11,0,0,0,0,1,0,0,0,0,0,0,0.1,1.0,0.3,0.0,True,2021-11-01T20:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Everton,22,0,0,1,0,2,0,0,0,0,0,0,0.2,0.6,1.2,0.0,False,2021-11-06T15:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,West Ham,75,0,1,0,1,15,0,0,0,0,0,0,9.4,30.4,33.3,30.0,True,2021-11-20T15:00:00Z,6
+Daniel Castelo Podence,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T15:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Daniel Castelo Podence,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Man City,3,0,0,0,0,4,0,0,0,0,0,0,1.8,4.2,14.1,0.0,False,2021-12-11T12:30:00Z,1
+Daniel Castelo Podence,MID,Wolves,Burnley,90,0,0,0,1,7,0,0,0,0,0,0,6.5,14.8,6.0,44.0,False,2021-12-15T19:30:00Z,3
+Daniel Castelo Podence,MID,Wolves,Crystal Palace,78,0,0,0,1,9,0,0,0,0,0,0,5.1,6.2,20.6,24.0,True,2021-12-19T14:00:00Z,3
+Daniel Castelo Podence,MID,Wolves,Man Utd,87,0,0,0,1,14,0,0,0,0,0,0,14.1,24.4,49.5,67.0,False,2022-01-03T17:30:00Z,3
+Daniel Castelo Podence,MID,Wolves,Southampton,90,0,0,1,0,6,1,0,0,0,0,0,3.9,7.4,14.5,17.0,True,2022-01-15T15:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Brighton,90,0,0,1,0,12,0,0,0,0,0,0,2.5,4.8,20.5,0.0,False,2022-01-22T15:00:00Z,2
+Daniel Castelo Podence,MID,Wolves,Arsenal,90,0,0,1,0,13,0,0,0,0,0,0,11.7,28.8,71.2,17.0,True,2022-02-10T19:45:00Z,2
+Daniel Castelo Podence,MID,Wolves,Spurs,80,0,0,0,1,0,0,0,0,0,0,0,5.6,4.8,6.0,45.0,False,2022-02-13T14:00:00Z,3
+Daniel Castelo Podence,MID,Wolves,Leicester,80,1,0,1,0,26,1,0,0,0,0,0,7.6,38.2,11.2,27.0,True,2022-02-20T16:30:00Z,8
+Daniel Castelo Podence,MID,Wolves,Arsenal,89,0,0,1,0,15,0,0,0,0,0,0,5.3,10.0,40.8,2.0,False,2022-02-24T19:45:00Z,2
+Daniel Castelo Podence,MID,Wolves,West Ham,30,0,0,0,0,4,0,0,0,0,0,0,3.5,5.2,22.2,8.0,False,2022-02-27T14:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Everton,90,0,0,2,0,11,0,0,0,0,0,0,8.9,11.4,26.9,51.0,True,2022-03-05T15:00:00Z,2
+Daniel Castelo Podence,MID,Wolves,West Brom,90,1,0,0,1,19,0,0,0,0,0,0,7.6,36.8,9.9,29.0,True,2022-03-10T19:30:00Z,8
+Daniel Castelo Podence,MID,Wolves,Fulham,74,0,0,0,1,10,0,0,0,0,0,0,6.7,9.0,34.5,23.0,False,2022-03-13T14:00:00Z,3
+Daniel Castelo Podence,MID,Wolves,Leeds,77,0,1,2,0,24,0,0,0,0,0,0,8.8,34.0,34.6,19.0,True,2022-03-18T20:00:00Z,5
+Daniel Castelo Podence,MID,Wolves,Aston Villa,67,0,0,0,1,14,0,0,0,0,0,0,5.8,15.0,21.7,21.0,True,2022-04-02T14:00:00Z,3
+Daniel Castelo Podence,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-08T19:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Daniel Castelo Podence,MID,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T19:15:00Z,0
+Daniel Castelo Podence,MID,Wolves,Sheffield Utd,15,0,0,0,0,5,0,0,0,0,0,0,2.0,4.6,15.0,0.0,True,2022-05-15T13:00:00Z,1
+Daniel Castelo Podence,MID,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

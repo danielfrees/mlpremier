@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mateo Kovacic,MID,Chelsea,Everton,90,0,1,0,1,24,0,0,0,0,0,0,5.7,24.6,28.5,4.0,True,2021-08-14T14:00:00Z,6
+Mateo Kovacic,MID,Chelsea,Arsenal,71,0,0,0,1,8,0,0,0,0,0,0,2.2,2.4,14.8,5.0,False,2021-08-22T15:30:00Z,3
+Mateo Kovacic,MID,Chelsea,Liverpool,45,0,0,0,0,4,0,0,0,0,0,0,2.9,10.4,1.2,17.0,False,2021-08-28T16:30:00Z,1
+Mateo Kovacic,MID,Chelsea,Aston Villa,90,1,1,0,1,42,0,0,0,0,0,0,9.6,60.8,17.5,18.0,True,2021-09-11T16:30:00Z,13
+Mateo Kovacic,MID,Chelsea,Spurs,90,0,1,0,1,19,0,0,0,0,0,0,9.3,41.8,15.8,35.0,False,2021-09-19T15:30:00Z,6
+Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,15,0,0,0,0,0,0,3.1,17.6,5.2,8.0,True,2021-09-25T11:30:00Z,2
+Mateo Kovacic,MID,Chelsea,Southampton,72,0,0,1,0,14,0,0,0,0,0,0,4.2,18.4,23.3,0.0,True,2021-10-02T14:00:00Z,2
+Mateo Kovacic,MID,Chelsea,Brighton,64,0,0,0,1,7,1,0,0,0,0,0,2.8,6.4,10.5,11.0,False,2021-10-16T16:30:00Z,2
+Mateo Kovacic,MID,Chelsea,Sheffield Utd,90,0,2,0,1,49,0,0,0,0,0,0,12.9,55.4,72.3,1.0,True,2021-10-23T11:30:00Z,11
+Mateo Kovacic,MID,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Mateo Kovacic,MID,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T12:30:00Z,0
+Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T16:30:00Z,0
+Mateo Kovacic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T12:30:00Z,0
+Mateo Kovacic,MID,Chelsea,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Mateo Kovacic,MID,Chelsea,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T19:45:00Z,0
+Mateo Kovacic,MID,Chelsea,Wolves,25,0,0,0,0,7,0,0,0,0,0,0,0.8,5.2,2.5,0.0,False,2021-12-19T14:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Aston Villa,27,0,0,0,0,7,0,0,0,0,0,0,2.1,7.6,11.8,2.0,False,2021-12-26T17:30:00Z,1
+Mateo Kovacic,MID,Chelsea,Burnley,90,0,0,1,0,8,1,0,0,0,0,0,1.9,8.0,7.9,3.0,True,2021-12-29T19:30:00Z,1
+Mateo Kovacic,MID,Chelsea,Liverpool,90,1,0,2,0,42,0,0,0,0,0,0,8.5,53.0,5.3,27.0,True,2022-01-02T16:30:00Z,10
+Mateo Kovacic,MID,Chelsea,Man City,90,0,0,1,0,17,1,0,0,0,0,0,2.8,11.4,16.6,0.0,False,2022-01-15T12:30:00Z,1
+Mateo Kovacic,MID,Chelsea,Burnley,10,0,0,0,0,3,0,0,0,0,0,0,1.5,2.0,12.3,1.0,False,2022-01-18T20:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Spurs,90,0,0,0,1,10,0,0,0,0,0,0,3.6,12.2,23.8,0.0,True,2022-01-23T16:30:00Z,3
+Mateo Kovacic,MID,Chelsea,Everton,16,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.3,0.0,False,2022-02-19T15:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Chelsea,20,0,0,0,0,1,0,0,0,0,0,0,0.4,1.4,2.3,0.0,False,2022-03-05T15:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Sheffield Utd,85,0,0,1,0,14,0,0,0,0,0,0,2.4,3.0,20.4,1.0,False,2022-03-10T19:30:00Z,2
+Mateo Kovacic,MID,Chelsea,Newcastle,27,0,0,0,0,0,1,0,0,0,0,0,0.6,2.8,2.9,0.0,True,2022-03-13T14:00:00Z,0
+Mateo Kovacic,MID,Chelsea,Brighton,26,0,0,1,0,7,0,0,0,0,0,0,3.7,3.0,25.3,9.0,True,2022-04-02T14:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Southampton,90,0,0,0,1,19,0,0,0,0,0,0,6.4,33.2,31.2,0.0,False,2022-04-09T14:00:00Z,3
+Mateo Kovacic,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Mateo Kovacic,MID,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T13:00:00Z,0
+Mateo Kovacic,MID,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-28T18:45:00Z,0
+Mateo Kovacic,MID,Chelsea,Fulham,45,0,0,1,0,12,0,0,0,0,0,0,7.1,10.8,24.8,35.0,False,2022-05-01T13:00:00Z,1
+Mateo Kovacic,MID,Chelsea,Wolves,90,0,0,2,0,17,0,0,0,0,0,0,6.3,16.6,29.3,17.0,True,2022-05-07T14:00:00Z,2
+Mateo Kovacic,MID,Chelsea,Leeds,29,0,0,0,0,0,0,0,0,0,0,0,0.5,0.0,1.6,4.0,False,2022-05-11T18:30:00Z,1
+Mateo Kovacic,MID,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T19:00:00Z,0
+Mateo Kovacic,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

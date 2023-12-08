@@ -1,0 +1,18 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Sam Waller,GK,Burnley,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Sam Waller,GK,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Sam Waller,GK,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Sam Waller,GK,Burnley,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-01T19:45:00Z,0
+Sam Waller,GK,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Sam Waller,GK,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T15:00:00Z,0
+Sam Waller,GK,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Sam Waller,GK,Burnley,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-06T18:30:00Z,0
+Sam Waller,GK,Burnley,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T13:00:00Z,0
+Sam Waller,GK,Burnley,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-17T13:15:00Z,0
+Sam Waller,GK,Burnley,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-21T18:45:00Z,0
+Sam Waller,GK,Burnley,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T13:00:00Z,0
+Sam Waller,GK,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Sam Waller,GK,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Sam Waller,GK,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T11:00:00Z,0
+Sam Waller,GK,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-19T19:00:00Z,0
+Sam Waller,GK,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

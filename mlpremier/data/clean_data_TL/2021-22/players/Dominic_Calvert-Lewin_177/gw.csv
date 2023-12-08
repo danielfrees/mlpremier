@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Dominic Calvert-Lewin,FWD,Everton,Southampton,90,1,0,1,0,26,0,0,0,0,0,0,12.0,34.2,2.3,83.0,True,2021-08-14T14:00:00Z,7
+Dominic Calvert-Lewin,FWD,Everton,Leeds,89,1,0,2,0,26,0,0,0,0,0,0,14.7,47.8,25.4,74.0,False,2021-08-21T14:00:00Z,7
+Dominic Calvert-Lewin,FWD,Everton,Burnley,69,1,0,0,1,34,0,0,0,0,0,0,7.0,36.4,12.1,21.0,False,2021-08-28T14:00:00Z,9
+Dominic Calvert-Lewin,FWD,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-13T19:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T16:30:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T11:30:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-17T13:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-01T20:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-21T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T20:15:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-06T20:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-12T16:30:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-16T19:45:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Burnley,90,0,0,3,0,-6,0,0,0,0,1,0,5.1,1.4,2.8,47.0,True,2022-01-02T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Sheffield Utd,90,0,0,2,0,7,0,0,0,0,0,0,3.6,15.4,1.8,19.0,False,2022-01-15T15:00:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Aston Villa,90,0,0,1,0,-6,1,0,0,0,0,0,3.9,0.4,23.4,15.0,True,2022-01-22T12:30:00Z,1
+Dominic Calvert-Lewin,FWD,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Leeds,71,0,0,0,1,6,0,0,0,0,0,0,5.8,5.6,15.7,37.0,True,2022-02-12T15:00:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Southampton,90,0,0,2,0,3,1,0,0,0,0,0,3.1,0.8,4.1,26.0,False,2022-02-19T15:00:00Z,1
+Dominic Calvert-Lewin,FWD,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T17:30:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Spurs,68,0,0,5,0,3,0,0,0,0,0,0,3.1,0.0,0.5,32.0,False,2022-03-07T20:00:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Newcastle,14,0,1,0,0,16,0,0,0,0,0,0,3.0,18.2,11.6,0.0,True,2022-03-17T19:45:00Z,4
+Dominic Calvert-Lewin,FWD,Everton,West Ham,77,0,0,2,0,3,0,0,0,0,0,0,1.9,0.8,2.7,15.0,False,2022-04-03T13:00:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Chelsea,90,0,0,3,0,1,0,0,0,0,0,0,2.0,0.0,12.6,8.0,False,2022-04-06T18:30:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Man Utd,70,0,0,0,1,5,0,0,0,0,0,0,0.3,1.2,1.8,0.0,True,2022-04-09T11:30:00Z,2
+Dominic Calvert-Lewin,FWD,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T15:30:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Dominic Calvert-Lewin,FWD,Everton,West Brom,13,0,0,0,0,1,0,0,0,0,0,0,0.3,0.0,1.2,2.0,False,2022-05-11T18:45:00Z,1
+Dominic Calvert-Lewin,FWD,Everton,Brighton,90,1,0,3,0,32,0,0,0,0,0,0,7.3,35.6,2.4,35.0,True,2022-05-15T15:30:00Z,8
+Dominic Calvert-Lewin,FWD,Everton,Everton,90,1,0,2,0,34,0,0,0,0,0,0,6.8,38.6,2.8,27.0,True,2022-05-19T18:45:00Z,9
+Dominic Calvert-Lewin,FWD,Everton,Arsenal,90,0,1,5,0,22,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,5

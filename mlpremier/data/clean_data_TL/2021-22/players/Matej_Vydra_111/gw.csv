@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Matej Vydra,FWD,Burnley,Burnley,5,0,0,0,0,2,0,0,0,0,0,0,1.0,0.0,0.3,12.0,True,2021-08-14T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T11:30:00Z,0
+Matej Vydra,FWD,Burnley,Leeds,11,0,0,1,0,2,0,0,0,0,0,0,0.2,1.2,0.3,0.0,True,2021-08-29T13:00:00Z,1
+Matej Vydra,FWD,Burnley,Fulham,14,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-13T19:00:00Z,1
+Matej Vydra,FWD,Burnley,Arsenal,33,0,0,0,0,0,0,0,0,0,0,0,0.9,0.0,0.8,8.0,True,2021-09-18T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Leicester,74,0,1,1,0,16,0,0,0,0,0,0,7.5,26.2,22.0,27.0,False,2021-09-25T14:00:00Z,5
+Matej Vydra,FWD,Burnley,Sheffield Utd,34,0,0,0,0,2,0,0,0,0,0,0,2.6,4.2,0.8,21.0,True,2021-10-02T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Matej Vydra,FWD,Burnley,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Brighton,22,0,0,1,0,3,0,0,0,0,0,0,0.4,1.2,0.3,2.0,True,2021-10-30T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Crystal Palace,20,1,0,0,0,24,0,0,0,0,0,0,7.1,36.2,0.3,34.0,False,2021-11-06T15:00:00Z,7
+Matej Vydra,FWD,Burnley,Everton,6,0,0,0,0,0,0,0,0,0,0,0,2.2,3.0,0.0,19.0,True,2021-11-20T15:00:00Z,1
+Matej Vydra,FWD,Burnley,Wolves,18,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.3,2.0,False,2021-12-01T19:30:00Z,1
+Matej Vydra,FWD,Burnley,Newcastle,58,0,0,1,0,2,0,0,0,0,0,0,1.7,0.0,11.8,6.0,False,2021-12-04T15:00:00Z,1
+Matej Vydra,FWD,Burnley,West Ham,30,0,0,0,0,6,0,0,0,0,0,0,1.7,8.0,0.5,8.0,True,2021-12-12T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Man Utd,16,0,0,0,0,3,0,0,0,0,0,0,0.5,0.0,0.5,4.0,False,2021-12-30T20:15:00Z,1
+Matej Vydra,FWD,Burnley,Leeds,6,0,0,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,1
+Matej Vydra,FWD,Burnley,Arsenal,90,0,0,0,1,9,0,0,0,0,0,0,3.9,9.6,11.7,18.0,False,2022-01-23T14:00:00Z,2
+Matej Vydra,FWD,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-05T18:00:00Z,0
+Matej Vydra,FWD,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T20:00:00Z,0
+Matej Vydra,FWD,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Matej Vydra,FWD,Burnley,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Matej Vydra,FWD,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Matej Vydra,FWD,Burnley,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Matej Vydra,FWD,Burnley,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-01T19:45:00Z,0
+Matej Vydra,FWD,Burnley,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Matej Vydra,FWD,Burnley,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T15:00:00Z,0
+Matej Vydra,FWD,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Matej Vydra,FWD,Burnley,Fulham,10,0,1,0,0,13,0,0,0,0,0,0,3.5,15.2,11.3,8.0,True,2022-04-06T18:30:00Z,4
+Matej Vydra,FWD,Burnley,Sheffield Utd,34,0,0,1,0,-2,0,0,0,0,0,0,0.6,0.0,0.6,9.0,False,2022-04-10T13:00:00Z,1
+Matej Vydra,FWD,Burnley,West Ham,11,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,1.8,0.0,False,2022-04-17T13:15:00Z,1
+Matej Vydra,FWD,Burnley,Southampton,12,0,0,0,0,3,0,0,0,0,0,0,0.2,2.0,0.0,0.0,True,2022-04-21T18:45:00Z,1
+Matej Vydra,FWD,Burnley,Wolves,70,1,0,0,1,27,1,0,0,0,0,0,6.8,43.2,0.8,24.0,True,2022-04-24T13:00:00Z,7
+Matej Vydra,FWD,Burnley,West Brom,90,0,1,1,0,15,0,0,0,0,0,0,7.3,22.2,13.4,37.0,False,2022-04-30T14:00:00Z,5
+Matej Vydra,FWD,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Matej Vydra,FWD,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T11:00:00Z,0
+Matej Vydra,FWD,Burnley,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-19T19:00:00Z,0
+Matej Vydra,FWD,Burnley,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

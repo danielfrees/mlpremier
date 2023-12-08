@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Harvey Barnes,MID,Leicester,Wolves,71,0,0,0,1,-1,0,0,0,0,0,0,2.7,2.8,1.5,23.0,True,2021-08-14T14:00:00Z,3
+Harvey Barnes,MID,Leicester,West Ham,63,0,0,2,0,6,0,0,0,0,0,0,2.4,3.6,12.3,8.0,False,2021-08-23T19:00:00Z,2
+Harvey Barnes,MID,Leicester,Sheffield Utd,66,0,0,1,0,2,0,0,0,0,0,0,2.3,1.6,7.1,14.0,False,2021-08-28T14:00:00Z,2
+Harvey Barnes,MID,Leicester,Man City,72,0,0,1,0,4,0,0,0,0,0,0,1.0,0.0,4.3,6.0,True,2021-09-11T14:00:00Z,2
+Harvey Barnes,MID,Leicester,Burnley,90,0,0,2,0,7,0,0,0,0,0,0,8.7,14.4,49.6,23.0,False,2021-09-19T13:00:00Z,2
+Harvey Barnes,MID,Leicester,Chelsea,90,0,0,2,0,7,1,0,0,0,0,0,13.6,6.4,14.8,115.0,True,2021-09-25T14:00:00Z,1
+Harvey Barnes,MID,Leicester,Everton,90,0,1,2,0,11,1,0,0,0,0,0,6.1,26.6,12.3,22.0,False,2021-10-03T13:00:00Z,4
+Harvey Barnes,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Harvey Barnes,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Harvey Barnes,MID,Leicester,Arsenal,45,0,0,0,0,-1,0,0,0,0,0,0,11.6,10.4,5.9,100.0,True,2021-10-30T11:30:00Z,1
+Harvey Barnes,MID,Leicester,Leeds,69,1,0,1,0,22,0,0,0,0,0,0,7.6,41.2,0.7,34.0,False,2021-11-07T14:00:00Z,10
+Harvey Barnes,MID,Leicester,Crystal Palace,45,0,0,2,0,1,0,0,0,0,0,0,0.1,0.0,2.1,0.0,True,2021-11-20T12:30:00Z,1
+Harvey Barnes,MID,Leicester,West Brom,90,0,1,2,0,13,0,0,0,0,0,0,7.2,9.2,26.2,37.0,True,2021-11-28T14:00:00Z,5
+Harvey Barnes,MID,Leicester,Southampton,74,0,0,2,0,10,0,0,0,0,0,0,8.2,12.4,26.1,43.0,False,2021-12-01T19:30:00Z,2
+Harvey Barnes,MID,Leicester,Aston Villa,90,1,0,2,0,22,0,0,0,0,0,0,11.0,42.6,17.4,50.0,False,2021-12-05T16:30:00Z,8
+Harvey Barnes,MID,Leicester,Newcastle,70,0,1,0,1,17,0,0,0,0,0,0,3.2,14.2,11.2,7.0,True,2021-12-12T14:00:00Z,6
+Harvey Barnes,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Harvey Barnes,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T20:00:00Z,0
+Harvey Barnes,MID,Leicester,Spurs,15,0,1,2,0,17,0,0,0,0,0,0,5.0,18.2,11.4,20.0,True,2022-01-19T19:30:00Z,4
+Harvey Barnes,MID,Leicester,Burnley,63,0,1,0,1,17,0,0,0,0,0,0,4.3,5.2,14.6,23.0,True,2022-01-23T14:00:00Z,6
+Harvey Barnes,MID,Leicester,Liverpool,11,0,0,1,0,2,0,0,0,0,0,0,1.6,2.2,10.1,4.0,False,2022-02-10T19:45:00Z,1
+Harvey Barnes,MID,Leicester,West Ham,90,0,1,2,0,16,0,0,0,0,0,0,12.0,28.4,26.8,65.0,True,2022-02-13T16:30:00Z,5
+Harvey Barnes,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T16:30:00Z,0
+Harvey Barnes,MID,Leicester,Chelsea,90,0,1,0,1,16,0,0,0,0,0,0,14.6,26.2,27.7,92.0,False,2022-03-01T19:45:00Z,6
+Harvey Barnes,MID,Leicester,Leeds,90,1,0,0,1,30,0,0,0,0,0,0,10.4,42.8,2.8,58.0,True,2022-03-05T12:30:00Z,10
+Harvey Barnes,MID,Leicester,Arsenal,90,0,0,2,0,2,0,0,0,0,0,0,5.0,7.6,4.3,38.0,False,2022-03-13T16:30:00Z,2
+Harvey Barnes,MID,Leicester,Brighton,90,0,1,1,0,13,0,0,0,0,0,0,4.3,21.2,13.8,8.0,True,2022-03-20T14:00:00Z,5
+Harvey Barnes,MID,Leicester,Man Utd,90,0,0,1,0,8,0,0,0,0,0,0,6.6,0.0,14.8,52.0,False,2022-04-02T16:30:00Z,2
+Harvey Barnes,MID,Leicester,Everton,13,0,0,0,0,5,0,0,0,0,0,0,1.9,4.0,15.0,0.0,True,2022-04-10T13:00:00Z,1
+Harvey Barnes,MID,Leicester,Newcastle,24,0,0,1,0,3,0,0,0,0,0,0,0.8,5.4,2.1,0.0,False,2022-04-17T13:15:00Z,1
+Harvey Barnes,MID,Leicester,Fulham,66,1,0,0,1,22,0,0,0,0,0,0,7.6,37.4,3.5,35.0,False,2022-04-20T18:45:00Z,11
+Harvey Barnes,MID,Leicester,Aston Villa,10,0,0,0,0,2,0,0,0,0,0,0,0.2,0.0,0.8,3.0,True,2022-04-23T14:00:00Z,1
+Harvey Barnes,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Harvey Barnes,MID,Leicester,Fulham,45,0,0,0,0,2,0,0,0,0,0,0,5.6,12.4,13.3,30.0,True,2022-05-08T13:00:00Z,1
+Harvey Barnes,MID,Leicester,Sheffield Utd,90,0,2,0,1,29,0,0,0,0,0,0,8.7,36.2,27.7,23.0,True,2022-05-11T18:45:00Z,9
+Harvey Barnes,MID,Leicester,West Brom,90,2,1,1,0,54,0,0,0,0,0,0,16.2,89.6,30.7,42.0,False,2022-05-15T13:00:00Z,16
+Harvey Barnes,MID,Leicester,Crystal Palace,27,0,0,0,0,2,0,0,0,0,0,0,0.5,3.0,2.1,0.0,False,2022-05-19T19:00:00Z,1
+Harvey Barnes,MID,Leicester,Southampton,76,0,1,0,1,17,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,6

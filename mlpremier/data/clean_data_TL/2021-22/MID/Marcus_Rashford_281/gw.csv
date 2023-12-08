@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Marcus Rashford,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T11:30:00Z,0
+Marcus Rashford,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T13:00:00Z,0
+Marcus Rashford,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T15:30:00Z,0
+Marcus Rashford,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Marcus Rashford,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+Marcus Rashford,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Marcus Rashford,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T11:30:00Z,0
+Marcus Rashford,MID,Man Utd,Leicester,25,1,0,3,0,20,0,0,0,0,0,0,5.4,33.4,1.5,19.0,False,2021-10-16T14:00:00Z,6
+Marcus Rashford,MID,Man Utd,Liverpool,61,0,0,5,0,4,0,0,0,0,0,0,4.8,1.6,2.4,44.0,True,2021-10-24T15:30:00Z,2
+Marcus Rashford,MID,Man Utd,Spurs,19,1,0,0,0,20,0,0,0,0,0,0,5.0,32.0,0.5,17.0,False,2021-10-30T16:30:00Z,6
+Marcus Rashford,MID,Man Utd,Man City,23,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.4,0.0,True,2021-11-06T12:30:00Z,1
+Marcus Rashford,MID,Man Utd,West Brom,45,0,0,2,0,0,0,0,0,0,0,0,3.4,6.6,5.9,21.0,False,2021-11-20T15:00:00Z,1
+Marcus Rashford,MID,Man Utd,Crystal Palace,76,0,0,1,0,1,1,0,0,0,0,0,0.9,0.8,2.6,6.0,False,2021-11-28T16:30:00Z,1
+Marcus Rashford,MID,Man Utd,Arsenal,78,0,1,2,0,16,0,0,0,0,0,0,6.8,27.2,25.6,15.0,True,2021-12-02T20:15:00Z,5
+Marcus Rashford,MID,Man Utd,Everton,75,0,0,0,1,3,0,0,0,0,0,0,5.9,6.2,38.8,14.0,True,2021-12-05T14:00:00Z,3
+Marcus Rashford,MID,Man Utd,Sheffield Utd,90,0,0,0,1,8,0,0,0,0,0,0,4.1,3.0,13.3,25.0,False,2021-12-11T17:30:00Z,3
+Marcus Rashford,MID,Man Utd,Newcastle,90,0,0,1,0,16,0,0,0,0,0,0,4.8,14.0,3.3,31.0,False,2021-12-27T20:00:00Z,2
+Marcus Rashford,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-30T20:15:00Z,0
+Marcus Rashford,MID,Man Utd,Wolves,15,0,0,1,0,6,0,0,0,0,0,0,0.6,4.0,0.3,2.0,True,2022-01-03T17:30:00Z,1
+Marcus Rashford,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T17:30:00Z,0
+Marcus Rashford,MID,Man Utd,Brighton,19,1,0,1,0,21,0,0,0,0,0,0,5.3,34.0,0.3,19.0,False,2022-01-19T20:00:00Z,6
+Marcus Rashford,MID,Man Utd,West Ham,28,1,0,0,0,22,0,0,0,0,0,0,7.2,31.4,1.4,39.0,True,2022-01-22T15:00:00Z,6
+Marcus Rashford,MID,Man Utd,Chelsea,84,0,0,1,0,0,0,0,0,0,0,0,9.1,7.8,12.8,70.0,False,2022-02-08T20:00:00Z,2
+Marcus Rashford,MID,Man Utd,Southampton,81,0,1,1,0,10,1,0,0,0,0,0,3.5,13.4,13.2,8.0,True,2022-02-12T12:30:00Z,4
+Marcus Rashford,MID,Man Utd,Burnley,11,0,0,0,0,4,0,0,0,0,0,0,1.4,2.6,11.4,0.0,True,2022-02-15T20:15:00Z,1
+Marcus Rashford,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T14:00:00Z,0
+Marcus Rashford,MID,Man Utd,West Brom,16,0,0,0,0,2,0,0,0,0,0,0,0.8,0.0,1.8,6.0,True,2022-02-26T15:00:00Z,1
+Marcus Rashford,MID,Man Utd,Man City,26,0,0,2,0,3,0,0,0,0,0,0,0.5,1.0,0.3,4.0,False,2022-03-06T16:30:00Z,1
+Marcus Rashford,MID,Man Utd,Spurs,67,0,0,1,0,7,0,0,0,0,0,0,0.7,5.2,1.5,0.0,True,2022-03-12T17:30:00Z,2
+Marcus Rashford,MID,Man Utd,Leicester,35,0,0,1,0,0,0,0,0,0,0,0,0.7,0.4,2.5,4.0,True,2022-04-02T16:30:00Z,1
+Marcus Rashford,MID,Man Utd,Fulham,63,0,0,1,0,-2,0,0,0,0,0,0,6.4,8.0,7.9,48.0,False,2022-04-09T11:30:00Z,2
+Marcus Rashford,MID,Man Utd,Sheffield Utd,16,0,0,0,0,0,0,0,0,0,0,0,1.2,0.0,4.4,8.0,True,2022-04-16T14:00:00Z,1
+Marcus Rashford,MID,Man Utd,Liverpool,90,0,0,4,0,2,0,0,0,0,0,0,0.6,1.2,0.8,4.0,False,2022-04-19T19:00:00Z,2
+Marcus Rashford,MID,Man Utd,Arsenal,13,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.8,0.0,False,2022-04-23T11:30:00Z,1
+Marcus Rashford,MID,Man Utd,Crystal Palace,78,0,0,1,0,3,0,0,0,0,0,0,0.2,0.0,1.7,2.0,True,2022-04-28T18:45:00Z,2
+Marcus Rashford,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-02T19:00:00Z,0
+Marcus Rashford,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T16:30:00Z,0
+Marcus Rashford,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

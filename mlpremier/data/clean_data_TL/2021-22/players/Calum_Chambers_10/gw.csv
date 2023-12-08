@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Calum Chambers,DEF,Arsenal,Brighton,80,0,0,2,0,14,0,0,0,0,0,0,4.2,13.2,16.8,12.0,False,2021-08-13T19:00:00Z,1
+Calum Chambers,DEF,Arsenal,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T15:30:00Z,0
+Calum Chambers,DEF,Arsenal,Man City,90,0,0,5,0,13,0,0,0,0,0,0,3.3,32.2,0.4,0.0,False,2021-08-28T11:30:00Z,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-26T15:30:00Z,0
+Calum Chambers,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T16:30:00Z,0
+Calum Chambers,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-18T19:00:00Z,0
+Calum Chambers,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-22T19:00:00Z,0
+Calum Chambers,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T11:30:00Z,0
+Calum Chambers,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T17:30:00Z,0
+Calum Chambers,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T12:30:00Z,0
+Calum Chambers,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T20:15:00Z,0
+Calum Chambers,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-06T20:00:00Z,0
+Calum Chambers,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Calum Chambers,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T20:00:00Z,0
+Calum Chambers,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-18T17:30:00Z,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T15:00:00Z,0
+Calum Chambers,DEF,Arsenal,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T12:30:00Z,0
+Calum Chambers,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Leeds,1,0,0,0,0,3,0,0,0,0,0,0,0.4,0.0,0.0,4.0,True,2022-02-09T20:00:00Z,1
+Calum Chambers,DEF,Arsenal,Newcastle,90,0,0,1,0,11,0,0,0,0,0,0,1.9,18.0,1.0,0.0,False,2022-02-13T14:00:00Z,2
+Calum Chambers,DEF,Arsenal,West Brom,90,0,0,1,0,14,0,0,0,0,0,0,2.7,23.0,1.7,2.0,True,2022-02-19T15:00:00Z,2
+Calum Chambers,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:30:00Z,0
+Calum Chambers,DEF,Arsenal,Southampton,90,0,0,0,1,23,0,0,0,0,0,0,2.2,18.8,3.5,0.0,True,2022-03-05T15:00:00Z,6
+Calum Chambers,DEF,Arsenal,Leeds,90,1,0,0,1,36,0,0,0,0,0,0,6.4,45.0,0.0,19.0,False,2022-03-10T19:45:00Z,14
+Calum Chambers,DEF,Arsenal,West Ham,90,0,0,2,0,12,0,0,0,0,0,0,3.0,9.8,0.2,20.0,False,2022-03-13T14:00:00Z,1
+Calum Chambers,DEF,Arsenal,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-19T12:30:00Z,0
+Calum Chambers,DEF,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T16:30:00Z,0
+Calum Chambers,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Calum Chambers,DEF,Arsenal,Sheffield Utd,90,0,0,0,1,23,1,0,0,0,0,0,1.7,16.8,0.0,0.0,True,2022-04-30T14:00:00Z,5
+Calum Chambers,DEF,Arsenal,Chelsea,68,0,0,0,1,17,0,0,0,0,0,0,0.9,7.8,1.6,0.0,False,2022-05-07T14:00:00Z,6
+Calum Chambers,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-10T19:00:00Z,0
+Calum Chambers,DEF,Arsenal,Everton,40,0,0,1,0,4,0,0,0,0,0,0,0.6,5.8,0.3,0.0,True,2022-05-15T13:00:00Z,1
+Calum Chambers,DEF,Arsenal,Chelsea,90,0,0,1,0,15,0,0,0,0,0,0,5.2,20.6,27.3,4.0,True,2022-05-19T19:00:00Z,2
+Calum Chambers,DEF,Arsenal,Man City,90,0,0,3,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1

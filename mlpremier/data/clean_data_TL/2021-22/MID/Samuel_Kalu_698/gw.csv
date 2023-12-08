@@ -1,0 +1,20 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Samuel Kalu,MID,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-21T20:00:00Z,0
+Samuel Kalu,MID,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-05T18:00:00Z,0
+Samuel Kalu,MID,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Samuel Kalu,MID,Watford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+Samuel Kalu,MID,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Samuel Kalu,MID,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Samuel Kalu,MID,Watford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Samuel Kalu,MID,Watford,Arsenal,1,0,0,0,0,4,0,0,0,0,0,0,1.2,4.0,1.1,7.0,True,2022-03-06T14:00:00Z,1
+Samuel Kalu,MID,Watford,Wolves,45,0,0,1,0,2,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,2022-03-10T19:30:00Z,1
+Samuel Kalu,MID,Watford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Samuel Kalu,MID,Watford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T11:30:00Z,0
+Samuel Kalu,MID,Watford,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T14:00:00Z,0
+Samuel Kalu,MID,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T14:00:00Z,0
+Samuel Kalu,MID,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Samuel Kalu,MID,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Samuel Kalu,MID,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Samuel Kalu,MID,Watford,Fulham,85,0,0,0,1,12,0,0,0,0,0,0,2.8,8.8,12.2,7.0,True,2022-05-11T18:45:00Z,3
+Samuel Kalu,MID,Watford,Leicester,90,0,0,5,0,5,0,0,0,0,0,0,3.7,8.8,18.3,10.0,True,2022-05-15T13:00:00Z,2
+Samuel Kalu,MID,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

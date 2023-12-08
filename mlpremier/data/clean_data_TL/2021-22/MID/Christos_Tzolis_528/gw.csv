@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Christos Tzolis,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T16:30:00Z,0
+Christos Tzolis,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Arsenal,68,0,0,1,0,13,0,0,0,0,0,0,3.7,9.2,21.6,6.0,False,2021-09-11T14:00:00Z,2
+Christos Tzolis,MID,Norwich,West Brom,20,0,0,1,0,3,0,0,0,0,0,0,1.5,2.4,10.7,2.0,True,2021-09-18T14:00:00Z,1
+Christos Tzolis,MID,Norwich,Fulham,21,0,0,1,0,3,0,0,0,0,0,0,2.4,3.4,14.8,6.0,False,2021-09-25T14:00:00Z,1
+Christos Tzolis,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T11:30:00Z,0
+Christos Tzolis,MID,Norwich,Leeds,21,0,0,0,0,3,0,0,0,0,0,0,0.1,1.2,0.1,0.0,True,2021-10-31T14:00:00Z,1
+Christos Tzolis,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T15:00:00Z,0
+Christos Tzolis,MID,Norwich,Southampton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-11-20T15:00:00Z,1
+Christos Tzolis,MID,Norwich,Wolves,22,0,0,0,0,5,0,0,0,0,0,0,0.5,2.4,0.8,2.0,True,2021-11-27T15:00:00Z,1
+Christos Tzolis,MID,Norwich,Newcastle,45,0,0,0,0,7,0,0,0,0,0,0,9.2,11.0,14.8,66.0,False,2021-11-30T19:30:00Z,1
+Christos Tzolis,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T17:30:00Z,0
+Christos Tzolis,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-14T19:45:00Z,0
+Christos Tzolis,MID,Norwich,Arsenal,15,0,0,2,0,3,0,0,0,0,0,0,0.1,0.4,0.3,0.0,True,2021-12-26T15:00:00Z,1
+Christos Tzolis,MID,Norwich,Everton,67,0,0,3,0,5,0,0,0,0,0,0,3.6,4.2,11.6,20.0,False,2021-12-28T15:00:00Z,2
+Christos Tzolis,MID,Norwich,West Ham,18,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.1,1.0,False,2022-01-12T19:45:00Z,1
+Christos Tzolis,MID,Norwich,Fulham,3,0,0,0,0,3,0,0,0,0,0,0,2.7,4.2,20.3,2.0,True,2022-01-15T15:00:00Z,1
+Christos Tzolis,MID,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-21T20:00:00Z,0
+Christos Tzolis,MID,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Christos Tzolis,MID,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T17:30:00Z,0
+Christos Tzolis,MID,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Christos Tzolis,MID,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-25T20:00:00Z,0
+Christos Tzolis,MID,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Christos Tzolis,MID,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Christos Tzolis,MID,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Burnley,9,0,0,0,0,3,0,0,0,0,0,0,0.3,0.2,0.5,2.0,False,2022-04-02T14:00:00Z,1
+Christos Tzolis,MID,Norwich,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,1
+Christos Tzolis,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Christos Tzolis,MID,Norwich,Newcastle,15,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,1.1,0.0,True,2022-04-23T14:00:00Z,1
+Christos Tzolis,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Christos Tzolis,MID,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Christos Tzolis,MID,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Christos Tzolis,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Christos Tzolis,MID,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

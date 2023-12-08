@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Christian Kabasele,DEF,Watford,Aston Villa,90,0,0,2,0,12,0,0,0,0,0,0,2.4,20.2,0.1,4.0,True,2021-08-14T14:00:00Z,1
+Christian Kabasele,DEF,Watford,Burnley,90,0,0,2,0,16,0,0,0,0,0,0,2.9,28.4,0.2,0.0,False,2021-08-21T16:30:00Z,1
+Christian Kabasele,DEF,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T13:00:00Z,0
+Christian Kabasele,DEF,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Leeds,22,0,0,0,0,2,0,0,0,0,0,0,0.2,1.6,0.0,0.0,False,2021-10-02T14:00:00Z,1
+Christian Kabasele,DEF,Watford,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T11:30:00Z,0
+Christian Kabasele,DEF,Watford,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Christian Kabasele,DEF,Watford,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Christian Kabasele,DEF,Watford,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T17:30:00Z,0
+Christian Kabasele,DEF,Watford,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-10T20:00:00Z,0
+Christian Kabasele,DEF,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T15:00:00Z,0
+Christian Kabasele,DEF,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-01T15:00:00Z,0
+Christian Kabasele,DEF,Watford,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T15:00:00Z,0
+Christian Kabasele,DEF,Watford,Sheffield Utd,90,0,0,3,0,15,0,0,0,0,0,0,3.2,20.0,10.3,2.0,True,2022-01-21T20:00:00Z,1
+Christian Kabasele,DEF,Watford,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-05T18:00:00Z,0
+Christian Kabasele,DEF,Watford,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Christian Kabasele,DEF,Watford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+Christian Kabasele,DEF,Watford,Aston Villa,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,2022-02-19T15:00:00Z,1
+Christian Kabasele,DEF,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Christian Kabasele,DEF,Watford,Man Utd,27,0,0,0,0,5,0,0,0,0,0,0,0.5,5.4,0.0,0.0,False,2022-02-26T15:00:00Z,1
+Christian Kabasele,DEF,Watford,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-06T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Wolves,60,0,0,1,0,7,0,0,0,0,0,0,1.3,3.6,4.8,5.0,False,2022-03-10T19:30:00Z,2
+Christian Kabasele,DEF,Watford,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,2.0,19.8,0.0,0.0,False,2022-03-13T14:00:00Z,2
+Christian Kabasele,DEF,Watford,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,2.8,28.0,0.1,0.0,False,2022-04-02T11:30:00Z,1
+Christian Kabasele,DEF,Watford,Leeds,90,0,0,3,0,11,0,0,0,0,0,0,1.9,14.4,0.1,4.0,True,2022-04-09T14:00:00Z,1
+Christian Kabasele,DEF,Watford,Brighton,90,0,0,2,0,20,0,0,0,0,0,0,2.7,26.4,0.4,0.0,True,2022-04-16T14:00:00Z,1
+Christian Kabasele,DEF,Watford,Man City,90,0,0,5,0,10,0,0,0,0,0,0,1.6,15.8,0.2,0.0,False,2022-04-23T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Chelsea,90,0,0,2,0,8,0,0,0,0,0,0,1.0,9.6,0.0,0.0,True,2022-04-30T14:00:00Z,1
+Christian Kabasele,DEF,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+Christian Kabasele,DEF,Watford,Fulham,90,0,0,0,1,23,0,0,0,0,0,0,2.2,17.6,0.6,4.0,True,2022-05-11T18:45:00Z,6
+Christian Kabasele,DEF,Watford,Leicester,90,0,0,5,0,1,0,0,0,0,0,0,3.9,5.2,10.3,23.0,True,2022-05-15T13:00:00Z,0
+Christian Kabasele,DEF,Watford,Crystal Palace,90,0,0,2,0,8,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1

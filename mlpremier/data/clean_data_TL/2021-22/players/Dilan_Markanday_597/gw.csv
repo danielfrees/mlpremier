@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Dilan Markanday,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T11:30:00Z,0
+Dilan Markanday,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T15:30:00Z,0
+Dilan Markanday,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-26T15:30:00Z,0
+Dilan Markanday,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Dilan Markanday,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T15:30:00Z,0
+Dilan Markanday,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Dilan Markanday,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Dilan Markanday,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-21T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T19:30:00Z,0
+Dilan Markanday,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T14:00:00Z,0
+Dilan Markanday,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Dilan Markanday,MID,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T15:00:00Z,0
+Dilan Markanday,MID,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T15:00:00Z,0
+Dilan Markanday,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T19:30:00Z,0
+Dilan Markanday,MID,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Dilan Markanday,MID,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Dilan Markanday,MID,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T17:30:00Z,0
+Dilan Markanday,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-23T19:30:00Z,0
+Dilan Markanday,MID,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T12:30:00Z,0
+Dilan Markanday,MID,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-07T20:00:00Z,0
+Dilan Markanday,MID,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T17:30:00Z,0
+Dilan Markanday,MID,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T19:30:00Z,0
+Dilan Markanday,MID,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-20T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-03T15:30:00Z,0
+Dilan Markanday,MID,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T11:30:00Z,0
+Dilan Markanday,MID,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T16:30:00Z,0
+Dilan Markanday,MID,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Dilan Markanday,MID,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T18:45:00Z,0
+Dilan Markanday,MID,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-12T18:45:00Z,0
+Dilan Markanday,MID,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T11:00:00Z,0
+Dilan Markanday,MID,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

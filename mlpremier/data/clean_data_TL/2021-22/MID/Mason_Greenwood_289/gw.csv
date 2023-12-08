@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mason Greenwood,MID,Man Utd,Leeds,90,1,0,1,0,28,0,0,0,0,0,0,9.2,41.2,23.7,27.0,True,2021-08-14T11:30:00Z,8
+Mason Greenwood,MID,Man Utd,Southampton,90,1,0,1,0,21,0,0,0,0,0,0,7.9,33.6,14.7,31.0,False,2021-08-22T13:00:00Z,10
+Mason Greenwood,MID,Man Utd,Wolves,89,1,0,0,1,24,0,0,0,0,0,0,9.5,37.8,26.4,31.0,False,2021-08-29T15:30:00Z,8
+Mason Greenwood,MID,Man Utd,Newcastle,84,0,1,1,0,19,0,0,0,0,0,0,7.7,8.6,29.2,39.0,True,2021-09-11T14:00:00Z,5
+Mason Greenwood,MID,Man Utd,West Ham,72,0,0,1,0,15,0,0,0,0,0,0,3.0,9.2,19.2,2.0,False,2021-09-19T13:00:00Z,2
+Mason Greenwood,MID,Man Utd,Aston Villa,90,0,0,1,0,8,0,0,0,0,0,0,16.2,13.6,39.1,109.0,True,2021-09-25T11:30:00Z,2
+Mason Greenwood,MID,Man Utd,Fulham,90,0,0,1,0,6,1,0,0,0,0,0,3.8,11.2,8.7,18.0,True,2021-10-02T11:30:00Z,1
+Mason Greenwood,MID,Man Utd,Leicester,79,1,0,2,0,19,0,0,0,0,0,0,5.9,32.4,2.8,24.0,False,2021-10-16T14:00:00Z,7
+Mason Greenwood,MID,Man Utd,Liverpool,45,0,0,4,0,7,0,0,0,0,0,0,5.0,7.8,21.4,21.0,True,2021-10-24T15:30:00Z,1
+Mason Greenwood,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T16:30:00Z,0
+Mason Greenwood,MID,Man Utd,Man City,66,0,0,2,0,0,0,0,0,0,0,0,0.7,0.0,2.2,5.0,True,2021-11-06T12:30:00Z,2
+Mason Greenwood,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Mason Greenwood,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T16:30:00Z,0
+Mason Greenwood,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T20:15:00Z,0
+Mason Greenwood,MID,Man Utd,Everton,28,0,1,0,0,15,0,0,0,0,0,0,3.3,19.2,11.2,3.0,True,2021-12-05T14:00:00Z,4
+Mason Greenwood,MID,Man Utd,Sheffield Utd,23,0,0,0,0,1,0,0,0,0,0,0,0.1,0.0,0.8,2.0,False,2021-12-11T17:30:00Z,1
+Mason Greenwood,MID,Man Utd,Newcastle,45,0,0,1,0,1,0,0,0,0,0,0,3.0,3.4,1.2,25.0,False,2021-12-27T20:00:00Z,1
+Mason Greenwood,MID,Man Utd,Chelsea,80,0,0,1,0,12,0,0,0,0,0,0,10.0,16.4,31.1,52.0,True,2021-12-30T20:15:00Z,2
+Mason Greenwood,MID,Man Utd,Wolves,59,0,0,0,0,5,0,0,0,0,0,0,2.8,5.4,13.1,9.0,True,2022-01-03T17:30:00Z,1
+Mason Greenwood,MID,Man Utd,Aston Villa,88,0,0,2,0,2,0,0,0,0,0,0,5.6,4.6,2.3,49.0,False,2022-01-15T17:30:00Z,2
+Mason Greenwood,MID,Man Utd,Brighton,70,1,0,0,1,35,0,0,0,0,0,0,8.5,40.0,13.9,31.0,False,2022-01-19T20:00:00Z,11
+Mason Greenwood,MID,Man Utd,West Ham,81,0,0,0,1,14,0,0,0,0,0,0,5.1,7.8,5.1,38.0,True,2022-01-22T15:00:00Z,3
+Mason Greenwood,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T20:00:00Z,0
+Mason Greenwood,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T12:30:00Z,0
+Mason Greenwood,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-15T20:15:00Z,0
+Mason Greenwood,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T14:00:00Z,0
+Mason Greenwood,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T15:00:00Z,0
+Mason Greenwood,MID,Man Utd,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-06T16:30:00Z,0
+Mason Greenwood,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-12T17:30:00Z,0
+Mason Greenwood,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T16:30:00Z,0
+Mason Greenwood,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T11:30:00Z,0
+Mason Greenwood,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T14:00:00Z,0
+Mason Greenwood,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-19T19:00:00Z,0
+Mason Greenwood,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T11:30:00Z,0
+Mason Greenwood,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-28T18:45:00Z,0
+Mason Greenwood,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-02T19:00:00Z,0
+Mason Greenwood,MID,Man Utd,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T16:30:00Z,0
+Mason Greenwood,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

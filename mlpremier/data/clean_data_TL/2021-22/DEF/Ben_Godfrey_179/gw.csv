@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ben Godfrey,DEF,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Ben Godfrey,DEF,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Ben Godfrey,DEF,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+Ben Godfrey,DEF,Everton,Chelsea,60,0,0,1,0,9,0,0,0,0,0,0,1.7,10.6,0.0,6.0,True,2021-09-13T19:00:00Z,2
+Ben Godfrey,DEF,Everton,Aston Villa,79,0,0,3,0,5,1,0,0,0,0,0,3.1,15.2,15.3,0.0,False,2021-09-18T16:30:00Z,0
+Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,0,1,20,0,0,0,0,0,0,6.6,10.8,12.3,43.0,True,2021-09-25T14:00:00Z,6
+Ben Godfrey,DEF,Everton,Man Utd,90,0,0,1,0,14,0,0,0,0,0,0,3.6,24.2,11.8,0.0,False,2021-10-02T11:30:00Z,2
+Ben Godfrey,DEF,Everton,West Ham,90,0,0,1,0,19,0,0,0,0,0,0,5.7,30.2,0.4,26.0,True,2021-10-17T13:00:00Z,2
+Ben Godfrey,DEF,Everton,West Brom,90,0,0,5,0,18,0,0,0,0,0,0,3.2,31.4,0.4,0.0,True,2021-10-23T14:00:00Z,0
+Ben Godfrey,DEF,Everton,Wolves,90,0,0,2,0,5,0,0,0,0,0,0,3.8,7.4,12.1,18.0,False,2021-11-01T20:00:00Z,1
+Ben Godfrey,DEF,Everton,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,4.2,19.4,11.3,11.0,True,2021-11-07T14:00:00Z,6
+Ben Godfrey,DEF,Everton,Man City,90,0,0,3,0,7,0,0,0,0,0,0,1.6,16.2,0.0,0.0,False,2021-11-21T14:00:00Z,1
+Ben Godfrey,DEF,Everton,Brighton,90,0,0,1,0,13,1,0,0,0,0,0,1.6,14.8,0.7,0.0,False,2021-11-28T14:00:00Z,1
+Ben Godfrey,DEF,Everton,Liverpool,90,0,0,4,0,9,0,0,0,0,0,0,1.8,18.0,0.3,0.0,True,2021-12-01T20:15:00Z,0
+Ben Godfrey,DEF,Everton,Arsenal,90,0,0,1,0,1,1,0,0,0,0,0,0.7,2.6,4.3,0.0,True,2021-12-06T20:00:00Z,1
+Ben Godfrey,DEF,Everton,Everton,90,0,0,3,0,25,0,0,0,0,0,0,6.8,39.6,16.7,12.0,False,2021-12-12T16:30:00Z,1
+Ben Godfrey,DEF,Everton,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,4.3,11.0,14.9,17.0,False,2021-12-16T19:45:00Z,2
+Ben Godfrey,DEF,Everton,Burnley,90,0,0,3,0,20,0,0,0,0,0,0,4.9,22.6,26.6,0.0,True,2022-01-02T14:00:00Z,1
+Ben Godfrey,DEF,Everton,Sheffield Utd,90,0,0,2,0,20,0,0,0,0,0,0,7.0,26.6,21.9,21.0,False,2022-01-15T15:00:00Z,2
+Ben Godfrey,DEF,Everton,Aston Villa,90,0,0,1,0,4,1,0,0,0,0,0,4.8,7.4,1.0,40.0,True,2022-01-22T12:30:00Z,1
+Ben Godfrey,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Ben Godfrey,DEF,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+Ben Godfrey,DEF,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Ben Godfrey,DEF,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T17:30:00Z,0
+Ben Godfrey,DEF,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-07T20:00:00Z,0
+Ben Godfrey,DEF,Everton,Wolves,90,0,0,1,0,10,1,0,0,0,0,0,2.4,20.6,0.3,3.0,True,2022-03-13T14:00:00Z,1
+Ben Godfrey,DEF,Everton,Newcastle,90,0,0,0,1,22,0,0,0,0,0,0,3.6,16.0,1.3,19.0,True,2022-03-17T19:45:00Z,6
+Ben Godfrey,DEF,Everton,West Ham,90,0,0,2,0,15,0,0,0,0,0,0,1.3,11.2,1.3,0.0,False,2022-04-03T13:00:00Z,1
+Ben Godfrey,DEF,Everton,Chelsea,90,0,0,3,0,6,1,0,0,0,0,0,3.0,19.0,10.7,0.0,False,2022-04-06T18:30:00Z,0
+Ben Godfrey,DEF,Everton,Man Utd,90,0,0,0,1,27,0,0,0,0,0,0,3.3,28.6,0.4,4.0,True,2022-04-09T11:30:00Z,6
+Ben Godfrey,DEF,Everton,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,1.5,12.6,0.6,2.0,True,2022-04-20T18:45:00Z,2
+Ben Godfrey,DEF,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T15:30:00Z,0
+Ben Godfrey,DEF,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Ben Godfrey,DEF,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Ben Godfrey,DEF,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Ben Godfrey,DEF,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T15:30:00Z,0
+Ben Godfrey,DEF,Everton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T18:45:00Z,0
+Ben Godfrey,DEF,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

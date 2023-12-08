@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Freddie Woodman,GK,Newcastle,West Ham,90,0,0,4,0,30,0,0,0,4,0,1,5.1,51.0,0.0,0.0,True,2021-08-15T13:00:00Z,6
+Freddie Woodman,GK,Newcastle,Aston Villa,90,0,0,2,0,8,0,0,0,0,0,0,0.2,1.6,0.0,0.0,False,2021-08-21T14:00:00Z,1
+Freddie Woodman,GK,Newcastle,Southampton,90,0,0,2,0,16,0,0,0,4,0,0,2.6,26.2,0.0,0.0,True,2021-08-28T14:00:00Z,2
+Freddie Woodman,GK,Newcastle,Man Utd,90,0,0,4,0,10,0,0,0,2,0,0,1.1,10.6,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-17T19:00:00Z,0
+Freddie Woodman,GK,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-17T15:30:00Z,0
+Freddie Woodman,GK,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T17:30:00Z,0
+Freddie Woodman,GK,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T12:30:00Z,0
+Freddie Woodman,GK,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-30T19:30:00Z,0
+Freddie Woodman,GK,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-12T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-16T20:00:00Z,0
+Freddie Woodman,GK,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-27T20:00:00Z,0
+Freddie Woodman,GK,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T19:45:00Z,0
+Freddie Woodman,GK,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T12:30:00Z,0
+Freddie Woodman,GK,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Freddie Woodman,GK,Newcastle,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+Freddie Woodman,GK,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-17T19:45:00Z,0
+Freddie Woodman,GK,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T15:30:00Z,0
+Freddie Woodman,GK,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-08T19:00:00Z,0
+Freddie Woodman,GK,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-17T13:15:00Z,0
+Freddie Woodman,GK,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Freddie Woodman,GK,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Freddie Woodman,GK,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T11:30:00Z,0
+Freddie Woodman,GK,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T15:30:00Z,0
+Freddie Woodman,GK,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-16T19:00:00Z,0
+Freddie Woodman,GK,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

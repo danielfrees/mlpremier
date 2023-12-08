@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Fabian Schär,DEF,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-15T13:00:00Z,0
+Fabian Schär,DEF,Newcastle,Aston Villa,90,0,0,2,0,9,1,0,0,0,0,0,2.1,13.4,7.8,0.0,False,2021-08-21T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Southampton,90,0,0,2,0,8,1,0,0,0,0,0,1.1,10.4,0.3,0.0,True,2021-08-28T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-17T19:00:00Z,0
+Fabian Schär,DEF,Newcastle,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-17T15:30:00Z,0
+Fabian Schär,DEF,Newcastle,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T17:30:00Z,0
+Fabian Schär,DEF,Newcastle,Brighton,70,0,0,3,0,9,0,0,0,0,0,0,2.9,7.6,11.1,10.0,True,2021-11-20T15:00:00Z,1
+Fabian Schär,DEF,Newcastle,Arsenal,90,0,0,2,0,15,0,0,0,0,0,0,4.5,20.0,10.3,15.0,False,2021-11-27T12:30:00Z,1
+Fabian Schär,DEF,Newcastle,Sheffield Utd,90,0,0,1,0,13,0,0,0,0,0,0,2.0,19.6,0.3,0.0,True,2021-11-30T19:30:00Z,2
+Fabian Schär,DEF,Newcastle,Chelsea,90,0,1,0,1,32,0,0,0,0,0,0,3.9,26.6,10.2,2.0,True,2021-12-04T15:00:00Z,11
+Fabian Schär,DEF,Newcastle,Leicester,90,0,0,4,0,7,0,0,0,0,0,0,2.8,8.0,1.8,18.0,False,2021-12-12T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Liverpool,90,0,0,3,0,11,0,0,0,0,0,0,1.5,14.6,0.0,0.0,False,2021-12-16T20:00:00Z,1
+Fabian Schär,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Man Utd,90,0,0,1,0,11,0,0,0,0,0,0,2.2,19.4,0.4,2.0,True,2021-12-27T20:00:00Z,2
+Fabian Schär,DEF,Newcastle,West Brom,90,0,0,1,0,9,0,0,0,0,0,0,2.0,15.0,0.8,4.0,True,2022-01-15T15:00:00Z,2
+Fabian Schär,DEF,Newcastle,Leeds,90,0,0,0,1,26,0,0,0,0,0,0,3.1,28.4,0.1,2.0,False,2022-01-22T15:00:00Z,6
+Fabian Schär,DEF,Newcastle,Fulham,90,0,0,1,0,6,1,0,0,0,0,0,4.3,22.2,0.1,21.0,True,2022-02-08T19:45:00Z,1
+Fabian Schär,DEF,Newcastle,Aston Villa,90,0,0,0,1,21,0,0,0,0,0,0,1.2,9.8,0.4,2.0,True,2022-02-13T14:00:00Z,8
+Fabian Schär,DEF,Newcastle,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,4.8,10.2,10.6,27.0,False,2022-02-19T12:30:00Z,2
+Fabian Schär,DEF,Newcastle,Brighton,90,0,1,0,1,39,0,0,0,0,0,0,9.3,40.6,12.3,40.0,False,2022-02-26T15:00:00Z,12
+Fabian Schär,DEF,Newcastle,Burnley,90,1,0,1,0,30,0,0,0,0,0,0,6.8,50.8,0.2,17.0,True,2022-03-05T15:00:00Z,10
+Fabian Schär,DEF,Newcastle,Southampton,90,0,0,1,0,9,0,0,0,0,0,0,0.9,5.2,0.1,4.0,False,2022-03-10T19:30:00Z,2
+Fabian Schär,DEF,Newcastle,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,4.1,18.2,0.0,23.0,False,2022-03-13T14:00:00Z,2
+Fabian Schär,DEF,Newcastle,Fulham,90,0,0,1,0,9,0,0,0,0,0,0,3.8,8.6,5.5,24.0,False,2022-03-17T19:45:00Z,2
+Fabian Schär,DEF,Newcastle,Spurs,90,1,0,5,0,26,0,0,0,0,0,0,7.3,65.6,0.3,7.0,False,2022-04-03T15:30:00Z,6
+Fabian Schär,DEF,Newcastle,Wolves,90,0,0,0,1,24,1,0,0,0,0,0,3.5,16.0,11.1,8.0,True,2022-04-08T19:00:00Z,5
+Fabian Schär,DEF,Newcastle,Leicester,90,0,0,1,0,9,0,0,0,0,0,0,2.3,12.2,10.3,0.0,True,2022-04-17T13:15:00Z,2
+Fabian Schär,DEF,Newcastle,Everton,90,0,0,0,1,25,0,0,0,0,0,0,4.0,19.0,20.5,0.0,True,2022-04-20T18:45:00Z,7
+Fabian Schär,DEF,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T14:00:00Z,0
+Fabian Schär,DEF,Newcastle,Liverpool,60,0,0,1,0,6,0,0,0,0,0,0,0.1,0.6,0.4,0.0,True,2022-04-30T11:30:00Z,2
+Fabian Schär,DEF,Newcastle,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T15:30:00Z,0
+Fabian Schär,DEF,Newcastle,Arsenal,48,0,0,0,0,7,0,0,0,0,0,0,1.2,3.2,1.0,8.0,True,2022-05-16T19:00:00Z,1
+Fabian Schär,DEF,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

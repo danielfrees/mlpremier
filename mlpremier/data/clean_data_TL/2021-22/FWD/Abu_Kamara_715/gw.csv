@@ -1,0 +1,10 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Abu Kamara,FWD,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Abu Kamara,FWD,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Abu Kamara,FWD,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Abu Kamara,FWD,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Abu Kamara,FWD,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Abu Kamara,FWD,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Abu Kamara,FWD,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Abu Kamara,FWD,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Abu Kamara,FWD,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

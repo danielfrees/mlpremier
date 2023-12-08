@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Mohamed Elyounoussi,MID,Southampton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-22T13:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Newcastle,90,1,0,2,0,27,0,0,0,0,0,0,16.2,49.6,23.6,89.0,False,2021-08-28T14:00:00Z,8
+Mohamed Elyounoussi,MID,Southampton,West Ham,90,0,0,0,1,1,0,0,0,0,0,0,7.6,7.6,12.1,56.0,True,2021-09-11T14:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Man City,90,0,0,0,1,5,0,0,0,0,0,0,6.4,15.0,11.3,38.0,False,2021-09-18T14:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Wolves,90,0,0,1,0,6,0,0,0,0,0,0,4.3,6.8,2.8,33.0,True,2021-09-26T13:00:00Z,2
+Mohamed Elyounoussi,MID,Southampton,Crystal Palace,3,0,0,1,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,2021-10-02T14:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Leeds,90,0,0,0,1,-2,0,0,0,0,0,0,3.6,0.0,12.8,24.0,True,2021-10-16T14:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Chelsea,90,0,0,2,0,4,1,0,0,0,0,0,3.1,7.4,13.3,10.0,True,2021-10-23T14:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,West Brom,69,0,0,0,1,8,0,0,0,0,0,0,4.2,7.4,14.3,20.0,False,2021-10-30T14:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Aston Villa,76,0,0,0,1,2,0,0,0,0,0,0,1.9,3.8,2.7,12.0,True,2021-11-05T20:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Sheffield Utd,56,0,0,1,0,2,0,0,0,0,0,0,6.3,4.2,27.1,32.0,False,2021-11-20T15:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T15:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Leicester,16,0,0,0,0,3,0,0,0,0,0,0,0.3,0.0,0.6,3.0,True,2021-12-01T19:30:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Burnley,6,0,0,1,0,-1,1,0,0,0,0,0,0.1,0.0,0.3,2.0,True,2021-12-04T15:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Arsenal,47,0,0,1,0,4,0,0,0,0,0,0,1.7,6.4,10.5,0.0,False,2021-12-11T15:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-15T19:30:00Z,0
+Mohamed Elyounoussi,MID,Southampton,West Ham,90,1,0,2,0,27,0,0,0,0,0,0,7.1,43.0,2.3,26.0,False,2021-12-26T15:00:00Z,8
+Mohamed Elyounoussi,MID,Southampton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-28T15:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-11T19:45:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T15:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Man City,45,0,0,1,0,-4,1,0,0,0,0,0,0.0,0.2,0.0,0.0,True,2022-01-22T17:30:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Spurs,90,1,0,2,0,36,0,0,0,0,0,0,12.5,49.0,38.3,38.0,False,2022-02-09T19:45:00Z,9
+Mohamed Elyounoussi,MID,Southampton,Man Utd,70,0,1,1,0,20,0,0,0,0,0,0,7.8,26.6,47.0,4.0,False,2022-02-12T12:30:00Z,6
+Mohamed Elyounoussi,MID,Southampton,Fulham,90,0,0,0,1,5,0,0,0,0,0,0,7.8,14.2,23.0,41.0,True,2022-02-19T15:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Sheffield Utd,90,0,0,0,1,2,0,0,0,0,0,0,8.1,9.8,21.0,50.0,True,2022-02-25T20:00:00Z,3
+Mohamed Elyounoussi,MID,Southampton,Aston Villa,45,0,0,2,0,1,0,0,0,0,0,0,1.1,3.8,2.8,4.0,False,2022-03-05T15:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Newcastle,84,0,1,2,0,15,0,0,0,0,0,0,8.2,11.2,3.0,68.0,True,2022-03-10T19:30:00Z,5
+Mohamed Elyounoussi,MID,Southampton,West Brom,90,1,0,2,0,28,0,0,0,0,0,0,11.6,46.4,12.5,57.0,True,2022-03-13T14:00:00Z,8
+Mohamed Elyounoussi,MID,Southampton,Leeds,90,0,0,1,0,3,1,0,0,0,0,0,6.5,6.0,2.0,57.0,False,2022-04-02T14:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Crystal Palace,90,0,0,6,0,3,0,0,0,0,0,0,2.0,6.8,11.2,2.0,True,2022-04-09T14:00:00Z,2
+Mohamed Elyounoussi,MID,Southampton,Arsenal,90,0,1,0,1,20,0,0,0,0,0,0,8.6,32.8,10.8,42.0,True,2022-04-16T14:00:00Z,6
+Mohamed Elyounoussi,MID,Southampton,Chelsea,65,0,0,2,0,6,0,0,0,0,0,0,3.2,5.6,22.2,4.0,False,2022-04-21T18:45:00Z,2
+Mohamed Elyounoussi,MID,Southampton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Mohamed Elyounoussi,MID,Southampton,Everton,10,0,0,1,0,4,0,0,0,0,0,0,0.6,6.0,0.0,0.0,True,2022-04-30T14:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Brighton,26,0,0,1,0,3,0,0,0,0,0,0,1.3,5.4,1.0,7.0,False,2022-05-07T14:00:00Z,1
+Mohamed Elyounoussi,MID,Southampton,Liverpool,90,0,0,2,0,6,0,0,0,0,0,0,0.6,3.8,2.6,0.0,True,2022-05-17T18:45:00Z,2
+Mohamed Elyounoussi,MID,Southampton,Leicester,71,0,0,1,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

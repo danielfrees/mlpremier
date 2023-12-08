@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Alexis Mac Allister,MID,Brighton,Chelsea,14,1,0,0,0,28,0,0,0,0,0,0,5.6,38.2,0.4,17.0,False,2021-08-14T14:00:00Z,9
+Alexis Mac Allister,MID,Brighton,West Brom,90,0,0,0,1,5,0,0,0,0,0,0,9.1,16.0,36.3,39.0,True,2021-08-21T16:30:00Z,3
+Alexis Mac Allister,MID,Brighton,Fulham,45,0,0,1,0,6,0,0,0,0,0,0,2.2,9.8,2.2,10.0,True,2021-08-28T14:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Brighton,26,0,1,0,0,16,0,0,0,0,0,0,4.7,23.8,12.8,10.0,False,2021-09-11T14:00:00Z,4
+Alexis Mac Allister,MID,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T13:00:00Z,0
+Alexis Mac Allister,MID,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-27T19:00:00Z,0
+Alexis Mac Allister,MID,Brighton,Arsenal,12,0,0,0,0,3,0,0,0,0,0,0,1.4,3.0,1.4,10.0,True,2021-10-02T16:30:00Z,1
+Alexis Mac Allister,MID,Brighton,Sheffield Utd,6,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.8,0.0,False,2021-10-16T14:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Man City,18,1,0,1,0,21,0,0,0,0,0,0,5.2,34.0,1.3,17.0,True,2021-10-23T16:30:00Z,6
+Alexis Mac Allister,MID,Brighton,Liverpool,30,0,0,0,0,9,0,0,0,0,0,0,0.8,6.2,1.6,0.0,False,2021-10-30T14:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Newcastle,45,0,0,1,0,0,0,0,0,0,0,0,1.8,6.4,1.5,10.0,True,2021-11-06T17:30:00Z,1
+Alexis Mac Allister,MID,Brighton,Aston Villa,1,0,0,1,0,-1,1,0,0,0,0,0,0.9,0.0,0.2,10.0,False,2021-11-20T15:00:00Z,0
+Alexis Mac Allister,MID,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T17:30:00Z,0
+Alexis Mac Allister,MID,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Alexis Mac Allister,MID,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Alexis Mac Allister,MID,Brighton,Wolves,29,0,0,0,0,6,0,0,0,0,0,0,0.4,1.2,1.6,1.0,True,2021-12-15T19:30:00Z,1
+Alexis Mac Allister,MID,Brighton,Brighton,84,0,0,0,1,6,0,0,0,0,0,0,3.3,1.2,20.9,11.0,True,2021-12-26T20:00:00Z,3
+Alexis Mac Allister,MID,Brighton,Crystal Palace,79,0,0,1,0,17,0,0,0,0,0,0,12.7,23.8,57.6,46.0,False,2021-12-29T19:30:00Z,2
+Alexis Mac Allister,MID,Brighton,Fulham,90,2,0,2,0,50,0,0,0,0,0,0,15.9,88.8,36.1,34.0,False,2022-01-02T14:00:00Z,15
+Alexis Mac Allister,MID,Brighton,Everton,90,0,0,1,0,20,0,0,0,0,0,0,6.1,15.8,35.2,10.0,True,2022-01-14T20:00:00Z,3
+Alexis Mac Allister,MID,Brighton,Crystal Palace,90,0,1,1,0,24,0,0,0,0,0,0,8.7,33.2,19.1,35.0,True,2022-01-18T20:00:00Z,6
+Alexis Mac Allister,MID,Brighton,Leicester,90,0,0,1,0,20,0,0,0,0,0,0,5.2,17.6,17.8,17.0,False,2022-01-23T14:00:00Z,2
+Alexis Mac Allister,MID,Brighton,West Brom,26,0,0,0,0,2,0,0,0,0,0,0,1.9,9.6,5.8,4.0,False,2022-02-12T15:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Man Utd,90,0,0,2,0,10,1,0,0,0,0,0,4.6,13.0,15.2,18.0,False,2022-02-15T20:15:00Z,1
+Alexis Mac Allister,MID,Brighton,Chelsea,90,0,0,3,0,17,0,0,0,0,0,0,6.7,6.0,32.2,29.0,True,2022-02-19T15:00:00Z,2
+Alexis Mac Allister,MID,Brighton,Aston Villa,90,0,0,2,0,7,0,0,0,0,0,0,2.3,7.4,3.5,12.0,True,2022-02-26T15:30:00Z,2
+Alexis Mac Allister,MID,Brighton,Newcastle,11,0,0,0,0,4,0,0,0,0,0,0,0.5,3.2,1.3,0.0,False,2022-03-05T15:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Liverpool,90,0,0,2,0,12,1,0,0,0,0,0,4.8,14.4,33.7,0.0,True,2022-03-12T12:30:00Z,1
+Alexis Mac Allister,MID,Brighton,Spurs,90,0,0,2,0,5,0,0,0,0,0,0,5.2,6.2,3.7,42.0,True,2022-03-16T19:30:00Z,2
+Alexis Mac Allister,MID,Brighton,Sheffield Utd,90,0,0,0,1,15,0,0,0,0,0,0,4.7,8.8,6.2,32.0,True,2022-04-02T14:00:00Z,3
+Alexis Mac Allister,MID,Brighton,Arsenal,90,0,0,1,0,7,0,0,0,0,0,0,1.9,5.0,12.2,2.0,False,2022-04-09T14:00:00Z,2
+Alexis Mac Allister,MID,Brighton,Spurs,90,0,0,0,1,6,0,0,0,0,0,0,1.8,5.2,8.0,5.0,False,2022-04-16T11:30:00Z,3
+Alexis Mac Allister,MID,Brighton,Man City,90,0,0,3,0,5,1,0,0,0,0,0,1.5,11.4,2.6,1.0,False,2022-04-20T19:00:00Z,1
+Alexis Mac Allister,MID,Brighton,Southampton,90,0,0,2,0,11,0,0,0,0,0,0,5.5,21.8,25.0,8.0,True,2022-04-24T13:00:00Z,2
+Alexis Mac Allister,MID,Brighton,Wolves,90,1,0,0,1,24,0,0,0,0,1,0,11.2,43.4,13.3,55.0,False,2022-04-30T14:00:00Z,6
+Alexis Mac Allister,MID,Brighton,Man Utd,66,0,0,0,1,2,0,0,0,0,0,0,3.6,8.2,7.5,20.0,True,2022-05-07T16:30:00Z,3
+Alexis Mac Allister,MID,Brighton,Leeds,90,0,0,1,0,17,0,0,0,0,0,0,8.5,11.0,38.6,35.0,False,2022-05-15T13:00:00Z,2
+Alexis Mac Allister,MID,Brighton,West Ham,90,0,0,1,0,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

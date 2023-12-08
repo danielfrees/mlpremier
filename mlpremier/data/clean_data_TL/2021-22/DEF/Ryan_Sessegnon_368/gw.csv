@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Ryan Sessegnon,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-15T15:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T13:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-29T13:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T11:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T15:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-26T15:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T15:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T16:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Leeds,11,0,0,0,0,3,0,0,0,0,0,0,1.2,2.2,10.0,0.0,True,2021-11-21T16:30:00Z,1
+Ryan Sessegnon,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T19:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Sheffield Utd,68,0,0,0,1,16,0,0,0,0,0,0,1.1,4.6,2.4,4.0,True,2021-12-05T14:00:00Z,6
+Ryan Sessegnon,DEF,Spurs,Liverpool,85,0,0,2,0,10,0,0,0,0,0,0,2.8,18.0,2.1,8.0,True,2021-12-19T16:30:00Z,1
+Ryan Sessegnon,DEF,Spurs,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T15:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T15:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T19:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Crystal Palace,55,0,0,2,0,2,0,0,0,0,0,0,0.8,3.2,1.0,4.0,False,2022-01-23T16:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Ryan Sessegnon,DEF,Spurs,Wolves,27,0,0,2,0,0,0,0,0,0,0,0,0.0,0.0,0.7,0.0,True,2022-02-13T14:00:00Z,0
+Ryan Sessegnon,DEF,Spurs,Man City,90,0,0,2,0,10,0,0,0,0,0,0,1.1,7.6,1.2,2.0,False,2022-02-19T17:30:00Z,1
+Ryan Sessegnon,DEF,Spurs,Chelsea,78,0,0,1,0,12,0,0,0,0,0,0,3.6,10.0,20.4,6.0,False,2022-02-23T19:30:00Z,2
+Ryan Sessegnon,DEF,Spurs,Leeds,77,0,1,0,1,27,1,0,0,0,0,0,6.8,21.8,24.8,21.0,False,2022-02-26T12:30:00Z,8
+Ryan Sessegnon,DEF,Spurs,Fulham,45,0,1,0,0,11,0,0,0,0,0,0,0.6,2.4,1.4,2.0,True,2022-03-07T20:00:00Z,4
+Ryan Sessegnon,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T17:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T19:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-20T16:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-03T15:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T16:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T11:30:00Z,0
+Ryan Sessegnon,DEF,Spurs,Brighton,73,0,0,0,1,22,0,0,0,0,0,0,2.0,9.8,2.3,8.0,False,2022-04-23T16:30:00Z,6
+Ryan Sessegnon,DEF,Spurs,Leicester,90,0,0,1,0,10,0,0,0,0,0,0,3.3,15.0,15.8,2.0,True,2022-05-01T13:00:00Z,2
+Ryan Sessegnon,DEF,Spurs,Liverpool,77,0,1,1,0,26,1,0,0,0,0,0,5.5,36.0,15.4,4.0,False,2022-05-07T18:45:00Z,5
+Ryan Sessegnon,DEF,Spurs,Arsenal,90,0,0,0,1,27,0,0,0,0,0,0,6.0,9.6,21.9,28.0,True,2022-05-12T18:45:00Z,6
+Ryan Sessegnon,DEF,Spurs,Chelsea,90,0,0,0,1,35,0,0,0,0,0,0,11.8,19.0,58.7,40.0,True,2022-05-15T11:00:00Z,8
+Ryan Sessegnon,DEF,Spurs,Sheffield Utd,90,0,0,0,1,20,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,6

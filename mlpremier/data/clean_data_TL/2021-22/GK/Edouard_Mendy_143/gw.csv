@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Edouard Mendy,GK,Chelsea,Everton,90,0,0,0,1,20,0,0,0,1,0,0,1.1,11.2,0.0,0.0,True,2021-08-14T14:00:00Z,6
+Edouard Mendy,GK,Chelsea,Arsenal,90,0,0,0,1,32,0,0,0,3,0,0,2.2,22.4,0.0,0.0,False,2021-08-22T15:30:00Z,8
+Edouard Mendy,GK,Chelsea,Liverpool,90,0,0,1,0,19,1,0,0,6,0,0,4.0,40.0,0.0,0.0,False,2021-08-28T16:30:00Z,3
+Edouard Mendy,GK,Chelsea,Aston Villa,90,0,0,0,1,34,0,0,0,6,0,0,5.2,52.4,0.0,0.0,True,2021-09-11T16:30:00Z,9
+Edouard Mendy,GK,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T15:30:00Z,0
+Edouard Mendy,GK,Chelsea,Man City,90,0,0,1,0,13,0,0,0,2,0,0,2.1,21.0,0.0,0.0,True,2021-09-25T11:30:00Z,2
+Edouard Mendy,GK,Chelsea,Southampton,90,0,0,1,0,9,0,0,0,1,0,0,0.8,8.4,0.0,0.0,True,2021-10-02T14:00:00Z,2
+Edouard Mendy,GK,Chelsea,Brighton,90,0,0,0,1,32,0,0,0,6,0,0,4.7,47.2,0.0,0.0,False,2021-10-16T16:30:00Z,9
+Edouard Mendy,GK,Chelsea,Sheffield Utd,90,0,0,0,1,21,0,0,0,1,0,0,1.1,10.6,0.0,0.0,True,2021-10-23T11:30:00Z,6
+Edouard Mendy,GK,Chelsea,Newcastle,90,0,0,0,1,21,0,0,0,1,0,0,1.0,10.2,0.0,0.0,False,2021-10-30T14:00:00Z,6
+Edouard Mendy,GK,Chelsea,Chelsea,90,0,0,1,0,9,0,0,0,1,0,0,1.2,11.8,0.0,0.0,True,2021-11-06T15:00:00Z,2
+Edouard Mendy,GK,Chelsea,Leicester,90,0,0,0,1,23,1,0,0,3,0,0,1.5,15.2,0.0,0.0,False,2021-11-20T12:30:00Z,6
+Edouard Mendy,GK,Chelsea,Man Utd,90,0,0,1,0,8,0,0,0,1,0,0,0.4,3.8,0.0,0.0,True,2021-11-28T16:30:00Z,2
+Edouard Mendy,GK,Chelsea,West Brom,90,0,0,1,0,20,0,0,0,6,0,0,4.3,43.0,0.0,0.0,False,2021-12-01T19:30:00Z,4
+Edouard Mendy,GK,Chelsea,West Ham,90,0,0,3,0,3,0,0,0,1,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T12:30:00Z,1
+Edouard Mendy,GK,Chelsea,Leeds,90,0,0,2,0,14,0,0,0,3,0,0,2.0,20.4,0.0,0.0,True,2021-12-11T15:00:00Z,2
+Edouard Mendy,GK,Chelsea,Fulham,90,0,0,1,0,14,0,0,0,2,0,0,1.5,15.2,0.0,0.0,True,2021-12-16T19:45:00Z,2
+Edouard Mendy,GK,Chelsea,Wolves,90,0,0,0,1,22,0,0,0,1,0,0,1.3,12.6,0.0,0.0,False,2021-12-19T14:00:00Z,6
+Edouard Mendy,GK,Chelsea,Aston Villa,90,0,0,1,0,10,0,0,0,1,0,0,0.7,7.0,0.0,0.0,False,2021-12-26T17:30:00Z,2
+Edouard Mendy,GK,Chelsea,Burnley,90,0,0,1,0,20,0,0,0,5,0,0,2.9,29.4,0.0,0.0,True,2021-12-29T19:30:00Z,3
+Edouard Mendy,GK,Chelsea,Liverpool,90,0,0,2,0,16,0,0,0,4,0,0,2.6,26.4,0.0,0.0,True,2022-01-02T16:30:00Z,2
+Edouard Mendy,GK,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T12:30:00Z,0
+Edouard Mendy,GK,Chelsea,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-18T20:00:00Z,0
+Edouard Mendy,GK,Chelsea,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T16:30:00Z,0
+Edouard Mendy,GK,Chelsea,Everton,90,0,0,0,1,23,0,0,0,0,0,0,0.4,4.0,0.0,0.0,False,2022-02-19T15:00:00Z,6
+Edouard Mendy,GK,Chelsea,Chelsea,90,0,0,0,1,20,0,0,0,0,0,0,0.0,0.4,0.0,0.0,False,2022-03-05T15:00:00Z,6
+Edouard Mendy,GK,Chelsea,Sheffield Utd,90,0,0,1,0,8,1,0,0,2,0,0,1.5,15.4,0.0,0.0,False,2022-03-10T19:30:00Z,1
+Edouard Mendy,GK,Chelsea,Newcastle,90,0,0,0,1,23,0,0,0,2,0,0,1.4,14.2,0.0,0.0,True,2022-03-13T14:00:00Z,6
+Edouard Mendy,GK,Chelsea,Brighton,90,0,0,4,0,9,0,0,0,2,0,0,1.6,16.2,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Edouard Mendy,GK,Chelsea,Southampton,90,0,0,0,1,20,0,0,0,1,0,0,1.0,10.0,0.0,0.0,False,2022-04-09T14:00:00Z,6
+Edouard Mendy,GK,Chelsea,Arsenal,90,0,0,4,0,7,0,0,0,0,0,0,0.5,4.8,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Edouard Mendy,GK,Chelsea,West Ham,90,0,0,0,1,25,0,0,0,2,0,0,1.9,19.2,0.0,0.0,True,2022-04-24T13:00:00Z,6
+Edouard Mendy,GK,Chelsea,Man Utd,90,0,0,1,0,11,0,0,0,2,0,0,1.8,18.0,0.0,0.0,False,2022-04-28T18:45:00Z,2
+Edouard Mendy,GK,Chelsea,Fulham,90,0,0,1,0,14,0,0,0,3,0,0,2.7,27.4,0.0,0.0,False,2022-05-01T13:00:00Z,3
+Edouard Mendy,GK,Chelsea,Wolves,90,0,0,2,0,12,0,0,0,2,0,0,2.0,20.2,0.0,0.0,True,2022-05-07T14:00:00Z,1
+Edouard Mendy,GK,Chelsea,Leeds,90,0,0,0,1,19,0,0,0,0,0,0,0.4,3.8,0.0,0.0,False,2022-05-11T18:30:00Z,6
+Edouard Mendy,GK,Chelsea,Leicester,90,0,0,1,0,9,0,0,0,0,0,0,0.3,3.0,0.0,0.0,True,2022-05-19T19:00:00Z,2
+Edouard Mendy,GK,Chelsea,West Brom,90,0,0,1,0,13,0,0,0,2,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

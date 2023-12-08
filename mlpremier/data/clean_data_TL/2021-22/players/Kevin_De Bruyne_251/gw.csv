@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kevin De Bruyne,MID,Man City,Spurs,11,0,0,0,0,4,0,0,0,0,0,0,2.8,9.0,11.6,7.0,False,2021-08-15T15:30:00Z,1
+Kevin De Bruyne,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T14:00:00Z,0
+Kevin De Bruyne,MID,Man City,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T11:30:00Z,0
+Kevin De Bruyne,MID,Man City,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Kevin De Bruyne,MID,Man City,Southampton,25,0,0,0,0,12,0,0,0,0,0,0,3.8,9.2,18.4,10.0,True,2021-09-18T14:00:00Z,1
+Kevin De Bruyne,MID,Man City,Crystal Palace,80,0,0,0,1,12,0,0,0,0,0,0,10.3,16.6,37.7,49.0,False,2021-09-25T11:30:00Z,3
+Kevin De Bruyne,MID,Man City,Liverpool,90,1,0,2,0,27,0,0,0,0,0,0,11.0,40.2,14.3,55.0,False,2021-10-03T15:30:00Z,8
+Kevin De Bruyne,MID,Man City,Chelsea,83,1,0,0,1,32,0,0,0,0,0,0,9.6,44.4,28.8,23.0,True,2021-10-16T14:00:00Z,11
+Kevin De Bruyne,MID,Man City,Burnley,13,0,0,1,0,10,0,0,0,0,0,0,5.5,9.4,42.0,4.0,False,2021-10-23T16:30:00Z,1
+Kevin De Bruyne,MID,Man City,Everton,58,0,0,1,0,3,0,0,0,0,0,0,3.0,2.0,3.8,24.0,True,2021-10-30T14:00:00Z,1
+Kevin De Bruyne,MID,Man City,Man Utd,90,0,0,0,1,15,0,0,0,0,0,0,11.7,16.6,51.1,49.0,False,2021-11-06T12:30:00Z,3
+Kevin De Bruyne,MID,Man City,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-21T14:00:00Z,0
+Kevin De Bruyne,MID,Man City,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Kevin De Bruyne,MID,Man City,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+Kevin De Bruyne,MID,Man City,West Brom,23,0,0,1,0,2,0,0,0,0,0,0,2.0,1.4,15.1,3.0,False,2021-12-04T17:30:00Z,1
+Kevin De Bruyne,MID,Man City,Wolves,16,0,0,0,0,5,0,0,0,0,0,0,2.5,5.8,15.3,4.0,True,2021-12-11T12:30:00Z,1
+Kevin De Bruyne,MID,Man City,Leeds,90,2,0,0,1,52,0,0,0,0,0,0,22.5,85.0,58.9,81.0,True,2021-12-14T20:00:00Z,16
+Kevin De Bruyne,MID,Man City,Newcastle,90,0,0,0,1,19,0,0,0,0,0,0,10.1,17.6,65.3,18.0,False,2021-12-19T14:00:00Z,3
+Kevin De Bruyne,MID,Man City,Leicester,70,1,0,3,0,33,0,0,0,0,0,0,13.2,44.6,40.8,47.0,True,2021-12-26T15:00:00Z,7
+Kevin De Bruyne,MID,Man City,Brighton,90,0,1,0,1,25,0,0,0,0,0,0,9.6,34.0,46.5,15.0,False,2021-12-29T20:15:00Z,8
+Kevin De Bruyne,MID,Man City,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,5.8,13.6,41.3,3.0,False,2022-01-01T12:30:00Z,2
+Kevin De Bruyne,MID,Man City,Crystal Palace,83,1,0,0,1,34,0,0,0,0,0,0,11.6,48.8,23.7,43.0,True,2022-01-15T12:30:00Z,11
+Kevin De Bruyne,MID,Man City,Southampton,90,0,1,1,0,28,0,0,0,0,0,0,11.2,32.2,50.8,29.0,False,2022-01-22T17:30:00Z,8
+Kevin De Bruyne,MID,Man City,Brighton,90,1,0,0,1,33,0,0,0,0,0,0,12.2,51.8,46.8,23.0,True,2022-02-09T19:45:00Z,11
+Kevin De Bruyne,MID,Man City,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T17:30:00Z,0
+Kevin De Bruyne,MID,Man City,Spurs,90,0,0,3,0,14,0,0,0,0,0,0,5.4,13.6,30.8,10.0,True,2022-02-19T17:30:00Z,2
+Kevin De Bruyne,MID,Man City,Fulham,90,0,0,0,1,9,0,0,0,0,0,0,6.7,18.0,28.8,20.0,False,2022-02-26T17:30:00Z,3
+Kevin De Bruyne,MID,Man City,Man Utd,79,2,1,1,0,67,0,0,0,0,0,0,26.0,101.8,62.4,96.0,True,2022-03-06T16:30:00Z,18
+Kevin De Bruyne,MID,Man City,Everton,90,0,0,0,1,13,0,0,0,0,0,0,10.6,13.2,56.6,36.0,False,2022-03-14T20:00:00Z,3
+Kevin De Bruyne,MID,Man City,Chelsea,77,1,0,0,1,36,0,0,0,0,0,0,11.3,43.6,50.0,19.0,False,2022-04-02T14:00:00Z,11
+Kevin De Bruyne,MID,Man City,Liverpool,90,1,0,2,0,24,0,0,0,0,0,0,8.1,37.8,26.6,17.0,True,2022-04-10T15:30:00Z,9
+Kevin De Bruyne,MID,Man City,Burnley,82,0,1,0,1,19,0,0,0,0,0,0,10.3,28.8,56.2,18.0,True,2022-04-20T19:00:00Z,6
+Kevin De Bruyne,MID,Man City,West Brom,56,0,2,1,0,34,0,0,0,0,0,0,12.2,47.0,51.1,24.0,True,2022-04-23T14:00:00Z,9
+Kevin De Bruyne,MID,Man City,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T16:30:00Z,0
+Kevin De Bruyne,MID,Man City,Newcastle,90,0,1,0,1,34,1,0,0,0,0,0,13.0,33.8,89.3,7.0,True,2022-05-08T15:30:00Z,6
+Kevin De Bruyne,MID,Man City,Wolves,90,4,0,1,0,87,1,0,0,0,0,0,22.2,131.0,24.3,67.0,False,2022-05-11T19:15:00Z,24
+Kevin De Bruyne,MID,Man City,West Ham,90,0,0,2,0,14,0,0,0,0,0,0,12.6,22.6,59.3,44.0,False,2022-05-15T13:00:00Z,2
+Kevin De Bruyne,MID,Man City,Aston Villa,90,0,1,2,0,27,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,6

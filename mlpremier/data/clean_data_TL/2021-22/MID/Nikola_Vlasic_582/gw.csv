@@ -1,0 +1,36 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Nikola Vlasic,MID,West Ham,Southampton,27,0,0,0,0,4,0,0,0,0,0,0,2.1,3.6,11.2,6.0,False,2021-09-11T14:00:00Z,1
+Nikola Vlasic,MID,West Ham,Man Utd,67,0,0,1,0,5,0,0,0,0,0,0,1.0,4.6,1.6,4.0,True,2021-09-19T13:00:00Z,2
+Nikola Vlasic,MID,West Ham,Leeds,12,0,0,0,0,2,0,0,0,0,0,0,0.1,0.0,1.2,0.0,False,2021-09-25T14:00:00Z,1
+Nikola Vlasic,MID,West Ham,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-24T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Aston Villa,1,0,0,0,0,5,0,0,0,0,0,0,0.3,2.0,0.7,0.0,False,2021-10-31T16:30:00Z,1
+Nikola Vlasic,MID,West Ham,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T16:30:00Z,0
+Nikola Vlasic,MID,West Ham,Wolves,19,0,0,0,0,2,0,0,0,0,0,0,0.3,1.2,2.0,0.0,False,2021-11-20T15:00:00Z,1
+Nikola Vlasic,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+Nikola Vlasic,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T19:30:00Z,0
+Nikola Vlasic,MID,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T12:30:00Z,0
+Nikola Vlasic,MID,West Ham,Chelsea,20,0,0,0,0,8,0,0,0,0,0,0,5.0,10.6,31.6,8.0,False,2021-12-12T14:00:00Z,1
+Nikola Vlasic,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-15T20:00:00Z,0
+Nikola Vlasic,MID,West Ham,Southampton,45,0,0,1,0,7,0,0,0,0,0,0,1.7,6.8,0.8,9.0,True,2021-12-26T15:00:00Z,1
+Nikola Vlasic,MID,West Ham,West Brom,5,1,0,0,0,18,0,0,0,0,0,0,5.3,33.0,1.3,19.0,False,2021-12-28T15:00:00Z,6
+Nikola Vlasic,MID,West Ham,Everton,19,0,0,2,0,3,0,0,0,0,0,0,0.4,1.0,0.8,2.0,False,2022-01-01T17:30:00Z,1
+Nikola Vlasic,MID,West Ham,Sheffield Utd,77,0,0,0,1,11,0,0,0,0,0,0,3.6,4.6,17.4,14.0,True,2022-01-12T19:45:00Z,3
+Nikola Vlasic,MID,West Ham,Leeds,60,0,0,3,0,4,0,0,0,0,0,0,0.7,1.8,1.3,4.0,True,2022-01-16T14:00:00Z,2
+Nikola Vlasic,MID,West Ham,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Nikola Vlasic,MID,West Ham,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T19:45:00Z,0
+Nikola Vlasic,MID,West Ham,Leicester,11,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,False,2022-02-13T16:30:00Z,1
+Nikola Vlasic,MID,West Ham,Newcastle,17,0,0,0,0,4,0,0,0,0,0,0,1.5,2.2,11.2,2.0,True,2022-02-19T12:30:00Z,1
+Nikola Vlasic,MID,West Ham,Wolves,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-27T14:00:00Z,1
+Nikola Vlasic,MID,West Ham,Liverpool,60,0,0,1,0,5,0,0,0,0,0,0,3.8,3.4,10.6,24.0,False,2022-03-05T17:30:00Z,2
+Nikola Vlasic,MID,West Ham,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+Nikola Vlasic,MID,West Ham,Spurs,6,0,0,1,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2022-03-20T16:30:00Z,1
+Nikola Vlasic,MID,West Ham,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-03T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Brighton,24,0,0,0,0,2,0,0,0,0,0,0,0.3,1.2,1.4,0.0,False,2022-04-10T13:00:00Z,1
+Nikola Vlasic,MID,West Ham,Chelsea,64,0,0,1,0,6,0,0,0,0,0,0,4.9,4.6,28.4,16.0,True,2022-04-17T13:15:00Z,2
+Nikola Vlasic,MID,West Ham,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T15:30:00Z,0
+Nikola Vlasic,MID,West Ham,Sheffield Utd,14,0,0,0,0,4,0,0,0,0,0,0,1.3,4.6,0.9,7.0,False,2022-05-08T13:00:00Z,1
+Nikola Vlasic,MID,West Ham,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Nikola Vlasic,MID,West Ham,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

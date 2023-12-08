@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Joël Veltman,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T14:00:00Z,0
+Joël Veltman,DEF,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T16:30:00Z,0
+Joël Veltman,DEF,Brighton,Fulham,45,0,0,1,0,8,0,0,0,0,0,0,3.5,9.8,22.6,3.0,True,2021-08-28T14:00:00Z,1
+Joël Veltman,DEF,Brighton,Brighton,90,0,0,0,1,25,1,0,0,0,0,0,1.3,9.8,3.5,0.0,False,2021-09-11T14:00:00Z,6
+Joël Veltman,DEF,Brighton,Leicester,90,0,0,1,0,10,1,0,0,0,0,0,3.1,15.8,15.0,0.0,True,2021-09-19T13:00:00Z,1
+Joël Veltman,DEF,Brighton,Everton,90,0,1,1,0,27,0,0,0,0,0,0,5.7,40.0,16.7,0.0,False,2021-09-27T19:00:00Z,7
+Joël Veltman,DEF,Brighton,Arsenal,90,0,0,0,1,16,1,0,0,0,0,0,2.2,3.4,16.3,2.0,True,2021-10-02T16:30:00Z,5
+Joël Veltman,DEF,Brighton,Sheffield Utd,58,0,0,0,0,3,1,0,0,0,0,0,1.4,9.6,2.5,2.0,False,2021-10-16T14:00:00Z,0
+Joël Veltman,DEF,Brighton,Man City,90,0,0,4,0,16,0,0,0,0,0,0,2.1,18.4,0.3,2.0,True,2021-10-23T16:30:00Z,0
+Joël Veltman,DEF,Brighton,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,1.7,15.6,1.0,0.0,False,2021-10-30T14:00:00Z,1
+Joël Veltman,DEF,Brighton,Newcastle,90,0,0,1,0,21,0,0,0,0,0,0,5.1,22.8,27.9,0.0,True,2021-11-06T17:30:00Z,2
+Joël Veltman,DEF,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Joël Veltman,DEF,Brighton,Leeds,90,0,0,0,1,25,0,0,0,0,0,0,1.6,11.2,2.8,2.0,True,2021-11-27T17:30:00Z,6
+Joël Veltman,DEF,Brighton,West Ham,69,0,0,1,0,12,0,0,0,0,0,0,2.3,8.6,2.0,12.0,False,2021-12-01T19:30:00Z,2
+Joël Veltman,DEF,Brighton,Southampton,77,0,0,1,0,10,0,0,0,0,0,0,3.6,17.6,0.5,18.0,False,2021-12-04T15:00:00Z,2
+Joël Veltman,DEF,Brighton,Wolves,90,0,0,1,0,16,0,0,0,0,0,0,2.8,16.2,11.3,0.0,True,2021-12-15T19:30:00Z,2
+Joël Veltman,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T20:00:00Z,0
+Joël Veltman,DEF,Brighton,Crystal Palace,90,0,0,1,0,15,0,0,0,0,0,0,5.3,28.8,14.4,10.0,False,2021-12-29T19:30:00Z,2
+Joël Veltman,DEF,Brighton,Fulham,60,0,0,1,0,10,0,0,0,0,0,0,2.3,11.4,9.3,2.0,False,2022-01-02T14:00:00Z,2
+Joël Veltman,DEF,Brighton,Everton,72,0,0,1,0,13,0,0,0,0,0,0,2.6,11.0,12.7,2.0,True,2022-01-14T20:00:00Z,2
+Joël Veltman,DEF,Brighton,Crystal Palace,90,0,0,1,0,9,0,0,0,0,0,0,1.0,7.8,1.9,0.0,True,2022-01-18T20:00:00Z,2
+Joël Veltman,DEF,Brighton,Leicester,76,0,0,1,0,16,0,0,0,0,0,0,1.4,10.2,4.1,0.0,False,2022-01-23T14:00:00Z,2
+Joël Veltman,DEF,Brighton,West Brom,90,0,0,0,1,33,0,0,0,0,0,0,5.0,20.2,23.8,6.0,False,2022-02-12T15:00:00Z,7
+Joël Veltman,DEF,Brighton,Man Utd,90,0,0,2,0,20,0,0,0,0,0,0,4.6,25.6,20.4,0.0,False,2022-02-15T20:15:00Z,1
+Joël Veltman,DEF,Brighton,Chelsea,90,0,0,3,0,17,0,0,0,0,0,0,2.7,23.8,3.3,0.0,True,2022-02-19T15:00:00Z,1
+Joël Veltman,DEF,Brighton,Aston Villa,90,0,0,2,0,16,1,0,0,0,0,0,2.1,19.0,1.8,0.0,True,2022-02-26T15:30:00Z,0
+Joël Veltman,DEF,Brighton,Newcastle,90,0,0,2,0,10,0,0,0,0,0,0,2.5,9.8,14.3,1.0,False,2022-03-05T15:00:00Z,1
+Joël Veltman,DEF,Brighton,Liverpool,90,0,0,2,0,11,0,0,0,0,0,0,1.1,10.8,0.5,0.0,True,2022-03-12T12:30:00Z,1
+Joël Veltman,DEF,Brighton,Spurs,77,0,0,2,0,10,1,0,0,0,0,0,4.0,14.0,17.6,8.0,True,2022-03-16T19:30:00Z,0
+Joël Veltman,DEF,Brighton,Sheffield Utd,90,0,0,0,1,28,0,0,0,0,0,0,6.2,22.2,1.5,38.0,True,2022-04-02T14:00:00Z,7
+Joël Veltman,DEF,Brighton,Arsenal,90,0,0,1,0,9,0,0,0,0,0,0,2.4,23.4,0.2,0.0,False,2022-04-09T14:00:00Z,2
+Joël Veltman,DEF,Brighton,Spurs,90,0,0,0,1,24,0,0,0,0,0,0,5.2,13.2,1.2,38.0,False,2022-04-16T11:30:00Z,6
+Joël Veltman,DEF,Brighton,Man City,90,0,0,3,0,9,0,0,0,0,0,0,1.1,10.8,0.5,0.0,False,2022-04-20T19:00:00Z,1
+Joël Veltman,DEF,Brighton,Southampton,90,0,0,2,0,10,0,0,0,0,0,0,2.5,23.4,1.3,0.0,True,2022-04-24T13:00:00Z,1
+Joël Veltman,DEF,Brighton,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,2.9,18.6,10.8,0.0,False,2022-04-30T14:00:00Z,6
+Joël Veltman,DEF,Brighton,Man Utd,90,0,0,0,1,23,0,0,0,0,0,0,2.5,11.4,11.3,2.0,True,2022-05-07T16:30:00Z,6
+Joël Veltman,DEF,Brighton,Leeds,90,0,0,1,0,15,0,0,0,0,0,0,2.0,18.6,1.3,0.0,False,2022-05-15T13:00:00Z,2
+Joël Veltman,DEF,Brighton,West Ham,90,1,0,1,0,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,8

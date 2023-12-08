@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Andrew Omobamidele,DEF,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T16:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Arsenal,90,0,0,1,0,16,0,0,0,0,0,0,2.8,27.2,0.8,0.0,False,2021-09-11T14:00:00Z,2
+Andrew Omobamidele,DEF,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Crystal Palace,21,0,0,2,0,2,0,0,0,0,0,0,0.3,2.6,0.0,0.0,False,2021-10-23T11:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Leeds,90,1,0,2,0,31,0,0,0,0,0,0,7.0,51.8,0.9,17.0,True,2021-10-31T14:00:00Z,10
+Andrew Omobamidele,DEF,Norwich,Brighton,90,0,0,1,0,9,1,0,0,0,0,0,3.6,35.0,0.7,0.0,False,2021-11-06T15:00:00Z,1
+Andrew Omobamidele,DEF,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-30T19:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Spurs,90,0,0,3,0,16,0,0,0,0,0,0,3.1,9.8,3.3,18.0,False,2021-12-05T14:00:00Z,1
+Andrew Omobamidele,DEF,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T17:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-14T19:45:00Z,0
+Andrew Omobamidele,DEF,Norwich,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-12T19:45:00Z,0
+Andrew Omobamidele,DEF,Norwich,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-21T20:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Andrew Omobamidele,DEF,Norwich,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T17:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-25T20:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Andrew Omobamidele,DEF,Norwich,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Andrew Omobamidele,DEF,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Andrew Omobamidele,DEF,Norwich,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

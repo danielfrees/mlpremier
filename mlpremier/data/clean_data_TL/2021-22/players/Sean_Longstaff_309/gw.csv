@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Sean Longstaff,MID,Newcastle,West Ham,6,0,0,0,0,3,0,0,0,0,0,0,0.5,4.4,0.4,0.0,True,2021-08-15T13:00:00Z,1
+Sean Longstaff,MID,Newcastle,Aston Villa,45,0,0,1,0,4,0,0,0,0,0,0,0.4,2.4,1.5,0.0,False,2021-08-21T14:00:00Z,1
+Sean Longstaff,MID,Newcastle,Southampton,90,0,0,2,0,22,0,0,0,0,0,0,6.2,35.0,25.5,1.0,True,2021-08-28T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Man Utd,90,0,0,4,0,13,0,0,0,0,0,0,1.9,11.0,1.8,6.0,False,2021-09-11T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Leeds,90,0,0,1,0,8,0,0,0,0,0,0,3.4,12.6,12.0,9.0,True,2021-09-17T19:00:00Z,2
+Sean Longstaff,MID,Newcastle,West Brom,90,1,0,1,0,22,0,0,0,0,0,0,8.5,49.8,13.2,22.0,False,2021-09-25T14:00:00Z,8
+Sean Longstaff,MID,Newcastle,Wolves,90,0,0,2,0,13,0,0,0,0,0,0,2.5,9.2,7.6,8.0,False,2021-10-02T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Spurs,59,0,0,3,0,1,1,0,0,0,0,0,0.5,2.4,2.1,0.0,True,2021-10-17T15:30:00Z,0
+Sean Longstaff,MID,Newcastle,Everton,65,0,0,1,0,9,0,0,0,0,0,0,1.6,12.0,1.8,2.0,False,2021-10-23T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Crystal Palace,80,0,0,3,0,6,0,0,0,0,0,0,2.1,9.8,1.0,10.0,True,2021-10-30T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T17:30:00Z,0
+Sean Longstaff,MID,Newcastle,Brighton,19,0,0,0,0,6,0,0,0,0,0,0,0.4,3.8,0.6,0.0,True,2021-11-20T15:00:00Z,1
+Sean Longstaff,MID,Newcastle,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-27T12:30:00Z,0
+Sean Longstaff,MID,Newcastle,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-30T19:30:00Z,0
+Sean Longstaff,MID,Newcastle,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,0
+Sean Longstaff,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-12T14:00:00Z,0
+Sean Longstaff,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-16T20:00:00Z,0
+Sean Longstaff,MID,Newcastle,Man City,29,0,0,2,0,2,0,0,0,0,0,0,0.3,2.8,0.0,0.0,True,2021-12-19T14:00:00Z,1
+Sean Longstaff,MID,Newcastle,Man Utd,90,0,1,1,0,20,0,0,0,0,0,0,3.7,25.0,12.2,0.0,True,2021-12-27T20:00:00Z,5
+Sean Longstaff,MID,Newcastle,West Brom,90,0,0,1,0,13,0,0,0,0,0,0,2.4,16.4,2.5,5.0,True,2022-01-15T15:00:00Z,2
+Sean Longstaff,MID,Newcastle,Leeds,48,0,0,0,0,1,0,0,0,0,0,0,1.5,7.0,0.8,7.0,False,2022-01-22T15:00:00Z,1
+Sean Longstaff,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T19:45:00Z,0
+Sean Longstaff,MID,Newcastle,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Sean Longstaff,MID,Newcastle,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T12:30:00Z,0
+Sean Longstaff,MID,Newcastle,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+Sean Longstaff,MID,Newcastle,Burnley,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.1,0.0,True,2022-03-05T15:00:00Z,1
+Sean Longstaff,MID,Newcastle,Southampton,23,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,False,2022-03-10T19:30:00Z,1
+Sean Longstaff,MID,Newcastle,Crystal Palace,90,0,0,1,0,5,0,0,0,0,0,0,0.3,1.6,0.8,1.0,False,2022-03-13T14:00:00Z,2
+Sean Longstaff,MID,Newcastle,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-17T19:45:00Z,0
+Sean Longstaff,MID,Newcastle,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T15:30:00Z,0
+Sean Longstaff,MID,Newcastle,Wolves,2,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,True,2022-04-08T19:00:00Z,1
+Sean Longstaff,MID,Newcastle,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-17T13:15:00Z,0
+Sean Longstaff,MID,Newcastle,Everton,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,1
+Sean Longstaff,MID,Newcastle,Sheffield Utd,90,0,0,0,1,12,0,0,0,0,0,0,1.6,7.0,2.8,6.0,False,2022-04-23T14:00:00Z,3
+Sean Longstaff,MID,Newcastle,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T11:30:00Z,0
+Sean Longstaff,MID,Newcastle,Man City,90,0,0,5,0,9,0,0,0,0,0,0,0.4,2.8,1.3,0.0,False,2022-05-08T15:30:00Z,2
+Sean Longstaff,MID,Newcastle,Arsenal,90,0,0,0,1,16,0,0,0,0,0,0,5.7,14.2,26.5,16.0,True,2022-05-16T19:00:00Z,3
+Sean Longstaff,MID,Newcastle,Chelsea,90,0,0,1,0,10,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

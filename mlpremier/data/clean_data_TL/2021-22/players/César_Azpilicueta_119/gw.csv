@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+César Azpilicueta,DEF,Chelsea,Everton,66,0,0,0,1,25,0,0,0,0,0,0,2.5,10.4,8.6,6.0,True,2021-08-14T14:00:00Z,6
+César Azpilicueta,DEF,Chelsea,Arsenal,90,0,0,0,1,25,0,0,0,0,0,0,3.0,23.6,4.1,2.0,False,2021-08-22T15:30:00Z,6
+César Azpilicueta,DEF,Chelsea,Liverpool,90,0,0,1,0,16,0,0,0,0,0,0,4.3,34.0,5.4,4.0,False,2021-08-28T16:30:00Z,2
+César Azpilicueta,DEF,Chelsea,Aston Villa,26,0,1,0,0,13,0,0,0,0,0,0,3.4,23.4,10.4,0.0,True,2021-09-11T16:30:00Z,4
+César Azpilicueta,DEF,Chelsea,Spurs,90,0,0,0,1,32,0,0,0,0,0,0,5.0,14.4,25.5,10.0,False,2021-09-19T15:30:00Z,6
+César Azpilicueta,DEF,Chelsea,Man City,90,0,0,1,0,15,0,0,0,0,0,0,3.3,19.0,12.2,2.0,True,2021-09-25T11:30:00Z,2
+César Azpilicueta,DEF,Chelsea,Southampton,90,0,2,1,0,32,0,0,0,0,0,0,7.1,26.4,29.9,15.0,True,2021-10-02T14:00:00Z,10
+César Azpilicueta,DEF,Chelsea,Brighton,88,0,0,0,1,24,0,0,0,0,0,0,2.4,15.8,4.1,4.0,False,2021-10-16T16:30:00Z,6
+César Azpilicueta,DEF,Chelsea,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T11:30:00Z,0
+César Azpilicueta,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T15:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T12:30:00Z,0
+César Azpilicueta,DEF,Chelsea,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T16:30:00Z,0
+César Azpilicueta,DEF,Chelsea,West Brom,68,0,0,1,0,10,0,0,0,0,0,0,1.3,8.2,2.2,3.0,False,2021-12-01T19:30:00Z,2
+César Azpilicueta,DEF,Chelsea,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T12:30:00Z,0
+César Azpilicueta,DEF,Chelsea,Leeds,73,0,0,1,0,16,0,0,0,0,0,0,3.5,22.8,11.8,0.0,True,2021-12-11T15:00:00Z,2
+César Azpilicueta,DEF,Chelsea,Fulham,78,0,0,1,0,9,0,0,0,0,0,0,1.5,4.2,5.2,6.0,True,2021-12-16T19:45:00Z,2
+César Azpilicueta,DEF,Chelsea,Wolves,90,0,0,0,1,24,0,0,0,0,0,0,5.0,12.2,17.7,20.0,False,2021-12-19T14:00:00Z,6
+César Azpilicueta,DEF,Chelsea,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-26T17:30:00Z,0
+César Azpilicueta,DEF,Chelsea,Burnley,90,0,0,1,0,17,0,0,0,0,0,0,4.7,23.0,2.8,21.0,True,2021-12-29T19:30:00Z,2
+César Azpilicueta,DEF,Chelsea,Liverpool,90,0,0,2,0,13,0,0,0,0,0,0,4.2,20.8,19.4,2.0,True,2022-01-02T16:30:00Z,1
+César Azpilicueta,DEF,Chelsea,Man City,90,0,0,1,0,18,0,0,0,0,0,0,5.2,34.2,13.3,4.0,False,2022-01-15T12:30:00Z,2
+César Azpilicueta,DEF,Chelsea,Burnley,90,0,0,1,0,18,0,0,0,0,0,0,7.4,25.2,19.3,29.0,False,2022-01-18T20:00:00Z,2
+César Azpilicueta,DEF,Chelsea,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,4.6,15.8,23.8,6.0,True,2022-01-23T16:30:00Z,6
+César Azpilicueta,DEF,Chelsea,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-05T15:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Sheffield Utd,45,0,0,0,0,6,0,0,0,0,0,0,2.4,1.4,14.4,8.0,False,2022-03-10T19:30:00Z,1
+César Azpilicueta,DEF,Chelsea,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Brighton,90,0,0,4,0,13,0,0,0,0,0,0,3.4,14.6,7.8,12.0,True,2022-04-02T14:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+César Azpilicueta,DEF,Chelsea,Arsenal,90,1,0,4,0,19,1,0,0,0,0,0,7.7,41.6,16.2,19.0,True,2022-04-20T18:45:00Z,5
+César Azpilicueta,DEF,Chelsea,West Ham,90,0,0,0,1,25,0,0,0,0,0,0,4.2,16.2,17.4,8.0,True,2022-04-24T13:00:00Z,6
+César Azpilicueta,DEF,Chelsea,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,2.4,14.6,5.5,4.0,False,2022-04-28T18:45:00Z,2
+César Azpilicueta,DEF,Chelsea,Fulham,67,0,0,1,0,7,1,0,0,0,0,0,5.3,15.0,19.0,19.0,False,2022-05-01T13:00:00Z,1
+César Azpilicueta,DEF,Chelsea,Wolves,86,0,0,1,0,6,1,0,0,0,0,0,1.4,5.4,6.3,2.0,True,2022-05-07T14:00:00Z,1
+César Azpilicueta,DEF,Chelsea,Leeds,12,0,0,0,0,2,0,0,0,0,0,0,0.1,0.4,0.9,0.0,False,2022-05-11T18:30:00Z,1
+César Azpilicueta,DEF,Chelsea,Leicester,18,0,0,0,0,8,0,0,0,0,0,0,1.6,8.2,1.8,6.0,True,2022-05-19T19:00:00Z,1
+César Azpilicueta,DEF,Chelsea,West Brom,90,0,0,1,0,19,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

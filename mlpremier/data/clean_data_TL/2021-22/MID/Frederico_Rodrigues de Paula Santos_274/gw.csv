@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Leeds,90,1,0,1,0,25,0,0,0,0,0,0,6.2,37.8,7.2,17.0,True,2021-08-14T11:30:00Z,7
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Southampton,75,0,0,1,0,7,0,0,1,0,0,0,4.0,15.6,24.3,0.0,False,2021-08-22T13:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Wolves,90,0,0,0,1,9,1,0,0,0,0,0,2.6,14.0,3.0,9.0,False,2021-08-29T15:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,West Ham,87,0,0,1,0,13,0,0,0,0,0,0,3.4,19.2,14.9,0.0,False,2021-09-19T13:00:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Aston Villa,90,0,0,1,0,6,1,0,0,0,0,0,1.3,10.8,0.8,1.0,True,2021-09-25T11:30:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Fulham,69,0,0,1,0,15,0,0,0,0,0,0,3.2,12.8,19.5,0.0,True,2021-10-02T11:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Liverpool,90,0,0,5,0,8,1,0,0,0,0,0,1.9,6.0,13.4,0.0,True,2021-10-24T15:30:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Spurs,90,0,0,0,1,2,1,0,0,0,0,0,4.3,18.6,13.2,11.0,False,2021-10-30T16:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Man City,79,0,0,2,0,13,0,0,0,0,0,0,2.4,11.0,12.7,0.0,True,2021-11-06T12:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Crystal Palace,90,0,0,1,0,18,0,0,0,0,0,0,3.4,20.0,2.8,11.0,False,2021-11-28T16:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Arsenal,90,0,2,2,0,31,0,0,0,0,0,0,6.2,34.6,23.8,4.0,True,2021-12-02T20:15:00Z,9
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Everton,90,1,0,0,1,31,0,0,0,0,0,0,10.0,57.4,17.9,25.0,True,2021-12-05T14:00:00Z,11
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Sheffield Utd,90,0,0,0,1,18,0,0,0,0,0,0,5.0,24.2,17.8,8.0,False,2021-12-11T17:30:00Z,3
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Newcastle,45,0,0,1,0,9,0,0,0,0,0,0,3.7,14.8,21.8,0.0,False,2021-12-27T20:00:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Chelsea,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-30T20:15:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-03T17:30:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Aston Villa,90,0,1,2,0,22,0,0,0,0,0,0,6.4,30.6,33.5,0.0,False,2022-01-15T17:30:00Z,5
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Brighton,90,0,1,1,0,29,0,0,0,0,0,0,8.4,45.6,30.8,8.0,False,2022-01-19T20:00:00Z,5
+Frederico Rodrigues de Paula Santos,MID,Man Utd,West Ham,81,0,0,0,1,16,0,0,0,0,0,0,4.6,14.6,14.0,17.0,True,2022-01-22T15:00:00Z,3
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T20:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T12:30:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Burnley,72,0,0,0,1,12,0,0,0,0,0,0,4.0,13.0,16.6,10.0,True,2022-02-15T20:15:00Z,3
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Leeds,23,1,0,0,0,24,0,0,0,0,0,0,5.6,35.4,4.0,17.0,False,2022-02-20T14:00:00Z,6
+Frederico Rodrigues de Paula Santos,MID,Man Utd,West Brom,61,0,0,0,1,14,0,0,0,0,0,0,3.7,16.8,18.8,1.0,True,2022-02-26T15:00:00Z,3
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Man City,90,0,0,4,0,10,0,0,0,0,0,0,6.0,21.6,1.6,37.0,False,2022-03-06T16:30:00Z,2
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Spurs,90,0,1,2,0,29,1,0,0,0,0,0,7.8,44.4,33.3,0.0,True,2022-03-12T17:30:00Z,5
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Leicester,90,1,0,1,0,32,0,0,0,0,0,0,9.4,47.8,29.0,17.0,True,2022-04-02T16:30:00Z,10
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Fulham,35,0,0,1,0,3,0,0,0,0,0,0,0.6,2.0,2.3,2.0,False,2022-04-09T11:30:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T14:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-19T19:00:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T11:30:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-28T18:45:00Z,0
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Brighton,19,0,0,0,0,4,0,0,0,0,0,0,1.4,3.2,10.8,0.0,True,2022-05-02T19:00:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Burnley,45,0,0,3,0,12,0,0,0,0,0,0,2.0,11.6,2.4,6.0,False,2022-05-07T16:30:00Z,1
+Frederico Rodrigues de Paula Santos,MID,Man Utd,Everton,74,0,0,1,0,11,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

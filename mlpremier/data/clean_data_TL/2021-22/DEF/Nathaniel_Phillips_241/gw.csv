@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Nathaniel Phillips,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-14T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-21T11:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-28T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-12T15:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T15:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T11:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T15:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T14:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T17:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-16T20:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T20:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T16:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-16T14:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-10T19:45:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-13T14:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:45:00Z,0
+Nathaniel Phillips,DEF,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T17:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T12:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T20:15:00Z,0
+Nathaniel Phillips,DEF,Liverpool,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T11:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T15:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-19T19:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T15:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T11:30:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T18:45:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-17T18:45:00Z,0
+Nathaniel Phillips,DEF,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

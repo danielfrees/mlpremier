@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Hamza Choudhury,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-23T19:00:00Z,0
+Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-28T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Everton,59,0,0,0,0,9,0,0,0,0,0,0,1.7,15.4,1.6,0.0,False,2021-10-03T13:00:00Z,1
+Hamza Choudhury,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T11:30:00Z,0
+Hamza Choudhury,MID,Leicester,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T12:30:00Z,0
+Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Hamza Choudhury,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-05T16:30:00Z,0
+Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-12T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Man City,19,0,0,1,0,3,0,0,0,0,0,0,0.3,2.4,0.1,0.0,False,2021-12-26T15:00:00Z,1
+Hamza Choudhury,MID,Leicester,Liverpool,55,0,0,0,0,4,0,0,0,0,0,0,0.7,4.2,0.4,2.0,True,2021-12-28T20:00:00Z,1
+Hamza Choudhury,MID,Leicester,Spurs,90,0,0,3,0,10,1,0,0,0,0,0,1.9,14.8,0.3,4.0,True,2022-01-19T19:30:00Z,1
+Hamza Choudhury,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-23T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-10T19:45:00Z,0
+Hamza Choudhury,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T16:30:00Z,0
+Hamza Choudhury,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-20T16:30:00Z,0
+Hamza Choudhury,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-01T19:45:00Z,0
+Hamza Choudhury,MID,Leicester,Leeds,60,0,0,0,1,12,0,0,0,0,0,0,0.6,5.2,0.4,0.0,True,2022-03-05T12:30:00Z,3
+Hamza Choudhury,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-13T16:30:00Z,0
+Hamza Choudhury,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-20T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Man Utd,1,0,0,0,0,3,0,0,0,0,0,0,0.1,1.0,0.0,0.0,False,2022-04-02T16:30:00Z,1
+Hamza Choudhury,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-17T13:15:00Z,0
+Hamza Choudhury,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T18:45:00Z,0
+Hamza Choudhury,MID,Leicester,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Hamza Choudhury,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-08T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T18:45:00Z,0
+Hamza Choudhury,MID,Leicester,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Hamza Choudhury,MID,Leicester,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-19T19:00:00Z,0
+Hamza Choudhury,MID,Leicester,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jorge Luiz Frello Filho,MID,Chelsea,Everton,90,0,0,0,1,14,0,0,0,0,0,0,4.3,19.6,21.4,2.0,True,2021-08-14T14:00:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Arsenal,90,0,0,0,1,16,0,0,0,0,0,0,2.9,12.4,16.2,0.0,False,2021-08-22T15:30:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Liverpool,86,0,0,1,0,11,0,0,0,0,0,0,1.5,14.0,0.6,0.0,False,2021-08-28T16:30:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Aston Villa,45,0,0,0,0,12,0,0,0,0,0,0,2.9,17.0,11.8,0.0,True,2021-09-11T16:30:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Spurs,90,0,0,0,1,11,0,0,0,0,0,0,2.7,9.2,16.0,2.0,False,2021-09-19T15:30:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Man City,75,0,0,1,0,10,0,0,0,0,0,0,1.3,12.4,0.3,0.0,True,2021-09-25T11:30:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Southampton,17,0,0,0,0,3,0,0,0,0,0,0,0.2,1.0,1.3,0.0,True,2021-10-02T14:00:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T16:30:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Sheffield Utd,63,0,1,0,1,23,0,0,0,0,0,0,5.5,26.2,29.2,0.0,True,2021-10-23T11:30:00Z,6
+Jorge Luiz Frello Filho,MID,Chelsea,Newcastle,90,1,0,0,1,29,0,0,0,0,0,0,6.7,41.6,7.8,18.0,False,2021-10-30T14:00:00Z,10
+Jorge Luiz Frello Filho,MID,Chelsea,Chelsea,90,0,0,1,0,13,0,0,0,0,0,0,6.2,18.2,18.4,25.0,True,2021-11-06T15:00:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Leicester,76,0,0,0,1,24,0,0,0,0,0,0,4.5,14.2,30.5,0.0,False,2021-11-20T12:30:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Man Utd,90,1,0,1,0,26,1,0,0,0,0,0,7.6,41.4,15.2,19.0,True,2021-11-28T16:30:00Z,8
+Jorge Luiz Frello Filho,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,West Ham,90,0,0,3,0,12,1,0,0,0,0,0,4.1,8.2,16.8,16.0,False,2021-12-04T12:30:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Leeds,90,2,0,2,0,57,0,0,0,0,0,0,12.3,75.8,12.8,34.0,True,2021-12-11T15:00:00Z,15
+Jorge Luiz Frello Filho,MID,Chelsea,Fulham,90,0,0,1,0,14,1,0,0,0,0,0,7.4,18.8,22.5,33.0,True,2021-12-16T19:45:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-19T14:00:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Aston Villa,90,2,0,1,0,55,0,0,0,0,0,0,12.3,75.2,13.7,34.0,False,2021-12-26T17:30:00Z,15
+Jorge Luiz Frello Filho,MID,Chelsea,Burnley,90,0,0,1,0,23,0,0,0,0,0,0,2.2,19.8,2.6,0.0,True,2021-12-29T19:30:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Liverpool,20,0,0,0,0,3,0,0,0,0,0,0,0.1,0.4,0.9,0.0,True,2022-01-02T16:30:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T12:30:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Burnley,79,0,0,1,0,12,0,0,0,0,0,0,1.4,8.8,3.9,1.0,False,2022-01-18T20:00:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Spurs,72,0,0,0,1,17,1,0,0,0,0,0,2.7,13.4,13.6,0.0,True,2022-01-23T16:30:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Everton,73,0,0,0,1,7,0,0,0,0,0,0,1.4,12.4,1.4,0.0,False,2022-02-19T15:00:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Chelsea,90,0,0,0,1,17,0,0,0,0,0,0,5.0,14.8,27.5,8.0,False,2022-03-05T15:00:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Sheffield Utd,90,0,0,1,0,12,0,0,0,0,0,0,1.2,6.6,5.8,0.0,False,2022-03-10T19:30:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Newcastle,90,0,1,0,1,24,0,0,0,0,0,0,4.6,29.6,16.5,0.0,True,2022-03-13T14:00:00Z,7
+Jorge Luiz Frello Filho,MID,Chelsea,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,West Ham,90,0,0,0,1,14,0,0,0,0,1,0,6.8,23.8,26.8,17.0,True,2022-04-24T13:00:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Man Utd,90,0,0,1,0,16,0,0,0,0,0,0,3.6,14.6,17.9,3.0,False,2022-04-28T18:45:00Z,2
+Jorge Luiz Frello Filho,MID,Chelsea,Fulham,45,0,0,0,0,12,0,0,0,0,0,0,1.7,13.8,2.8,0.0,False,2022-05-01T13:00:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T14:00:00Z,0
+Jorge Luiz Frello Filho,MID,Chelsea,Leeds,90,0,0,0,1,16,0,0,0,0,0,0,4.9,21.0,27.8,0.0,False,2022-05-11T18:30:00Z,3
+Jorge Luiz Frello Filho,MID,Chelsea,Leicester,90,0,0,1,0,16,1,0,0,0,0,0,7.1,21.6,47.3,2.0,True,2022-05-19T19:00:00Z,1
+Jorge Luiz Frello Filho,MID,Chelsea,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

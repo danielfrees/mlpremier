@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Japhet Tanganga,DEF,Spurs,Man City,82,0,0,0,1,20,0,0,0,0,0,0,2.2,13.8,5.7,2.0,True,2021-08-15T15:30:00Z,6
+Japhet Tanganga,DEF,Spurs,Wolves,90,0,0,0,1,17,1,0,0,0,0,0,2.2,19.4,0.8,2.0,False,2021-08-22T13:00:00Z,5
+Japhet Tanganga,DEF,Spurs,West Brom,90,0,0,0,1,25,0,0,0,0,0,0,8.6,17.8,29.0,39.0,True,2021-08-29T13:00:00Z,6
+Japhet Tanganga,DEF,Spurs,Everton,57,0,0,3,0,-5,0,1,0,0,0,0,0.4,3.6,0.0,0.0,False,2021-09-11T11:30:00Z,-3
+Japhet Tanganga,DEF,Spurs,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T15:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Arsenal,45,0,0,3,0,4,0,0,0,0,0,0,0.9,0.8,1.1,7.0,False,2021-09-26T15:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-03T13:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-17T15:30:00Z,0
+Japhet Tanganga,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T16:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T14:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Leeds,67,0,0,1,0,11,0,0,0,0,0,0,1.4,13.6,0.8,0.0,True,2021-11-21T16:30:00Z,2
+Japhet Tanganga,DEF,Spurs,Brighton,7,0,0,0,0,3,0,0,0,0,0,0,1.8,0.4,0.0,18.0,True,2021-12-02T19:30:00Z,1
+Japhet Tanganga,DEF,Spurs,Sheffield Utd,61,0,0,0,1,18,0,0,0,0,0,0,0.4,1.2,2.8,0.0,True,2021-12-05T14:00:00Z,6
+Japhet Tanganga,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T16:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Everton,90,0,0,0,1,26,0,0,0,0,0,0,4.9,19.4,3.8,26.0,True,2021-12-26T15:00:00Z,6
+Japhet Tanganga,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-28T15:00:00Z,0
+Japhet Tanganga,DEF,Spurs,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-01T15:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Leicester,90,0,0,2,0,15,0,0,0,0,0,0,4.1,22.8,3.8,14.0,False,2022-01-19T19:30:00Z,1
+Japhet Tanganga,DEF,Spurs,Crystal Palace,56,0,0,2,0,-1,1,0,0,0,0,0,0.6,5.2,0.3,0.0,False,2022-01-23T16:30:00Z,-1
+Japhet Tanganga,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Japhet Tanganga,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T17:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-23T19:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T12:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-07T20:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T17:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-16T19:30:00Z,0
+Japhet Tanganga,DEF,Spurs,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-20T16:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-03T15:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T16:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-16T11:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-23T16:30:00Z,0
+Japhet Tanganga,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T18:45:00Z,0
+Japhet Tanganga,DEF,Spurs,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-12T18:45:00Z,0
+Japhet Tanganga,DEF,Spurs,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T11:00:00Z,0
+Japhet Tanganga,DEF,Spurs,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

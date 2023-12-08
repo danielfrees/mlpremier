@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Neal Maupay,FWD,Brighton,Chelsea,90,1,0,1,0,20,1,0,0,0,0,0,11.5,34.0,6.5,74.0,False,2021-08-14T14:00:00Z,5
+Neal Maupay,FWD,Brighton,West Brom,45,1,0,0,0,28,0,0,0,0,0,0,6.7,34.0,13.8,19.0,True,2021-08-21T16:30:00Z,6
+Neal Maupay,FWD,Brighton,Fulham,90,0,0,2,0,12,0,0,0,0,0,0,5.7,9.6,32.8,15.0,True,2021-08-28T14:00:00Z,2
+Neal Maupay,FWD,Brighton,Brighton,90,0,0,0,1,3,0,0,0,0,0,0,1.1,0.0,4.9,8.0,False,2021-09-11T14:00:00Z,2
+Neal Maupay,FWD,Brighton,Leicester,90,1,0,1,0,29,0,0,0,0,0,0,7.7,36.6,3.3,37.0,True,2021-09-19T13:00:00Z,7
+Neal Maupay,FWD,Brighton,Everton,90,1,0,1,0,29,0,0,0,0,0,0,5.4,34.8,2.3,17.0,False,2021-09-27T19:00:00Z,9
+Neal Maupay,FWD,Brighton,Arsenal,90,0,0,0,1,4,1,0,0,0,0,0,3.5,0.0,28.0,10.0,True,2021-10-02T16:30:00Z,1
+Neal Maupay,FWD,Brighton,Sheffield Utd,90,0,0,0,1,4,0,0,0,0,0,0,4.8,5.4,23.8,19.0,False,2021-10-16T14:00:00Z,2
+Neal Maupay,FWD,Brighton,Man City,57,0,0,3,0,2,0,0,0,0,0,0,0.1,0.0,1.3,0.0,True,2021-10-23T16:30:00Z,1
+Neal Maupay,FWD,Brighton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T14:00:00Z,0
+Neal Maupay,FWD,Brighton,Newcastle,24,0,0,1,0,-4,1,0,0,0,0,0,0.2,0.0,1.5,2.0,True,2021-11-06T17:30:00Z,0
+Neal Maupay,FWD,Brighton,Aston Villa,11,0,0,2,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T15:00:00Z,1
+Neal Maupay,FWD,Brighton,Leeds,67,0,0,0,1,-7,0,0,0,0,0,0,4.9,1.0,8.9,39.0,True,2021-11-27T17:30:00Z,2
+Neal Maupay,FWD,Brighton,West Ham,90,1,0,1,0,30,1,0,0,0,0,0,8.8,39.6,17.3,31.0,False,2021-12-01T19:30:00Z,8
+Neal Maupay,FWD,Brighton,Southampton,90,1,0,1,0,24,0,0,0,0,0,0,9.6,34.8,3.1,58.0,False,2021-12-04T15:00:00Z,9
+Neal Maupay,FWD,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Neal Maupay,FWD,Brighton,Brighton,90,1,0,0,1,24,0,0,0,0,0,0,8.8,36.4,24.1,27.0,True,2021-12-26T20:00:00Z,6
+Neal Maupay,FWD,Brighton,Crystal Palace,90,0,0,1,0,4,0,0,0,0,0,0,7.7,6.2,23.8,47.0,False,2021-12-29T19:30:00Z,2
+Neal Maupay,FWD,Brighton,Fulham,90,0,1,2,0,13,0,0,0,0,0,0,5.3,19.8,24.3,9.0,False,2022-01-02T14:00:00Z,5
+Neal Maupay,FWD,Brighton,Everton,90,0,1,1,0,12,0,0,0,0,0,0,1.2,0.0,3.0,10.0,True,2022-01-14T20:00:00Z,5
+Neal Maupay,FWD,Brighton,Crystal Palace,28,0,0,0,0,0,0,0,0,0,0,0,2.1,0.4,0.8,20.0,True,2022-01-18T20:00:00Z,1
+Neal Maupay,FWD,Brighton,Leicester,90,0,1,1,0,18,0,0,0,0,0,0,8.6,24.6,38.1,23.0,False,2022-01-23T14:00:00Z,5
+Neal Maupay,FWD,Brighton,West Brom,90,1,0,0,1,32,0,0,0,0,0,0,9.6,38.2,3.8,54.0,False,2022-02-12T15:00:00Z,6
+Neal Maupay,FWD,Brighton,Man Utd,69,0,0,1,0,4,0,0,0,0,0,0,0.8,0.0,1.4,8.0,False,2022-02-15T20:15:00Z,2
+Neal Maupay,FWD,Brighton,Chelsea,90,0,0,3,0,2,0,0,0,0,0,0,2.3,0.0,4.5,22.0,True,2022-02-19T15:00:00Z,2
+Neal Maupay,FWD,Brighton,Aston Villa,90,0,0,2,0,5,0,0,0,0,0,0,4.3,5.6,24.8,13.0,True,2022-02-26T15:30:00Z,2
+Neal Maupay,FWD,Brighton,Newcastle,31,0,0,0,0,2,0,0,0,0,0,0,3.7,0.6,4.1,32.0,False,2022-03-05T15:00:00Z,1
+Neal Maupay,FWD,Brighton,Liverpool,90,0,0,2,0,6,1,0,0,0,0,0,2.9,1.8,18.1,9.0,True,2022-03-12T12:30:00Z,1
+Neal Maupay,FWD,Brighton,Spurs,90,0,0,2,0,0,1,0,0,0,0,0,4.0,0.0,4.0,38.0,True,2022-03-16T19:30:00Z,1
+Neal Maupay,FWD,Brighton,Sheffield Utd,78,0,0,0,1,-10,0,0,0,0,1,0,4.3,0.0,25.0,27.0,True,2022-04-02T14:00:00Z,0
+Neal Maupay,FWD,Brighton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-09T14:00:00Z,0
+Neal Maupay,FWD,Brighton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T11:30:00Z,0
+Neal Maupay,FWD,Brighton,Man City,13,0,0,1,0,3,0,0,0,0,0,0,0.2,0.0,2.1,0.0,False,2022-04-20T19:00:00Z,1
+Neal Maupay,FWD,Brighton,Southampton,84,0,0,2,0,2,0,0,0,0,0,0,1.6,4.0,7.6,4.0,True,2022-04-24T13:00:00Z,2
+Neal Maupay,FWD,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Neal Maupay,FWD,Brighton,Man Utd,7,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2022-05-07T16:30:00Z,1
+Neal Maupay,FWD,Brighton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Neal Maupay,FWD,Brighton,West Ham,45,0,0,0,0,-1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

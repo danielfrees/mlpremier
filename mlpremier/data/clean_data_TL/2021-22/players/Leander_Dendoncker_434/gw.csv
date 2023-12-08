@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Leander Dendoncker,MID,Wolves,Leicester,24,0,0,0,0,4,0,0,0,0,0,0,1.2,11.6,0.6,0.0,False,2021-08-14T14:00:00Z,1
+Leander Dendoncker,MID,Wolves,Spurs,18,0,0,0,0,4,0,0,0,0,0,0,0.8,3.0,0.6,4.0,True,2021-08-22T13:00:00Z,1
+Leander Dendoncker,MID,Wolves,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-29T15:30:00Z,0
+Leander Dendoncker,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Leander Dendoncker,MID,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T11:30:00Z,0
+Leander Dendoncker,MID,Wolves,Southampton,90,0,0,0,1,14,0,0,0,0,0,0,2.8,8.0,1.8,18.0,False,2021-09-26T13:00:00Z,3
+Leander Dendoncker,MID,Wolves,Newcastle,4,0,0,0,0,4,0,0,0,0,0,0,1.5,4.2,10.3,0.0,True,2021-10-02T14:00:00Z,1
+Leander Dendoncker,MID,Wolves,Aston Villa,90,0,1,2,0,20,1,0,0,0,0,0,4.8,18.0,24.8,5.0,False,2021-10-16T14:00:00Z,4
+Leander Dendoncker,MID,Wolves,Leeds,90,0,0,1,0,10,0,0,0,0,0,0,0.4,1.8,1.7,0.0,False,2021-10-23T14:00:00Z,2
+Leander Dendoncker,MID,Wolves,Fulham,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.2,0.0,0.0,True,2021-11-01T20:00:00Z,1
+Leander Dendoncker,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-06T15:00:00Z,0
+Leander Dendoncker,MID,Wolves,West Ham,3,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.2,0.0,True,2021-11-20T15:00:00Z,1
+Leander Dendoncker,MID,Wolves,Sheffield Utd,14,0,0,0,0,3,0,0,0,0,0,0,0.4,2.0,1.5,0.0,False,2021-11-27T15:00:00Z,1
+Leander Dendoncker,MID,Wolves,Chelsea,90,0,0,0,1,12,0,0,0,0,0,0,7.8,20.8,37.8,19.0,True,2021-12-01T19:30:00Z,3
+Leander Dendoncker,MID,Wolves,Liverpool,90,0,0,1,0,9,1,0,0,0,0,0,2.7,17.6,1.8,8.0,True,2021-12-04T15:00:00Z,1
+Leander Dendoncker,MID,Wolves,Man City,86,0,0,1,0,7,1,0,0,0,0,0,1.3,12.0,0.6,0.0,False,2021-12-11T12:30:00Z,1
+Leander Dendoncker,MID,Wolves,Burnley,1,0,0,0,0,2,0,0,0,0,0,0,0.3,3.2,0.1,0.0,False,2021-12-15T19:30:00Z,1
+Leander Dendoncker,MID,Wolves,Crystal Palace,90,0,0,0,1,7,0,0,0,0,0,0,4.7,27.4,2.6,17.0,True,2021-12-19T14:00:00Z,3
+Leander Dendoncker,MID,Wolves,Man Utd,2,0,0,0,0,3,0,0,0,0,0,0,0.2,1.2,0.9,0.0,False,2022-01-03T17:30:00Z,1
+Leander Dendoncker,MID,Wolves,Southampton,90,0,0,1,0,5,0,0,0,0,0,0,1.7,4.8,11.6,1.0,True,2022-01-15T15:00:00Z,2
+Leander Dendoncker,MID,Wolves,Brighton,90,0,0,1,0,16,0,0,0,0,0,0,1.7,10.4,5.0,2.0,False,2022-01-22T15:00:00Z,2
+Leander Dendoncker,MID,Wolves,Arsenal,90,0,0,1,0,14,0,0,0,0,0,0,4.2,13.2,1.8,27.0,True,2022-02-10T19:45:00Z,2
+Leander Dendoncker,MID,Wolves,Spurs,90,1,1,0,1,40,0,0,0,0,0,0,9.3,41.0,2.3,50.0,False,2022-02-13T14:00:00Z,14
+Leander Dendoncker,MID,Wolves,Leicester,90,0,1,1,0,14,1,0,0,0,0,0,6.3,30.0,11.4,22.0,True,2022-02-20T16:30:00Z,4
+Leander Dendoncker,MID,Wolves,Arsenal,1,0,0,1,0,3,0,0,0,0,0,0,0.8,7.0,1.0,0.0,False,2022-02-24T19:45:00Z,1
+Leander Dendoncker,MID,Wolves,West Ham,90,0,0,1,0,16,0,0,0,0,0,0,4.7,12.4,30.4,4.0,False,2022-02-27T14:00:00Z,2
+Leander Dendoncker,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Leander Dendoncker,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Leander Dendoncker,MID,Wolves,Fulham,82,0,0,0,1,14,0,0,0,0,0,0,3.1,8.4,14.3,8.0,False,2022-03-13T14:00:00Z,3
+Leander Dendoncker,MID,Wolves,Leeds,90,0,0,3,0,5,0,0,0,0,0,0,3.4,8.8,2.3,23.0,True,2022-03-18T20:00:00Z,2
+Leander Dendoncker,MID,Wolves,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,1.9,9.8,2.9,6.0,True,2022-04-02T14:00:00Z,2
+Leander Dendoncker,MID,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-08T19:00:00Z,0
+Leander Dendoncker,MID,Wolves,Chelsea,90,0,0,1,0,14,0,0,0,0,0,0,1.4,8.8,2.8,2.0,False,2022-04-24T13:00:00Z,2
+Leander Dendoncker,MID,Wolves,Burnley,90,0,0,3,0,13,0,0,0,0,0,0,1.1,7.2,1.8,2.0,True,2022-04-30T14:00:00Z,2
+Leander Dendoncker,MID,Wolves,Crystal Palace,90,0,0,2,0,9,0,0,0,0,0,0,1.2,4.4,1.3,6.0,False,2022-05-07T14:00:00Z,2
+Leander Dendoncker,MID,Wolves,Man City,90,1,0,5,0,24,0,0,0,0,0,0,7.7,41.8,1.3,34.0,True,2022-05-11T19:15:00Z,9
+Leander Dendoncker,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Leander Dendoncker,MID,Wolves,Liverpool,89,0,0,3,0,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

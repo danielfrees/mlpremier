@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Leandro Trossard,MID,Brighton,Chelsea,75,0,0,1,0,4,0,0,0,0,0,0,1.2,2.2,1.9,8.0,False,2021-08-14T14:00:00Z,2
+Leandro Trossard,MID,Brighton,West Brom,71,0,0,0,1,7,0,0,0,0,0,0,2.7,3.0,5.0,19.0,True,2021-08-21T16:30:00Z,3
+Leandro Trossard,MID,Brighton,Fulham,90,0,0,2,0,8,0,0,0,0,0,0,7.6,13.2,15.2,48.0,True,2021-08-28T14:00:00Z,2
+Leandro Trossard,MID,Brighton,Brighton,90,1,0,0,1,28,0,0,0,0,0,0,10.0,45.0,30.2,25.0,False,2021-09-11T14:00:00Z,11
+Leandro Trossard,MID,Brighton,Leicester,90,0,1,1,0,28,0,0,0,0,0,0,12.2,34.4,57.3,30.0,True,2021-09-19T13:00:00Z,5
+Leandro Trossard,MID,Brighton,Everton,90,0,0,1,0,3,1,0,0,0,0,0,1.8,0.8,7.4,10.0,False,2021-09-27T19:00:00Z,1
+Leandro Trossard,MID,Brighton,Arsenal,90,0,0,0,1,12,0,0,0,0,0,0,11.4,13.0,40.8,60.0,True,2021-10-02T16:30:00Z,3
+Leandro Trossard,MID,Brighton,Sheffield Utd,90,0,0,0,1,8,0,0,0,0,0,0,5.6,10.4,5.8,40.0,False,2021-10-16T14:00:00Z,3
+Leandro Trossard,MID,Brighton,Man City,90,0,0,4,0,8,0,0,0,0,0,0,8.5,15.8,32.8,36.0,True,2021-10-23T16:30:00Z,2
+Leandro Trossard,MID,Brighton,Liverpool,90,1,0,2,0,27,0,0,0,0,0,0,11.1,42.0,26.3,43.0,False,2021-10-30T14:00:00Z,9
+Leandro Trossard,MID,Brighton,Newcastle,90,1,0,1,0,32,0,0,0,0,0,0,16.4,49.4,42.2,72.0,True,2021-11-06T17:30:00Z,10
+Leandro Trossard,MID,Brighton,Aston Villa,90,0,0,2,0,14,0,0,0,0,0,0,7.6,12.8,21.8,41.0,False,2021-11-20T15:00:00Z,2
+Leandro Trossard,MID,Brighton,Leeds,90,0,0,0,1,4,0,0,0,0,0,0,8.3,15.0,28.3,40.0,True,2021-11-27T17:30:00Z,3
+Leandro Trossard,MID,Brighton,West Ham,90,0,0,1,0,9,0,0,0,0,0,0,3.5,8.6,14.1,12.0,False,2021-12-01T19:30:00Z,2
+Leandro Trossard,MID,Brighton,Southampton,90,0,0,1,0,8,0,0,0,0,0,0,3.0,8.8,12.6,9.0,False,2021-12-04T15:00:00Z,2
+Leandro Trossard,MID,Brighton,Wolves,90,0,0,1,0,6,0,0,0,0,0,0,5.1,7.0,15.4,29.0,True,2021-12-15T19:30:00Z,2
+Leandro Trossard,MID,Brighton,Brighton,45,1,0,0,0,23,0,0,0,0,0,0,7.2,39.6,10.4,22.0,True,2021-12-26T20:00:00Z,6
+Leandro Trossard,MID,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T19:30:00Z,0
+Leandro Trossard,MID,Brighton,Fulham,80,0,0,2,0,8,0,0,0,0,0,0,4.1,6.2,20.3,14.0,False,2022-01-02T14:00:00Z,2
+Leandro Trossard,MID,Brighton,Everton,90,0,0,1,0,4,0,0,0,0,0,0,6.0,0.0,10.0,50.0,True,2022-01-14T20:00:00Z,2
+Leandro Trossard,MID,Brighton,Crystal Palace,28,0,0,0,0,-1,0,0,0,0,0,0,2.9,0.0,1.3,28.0,True,2022-01-18T20:00:00Z,1
+Leandro Trossard,MID,Brighton,Leicester,90,0,0,1,0,8,0,0,0,0,0,0,10.3,14.2,36.9,52.0,False,2022-01-23T14:00:00Z,2
+Leandro Trossard,MID,Brighton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-12T15:00:00Z,0
+Leandro Trossard,MID,Brighton,Man Utd,59,0,0,1,0,3,0,0,0,0,0,0,1.4,0.2,11.7,2.0,False,2022-02-15T20:15:00Z,1
+Leandro Trossard,MID,Brighton,Chelsea,35,0,0,1,0,-1,0,0,0,0,0,0,0.7,1.0,3.3,3.0,True,2022-02-19T15:00:00Z,1
+Leandro Trossard,MID,Brighton,Aston Villa,90,0,0,2,0,2,1,0,0,0,0,0,3.1,10.0,7.3,14.0,True,2022-02-26T15:30:00Z,1
+Leandro Trossard,MID,Brighton,Newcastle,90,0,0,2,0,12,0,0,0,0,0,0,6.3,10.4,20.0,33.0,False,2022-03-05T15:00:00Z,2
+Leandro Trossard,MID,Brighton,Liverpool,90,0,0,2,0,0,0,0,0,0,0,0,3.2,5.0,12.3,15.0,True,2022-03-12T12:30:00Z,2
+Leandro Trossard,MID,Brighton,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,5.0,13.4,15.0,22.0,True,2022-03-16T19:30:00Z,2
+Leandro Trossard,MID,Brighton,Sheffield Utd,90,0,0,0,1,17,0,0,0,0,0,0,10.3,14.4,28.5,60.0,True,2022-04-02T14:00:00Z,3
+Leandro Trossard,MID,Brighton,Arsenal,84,1,0,0,1,21,0,0,0,0,0,0,5.8,35.8,2.9,19.0,False,2022-04-09T14:00:00Z,8
+Leandro Trossard,MID,Brighton,Spurs,90,1,0,0,1,31,0,0,0,0,0,0,9.9,49.8,27.0,22.0,False,2022-04-16T11:30:00Z,11
+Leandro Trossard,MID,Brighton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-20T19:00:00Z,0
+Leandro Trossard,MID,Brighton,Southampton,90,0,1,2,0,24,0,0,0,0,0,0,4.5,16.0,17.2,12.0,True,2022-04-24T13:00:00Z,7
+Leandro Trossard,MID,Brighton,Wolves,88,1,0,0,1,29,0,0,0,0,0,0,12.2,48.4,23.7,50.0,False,2022-04-30T14:00:00Z,8
+Leandro Trossard,MID,Brighton,Man Utd,82,1,2,0,1,49,0,0,0,0,0,0,19.1,72.6,47.5,71.0,True,2022-05-07T16:30:00Z,17
+Leandro Trossard,MID,Brighton,Leeds,86,0,0,0,1,15,0,0,0,0,0,0,7.4,9.2,55.9,9.0,False,2022-05-15T13:00:00Z,3
+Leandro Trossard,MID,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

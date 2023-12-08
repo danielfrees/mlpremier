@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Raphael Dias Belloli,MID,Leeds,Man Utd,90,0,0,5,0,9,1,0,0,0,0,0,4.7,11.6,19.4,16.0,False,2021-08-14T11:30:00Z,1
+Raphael Dias Belloli,MID,Leeds,Fulham,90,1,0,2,0,18,0,0,0,0,0,0,11.2,41.2,24.3,46.0,True,2021-08-21T14:00:00Z,7
+Raphael Dias Belloli,MID,Leeds,Chelsea,90,0,0,1,0,3,0,0,0,0,0,0,6.8,11.6,30.2,26.0,False,2021-08-29T13:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,Liverpool,90,0,0,3,0,10,0,0,0,0,0,0,5.5,16.0,35.3,4.0,True,2021-09-12T15:30:00Z,2
+Raphael Dias Belloli,MID,Leeds,Newcastle,66,1,0,1,0,26,0,0,0,0,0,0,14.3,46.0,32.9,64.0,False,2021-09-17T19:00:00Z,8
+Raphael Dias Belloli,MID,Leeds,West Ham,68,1,0,1,0,30,1,0,0,0,0,0,10.5,45.2,36.4,23.0,True,2021-09-25T14:00:00Z,8
+Raphael Dias Belloli,MID,Leeds,West Brom,90,0,0,0,1,1,0,0,0,0,0,0,3.9,0.0,18.4,22.0,True,2021-10-02T14:00:00Z,3
+Raphael Dias Belloli,MID,Leeds,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Raphael Dias Belloli,MID,Leeds,Wolves,53,0,0,1,0,8,0,0,0,0,0,0,5.9,16.0,26.5,16.0,True,2021-10-23T14:00:00Z,1
+Raphael Dias Belloli,MID,Leeds,Sheffield Utd,90,1,0,1,0,29,0,0,0,0,0,0,15.3,50.2,41.5,61.0,False,2021-10-31T14:00:00Z,9
+Raphael Dias Belloli,MID,Leeds,Leicester,90,1,0,1,0,22,1,0,0,0,0,0,11.8,44.0,51.4,23.0,True,2021-11-07T14:00:00Z,9
+Raphael Dias Belloli,MID,Leeds,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-21T16:30:00Z,0
+Raphael Dias Belloli,MID,Leeds,Burnley,90,0,0,0,1,2,0,0,0,0,0,0,2.6,12.8,1.3,12.0,False,2021-11-27T17:30:00Z,3
+Raphael Dias Belloli,MID,Leeds,Everton,90,1,0,0,1,23,0,0,0,0,0,0,8.7,43.0,16.8,27.0,True,2021-11-30T20:15:00Z,8
+Raphael Dias Belloli,MID,Leeds,Brighton,90,0,1,2,0,23,1,0,0,0,0,0,9.9,33.6,60.2,5.0,True,2021-12-05T14:00:00Z,5
+Raphael Dias Belloli,MID,Leeds,Crystal Palace,81,1,0,2,0,17,0,0,0,0,0,0,12.0,41.8,17.7,60.0,False,2021-12-11T15:00:00Z,7
+Raphael Dias Belloli,MID,Leeds,Man City,90,0,0,7,0,8,0,0,0,0,0,0,2.2,11.6,6.0,4.0,False,2021-12-14T20:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,Arsenal,90,1,0,4,0,20,0,0,0,0,0,0,6.8,33.0,2.7,32.0,True,2021-12-18T17:30:00Z,7
+Raphael Dias Belloli,MID,Leeds,Chelsea,90,0,0,1,0,1,0,0,0,0,0,0,9.3,11.8,32.4,49.0,True,2022-01-02T14:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,West Ham,90,0,1,2,0,31,0,0,0,0,0,0,14.4,33.8,87.2,23.0,False,2022-01-16T14:00:00Z,6
+Raphael Dias Belloli,MID,Leeds,Newcastle,90,0,0,1,0,8,0,0,0,0,0,0,6.9,4.0,22.2,43.0,True,2022-01-22T15:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,Aston Villa,90,0,0,3,0,5,0,0,0,0,0,0,3.7,7.0,26.0,4.0,False,2022-02-09T20:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,Fulham,45,0,0,2,0,7,0,0,0,0,0,0,2.3,6.6,14.7,2.0,False,2022-02-12T15:00:00Z,1
+Raphael Dias Belloli,MID,Leeds,Man Utd,45,1,0,2,0,19,1,0,0,0,0,0,8.7,41.2,11.1,35.0,True,2022-02-20T14:00:00Z,5
+Raphael Dias Belloli,MID,Leeds,Liverpool,90,0,0,6,0,7,0,0,0,0,0,0,1.7,9.0,0.5,7.0,False,2022-02-23T19:45:00Z,2
+Raphael Dias Belloli,MID,Leeds,Spurs,90,0,0,4,0,7,0,0,0,0,0,0,10.8,8.6,70.0,29.0,True,2022-02-26T12:30:00Z,2
+Raphael Dias Belloli,MID,Leeds,Leicester,90,0,0,1,0,0,0,0,0,0,0,0,11.0,7.4,37.1,65.0,False,2022-03-05T12:30:00Z,2
+Raphael Dias Belloli,MID,Leeds,Aston Villa,90,0,0,3,0,1,1,0,0,0,0,0,2.0,10.8,3.0,6.0,True,2022-03-10T19:45:00Z,1
+Raphael Dias Belloli,MID,Leeds,Sheffield Utd,90,0,1,1,0,27,0,0,0,0,0,0,13.3,34.6,58.6,40.0,True,2022-03-13T14:00:00Z,5
+Raphael Dias Belloli,MID,Leeds,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-18T20:00:00Z,0
+Raphael Dias Belloli,MID,Leeds,Southampton,90,0,1,1,0,14,0,0,0,0,0,0,5.6,6.8,23.6,26.0,True,2022-04-02T14:00:00Z,5
+Raphael Dias Belloli,MID,Leeds,West Brom,82,1,0,0,1,31,0,0,0,0,0,0,7.4,46.2,1.7,26.0,False,2022-04-09T14:00:00Z,10
+Raphael Dias Belloli,MID,Leeds,Everton,90,0,0,0,1,6,0,0,0,0,0,0,3.6,10.6,3.6,22.0,False,2022-04-25T19:00:00Z,3
+Raphael Dias Belloli,MID,Leeds,Man City,90,0,0,4,0,8,0,0,0,0,0,0,5.6,9.8,18.1,28.0,True,2022-04-30T16:30:00Z,2
+Raphael Dias Belloli,MID,Leeds,Arsenal,59,0,0,2,0,-3,1,0,0,0,0,0,0.3,0.8,0.3,2.0,False,2022-05-08T13:00:00Z,0
+Raphael Dias Belloli,MID,Leeds,Crystal Palace,77,0,0,2,0,7,0,0,0,0,0,0,2.0,4.2,9.3,6.0,True,2022-05-11T18:30:00Z,2
+Raphael Dias Belloli,MID,Leeds,Burnley,90,0,0,1,0,4,0,0,0,0,0,0,9.4,17.4,58.4,18.0,True,2022-05-15T13:00:00Z,2
+Raphael Dias Belloli,MID,Leeds,Brighton,90,1,0,1,0,28,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,9

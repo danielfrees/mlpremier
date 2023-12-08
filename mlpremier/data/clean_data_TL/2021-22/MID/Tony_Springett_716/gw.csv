@@ -1,0 +1,10 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Tony Springett,MID,Norwich,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-02T14:00:00Z,0
+Tony Springett,MID,Norwich,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-10T13:00:00Z,0
+Tony Springett,MID,Norwich,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Tony Springett,MID,Norwich,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-23T14:00:00Z,0
+Tony Springett,MID,Norwich,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T14:00:00Z,0
+Tony Springett,MID,Norwich,West Ham,45,0,0,1,0,2,0,0,0,0,0,0,1.0,1.4,0.7,8.0,True,2022-05-08T13:00:00Z,1
+Tony Springett,MID,Norwich,Leicester,66,0,0,2,0,9,0,0,0,0,0,0,5.3,13.0,21.0,19.0,False,2022-05-11T18:45:00Z,2
+Tony Springett,MID,Norwich,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-15T13:00:00Z,0
+Tony Springett,MID,Norwich,Spurs,29,0,0,3,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,0

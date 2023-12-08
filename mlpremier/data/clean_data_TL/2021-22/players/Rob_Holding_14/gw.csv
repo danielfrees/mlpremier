@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Rob Holding,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-13T19:00:00Z,0
+Rob Holding,DEF,Arsenal,Crystal Palace,90,0,0,2,0,8,1,0,0,0,0,0,3.8,31.4,0.3,6.0,True,2021-08-22T15:30:00Z,0
+Rob Holding,DEF,Arsenal,Man City,90,0,0,5,0,17,0,0,0,0,0,0,3.6,36.0,0.2,0.0,False,2021-08-28T11:30:00Z,0
+Rob Holding,DEF,Arsenal,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Rob Holding,DEF,Arsenal,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+Rob Holding,DEF,Arsenal,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-26T15:30:00Z,0
+Rob Holding,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T16:30:00Z,0
+Rob Holding,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-18T19:00:00Z,0
+Rob Holding,DEF,Arsenal,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-22T19:00:00Z,0
+Rob Holding,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T11:30:00Z,0
+Rob Holding,DEF,Arsenal,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+Rob Holding,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-20T17:30:00Z,0
+Rob Holding,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T12:30:00Z,0
+Rob Holding,DEF,Arsenal,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-02T20:15:00Z,0
+Rob Holding,DEF,Arsenal,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-06T20:00:00Z,0
+Rob Holding,DEF,Arsenal,Southampton,21,0,0,0,0,3,0,0,0,0,0,0,2.1,2.4,0.4,18.0,True,2021-12-11T15:00:00Z,1
+Rob Holding,DEF,Arsenal,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T20:00:00Z,0
+Rob Holding,DEF,Arsenal,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-18T17:30:00Z,0
+Rob Holding,DEF,Arsenal,Sheffield Utd,90,0,0,0,1,28,0,0,0,0,0,0,1.9,18.8,0.3,0.0,False,2021-12-26T15:00:00Z,6
+Rob Holding,DEF,Arsenal,Man City,27,0,0,1,0,-1,1,0,0,0,0,0,0.8,5.6,0.1,2.0,True,2022-01-01T12:30:00Z,0
+Rob Holding,DEF,Arsenal,Chelsea,90,0,0,0,1,20,0,0,0,0,0,0,1.9,13.0,2.1,4.0,True,2022-01-23T14:00:00Z,6
+Rob Holding,DEF,Arsenal,Wolves,19,0,0,0,0,8,0,0,0,0,0,0,2.1,21.0,0.0,0.0,False,2022-02-10T19:45:00Z,1
+Rob Holding,DEF,Arsenal,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Rob Holding,DEF,Arsenal,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-24T19:45:00Z,0
+Rob Holding,DEF,Arsenal,West Brom,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-06T14:00:00Z,1
+Rob Holding,DEF,Arsenal,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T16:30:00Z,0
+Rob Holding,DEF,Arsenal,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-16T20:15:00Z,0
+Rob Holding,DEF,Arsenal,Aston Villa,4,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-19T12:30:00Z,1
+Rob Holding,DEF,Arsenal,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-04T19:00:00Z,0
+Rob Holding,DEF,Arsenal,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T14:00:00Z,0
+Rob Holding,DEF,Arsenal,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-16T14:00:00Z,0
+Rob Holding,DEF,Arsenal,Crystal Palace,90,0,0,2,0,9,0,0,0,0,0,0,2.3,22.4,0.1,0.0,False,2022-04-20T18:45:00Z,1
+Rob Holding,DEF,Arsenal,Man Utd,16,0,0,0,0,5,0,0,0,0,0,0,0.8,8.2,0.0,0.0,True,2022-04-23T11:30:00Z,1
+Rob Holding,DEF,Arsenal,West Ham,90,1,0,1,0,29,0,0,0,0,0,0,9.4,74.0,0.8,19.0,False,2022-05-01T15:30:00Z,10
+Rob Holding,DEF,Arsenal,Leeds,90,0,0,1,0,15,0,0,0,0,0,0,1.2,9.6,2.0,0.0,True,2022-05-08T13:00:00Z,2
+Rob Holding,DEF,Arsenal,Spurs,32,0,0,3,0,-10,0,1,0,0,0,0,0.0,0.0,0.6,0.0,False,2022-05-12T18:45:00Z,-3
+Rob Holding,DEF,Arsenal,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-16T19:00:00Z,0
+Rob Holding,DEF,Arsenal,Fulham,90,0,0,1,0,15,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

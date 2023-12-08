@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+André Filipe Tavares Gomes,MID,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Burnley,9,0,0,0,0,0,0,0,0,0,0,0,3.2,3.6,1.8,27.0,False,2021-08-28T14:00:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Chelsea,29,0,0,0,0,1,0,0,0,0,0,0,2.1,1.2,14.7,5.0,True,2021-09-13T19:00:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Aston Villa,27,0,0,3,0,4,0,0,0,0,0,0,2.1,1.8,1.3,18.0,False,2021-09-18T16:30:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-02T11:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-17T13:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-23T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-01T20:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-07T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-21T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-28T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T20:15:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Arsenal,24,0,1,0,0,12,0,0,0,0,0,0,4.2,19.0,10.8,12.0,True,2021-12-06T20:00:00Z,4
+André Filipe Tavares Gomes,MID,Everton,Everton,90,0,0,3,0,6,0,0,0,0,0,0,6.6,15.4,17.3,33.0,False,2021-12-12T16:30:00Z,2
+André Filipe Tavares Gomes,MID,Everton,Crystal Palace,70,0,0,1,0,0,1,0,0,0,0,0,1.6,7.0,0.5,8.0,False,2021-12-16T19:45:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Burnley,3,0,0,0,0,5,0,0,0,0,0,0,1.9,4.8,14.4,0.0,True,2022-01-02T14:00:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Sheffield Utd,90,0,0,2,0,8,0,0,0,0,0,0,4.0,18.6,2.9,18.0,False,2022-01-15T15:00:00Z,2
+André Filipe Tavares Gomes,MID,Everton,Aston Villa,50,0,0,1,0,0,1,0,0,0,0,0,1.5,2.0,12.9,0.0,True,2022-01-22T12:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Newcastle,59,0,0,2,0,1,1,0,0,0,0,0,0.5,2.4,2.3,0.0,False,2022-02-08T19:45:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Southampton,45,0,0,2,0,1,0,0,0,0,0,0,0.4,0.0,3.6,1.0,False,2022-02-19T15:00:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T17:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-07T20:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Newcastle,2,0,0,0,0,1,0,0,0,0,0,0,0.2,2.0,0.1,0.0,True,2022-03-17T19:45:00Z,1
+André Filipe Tavares Gomes,MID,Everton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T13:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-06T18:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T11:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T15:30:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+André Filipe Tavares Gomes,MID,Everton,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+André Filipe Tavares Gomes,MID,Everton,Brighton,71,0,0,3,0,8,0,0,0,0,0,0,1.2,3.6,1.6,7.0,True,2022-05-15T15:30:00Z,2
+André Filipe Tavares Gomes,MID,Everton,Everton,45,0,0,2,0,0,0,0,0,0,0,0,1.1,2.6,1.0,7.0,True,2022-05-19T18:45:00Z,1
+André Filipe Tavares Gomes,MID,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

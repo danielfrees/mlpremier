@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+João Pedro Junqueira de Jesus,FWD,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-21T16:30:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T13:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T14:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Newcastle,26,0,0,0,0,3,0,0,0,0,0,0,1.8,5.4,10.6,2.0,True,2021-09-25T14:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Leeds,31,0,0,0,0,1,0,0,0,0,0,0,0.9,0.4,0.7,8.0,False,2021-10-02T14:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Liverpool,21,0,0,1,0,0,0,0,0,0,0,0,2.2,3.0,10.6,8.0,True,2021-10-16T11:30:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Fulham,26,0,1,0,0,13,0,0,0,0,0,0,4.0,18.8,11.3,10.0,False,2021-10-23T14:00:00Z,4
+João Pedro Junqueira de Jesus,FWD,Watford,Southampton,45,0,0,1,0,1,1,0,0,0,0,0,1.5,3.2,11.5,0.0,True,2021-10-30T14:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Arsenal,28,0,0,0,0,3,0,0,0,0,0,0,1.8,3.6,14.8,0.0,False,2021-11-07T14:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Man Utd,13,1,0,0,0,27,0,0,0,0,0,0,7.7,33.6,1.3,42.0,True,2021-11-20T15:00:00Z,7
+João Pedro Junqueira de Jesus,FWD,Watford,Leicester,45,0,0,1,0,0,0,0,0,0,0,0,2.6,7.4,5.8,13.0,False,2021-11-28T14:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Crystal Palace,90,0,0,2,0,11,0,0,0,0,0,0,7.1,11.0,36.0,24.0,True,2021-12-01T19:30:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Man City,90,0,0,3,0,4,0,0,0,0,0,0,3.3,7.0,1.8,24.0,True,2021-12-04T17:30:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Brighton,32,0,0,2,0,4,0,0,0,0,0,0,0.7,2.4,4.5,0.0,False,2021-12-10T20:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,West Ham,45,0,0,2,0,14,0,0,0,0,0,0,7.7,8.0,31.5,37.0,True,2021-12-28T15:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Spurs,45,0,0,1,0,1,0,0,0,0,0,0,2.3,2.0,1.3,20.0,True,2022-01-01T15:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Newcastle,90,1,0,1,0,24,0,0,0,0,0,0,14.8,44.0,14.7,89.0,False,2022-01-15T15:00:00Z,8
+João Pedro Junqueira de Jesus,FWD,Watford,Sheffield Utd,90,0,0,3,0,12,0,0,0,0,0,0,7.7,12.4,22.6,42.0,True,2022-01-21T20:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Chelsea,82,0,0,0,1,6,0,0,0,0,0,0,9.7,12.0,13.5,71.0,False,2022-02-05T18:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,West Ham,13,0,0,0,0,6,0,0,0,0,0,0,1.2,5.2,0.5,6.0,False,2022-02-08T19:45:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Burnley,20,0,0,1,0,7,0,0,0,0,0,0,0.6,5.8,0.5,0.0,True,2022-02-12T15:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-26T15:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Arsenal,90,0,0,3,0,12,0,0,0,0,0,0,3.8,18.4,15.7,4.0,True,2022-03-06T14:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-10T19:30:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Southampton,90,0,0,1,0,6,0,0,0,0,0,0,4.9,12.2,4.0,33.0,False,2022-03-13T14:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Liverpool,77,0,0,1,0,6,0,0,0,0,0,0,1.9,3.2,11.4,4.0,False,2022-04-02T11:30:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Leeds,80,0,0,2,0,10,0,0,0,0,0,0,3.1,10.6,19.1,1.0,True,2022-04-09T14:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Brighton,83,0,0,1,0,9,0,0,0,0,0,0,3.6,2.2,5.3,28.0,True,2022-04-16T14:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Man City,22,0,0,0,0,-1,0,0,0,0,0,0,0.6,1.6,0.7,4.0,False,2022-04-23T14:00:00Z,1
+João Pedro Junqueira de Jesus,FWD,Watford,Chelsea,90,0,0,2,0,6,0,0,0,0,0,0,6.3,25.0,17.5,20.0,True,2022-04-30T14:00:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-07T14:00:00Z,0
+João Pedro Junqueira de Jesus,FWD,Watford,Fulham,90,0,0,0,1,2,0,0,0,0,0,0,1.9,8.0,6.6,4.0,True,2022-05-11T18:45:00Z,2
+João Pedro Junqueira de Jesus,FWD,Watford,Leicester,90,1,0,5,0,14,0,0,0,0,0,0,15.1,51.8,5.8,93.0,True,2022-05-15T13:00:00Z,6
+João Pedro Junqueira de Jesus,FWD,Watford,Crystal Palace,90,0,0,2,0,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,2

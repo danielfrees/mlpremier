@@ -1,0 +1,40 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Anwar El Ghazi,MID,Aston Villa,West Brom,59,0,0,2,0,1,0,0,0,0,0,0,0.8,1.4,2.7,4.0,False,2021-08-14T14:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Newcastle,90,1,0,0,1,23,0,0,0,0,0,0,6.5,33.4,7.2,24.0,True,2021-08-21T14:00:00Z,9
+Anwar El Ghazi,MID,Aston Villa,Brighton,90,0,0,1,0,2,1,0,0,0,0,0,4.8,6.4,36.9,5.0,True,2021-08-28T14:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T16:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T16:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-25T11:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Arsenal,13,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,1.0,0.0,False,2021-10-22T19:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,West Ham,18,0,0,2,0,2,0,0,0,0,0,0,1.3,2.0,10.5,0.0,True,2021-10-31T16:30:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Southampton,78,0,0,1,0,-1,1,0,0,0,0,0,4.9,0.0,11.6,39.0,False,2021-11-05T20:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Burnley,6,0,0,0,0,3,0,0,0,0,0,0,0.2,1.4,1.0,0.0,True,2021-11-20T15:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Everton,13,0,1,1,0,18,0,0,0,0,0,0,3.6,22.6,11.3,2.0,False,2021-11-27T15:00:00Z,4
+Anwar El Ghazi,MID,Aston Villa,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-01T20:15:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-05T16:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-11T15:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-14T19:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Crystal Palace,14,0,0,1,0,3,0,0,0,0,0,0,1.4,5.2,1.7,7.0,True,2021-12-26T17:30:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-15T15:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T12:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Leeds,9,0,0,0,0,4,0,0,0,0,0,0,0.7,2.2,0.8,4.0,True,2022-02-12T15:00:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Man City,2,0,0,0,0,3,0,0,0,0,0,0,0.1,0.0,0.5,0.0,True,2022-02-26T17:30:00Z,1
+Anwar El Ghazi,MID,Aston Villa,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-07T20:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-13T14:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-17T19:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T13:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-06T18:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T11:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T15:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Anwar El Ghazi,MID,Aston Villa,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T15:30:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T18:45:00Z,0
+Anwar El Ghazi,MID,Aston Villa,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

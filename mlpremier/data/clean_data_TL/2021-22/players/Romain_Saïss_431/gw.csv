@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Romain Saïss,DEF,Wolves,Leicester,90,0,0,1,0,15,0,0,0,0,0,0,3.3,17.6,11.5,4.0,False,2021-08-14T14:00:00Z,2
+Romain Saïss,DEF,Wolves,Spurs,83,0,0,1,0,18,0,0,0,0,0,0,3.4,14.4,11.5,8.0,True,2021-08-22T13:00:00Z,2
+Romain Saïss,DEF,Wolves,Man Utd,90,0,0,1,0,7,1,0,0,0,0,0,8.1,30.2,0.4,50.0,True,2021-08-29T15:30:00Z,1
+Romain Saïss,DEF,Wolves,West Brom,90,0,0,0,1,24,0,0,0,0,0,0,4.0,21.4,1.7,17.0,False,2021-09-11T14:00:00Z,6
+Romain Saïss,DEF,Wolves,Brighton,45,0,0,2,0,3,1,0,0,0,0,0,0.9,5.6,2.2,1.0,True,2021-09-18T11:30:00Z,-1
+Romain Saïss,DEF,Wolves,Southampton,90,0,0,0,1,29,0,0,0,0,0,0,3.6,30.4,1.3,4.0,False,2021-09-26T13:00:00Z,7
+Romain Saïss,DEF,Wolves,Newcastle,90,0,0,1,0,17,0,0,0,0,0,0,2.7,25.8,1.6,0.0,True,2021-10-02T14:00:00Z,2
+Romain Saïss,DEF,Wolves,Aston Villa,90,1,0,2,0,27,0,0,0,0,0,0,9.1,56.8,0.8,33.0,False,2021-10-16T14:00:00Z,7
+Romain Saïss,DEF,Wolves,Leeds,90,0,0,1,0,9,1,0,0,0,0,0,2.3,22.4,0.6,0.0,False,2021-10-23T14:00:00Z,1
+Romain Saïss,DEF,Wolves,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,2.3,20.2,3.0,0.0,True,2021-11-01T20:00:00Z,2
+Romain Saïss,DEF,Wolves,Everton,90,0,0,2,0,11,0,0,0,0,0,0,1.8,15.6,0.6,2.0,False,2021-11-06T15:00:00Z,1
+Romain Saïss,DEF,Wolves,West Ham,90,0,0,0,1,28,0,0,0,0,0,0,4.9,26.4,13.8,9.0,True,2021-11-20T15:00:00Z,7
+Romain Saïss,DEF,Wolves,Sheffield Utd,90,0,0,0,1,24,0,0,0,0,0,0,2.3,21.8,1.4,0.0,False,2021-11-27T15:00:00Z,6
+Romain Saïss,DEF,Wolves,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,2.1,16.4,1.4,3.0,True,2021-12-01T19:30:00Z,6
+Romain Saïss,DEF,Wolves,Liverpool,90,0,0,1,0,10,0,0,0,0,0,0,1.6,13.2,0.8,2.0,True,2021-12-04T15:00:00Z,2
+Romain Saïss,DEF,Wolves,Man City,90,0,0,1,0,13,0,0,0,0,0,0,1.9,19.2,0.0,0.0,False,2021-12-11T12:30:00Z,2
+Romain Saïss,DEF,Wolves,Burnley,90,1,0,0,1,40,0,0,0,0,0,0,8.4,60.0,0.7,23.0,False,2021-12-15T19:30:00Z,15
+Romain Saïss,DEF,Wolves,Crystal Palace,90,0,0,0,1,29,0,0,0,0,0,0,2.8,27.4,0.5,0.0,True,2021-12-19T14:00:00Z,7
+Romain Saïss,DEF,Wolves,Man Utd,90,0,0,0,1,21,0,0,0,0,0,0,1.7,6.4,1.5,9.0,False,2022-01-03T17:30:00Z,6
+Romain Saïss,DEF,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-15T15:00:00Z,0
+Romain Saïss,DEF,Wolves,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-22T15:00:00Z,0
+Romain Saïss,DEF,Wolves,Arsenal,90,0,0,1,0,7,1,0,0,0,0,0,4.8,18.8,11.8,17.0,True,2022-02-10T19:45:00Z,1
+Romain Saïss,DEF,Wolves,Spurs,90,0,0,0,1,22,0,0,0,0,0,0,2.2,21.6,0.8,0.0,False,2022-02-13T14:00:00Z,6
+Romain Saïss,DEF,Wolves,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,5.1,32.8,10.5,8.0,True,2022-02-20T16:30:00Z,2
+Romain Saïss,DEF,Wolves,Arsenal,90,0,0,2,0,18,0,0,0,0,0,0,3.6,35.6,0.3,0.0,False,2022-02-24T19:45:00Z,1
+Romain Saïss,DEF,Wolves,West Ham,90,0,0,1,0,18,0,0,0,0,0,0,3.6,19.8,12.5,4.0,False,2022-02-27T14:00:00Z,2
+Romain Saïss,DEF,Wolves,Everton,90,0,0,2,0,15,0,0,0,0,0,0,2.4,14.0,4.0,6.0,True,2022-03-05T15:00:00Z,1
+Romain Saïss,DEF,Wolves,West Brom,90,0,0,0,1,23,1,0,0,0,0,0,2.8,25.2,2.3,0.0,True,2022-03-10T19:30:00Z,5
+Romain Saïss,DEF,Wolves,Fulham,90,0,0,0,1,26,0,0,0,0,0,0,1.7,15.6,0.9,0.0,False,2022-03-13T14:00:00Z,6
+Romain Saïss,DEF,Wolves,Leeds,90,0,0,3,0,14,0,0,0,0,0,0,3.1,17.6,10.9,2.0,True,2022-03-18T20:00:00Z,1
+Romain Saïss,DEF,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T14:00:00Z,0
+Romain Saïss,DEF,Wolves,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-08T19:00:00Z,0
+Romain Saïss,DEF,Wolves,Chelsea,78,0,0,1,0,13,0,0,0,0,0,0,2.1,19.6,1.3,0.0,False,2022-04-24T13:00:00Z,2
+Romain Saïss,DEF,Wolves,Burnley,90,0,0,3,0,11,0,0,0,0,0,0,2.0,18.4,1.3,0.0,True,2022-04-30T14:00:00Z,1
+Romain Saïss,DEF,Wolves,Crystal Palace,70,0,0,2,0,-5,1,0,0,0,0,0,1.7,4.4,0.3,12.0,False,2022-05-07T14:00:00Z,0
+Romain Saïss,DEF,Wolves,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-11T19:15:00Z,0
+Romain Saïss,DEF,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Romain Saïss,DEF,Wolves,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

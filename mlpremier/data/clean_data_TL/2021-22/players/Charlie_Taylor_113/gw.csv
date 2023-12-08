@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Charlie Taylor,DEF,Burnley,Burnley,90,0,0,2,0,13,0,0,0,0,0,0,3.2,14.4,15.6,2.0,True,2021-08-14T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Liverpool,90,0,0,2,0,9,0,0,0,0,0,0,2.9,27.2,1.8,0.0,False,2021-08-21T11:30:00Z,1
+Charlie Taylor,DEF,Burnley,Leeds,90,0,0,1,0,13,0,0,0,0,0,0,3.0,26.6,1.2,2.0,True,2021-08-29T13:00:00Z,2
+Charlie Taylor,DEF,Burnley,Fulham,90,0,0,3,0,14,0,0,0,0,0,0,5.1,15.2,35.9,0.0,False,2021-09-13T19:00:00Z,1
+Charlie Taylor,DEF,Burnley,Arsenal,90,0,0,1,0,8,0,0,0,0,0,0,3.1,12.8,16.4,2.0,True,2021-09-18T14:00:00Z,2
+Charlie Taylor,DEF,Burnley,Leicester,90,0,0,2,0,8,0,0,0,0,0,0,2.1,17.8,1.3,2.0,False,2021-09-25T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Sheffield Utd,90,0,0,0,1,33,0,0,0,0,0,0,6.8,22.4,42.0,4.0,True,2021-10-02T14:00:00Z,9
+Charlie Taylor,DEF,Burnley,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Charlie Taylor,DEF,Burnley,Southampton,90,0,0,2,0,14,0,0,0,0,0,0,1.9,16.6,2.3,0.0,False,2021-10-23T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Brighton,90,0,1,1,0,25,0,0,0,0,0,0,5.2,32.4,18.6,1.0,True,2021-10-30T14:00:00Z,6
+Charlie Taylor,DEF,Burnley,Crystal Palace,90,0,0,1,0,18,0,0,0,0,0,0,4.1,34.6,6.1,0.0,False,2021-11-06T15:00:00Z,2
+Charlie Taylor,DEF,Burnley,Everton,90,0,0,3,0,14,0,0,0,0,0,0,1.5,13.4,1.3,0.0,True,2021-11-20T15:00:00Z,1
+Charlie Taylor,DEF,Burnley,Wolves,90,0,0,0,1,29,0,0,0,0,0,0,2.9,22.6,5.2,1.0,False,2021-12-01T19:30:00Z,9
+Charlie Taylor,DEF,Burnley,Newcastle,90,0,0,1,0,4,0,0,0,0,0,0,3.1,20.4,10.9,0.0,False,2021-12-04T15:00:00Z,2
+Charlie Taylor,DEF,Burnley,West Ham,90,0,0,0,1,21,1,0,0,0,0,0,5.7,22.6,16.3,18.0,True,2021-12-12T14:00:00Z,5
+Charlie Taylor,DEF,Burnley,Man Utd,90,0,0,3,0,9,0,0,0,0,0,0,0.9,6.6,2.1,0.0,False,2021-12-30T20:15:00Z,1
+Charlie Taylor,DEF,Burnley,Leeds,90,0,0,3,0,23,0,0,0,0,0,0,5.4,25.2,29.1,0.0,False,2022-01-02T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Charlie Taylor,DEF,Burnley,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-05T18:00:00Z,0
+Charlie Taylor,DEF,Burnley,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-08T20:00:00Z,0
+Charlie Taylor,DEF,Burnley,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Charlie Taylor,DEF,Burnley,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Charlie Taylor,DEF,Burnley,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:30:00Z,0
+Charlie Taylor,DEF,Burnley,Everton,30,0,0,0,0,5,0,0,0,0,0,0,0.9,9.0,0.4,0.0,False,2022-02-26T15:00:00Z,1
+Charlie Taylor,DEF,Burnley,Leicester,90,0,0,2,0,9,0,0,0,0,0,0,1.3,9.6,2.0,1.0,True,2022-03-01T19:45:00Z,1
+Charlie Taylor,DEF,Burnley,Crystal Palace,90,0,0,4,0,13,0,0,0,0,0,0,2.0,19.4,0.9,0.0,True,2022-03-05T15:00:00Z,0
+Charlie Taylor,DEF,Burnley,Brighton,90,0,0,2,0,8,0,0,0,0,0,0,1.1,9.2,0.4,1.0,False,2022-03-12T15:00:00Z,1
+Charlie Taylor,DEF,Burnley,Man City,90,0,0,2,0,9,0,0,0,0,0,0,0.8,7.4,0.6,0.0,True,2022-04-02T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Fulham,90,0,1,2,0,19,0,0,0,0,0,0,4.7,24.2,10.8,12.0,True,2022-04-06T18:30:00Z,4
+Charlie Taylor,DEF,Burnley,Sheffield Utd,90,0,0,2,0,14,1,0,0,0,0,0,3.8,20.6,17.5,0.0,False,2022-04-10T13:00:00Z,0
+Charlie Taylor,DEF,Burnley,West Ham,90,0,0,1,0,8,0,0,0,0,0,0,1.0,8.8,1.4,0.0,False,2022-04-17T13:15:00Z,2
+Charlie Taylor,DEF,Burnley,Southampton,90,0,0,0,1,28,0,0,0,0,0,0,4.6,22.0,21.8,2.0,True,2022-04-21T18:45:00Z,6
+Charlie Taylor,DEF,Burnley,Wolves,90,0,0,0,1,19,1,0,0,0,0,0,1.0,8.6,1.3,0.0,True,2022-04-24T13:00:00Z,5
+Charlie Taylor,DEF,Burnley,West Brom,90,0,1,1,0,25,0,0,0,0,0,0,4.6,26.4,19.8,0.0,False,2022-04-30T14:00:00Z,6
+Charlie Taylor,DEF,Burnley,Aston Villa,90,0,0,3,0,9,0,0,0,0,0,0,0.5,2.8,2.2,0.0,True,2022-05-07T14:00:00Z,1
+Charlie Taylor,DEF,Burnley,Spurs,90,0,0,1,0,9,0,0,0,0,0,0,3.1,23.0,6.0,2.0,False,2022-05-15T11:00:00Z,2
+Charlie Taylor,DEF,Burnley,Aston Villa,90,0,0,1,0,11,0,0,0,0,0,0,5.0,31.0,19.3,0.0,False,2022-05-19T19:00:00Z,2
+Charlie Taylor,DEF,Burnley,Newcastle,90,0,0,2,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,1

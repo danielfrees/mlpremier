@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Leicester,85,0,0,1,0,10,0,0,0,0,0,0,6.4,15.0,22.3,27.0,False,2021-08-14T14:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Spurs,83,0,0,1,0,10,0,0,0,0,0,0,10.9,19.4,28.7,61.0,True,2021-08-22T13:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Man Utd,69,0,0,0,1,13,0,0,0,0,0,0,3.9,8.4,4.6,26.0,True,2021-08-29T15:30:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,West Brom,62,0,0,0,1,6,0,0,0,0,0,0,5.3,8.6,14.7,30.0,False,2021-09-11T14:00:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Brighton,90,0,0,2,0,5,0,0,0,0,0,0,3.0,8.2,12.9,9.0,True,2021-09-18T11:30:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-26T13:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Newcastle,85,0,0,1,0,5,0,0,0,0,0,0,3.1,2.0,4.2,25.0,True,2021-10-02T14:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-23T14:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Fulham,78,0,0,1,0,12,0,0,0,0,0,0,6.4,12.0,17.0,35.0,True,2021-11-01T20:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Everton,67,0,0,1,0,6,0,0,0,0,0,0,1.0,0.0,2.6,8.0,False,2021-11-06T15:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T15:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Sheffield Utd,67,0,0,0,1,3,0,0,0,0,0,0,0.8,1.8,4.0,2.0,False,2021-11-27T15:00:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Chelsea,6,0,0,0,0,2,0,0,0,0,0,0,3.3,2.2,11.0,20.0,True,2021-12-01T19:30:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Liverpool,2,0,0,1,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-04T15:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Man City,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.0,False,2021-12-11T12:30:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Burnley,90,0,0,0,1,2,0,0,0,0,0,0,3.1,7.8,4.3,19.0,False,2021-12-15T19:30:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Crystal Palace,1,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-19T14:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Man Utd,65,0,0,0,1,9,0,0,0,0,0,0,6.4,8.8,50.8,4.0,False,2022-01-03T17:30:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Southampton,77,0,0,0,1,8,0,0,0,0,0,0,2.2,15.0,6.9,0.0,True,2022-01-15T15:00:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Brighton,1,0,0,0,0,3,0,0,0,0,0,0,0.1,0.2,0.3,0.0,False,2022-01-22T15:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Arsenal,61,0,0,1,0,11,0,0,0,0,0,0,3.8,12.4,15.3,10.0,True,2022-02-10T19:45:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Spurs,6,0,0,0,0,4,0,0,0,0,0,0,0.2,1.0,0.8,0.0,False,2022-02-13T14:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-20T16:30:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-24T19:45:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,West Ham,59,0,0,1,0,4,0,0,0,0,0,0,1.4,0.2,7.5,6.0,False,2022-02-27T14:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T15:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-10T19:30:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Fulham,7,0,0,0,0,2,0,0,0,0,0,0,0.6,0.0,0.5,6.0,False,2022-03-13T14:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Leeds,65,1,1,3,0,34,0,0,0,0,0,0,14.0,66.2,28.2,46.0,True,2022-03-18T20:00:00Z,12
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Aston Villa,74,0,0,0,1,6,0,0,0,0,0,0,2.8,4.6,1.9,21.0,True,2022-04-02T14:00:00Z,3
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Newcastle,77,0,0,1,0,7,0,0,0,0,0,0,1.6,9.6,6.1,0.0,False,2022-04-08T19:00:00Z,2
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Chelsea,11,0,0,0,0,3,0,0,0,0,0,0,0.9,0.0,0.7,8.0,False,2022-04-24T13:00:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-30T14:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Crystal Palace,13,1,0,0,0,21,0,0,0,0,0,0,6.3,34.6,1.3,27.0,False,2022-05-07T14:00:00Z,6
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Man City,18,0,0,1,0,3,0,0,0,0,0,0,0.2,2.0,0.3,0.0,True,2022-05-11T19:15:00Z,1
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T13:00:00Z,0
+Francisco Machado Mota de Castro Trincão,MID,Wolves,Liverpool,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1

@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Kiernan Dewsbury-Hall,MID,Leicester,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T14:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-23T19:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Sheffield Utd,4,0,0,0,0,3,0,0,0,0,0,0,0.3,1.0,0.2,2.0,False,2021-08-28T14:00:00Z,1
+Kiernan Dewsbury-Hall,MID,Leicester,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T14:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-03T13:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-16T14:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-24T13:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-30T11:30:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Leeds,13,0,0,0,0,4,0,0,0,0,0,0,2.3,7.6,11.3,4.0,False,2021-11-07T14:00:00Z,1
+Kiernan Dewsbury-Hall,MID,Leicester,Crystal Palace,15,0,0,0,0,5,0,0,0,0,0,0,1.8,6.2,11.4,0.0,True,2021-11-20T12:30:00Z,1
+Kiernan Dewsbury-Hall,MID,Leicester,West Brom,2,0,0,0,0,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-28T14:00:00Z,1
+Kiernan Dewsbury-Hall,MID,Leicester,Southampton,45,0,0,0,0,3,1,0,0,0,0,0,2.9,4.2,5.1,20.0,False,2021-12-01T19:30:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Aston Villa,85,0,0,2,0,4,0,0,0,0,0,0,4.0,11.2,14.4,14.0,False,2021-12-05T16:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Newcastle,90,0,0,0,1,8,0,0,0,0,0,0,4.1,13.0,24.3,4.0,True,2021-12-12T14:00:00Z,3
+Kiernan Dewsbury-Hall,MID,Leicester,Man City,90,0,0,6,0,21,0,0,0,0,0,0,3.9,19.4,18.5,1.0,False,2021-12-26T15:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Liverpool,90,0,1,0,1,27,0,0,0,0,0,0,5.2,35.8,16.6,0.0,True,2021-12-28T20:00:00Z,7
+Kiernan Dewsbury-Hall,MID,Leicester,Spurs,87,0,0,1,0,21,0,0,0,0,0,0,9.0,20.6,53.6,16.0,True,2022-01-19T19:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Burnley,90,0,0,1,0,11,0,0,0,0,0,0,3.4,19.2,4.1,11.0,True,2022-01-23T14:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Liverpool,90,0,0,2,0,10,0,0,0,0,0,0,0.9,4.0,2.6,2.0,False,2022-02-10T19:45:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,West Ham,90,0,0,2,0,12,0,0,0,0,0,0,4.7,12.0,30.3,5.0,True,2022-02-13T16:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Wolves,90,0,0,2,0,15,0,0,0,0,0,0,6.3,21.4,35.1,6.0,False,2022-02-20T16:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Chelsea,90,0,0,0,1,8,1,0,0,0,0,0,7.1,14.0,36.7,20.0,False,2022-03-01T19:45:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Leeds,90,0,0,0,1,18,0,0,0,0,0,0,1.9,14.6,4.3,0.0,True,2022-03-05T12:30:00Z,3
+Kiernan Dewsbury-Hall,MID,Leicester,Arsenal,90,0,0,2,0,16,0,0,0,0,0,0,5.9,16.8,19.8,22.0,False,2022-03-13T16:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Brighton,78,0,0,0,1,9,1,0,0,0,0,0,2.6,6.6,18.3,1.0,True,2022-03-20T14:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Man Utd,90,0,0,1,0,17,0,0,0,0,0,0,2.7,11.8,14.8,0.0,False,2022-04-02T16:30:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Everton,90,1,1,1,0,42,0,0,0,0,0,0,11.1,58.4,17.3,35.0,True,2022-04-10T13:00:00Z,13
+Kiernan Dewsbury-Hall,MID,Leicester,Newcastle,90,0,0,2,0,11,0,0,0,0,0,0,5.6,14.6,13.8,28.0,False,2022-04-17T13:15:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Fulham,90,0,0,1,0,11,0,0,0,0,0,0,5.6,13.0,35.3,8.0,False,2022-04-20T18:45:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Aston Villa,90,0,0,0,1,6,1,0,0,0,0,0,1.0,2.6,4.0,3.0,True,2022-04-23T14:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-01T13:00:00Z,0
+Kiernan Dewsbury-Hall,MID,Leicester,Fulham,90,0,0,2,0,12,0,0,0,0,0,0,4.1,13.8,24.8,2.0,True,2022-05-08T13:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Sheffield Utd,90,0,0,0,1,15,0,0,0,0,0,0,5.8,11.6,36.2,10.0,True,2022-05-11T18:45:00Z,3
+Kiernan Dewsbury-Hall,MID,Leicester,West Brom,90,0,0,1,0,11,0,0,0,0,0,0,6.1,17.0,38.6,5.0,False,2022-05-15T13:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Crystal Palace,90,0,0,1,0,7,0,0,0,0,0,0,0.6,3.4,2.8,0.0,False,2022-05-19T19:00:00Z,2
+Kiernan Dewsbury-Hall,MID,Leicester,Southampton,62,0,0,0,1,6,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,3

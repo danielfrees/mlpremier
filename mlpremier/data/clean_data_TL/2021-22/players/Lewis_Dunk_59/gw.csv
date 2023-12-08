@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Lewis Dunk,DEF,Brighton,Chelsea,90,0,0,1,0,14,0,0,0,0,0,0,2.0,19.6,0.7,0.0,False,2021-08-14T14:00:00Z,2
+Lewis Dunk,DEF,Brighton,West Brom,90,0,0,0,1,25,0,0,0,0,0,0,1.2,9.6,0.3,2.0,True,2021-08-21T16:30:00Z,6
+Lewis Dunk,DEF,Brighton,Fulham,90,0,0,2,0,17,0,0,0,0,0,0,1.6,14.8,1.5,0.0,True,2021-08-28T14:00:00Z,1
+Lewis Dunk,DEF,Brighton,Brighton,90,0,0,0,1,26,0,0,0,0,0,0,1.4,12.2,1.3,0.0,False,2021-09-11T14:00:00Z,8
+Lewis Dunk,DEF,Brighton,Leicester,90,0,0,1,0,14,0,0,0,0,0,0,1.9,18.6,0.8,0.0,True,2021-09-19T13:00:00Z,2
+Lewis Dunk,DEF,Brighton,Everton,90,0,0,1,0,16,0,0,0,0,0,0,4.6,26.0,1.1,19.0,False,2021-09-27T19:00:00Z,2
+Lewis Dunk,DEF,Brighton,Arsenal,90,0,0,0,1,29,0,0,0,0,0,0,5.6,17.0,15.3,24.0,True,2021-10-02T16:30:00Z,8
+Lewis Dunk,DEF,Brighton,Sheffield Utd,90,0,0,0,1,34,0,0,0,0,0,0,5.9,38.8,0.7,19.0,False,2021-10-16T14:00:00Z,9
+Lewis Dunk,DEF,Brighton,Man City,90,0,0,4,0,15,0,0,0,0,0,0,3.6,32.0,0.3,4.0,True,2021-10-23T16:30:00Z,0
+Lewis Dunk,DEF,Brighton,Liverpool,90,0,0,2,0,17,0,0,0,0,0,0,2.6,23.8,0.4,2.0,False,2021-10-30T14:00:00Z,1
+Lewis Dunk,DEF,Brighton,Newcastle,90,0,0,1,0,15,0,0,0,0,0,0,2.8,25.4,2.8,0.0,True,2021-11-06T17:30:00Z,2
+Lewis Dunk,DEF,Brighton,Aston Villa,90,0,0,2,0,17,0,0,0,0,0,0,2.4,22.6,1.8,0.0,False,2021-11-20T15:00:00Z,1
+Lewis Dunk,DEF,Brighton,Leeds,90,0,0,0,1,24,0,0,0,0,0,0,0.9,8.0,0.9,0.0,True,2021-11-27T17:30:00Z,6
+Lewis Dunk,DEF,Brighton,West Ham,90,0,0,1,0,11,0,0,0,0,0,0,4.7,24.4,1.7,21.0,False,2021-12-01T19:30:00Z,2
+Lewis Dunk,DEF,Brighton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Lewis Dunk,DEF,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Lewis Dunk,DEF,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-26T20:00:00Z,0
+Lewis Dunk,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T19:30:00Z,0
+Lewis Dunk,DEF,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Lewis Dunk,DEF,Brighton,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-14T20:00:00Z,0
+Lewis Dunk,DEF,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-18T20:00:00Z,0
+Lewis Dunk,DEF,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-23T14:00:00Z,0
+Lewis Dunk,DEF,Brighton,West Brom,90,0,0,0,1,23,1,0,0,0,0,0,2.0,10.2,1.1,9.0,False,2022-02-12T15:00:00Z,5
+Lewis Dunk,DEF,Brighton,Man Utd,53,0,0,2,0,1,0,1,0,0,0,0,0.7,6.8,0.4,0.0,False,2022-02-15T20:15:00Z,-3
+Lewis Dunk,DEF,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Lewis Dunk,DEF,Brighton,Aston Villa,90,0,0,2,0,19,0,0,0,0,0,0,4.8,28.0,1.5,18.0,True,2022-02-26T15:30:00Z,1
+Lewis Dunk,DEF,Brighton,Newcastle,90,1,0,2,0,26,0,0,0,0,0,0,16.3,54.0,4.8,104.0,False,2022-03-05T15:00:00Z,7
+Lewis Dunk,DEF,Brighton,Liverpool,90,0,0,2,0,14,0,0,0,0,0,0,1.5,15.2,0.1,0.0,True,2022-03-12T12:30:00Z,1
+Lewis Dunk,DEF,Brighton,Spurs,90,0,0,2,0,15,0,0,0,0,0,0,2.4,20.2,2.0,2.0,True,2022-03-16T19:30:00Z,1
+Lewis Dunk,DEF,Brighton,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,4.9,9.8,10.9,28.0,True,2022-04-02T14:00:00Z,6
+Lewis Dunk,DEF,Brighton,Arsenal,90,0,0,1,0,12,0,0,0,0,0,0,5.4,26.4,10.2,17.0,False,2022-04-09T14:00:00Z,2
+Lewis Dunk,DEF,Brighton,Spurs,90,0,0,0,1,22,1,0,0,0,0,0,3.1,13.0,0.6,17.0,False,2022-04-16T11:30:00Z,5
+Lewis Dunk,DEF,Brighton,Man City,90,0,0,3,0,11,1,0,0,0,0,0,1.8,17.6,0.3,0.0,False,2022-04-20T19:00:00Z,0
+Lewis Dunk,DEF,Brighton,Southampton,90,0,0,2,0,12,0,0,0,0,0,0,4.2,13.4,0.4,28.0,True,2022-04-24T13:00:00Z,1
+Lewis Dunk,DEF,Brighton,Wolves,90,0,0,0,1,28,0,0,0,0,0,0,2.3,20.6,0.7,2.0,False,2022-04-30T14:00:00Z,6
+Lewis Dunk,DEF,Brighton,Man Utd,90,0,0,0,1,26,0,0,0,0,0,0,2.2,12.4,0.3,9.0,True,2022-05-07T16:30:00Z,6
+Lewis Dunk,DEF,Brighton,Leeds,90,0,0,1,0,14,0,0,0,0,0,0,1.4,11.4,0.1,2.0,False,2022-05-15T13:00:00Z,2
+Lewis Dunk,DEF,Brighton,West Ham,90,0,0,1,0,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,2

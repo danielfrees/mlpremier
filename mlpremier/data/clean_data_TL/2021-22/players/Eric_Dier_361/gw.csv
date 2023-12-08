@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Eric Dier,DEF,Spurs,Man City,90,0,0,0,1,22,0,0,0,0,0,0,1.7,17.0,0.1,0.0,True,2021-08-15T15:30:00Z,7
+Eric Dier,DEF,Spurs,Wolves,90,0,0,0,1,25,0,0,0,0,0,0,5.2,19.0,0.0,33.0,False,2021-08-22T13:00:00Z,6
+Eric Dier,DEF,Spurs,West Brom,90,0,0,0,1,27,0,0,0,0,0,0,3.7,26.8,1.1,9.0,True,2021-08-29T13:00:00Z,7
+Eric Dier,DEF,Spurs,Everton,11,0,0,0,0,3,0,0,0,0,0,0,0.1,1.4,0.0,0.0,False,2021-09-11T11:30:00Z,1
+Eric Dier,DEF,Spurs,Crystal Palace,90,0,0,3,0,19,0,0,0,0,0,0,4.4,29.2,10.4,4.0,True,2021-09-19T15:30:00Z,1
+Eric Dier,DEF,Spurs,Arsenal,90,0,0,3,0,16,0,0,0,0,0,0,2.6,10.2,14.2,2.0,False,2021-09-26T15:30:00Z,1
+Eric Dier,DEF,Spurs,Aston Villa,90,0,0,1,0,23,0,0,0,0,0,0,4.6,35.2,10.3,0.0,True,2021-10-03T13:00:00Z,3
+Eric Dier,DEF,Spurs,Newcastle,90,0,0,2,0,5,0,0,1,0,0,0,3.1,12.8,0.6,18.0,False,2021-10-17T15:30:00Z,-1
+Eric Dier,DEF,Spurs,West Ham,90,0,0,1,0,19,0,0,0,0,0,0,3.1,29.4,1.1,0.0,False,2021-10-24T13:00:00Z,2
+Eric Dier,DEF,Spurs,Man Utd,90,0,0,3,0,9,0,0,0,0,0,0,2.1,14.4,0.7,6.0,True,2021-10-30T16:30:00Z,1
+Eric Dier,DEF,Spurs,Fulham,90,0,0,0,1,28,0,0,0,0,0,0,2.1,20.4,0.3,0.0,False,2021-11-07T14:00:00Z,8
+Eric Dier,DEF,Spurs,Leeds,90,0,1,1,0,26,0,0,0,0,0,0,4.5,20.4,16.7,8.0,True,2021-11-21T16:30:00Z,6
+Eric Dier,DEF,Spurs,Brighton,90,0,0,0,1,25,0,0,0,0,0,0,1.3,12.6,0.3,0.0,True,2021-12-02T19:30:00Z,6
+Eric Dier,DEF,Spurs,Sheffield Utd,90,0,0,0,1,27,0,0,0,0,0,0,2.2,19.0,3.2,0.0,True,2021-12-05T14:00:00Z,6
+Eric Dier,DEF,Spurs,Liverpool,90,0,0,2,0,16,0,0,0,0,0,0,2.9,25.4,3.6,0.0,True,2021-12-19T16:30:00Z,1
+Eric Dier,DEF,Spurs,Everton,90,0,0,0,1,25,0,0,0,0,0,0,1.3,11.6,1.3,0.0,True,2021-12-26T15:00:00Z,6
+Eric Dier,DEF,Spurs,Southampton,90,0,0,1,0,14,0,0,0,0,0,0,5.8,24.4,13.0,21.0,False,2021-12-28T15:00:00Z,2
+Eric Dier,DEF,Spurs,West Brom,90,0,0,0,1,29,0,0,0,0,0,0,2.2,19.4,3.0,0.0,False,2022-01-01T15:00:00Z,6
+Eric Dier,DEF,Spurs,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T19:30:00Z,0
+Eric Dier,DEF,Spurs,Crystal Palace,90,0,0,2,0,11,0,0,0,0,0,0,1.3,12.8,0.3,0.0,False,2022-01-23T16:30:00Z,1
+Eric Dier,DEF,Spurs,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-09T19:45:00Z,0
+Eric Dier,DEF,Spurs,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-13T14:00:00Z,0
+Eric Dier,DEF,Spurs,Man City,90,0,0,2,0,13,0,0,0,0,0,0,1.6,16.4,0.0,0.0,False,2022-02-19T17:30:00Z,1
+Eric Dier,DEF,Spurs,Chelsea,90,0,0,1,0,15,0,0,0,0,0,0,3.4,27.8,1.9,4.0,False,2022-02-23T19:30:00Z,2
+Eric Dier,DEF,Spurs,Leeds,90,0,0,0,1,25,0,0,0,0,0,0,1.9,18.8,0.1,0.0,False,2022-02-26T12:30:00Z,6
+Eric Dier,DEF,Spurs,Fulham,90,0,0,0,1,24,0,0,0,0,0,0,3.6,28.0,0.8,7.0,True,2022-03-07T20:00:00Z,6
+Eric Dier,DEF,Spurs,Man Utd,90,0,0,3,0,6,1,0,0,0,0,0,6.0,12.8,0.8,46.0,False,2022-03-12T17:30:00Z,0
+Eric Dier,DEF,Spurs,Burnley,90,0,0,0,1,25,0,0,0,0,0,0,2.9,29.0,0.3,0.0,False,2022-03-16T19:30:00Z,6
+Eric Dier,DEF,Spurs,West Ham,90,0,0,1,0,14,0,0,0,0,0,0,1.1,10.0,0.5,0.0,True,2022-03-20T16:30:00Z,2
+Eric Dier,DEF,Spurs,Newcastle,90,0,0,1,0,13,0,0,0,0,0,0,3.7,15.6,11.4,10.0,True,2022-04-03T15:30:00Z,2
+Eric Dier,DEF,Spurs,Aston Villa,90,0,0,0,1,28,0,0,0,0,0,0,2.7,27.4,0.0,0.0,False,2022-04-09T16:30:00Z,6
+Eric Dier,DEF,Spurs,Burnley,90,0,0,1,0,12,0,0,0,0,0,0,1.8,16.2,1.7,0.0,True,2022-04-16T11:30:00Z,2
+Eric Dier,DEF,Spurs,Brighton,90,0,0,0,1,26,0,0,0,0,0,0,3.1,29.4,1.8,0.0,False,2022-04-23T16:30:00Z,6
+Eric Dier,DEF,Spurs,Leicester,90,0,0,1,0,12,0,0,0,0,0,0,5.2,24.6,0.3,27.0,True,2022-05-01T13:00:00Z,2
+Eric Dier,DEF,Spurs,Liverpool,90,0,0,1,0,17,0,0,0,0,0,0,4.3,43.0,0.1,0.0,False,2022-05-07T18:45:00Z,2
+Eric Dier,DEF,Spurs,Arsenal,90,0,0,0,1,29,0,0,0,0,0,0,2.8,26.8,0.7,0.0,True,2022-05-12T18:45:00Z,6
+Eric Dier,DEF,Spurs,Chelsea,90,0,0,0,1,27,0,0,0,0,0,0,3.9,23.4,15.7,0.0,True,2022-05-15T11:00:00Z,7
+Eric Dier,DEF,Spurs,Sheffield Utd,90,0,0,0,1,25,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,6

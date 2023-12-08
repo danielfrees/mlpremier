@@ -1,0 +1,41 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Donny van de Beek,MID,Man Utd,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-08-14T11:30:00Z,0
+Donny van de Beek,MID,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-22T13:00:00Z,0
+Donny van de Beek,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T15:30:00Z,0
+Donny van de Beek,MID,Man Utd,Newcastle,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.3,0.0,True,2021-09-11T14:00:00Z,1
+Donny van de Beek,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+Donny van de Beek,MID,Man Utd,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-25T11:30:00Z,0
+Donny van de Beek,MID,Man Utd,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-02T11:30:00Z,0
+Donny van de Beek,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-16T14:00:00Z,0
+Donny van de Beek,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-10-24T15:30:00Z,0
+Donny van de Beek,MID,Man Utd,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-10-30T16:30:00Z,0
+Donny van de Beek,MID,Man Utd,Man City,10,0,0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T12:30:00Z,1
+Donny van de Beek,MID,Man Utd,West Brom,45,1,0,2,0,26,0,0,0,0,0,0,12.0,50.8,34.3,35.0,False,2021-11-20T15:00:00Z,7
+Donny van de Beek,MID,Man Utd,Crystal Palace,1,0,0,0,0,4,0,0,0,0,0,0,0.2,2.0,0.0,0.0,False,2021-11-28T16:30:00Z,1
+Donny van de Beek,MID,Man Utd,Arsenal,1,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-02T20:15:00Z,1
+Donny van de Beek,MID,Man Utd,Everton,4,0,0,0,0,4,0,0,0,0,0,0,0.5,4.4,0.8,0.0,True,2021-12-05T14:00:00Z,1
+Donny van de Beek,MID,Man Utd,Sheffield Utd,2,0,0,0,0,5,0,0,0,0,0,0,0.3,3.2,0.0,0.0,False,2021-12-11T17:30:00Z,1
+Donny van de Beek,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-27T20:00:00Z,0
+Donny van de Beek,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-30T20:15:00Z,0
+Donny van de Beek,MID,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-03T17:30:00Z,0
+Donny van de Beek,MID,Man Utd,Aston Villa,1,0,0,0,0,4,0,0,0,0,0,0,2.3,3.0,0.0,20.0,False,2022-01-15T17:30:00Z,1
+Donny van de Beek,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-19T20:00:00Z,0
+Donny van de Beek,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Donny van de Beek,MID,Man Utd,Newcastle,30,0,0,1,0,8,0,0,0,0,0,0,1.5,3.2,3.3,8.0,False,2022-02-08T19:45:00Z,1
+Donny van de Beek,MID,Man Utd,Leeds,90,0,0,0,1,8,0,0,0,0,0,0,2.9,12.4,14.1,2.0,True,2022-02-12T15:00:00Z,3
+Donny van de Beek,MID,Man Utd,Southampton,90,0,0,2,0,8,0,0,0,0,0,0,2.3,4.4,2.8,16.0,False,2022-02-19T15:00:00Z,2
+Donny van de Beek,MID,Man Utd,Man City,70,0,0,0,1,3,1,0,0,0,0,0,1.2,8.8,3.3,0.0,True,2022-02-26T17:30:00Z,2
+Donny van de Beek,MID,Man Utd,Spurs,58,0,0,5,0,7,0,0,0,0,0,0,2.3,4.2,16.3,2.0,False,2022-03-07T20:00:00Z,1
+Donny van de Beek,MID,Man Utd,Wolves,90,0,0,1,0,13,0,0,0,0,0,0,2.3,20.0,1.3,2.0,True,2022-03-13T14:00:00Z,2
+Donny van de Beek,MID,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-17T19:45:00Z,0
+Donny van de Beek,MID,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-03T13:00:00Z,0
+Donny van de Beek,MID,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-06T18:30:00Z,0
+Donny van de Beek,MID,Man Utd,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-09T11:30:00Z,0
+Donny van de Beek,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-20T18:45:00Z,0
+Donny van de Beek,MID,Man Utd,Liverpool,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-24T15:30:00Z,0
+Donny van de Beek,MID,Man Utd,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-01T13:00:00Z,0
+Donny van de Beek,MID,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-08T13:00:00Z,0
+Donny van de Beek,MID,Man Utd,West Brom,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-11T18:45:00Z,0
+Donny van de Beek,MID,Man Utd,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-15T15:30:00Z,0
+Donny van de Beek,MID,Man Utd,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-19T18:45:00Z,0
+Donny van de Beek,MID,Man Utd,Arsenal,53,1,0,3,0,24,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,6

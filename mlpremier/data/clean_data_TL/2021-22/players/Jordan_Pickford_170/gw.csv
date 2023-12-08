@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Jordan Pickford,GK,Everton,Southampton,90,0,0,1,0,14,0,0,0,2,0,0,2.0,19.6,0.0,0.0,True,2021-08-14T14:00:00Z,2
+Jordan Pickford,GK,Everton,Leeds,90,0,0,2,0,12,0,0,0,2,0,0,1.0,10.0,0.0,0.0,False,2021-08-21T14:00:00Z,1
+Jordan Pickford,GK,Everton,Burnley,90,0,0,0,1,23,1,0,0,3,0,0,2.9,18.6,10.0,0.0,False,2021-08-28T14:00:00Z,6
+Jordan Pickford,GK,Everton,Chelsea,90,0,0,1,0,19,0,0,0,5,0,0,2.9,29.4,0.0,0.0,True,2021-09-13T19:00:00Z,3
+Jordan Pickford,GK,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-18T16:30:00Z,0
+Jordan Pickford,GK,Everton,Sheffield Utd,90,0,0,0,1,23,0,0,0,2,0,0,1.4,11.2,3.0,0.0,True,2021-09-25T14:00:00Z,6
+Jordan Pickford,GK,Everton,Man Utd,90,0,0,1,0,18,0,0,0,5,0,0,2.9,29.4,0.0,0.0,False,2021-10-02T11:30:00Z,3
+Jordan Pickford,GK,Everton,West Ham,90,0,0,1,0,17,0,0,0,3,0,0,2.9,29.4,0.0,0.0,True,2021-10-17T13:00:00Z,3
+Jordan Pickford,GK,Everton,West Brom,90,0,0,5,0,13,0,0,0,3,0,0,2.3,23.0,0.0,0.0,True,2021-10-23T14:00:00Z,1
+Jordan Pickford,GK,Everton,Wolves,90,0,0,2,0,13,0,0,0,2,0,0,1.5,14.8,0.0,0.0,False,2021-11-01T20:00:00Z,1
+Jordan Pickford,GK,Everton,Spurs,90,0,0,0,1,20,0,0,0,0,0,0,0.2,2.2,0.0,0.0,True,2021-11-07T14:00:00Z,6
+Jordan Pickford,GK,Everton,Man City,90,0,0,3,0,16,0,0,0,4,0,0,2.6,25.8,0.0,0.0,False,2021-11-21T14:00:00Z,2
+Jordan Pickford,GK,Everton,Brighton,90,0,0,1,0,16,0,0,0,3,0,0,2.3,22.6,0.0,0.0,False,2021-11-28T14:00:00Z,3
+Jordan Pickford,GK,Everton,Liverpool,90,0,0,4,0,15,0,0,0,3,0,0,1.9,18.8,0.0,0.0,True,2021-12-01T20:15:00Z,1
+Jordan Pickford,GK,Everton,Arsenal,90,0,0,1,0,12,0,0,0,2,0,0,1.5,15.4,0.0,0.0,True,2021-12-06T20:00:00Z,2
+Jordan Pickford,GK,Everton,Everton,90,0,0,3,0,15,0,0,0,3,0,0,3.1,31.2,0.0,0.0,False,2021-12-12T16:30:00Z,2
+Jordan Pickford,GK,Everton,Crystal Palace,90,0,0,1,0,28,0,0,0,9,0,0,6.6,66.0,0.0,0.0,False,2021-12-16T19:45:00Z,8
+Jordan Pickford,GK,Everton,Burnley,90,0,0,3,0,15,0,0,0,2,0,0,1.8,17.8,0.0,0.0,True,2022-01-02T14:00:00Z,1
+Jordan Pickford,GK,Everton,Sheffield Utd,90,0,0,2,0,11,0,0,0,2,0,0,1.0,9.6,0.0,0.0,False,2022-01-15T15:00:00Z,1
+Jordan Pickford,GK,Everton,Aston Villa,90,0,0,1,0,13,0,0,0,2,0,0,2.8,18.0,10.0,0.0,True,2022-01-22T12:30:00Z,2
+Jordan Pickford,GK,Everton,Newcastle,90,0,0,3,0,24,0,0,0,7,0,0,5.0,49.6,0.0,0.0,False,2022-02-08T19:45:00Z,4
+Jordan Pickford,GK,Everton,Leeds,90,0,0,0,1,21,0,0,0,0,0,0,0.5,5.4,0.0,0.0,True,2022-02-12T15:00:00Z,6
+Jordan Pickford,GK,Everton,Southampton,90,0,0,2,0,29,0,0,0,9,0,0,8.1,70.6,10.0,0.0,False,2022-02-19T15:00:00Z,4
+Jordan Pickford,GK,Everton,Man City,90,0,0,1,0,23,0,0,0,7,0,0,4.7,47.0,0.0,0.0,True,2022-02-26T17:30:00Z,4
+Jordan Pickford,GK,Everton,Spurs,90,0,0,5,0,10,0,0,0,3,0,0,2.1,21.2,0.0,0.0,False,2022-03-07T20:00:00Z,1
+Jordan Pickford,GK,Everton,Wolves,90,0,0,1,0,12,0,0,0,2,0,0,1.1,11.4,0.0,0.0,True,2022-03-13T14:00:00Z,2
+Jordan Pickford,GK,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-17T19:45:00Z,0
+Jordan Pickford,GK,Everton,West Ham,90,0,0,2,0,18,0,0,0,4,0,0,2.7,26.8,0.0,0.0,False,2022-04-03T13:00:00Z,2
+Jordan Pickford,GK,Everton,Chelsea,90,0,0,3,0,9,0,0,0,1,0,0,1.1,11.0,0.0,0.0,False,2022-04-06T18:30:00Z,1
+Jordan Pickford,GK,Everton,Man Utd,90,0,0,0,1,29,1,0,0,4,0,0,4.2,32.4,10.0,0.0,True,2022-04-09T11:30:00Z,9
+Jordan Pickford,GK,Everton,Leicester,90,0,0,1,0,13,0,0,0,2,0,0,1.5,15.4,0.0,0.0,True,2022-04-20T18:45:00Z,2
+Jordan Pickford,GK,Everton,Liverpool,90,0,0,2,0,12,0,0,0,2,0,0,1.3,13.2,0.0,0.0,False,2022-04-24T15:30:00Z,1
+Jordan Pickford,GK,Everton,Crystal Palace,90,0,0,0,1,31,0,0,0,5,0,0,3.8,38.2,0.0,0.0,True,2022-05-01T13:00:00Z,10
+Jordan Pickford,GK,Everton,Leicester,90,0,0,1,0,25,0,0,0,7,0,0,4.2,42.0,0.0,0.0,False,2022-05-08T13:00:00Z,6
+Jordan Pickford,GK,Everton,West Brom,90,0,0,0,1,22,0,0,0,0,0,0,0.4,3.8,0.0,0.0,False,2022-05-11T18:45:00Z,6
+Jordan Pickford,GK,Everton,Brighton,90,0,0,3,0,20,0,0,0,4,0,0,3.4,34.0,0.0,0.0,True,2022-05-15T15:30:00Z,2
+Jordan Pickford,GK,Everton,Everton,90,0,0,2,0,13,0,0,0,3,0,0,2.8,28.4,0.0,0.0,True,2022-05-19T18:45:00Z,2
+Jordan Pickford,GK,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

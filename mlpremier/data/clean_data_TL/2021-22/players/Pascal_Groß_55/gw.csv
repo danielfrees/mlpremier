@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Pascal Groß,MID,Brighton,Chelsea,90,0,1,1,0,24,0,0,0,0,0,0,7.6,26.4,35.3,14.0,False,2021-08-14T14:00:00Z,6
+Pascal Groß,MID,Brighton,West Brom,90,0,1,0,1,27,0,0,0,0,0,0,10.8,29.8,57.6,21.0,True,2021-08-21T16:30:00Z,6
+Pascal Groß,MID,Brighton,Fulham,90,0,0,2,0,19,0,0,0,0,0,0,8.9,29.2,50.7,9.0,True,2021-08-28T14:00:00Z,2
+Pascal Groß,MID,Brighton,Brighton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-11T14:00:00Z,0
+Pascal Groß,MID,Brighton,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-19T13:00:00Z,0
+Pascal Groß,MID,Brighton,Everton,90,0,0,1,0,17,0,0,0,0,0,0,5.8,14.2,35.4,8.0,False,2021-09-27T19:00:00Z,2
+Pascal Groß,MID,Brighton,Arsenal,83,0,0,0,1,14,0,0,0,0,0,0,8.1,8.8,52.2,20.0,True,2021-10-02T16:30:00Z,3
+Pascal Groß,MID,Brighton,Sheffield Utd,90,0,0,0,1,20,0,0,0,0,0,0,10.3,21.2,43.3,38.0,False,2021-10-16T14:00:00Z,3
+Pascal Groß,MID,Brighton,Man City,71,0,0,3,0,12,0,0,0,0,0,0,3.8,5.8,15.4,17.0,True,2021-10-23T16:30:00Z,2
+Pascal Groß,MID,Brighton,Liverpool,13,0,0,0,0,4,0,0,0,0,0,0,1.9,4.4,14.6,0.0,False,2021-10-30T14:00:00Z,1
+Pascal Groß,MID,Brighton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-06T17:30:00Z,0
+Pascal Groß,MID,Brighton,Aston Villa,88,0,0,1,0,15,0,0,0,0,0,0,5.3,13.8,28.8,10.0,False,2021-11-20T15:00:00Z,2
+Pascal Groß,MID,Brighton,Leeds,90,0,0,0,1,16,0,0,0,0,0,0,7.3,17.4,47.5,8.0,True,2021-11-27T17:30:00Z,3
+Pascal Groß,MID,Brighton,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T19:30:00Z,0
+Pascal Groß,MID,Brighton,Southampton,54,0,0,1,0,5,0,0,0,0,0,0,2.9,8.8,20.3,0.0,False,2021-12-04T15:00:00Z,1
+Pascal Groß,MID,Brighton,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-15T19:30:00Z,0
+Pascal Groß,MID,Brighton,Brighton,5,0,0,0,0,2,0,0,0,0,0,0,0.0,0.0,0.8,1.0,True,2021-12-26T20:00:00Z,1
+Pascal Groß,MID,Brighton,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-29T19:30:00Z,0
+Pascal Groß,MID,Brighton,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T14:00:00Z,0
+Pascal Groß,MID,Brighton,Everton,72,0,0,1,0,5,0,0,0,0,1,0,9.9,17.0,59.7,22.0,True,2022-01-14T20:00:00Z,0
+Pascal Groß,MID,Brighton,Crystal Palace,61,0,0,1,0,10,0,0,0,0,0,0,3.6,10.4,23.2,2.0,True,2022-01-18T20:00:00Z,2
+Pascal Groß,MID,Brighton,Leicester,61,0,0,1,0,6,0,0,0,0,0,0,2.4,10.6,3.5,10.0,False,2022-01-23T14:00:00Z,2
+Pascal Groß,MID,Brighton,West Brom,63,0,0,0,1,5,0,0,0,0,0,0,4.6,7.8,29.8,8.0,False,2022-02-12T15:00:00Z,3
+Pascal Groß,MID,Brighton,Man Utd,59,0,0,1,0,12,0,0,0,0,0,0,5.1,13.2,30.4,7.0,False,2022-02-15T20:15:00Z,1
+Pascal Groß,MID,Brighton,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Pascal Groß,MID,Brighton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T15:30:00Z,0
+Pascal Groß,MID,Brighton,Newcastle,90,0,1,2,0,27,0,0,0,0,0,0,12.4,31.6,74.1,18.0,False,2022-03-05T15:00:00Z,6
+Pascal Groß,MID,Brighton,Liverpool,37,0,0,1,0,3,0,0,0,0,0,0,2.2,8.6,9.0,4.0,True,2022-03-12T12:30:00Z,1
+Pascal Groß,MID,Brighton,Spurs,77,0,0,2,0,13,0,0,0,0,0,0,4.5,11.4,33.7,0.0,True,2022-03-16T19:30:00Z,2
+Pascal Groß,MID,Brighton,Sheffield Utd,90,0,0,0,1,17,0,0,0,0,0,0,7.7,21.4,49.3,6.0,True,2022-04-02T14:00:00Z,3
+Pascal Groß,MID,Brighton,Arsenal,90,0,0,1,0,2,1,0,0,0,0,0,2.1,5.4,15.5,0.0,False,2022-04-09T14:00:00Z,1
+Pascal Groß,MID,Brighton,Spurs,90,0,0,0,1,17,0,0,0,0,0,0,8.5,17.2,66.1,2.0,False,2022-04-16T11:30:00Z,3
+Pascal Groß,MID,Brighton,Man City,90,0,0,3,0,8,0,0,0,0,0,0,2.8,9.4,16.3,2.0,False,2022-04-20T19:00:00Z,2
+Pascal Groß,MID,Brighton,Southampton,28,0,0,0,0,2,0,0,0,0,0,0,2.0,9.6,8.8,2.0,True,2022-04-24T13:00:00Z,1
+Pascal Groß,MID,Brighton,Wolves,1,0,0,0,0,4,0,0,0,0,0,0,2.8,4.6,15.0,8.0,False,2022-04-30T14:00:00Z,1
+Pascal Groß,MID,Brighton,Man Utd,90,1,1,0,1,46,0,0,0,0,0,0,18.3,47.0,60.1,76.0,True,2022-05-07T16:30:00Z,13
+Pascal Groß,MID,Brighton,Leeds,90,0,0,1,0,8,0,0,0,0,0,0,4.6,7.6,6.1,32.0,False,2022-05-15T13:00:00Z,2
+Pascal Groß,MID,Brighton,West Ham,90,1,1,1,0,45,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,13

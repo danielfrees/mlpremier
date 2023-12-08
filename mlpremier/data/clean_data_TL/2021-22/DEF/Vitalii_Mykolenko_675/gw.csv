@@ -1,0 +1,22 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Vitalii Mykolenko,DEF,Everton,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-02T14:00:00Z,0
+Vitalii Mykolenko,DEF,Everton,Sheffield Utd,90,0,0,2,0,15,0,0,0,0,0,0,3.0,19.2,6.7,4.0,False,2022-01-15T15:00:00Z,1
+Vitalii Mykolenko,DEF,Everton,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T12:30:00Z,0
+Vitalii Mykolenko,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T19:45:00Z,0
+Vitalii Mykolenko,DEF,Everton,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T15:00:00Z,0
+Vitalii Mykolenko,DEF,Everton,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-19T15:00:00Z,0
+Vitalii Mykolenko,DEF,Everton,Man City,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-26T17:30:00Z,0
+Vitalii Mykolenko,DEF,Everton,Spurs,31,0,0,0,0,5,0,0,0,0,0,0,0.6,2.2,1.6,2.0,False,2022-03-07T20:00:00Z,1
+Vitalii Mykolenko,DEF,Everton,Wolves,58,0,0,1,0,7,0,0,0,0,0,0,2.0,6.4,13.7,0.0,True,2022-03-13T14:00:00Z,1
+Vitalii Mykolenko,DEF,Everton,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-17T19:45:00Z,0
+Vitalii Mykolenko,DEF,Everton,West Ham,90,0,0,2,0,10,0,0,0,0,0,0,1.5,8.0,3.5,3.0,False,2022-04-03T13:00:00Z,1
+Vitalii Mykolenko,DEF,Everton,Chelsea,90,0,1,3,0,18,0,0,0,0,0,0,4.4,20.2,21.3,2.0,False,2022-04-06T18:30:00Z,4
+Vitalii Mykolenko,DEF,Everton,Man Utd,90,0,0,0,1,29,0,0,0,0,0,0,4.3,24.4,14.8,4.0,True,2022-04-09T11:30:00Z,9
+Vitalii Mykolenko,DEF,Everton,Leicester,90,0,0,1,0,10,0,0,0,0,0,0,2.9,13.4,15.7,0.0,True,2022-04-20T18:45:00Z,2
+Vitalii Mykolenko,DEF,Everton,Liverpool,90,0,0,2,0,12,0,0,0,0,0,0,3.4,18.8,14.8,0.0,False,2022-04-24T15:30:00Z,1
+Vitalii Mykolenko,DEF,Everton,Crystal Palace,90,0,0,0,1,15,0,0,0,0,0,0,2.0,5.0,10.6,4.0,True,2022-05-01T13:00:00Z,6
+Vitalii Mykolenko,DEF,Everton,Leicester,65,1,0,1,0,21,0,0,0,0,0,0,4.8,39.6,1.8,7.0,False,2022-05-08T13:00:00Z,8
+Vitalii Mykolenko,DEF,Everton,West Brom,90,0,0,0,1,17,0,0,0,0,0,0,4.0,7.2,3.3,29.0,False,2022-05-11T18:45:00Z,6
+Vitalii Mykolenko,DEF,Everton,Brighton,90,0,0,3,0,6,0,0,0,0,0,0,1.3,6.8,1.6,5.0,True,2022-05-15T15:30:00Z,1
+Vitalii Mykolenko,DEF,Everton,Everton,90,0,0,2,0,12,0,0,0,0,0,0,5.2,16.2,29.4,6.0,True,2022-05-19T18:45:00Z,1
+Vitalii Mykolenko,DEF,Everton,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,0

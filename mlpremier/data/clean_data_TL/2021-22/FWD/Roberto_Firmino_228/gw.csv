@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Roberto Firmino,FWD,Liverpool,Sheffield Utd,29,1,0,0,0,30,0,0,0,0,0,0,7.3,37.6,14.2,21.0,False,2021-08-14T16:30:00Z,7
+Roberto Firmino,FWD,Liverpool,Chelsea,9,0,0,0,0,3,0,0,0,0,0,0,2.5,5.2,10.7,9.0,True,2021-08-21T11:30:00Z,1
+Roberto Firmino,FWD,Liverpool,Crystal Palace,42,0,0,1,0,5,0,0,0,0,0,0,0.7,4.6,2.6,0.0,True,2021-08-28T16:30:00Z,1
+Roberto Firmino,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-12T15:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Everton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-18T14:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Brighton,22,0,0,1,0,1,0,0,0,0,0,0,1.5,0.6,4.1,10.0,False,2021-09-25T16:30:00Z,1
+Roberto Firmino,FWD,Liverpool,Man City,22,0,0,2,0,3,0,0,0,0,0,0,0.4,2.0,0.3,2.0,True,2021-10-03T15:30:00Z,1
+Roberto Firmino,FWD,Liverpool,West Brom,90,3,1,0,1,99,0,0,0,0,0,0,27.7,125.4,40.6,111.0,False,2021-10-16T11:30:00Z,20
+Roberto Firmino,FWD,Liverpool,Man Utd,76,0,0,0,1,11,0,0,0,0,0,0,5.4,7.2,14.4,32.0,False,2021-10-24T15:30:00Z,2
+Roberto Firmino,FWD,Liverpool,Burnley,77,0,0,2,0,3,0,0,0,0,0,0,6.1,4.2,23.3,33.0,True,2021-10-30T14:00:00Z,2
+Roberto Firmino,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-11-07T16:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Arsenal,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-20T17:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-11-27T15:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-01T20:15:00Z,0
+Roberto Firmino,FWD,Liverpool,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-04T15:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-11T15:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Newcastle,16,0,1,0,0,11,0,0,0,0,0,0,3.6,17.6,12.6,6.0,True,2021-12-16T20:00:00Z,4
+Roberto Firmino,FWD,Liverpool,Spurs,30,0,0,1,0,2,0,0,0,0,0,0,0.2,0.6,0.9,0.0,False,2021-12-19T16:30:00Z,1
+Roberto Firmino,FWD,Liverpool,Leicester,20,0,0,0,0,3,0,0,0,0,0,0,1.4,2.4,12.0,0.0,False,2021-12-28T20:00:00Z,1
+Roberto Firmino,FWD,Liverpool,Crystal Palace,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-01-02T16:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Brighton,77,0,1,0,1,21,0,0,0,0,0,0,7.7,22.4,28.8,26.0,True,2022-01-16T14:00:00Z,5
+Roberto Firmino,FWD,Liverpool,Everton,89,0,0,1,0,4,1,0,0,0,0,0,1.8,4.0,5.5,8.0,False,2022-01-23T14:00:00Z,1
+Roberto Firmino,FWD,Liverpool,Leicester,59,0,0,0,0,-1,1,0,0,0,0,0,7.2,8.0,2.1,62.0,True,2022-02-10T19:45:00Z,0
+Roberto Firmino,FWD,Liverpool,Chelsea,90,0,0,0,1,8,0,0,0,0,0,0,1.9,7.6,5.3,6.0,False,2022-02-13T14:00:00Z,2
+Roberto Firmino,FWD,Liverpool,Sheffield Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-19T15:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Leeds,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-23T19:45:00Z,0
+Roberto Firmino,FWD,Liverpool,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-03-05T17:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Burnley,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-03-12T12:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Arsenal,34,1,0,0,0,22,1,0,0,0,0,0,7.0,34.0,1.4,35.0,False,2022-03-16T20:15:00Z,4
+Roberto Firmino,FWD,Liverpool,West Brom,90,0,0,0,1,15,0,0,0,0,0,0,6.3,11.6,5.5,46.0,True,2022-04-02T11:30:00Z,2
+Roberto Firmino,FWD,Liverpool,Man City,6,0,0,0,0,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-10T15:30:00Z,1
+Roberto Firmino,FWD,Liverpool,Man Utd,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-19T19:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Fulham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-24T15:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-04-30T11:30:00Z,0
+Roberto Firmino,FWD,Liverpool,Spurs,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-07T18:45:00Z,0
+Roberto Firmino,FWD,Liverpool,Aston Villa,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-10T19:00:00Z,0
+Roberto Firmino,FWD,Liverpool,Southampton,82,0,0,1,0,11,0,0,0,0,0,0,12.3,17.6,41.8,64.0,False,2022-05-17T18:45:00Z,2
+Roberto Firmino,FWD,Liverpool,Wolves,20,0,1,0,0,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-05-22T15:00:00Z,4

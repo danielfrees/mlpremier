@@ -1,0 +1,39 @@
+name,position,team,opponent_team,minutes,goals_scored,assists,goals_conceded,clean_sheets,bps,yellow_cards,red_cards,own_goals,saves,penalties_missed,penalties_saved,ict_index,influence,creativity,threat,was_home,kickoff_time,total_points
+Victor Lindelöf,DEF,Man Utd,Leeds,90,0,1,1,0,23,0,0,0,0,0,0,4.4,30.2,13.4,0.0,True,2021-08-14T11:30:00Z,5
+Victor Lindelöf,DEF,Man Utd,Southampton,90,0,0,1,0,12,0,0,0,0,0,0,1.4,13.2,0.8,0.0,False,2021-08-22T13:00:00Z,2
+Victor Lindelöf,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-08-29T15:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-09-11T14:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-09-19T13:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Aston Villa,23,0,0,1,0,7,0,0,0,0,0,0,0.7,7.0,0.2,0.0,True,2021-09-25T11:30:00Z,1
+Victor Lindelöf,DEF,Man Utd,Fulham,90,0,0,1,0,16,0,0,0,0,0,0,2.3,21.8,1.4,0.0,True,2021-10-02T11:30:00Z,2
+Victor Lindelöf,DEF,Man Utd,Leicester,90,0,1,4,0,25,1,0,0,0,0,0,5.2,35.2,16.3,0.0,False,2021-10-16T14:00:00Z,2
+Victor Lindelöf,DEF,Man Utd,Liverpool,90,0,0,5,0,13,0,0,0,0,0,0,1.0,9.2,0.3,0.0,True,2021-10-24T15:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Spurs,90,0,0,0,1,25,0,0,0,0,0,0,1.8,17.2,0.7,0.0,False,2021-10-30T16:30:00Z,6
+Victor Lindelöf,DEF,Man Utd,Man City,90,0,0,2,0,15,0,0,0,0,0,0,1.4,13.2,0.8,0.0,True,2021-11-06T12:30:00Z,1
+Victor Lindelöf,DEF,Man Utd,West Brom,90,0,0,4,0,18,0,0,0,0,0,0,1.5,14.4,0.5,0.0,False,2021-11-20T15:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,2.6,26.2,0.1,0.0,False,2021-11-28T16:30:00Z,2
+Victor Lindelöf,DEF,Man Utd,Arsenal,90,0,0,2,0,16,0,0,0,0,0,0,3.6,18.0,1.0,17.0,True,2021-12-02T20:15:00Z,1
+Victor Lindelöf,DEF,Man Utd,Everton,90,0,0,0,1,22,1,0,0,0,0,0,1.2,9.4,3.0,0.0,True,2021-12-05T14:00:00Z,5
+Victor Lindelöf,DEF,Man Utd,Sheffield Utd,73,0,0,0,1,29,0,0,0,0,0,0,1.4,12.2,1.3,0.0,False,2021-12-11T17:30:00Z,7
+Victor Lindelöf,DEF,Man Utd,Newcastle,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2021-12-27T20:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2021-12-30T20:15:00Z,0
+Victor Lindelöf,DEF,Man Utd,Wolves,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-03T17:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Aston Villa,90,0,0,2,0,21,0,0,0,0,0,0,2.3,20.6,0.2,2.0,False,2022-01-15T17:30:00Z,1
+Victor Lindelöf,DEF,Man Utd,Brighton,90,0,0,1,0,15,0,0,0,0,0,0,3.0,27.0,1.2,2.0,False,2022-01-19T20:00:00Z,2
+Victor Lindelöf,DEF,Man Utd,West Ham,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-01-22T15:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Chelsea,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-02-08T20:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Southampton,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-02-12T12:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Burnley,90,0,0,0,1,24,0,0,0,0,0,0,0.8,7.2,0.5,0.0,True,2022-02-15T20:15:00Z,6
+Victor Lindelöf,DEF,Man Utd,Leeds,90,0,0,2,0,16,0,0,0,0,0,0,2.9,18.2,10.8,0.0,False,2022-02-20T14:00:00Z,1
+Victor Lindelöf,DEF,Man Utd,West Brom,90,0,0,0,1,28,0,0,0,0,0,0,4.7,16.2,12.7,18.0,True,2022-02-26T15:00:00Z,9
+Victor Lindelöf,DEF,Man Utd,Man City,90,0,0,4,0,12,0,0,0,0,0,0,1.1,10.6,0.5,0.0,False,2022-03-06T16:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Spurs,7,0,0,0,0,3,0,0,0,0,0,0,0.1,0.6,0.0,0.0,True,2022-03-12T17:30:00Z,1
+Victor Lindelöf,DEF,Man Utd,Leicester,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,True,2022-04-02T16:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Fulham,90,0,0,1,0,12,0,0,0,0,0,0,2.1,13.6,1.2,6.0,False,2022-04-09T11:30:00Z,2
+Victor Lindelöf,DEF,Man Utd,Sheffield Utd,90,0,0,2,0,18,0,0,0,0,0,0,2.9,21.6,2.9,4.0,True,2022-04-16T14:00:00Z,1
+Victor Lindelöf,DEF,Man Utd,Liverpool,90,0,0,4,0,11,0,0,0,0,0,0,1.5,12.4,3.0,0.0,False,2022-04-19T19:00:00Z,0
+Victor Lindelöf,DEF,Man Utd,Arsenal,90,0,0,3,0,10,1,0,0,0,0,0,0.7,5.8,1.4,0.0,False,2022-04-23T11:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Crystal Palace,90,0,0,1,0,13,0,0,0,0,0,0,4.0,22.6,0.4,17.0,True,2022-04-28T18:45:00Z,2
+Victor Lindelöf,DEF,Man Utd,Brighton,90,0,0,0,1,27,0,0,0,0,0,0,1.3,13.0,0.4,0.0,True,2022-05-02T19:00:00Z,6
+Victor Lindelöf,DEF,Man Utd,Burnley,90,0,0,4,0,14,0,0,0,0,0,0,1.7,16.6,0.4,0.0,False,2022-05-07T16:30:00Z,0
+Victor Lindelöf,DEF,Man Utd,Everton,90,0,0,1,0,13,1,0,0,0,0,0,0.0,0.0,0.0,0.0,False,2022-05-22T15:00:00Z,1
