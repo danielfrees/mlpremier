@@ -150,6 +150,7 @@ def gridsearch_cnn(experiment_name: str = 'gridsearch',
         serialized_dataset = pickle.dumps(dataset_info)
         expt_res['dataset'] = serialized_dataset
         expt_res['pipeline'] = pickle.dumps(pipeline)
+        expt_res['stratify_by'] = stratify_by
         expt_results.append(expt_res)
 
     if verbose:
