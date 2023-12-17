@@ -218,8 +218,10 @@ def build_train_cnn(X_train, d_train, y_train,
             standardize=standardize)
     
     # Print Test Set Evaluation
-    test_loss, test_mae = (expt_res['test_mse'], expt_res['test_mae'])
-    print(f'Test Loss (MSE): {test_loss}, Test Mean Absolute Error (MAE): {test_mae}')
+    test_loss, test_mae, test_corr = (expt_res['test_mse'], 
+                                      expt_res['test_mae'],
+                                      expt_res['spear_corr'])
+    print(f'Test Loss (MSE): {test_loss}, Test Mean Absolute Error (MAE): {test_mae}, Test Spearman Correlation: {test_corr}')
 
     # =========== Plot Learning Curve for CNN ==================
     if plot:

@@ -11,6 +11,35 @@ from pandas.plotting import table
 from IPython.display import display
 from typing import Union, List
 import pickle
+from scipy.stats import spearmanr
+import tensorflow as tf
+
+def get_spearman_rankcor(y_true, y_pred):
+    """ 
+    Calculate spearman correlation of model given predictions and true vals.
+    """
+    return ( tf.py_function(spearmanr, [tf.cast(y_pred, tf.float32), 
+            tf.cast(y_true, tf.float32)], Tout = tf.float32))
+
+def plot_preds(y_true, y_pred, season, position):
+    """ 
+    Plot a scatterplot of Predictions vs. True Player Pts with mean predictions
+    
+    Parameters:
+    - y_true: List or array containing true player points
+    - y_pred: List or array containing predicted player points
+    """
+    unique_true_points = np.unique(y_true)
+    
+    plt.scatter(y_true, y_pred, alpha=0.15)
+    plt.scatter(unique_true_points, [np.median(y_pred[y_true == x]) for x in unique_true_points], color='red', marker='D', label='Median Prediction')
+    
+    plt.title(f'Predictions vs. True Player Points (Season: {season}, Pos: {position})')
+    plt.xlabel('True Player Points')
+    plt.ylabel('Predicted Player Points')
+    plt.legend()
+    plt.show()
+
 
 def eval_cnn(season, position, model, 
              X_train, d_train, y_train, 
@@ -25,6 +54,11 @@ def eval_cnn(season, position, model,
     train_mse, train_mae = model.evaluate([X_train, d_train], y_train, verbose=0)
     val_mse, val_mae = model.evaluate([X_val, d_val], y_val, verbose=0)
     test_mse, test_mae = model.evaluate([X_test, d_test], y_test, verbose=0)
+    y_pred = model.predict([X_test, d_test])
+    spearman_corr = get_spearman_rankcor(y_test, y_pred)
+
+    plot_preds(y_test, y_pred, season, position)
+    
 
     eval_data = {
         'season': season,
@@ -35,6 +69,7 @@ def eval_cnn(season, position, model,
         'val_mae': val_mae,
         'test_mse': test_mse,
         'test_mae': test_mae,
+        'spear_corr': spearman_corr,
         **hyperparameters
     }
 
@@ -197,10 +232,10 @@ def gridsearch_analysis(expt_name: str = 'gridsearch',
 
     for position in positions:
         top_models = df[df['position'] == position].head(eval_top)
-        top_models_filtered = top_models.loc[:, ~top_models.columns.str.contains('mse|mae|verbose')]
+        top_models_filtered = top_models.loc[:, ~top_models.columns.str.contains('mse|mae|verbose|corr')]
 
         top_hyperparams = top_models_filtered.mode().iloc[0]
-        top_means = top_models.filter(like='mse').mean()
+        top_means = top_models.loc[:, top_models.columns.str.contains('mse|mae|corr')].mean()
 
         best_params_df[position] = top_hyperparams
         performance_df[position] = top_means
@@ -216,10 +251,10 @@ def gridsearch_analysis(expt_name: str = 'gridsearch',
     print(f"\n{season} Mean Performance of Top {eval_top} Model by Position")
     display(performance_df)
 
-    print("\nAverage Val Performance:")
+    print("\nAverage Val MSE:")
     print(performance_df['val_mse'].mean())
 
-    print("\nAverage Test Performance:")
+    print("\nAverage Test MSE:")
     print(performance_df['test_mse'].mean())
 
     return best_params_df
