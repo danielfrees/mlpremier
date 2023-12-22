@@ -9,6 +9,7 @@ mlpremier/deprecated/gridsearch_v9_nopipelineincluded.csv
 mlpremier/cnn/results/gridsearch/gridsearch_v10.csv
 mlpremier/cnn/results/gridsearch/gridsearch_v11.csv
 mlpremier/deprecated/*
+mlpremier/cnn/results/gridsearch/gridsearch_v12.csv
 
 # C extensions
 *.so
