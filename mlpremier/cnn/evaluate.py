@@ -16,12 +16,17 @@ import tensorflow as tf
 
 def get_spearman_rankcor(y_true, y_pred):
     """ 
-    Calculate spearman correlation of model given predictions and true vals.
+    Calculate Spearman correlation of model given predictions and true values.
     """
-    return ( tf.py_function(spearmanr, [tf.cast(y_pred, tf.float32), 
-            tf.cast(y_true, tf.float32)], Tout = tf.float32))
+    spearman_corr, _ = tf.py_function(spearmanr, 
+                                      [y_pred, y_true], 
+                                      (tf.float32, tf.float32))
+    return float(spearman_corr)
 
-def plot_preds(y_true, y_pred, season, position):
+def plot_preds(y_true, y_pred, 
+               season, 
+               position,
+               verbose: bool = False):
     """ 
     Plot a scatterplot of Predictions vs. True Player Pts with mean predictions
     
@@ -38,13 +43,15 @@ def plot_preds(y_true, y_pred, season, position):
     plt.xlabel('True Player Points')
     plt.ylabel('Predicted Player Points')
     plt.legend()
-    plt.show()
+    if verbose:
+        plt.show()
 
 
 def eval_cnn(season, position, model, 
              X_train, d_train, y_train, 
              X_val, d_val, y_val, 
              X_test, d_test, y_test,
+             verbose: bool = False,
              **hyperparameters) -> dict:
     """
     Evaluate the given model on the provided data. 
@@ -57,9 +64,9 @@ def eval_cnn(season, position, model,
     y_pred = model.predict([X_test, d_test])
     spearman_corr = get_spearman_rankcor(y_test, y_pred)
 
-    plot_preds(y_test, y_pred, season, position)
+    if verbose:
+        plot_preds(y_test, y_pred, season, position)
     
-
     eval_data = {
         'season': season,
         'position': position,
@@ -155,7 +162,8 @@ def plot_learning_curve(season,
 
     return
 
-def eda_and_plot(features_df):
+def eda_and_plot(features_df,
+                 verbose: bool  =False):
     """
     Perform Exploratory Data Analysis (EDA) on the given DataFrame and plots
     histograms for numerical variables.
@@ -192,7 +200,8 @@ def eda_and_plot(features_df):
         plt.ylabel('Frequency')
 
     plt.tight_layout()
-    plt.show()
+    if verbose:
+        plt.show()
 
 def gridsearch_analysis(expt_name: str = 'gridsearch', 
                         season: str = "['2020-21', '2021-22']",
@@ -235,7 +244,7 @@ def gridsearch_analysis(expt_name: str = 'gridsearch',
         top_models_filtered = top_models.loc[:, ~top_models.columns.str.contains('mse|mae|verbose|corr')]
 
         top_hyperparams = top_models_filtered.mode().iloc[0]
-        top_means = top_models.loc[:, top_models.columns.str.contains('mse|mae|corr')].mean()
+        top_means = top_models.loc[:, top_models.columns.str.contains('mse|mae|corr')].astype(float).mean()
 
         best_params_df[position] = top_hyperparams
         performance_df[position] = top_means

@@ -140,7 +140,7 @@ def generate_cnn_data(data_dir : str,
         print(f"Generated combined features dataframe for preprocessing of shape: {combined_features_df.shape}.\n")
         print(f"========== EDA ==========")
         # Distributions and EDA based on player-weeks (ie for DEF: ~38 gameweeks * 400 players)
-        eda_and_plot(combined_features_df)
+        eda_and_plot(combined_features_df, verbose=verbose)
         print(f"========== Done Generating CNN Data ==========\n")
 
     return windowed_df, combined_features_df
