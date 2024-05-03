@@ -14,8 +14,7 @@ over the previous weeks. Our baseline models,
 Ridge regression and LightGBM, achieve solid
 performance and emphasize the importance of
 recent FPL points, influence, creativity, threat,
-and playtime in predicting EPL player perfor-
-mances. Our optimal CNN architecture achieves
+and playtime in predicting EPL player performances. Our optimal CNN architecture achieves
 better performance with fewer input features and
 even outperforms the best previous EPL player
 performance forecasting models in the literature.
@@ -26,8 +25,7 @@ the development of FPL artificial intelligence (AI)
 Agents and providing analysis for FPL managers.
 We additionally perform transfer learning exper-
 iments on soccer news data collected from The
-Guardian, for the same task of predicting upcom-
-ing player score, but do not identify a strong
+Guardian, for the same task of predicting upcoming player score, but do not identify a strong
 predictive signal in natural language news texts,
 achieving worse performance compared to both
 the CNN and baseline models. Overall, our CNN-
