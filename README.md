@@ -3,6 +3,24 @@ Modeling Player Performance in the EPL via time-series prediction of
 Fantasy Premier League Points using traditional ML methods, GPT transfer learning, 
 and 1D CNN.
 
+# Usage
+
+If you find this useful, please cite:
+```
+@article{frees2024deep,
+  title={Deep Learning and Transfer Learning Architectures for English Premier League Player Performance Forecasting},
+  author={Frees, Daniel and Ravella, Pranav and Zhang, Charlie},
+  journal={arXiv preprint arXiv:2405.02412},
+  year={2024},
+  note={10 pages},
+  url={https://doi.org/10.48550/arXiv.2405.02412},
+  eprint={2405.02412},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  month={May 3}
+}
+```
+
 # Abstract
 Here we present a groundbreaking model for
 forecasting English Premier League (EPL) player
